@@ -1,0 +1,7650 @@
+msgid "Luxury_kitchen_desc"
+msgstr "Gezegendeki en iyi yemek burada pişer"
+
+msgid "PR_desc"
+msgstr "Büyüleyici ve eğlenceli oldukları için, misafirleri her şeyin ne kadar harika olduğu konusunda ikna etmeyi çok iyi başarılılar."
+
+msgid "absorbtion"
+msgstr "Savuşturma"
+
+msgid "absorbtion_short"
+msgstr "Sav"
+
+msgid "accept"
+msgstr ""
+
+msgid "action_cooldown"
+msgstr "[~A] gücünü topluyor"
+
+msgid "active_absorb"
+msgstr "~A savdı"
+
+msgid "active_absorb_item"
+msgstr ""
+
+msgid "active_control"
+msgstr "~A karmaşayı bastırdı"
+
+msgid "active_control_item"
+msgstr ""
+
+msgid "active_damage"
+msgstr "~A-~A saldırdı"
+
+msgid "active_damage_item"
+msgstr ""
+
+msgid "active_healing"
+msgstr "~A-~A iyileşti"
+
+msgid "active_healing_item"
+msgstr ""
+
+msgid "advanced_kitchen"
+msgstr "Gelişmiş Ocak"
+
+msgid "advanced_kitchen_desc"
+msgstr "Çok iyi yemek ve içecek hazırlar"
+
+msgid "advanced_ship_engines_parts"
+msgstr ""
+
+msgid "advanced_ship_hull_parts"
+msgstr ""
+
+msgid "advanced_ship_lifesupport_parts"
+msgstr ""
+
+msgid "advanced_ship_structure_parts"
+msgstr ""
+
+msgid "advanced_soap"
+msgstr "Büyük sabun"
+
+msgid "aesthetic_room"
+msgstr ""
+
+msgid "aesthetics"
+msgstr "Estetik"
+
+msgid "aesthetics_feeling_high"
+msgstr "Memnun"
+
+msgid "aesthetics_feeling_high_desc"
+msgstr "Bu çevre Estetiği çok iyi olmuş"
+
+msgid "aesthetics_feeling_low"
+msgstr "Etkilememiş"
+
+msgid "aesthetics_feeling_low_desc"
+msgstr "Bu çevre estetiği kötü olmuş"
+
+msgid "aesthetics_feeling_very_high"
+msgstr "Huzurlu"
+
+msgid "aesthetics_feeling_very_high_desc"
+msgstr "Ortam atmosferi iyi"
+
+msgid "aesthetics_feeling_very_low"
+msgstr "Bunaldı"
+
+msgid "aesthetics_feeling_very_low_desc"
+msgstr "Ortam atmosferi kötü"
+
+msgid "ale"
+msgstr "Bira"
+
+msgid "alert_delete"
+msgstr "Sil"
+
+msgid "alert_minimize"
+msgstr "Gizle"
+
+msgid "alert_reports"
+msgstr ""
+
+msgid "algae"
+msgstr "Yosunlar"
+
+msgid "algae_node"
+msgstr "Yosun bloğu"
+
+msgid "all"
+msgstr "Tümü"
+
+msgid "all_officers"
+msgstr "Tümü 2016-10-14T12:38:54.517333"
+
+msgid "all_resources"
+msgstr "Hammaddeler"
+
+msgid "alphabetically"
+msgstr "Alfabetik"
+
+msgid "aluminium"
+msgstr "Aluminyum"
+
+msgid "aluminium_node"
+msgstr "Aluminyum bloğu"
+
+msgid "aluminium_wall"
+msgstr ""
+
+msgid "amount"
+msgstr "Miktar"
+
+msgid "antagonist_desc"
+msgstr ""
+
+msgid "antimatter_cleaner"
+msgstr "Antimadde silici"
+
+msgid "any_power"
+msgstr "Herhangi güç"
+
+msgid "any_slot"
+msgstr "Tümü"
+
+msgid "arcade cabinet"
+msgstr "Atari kabini"
+
+msgid "arcade_desc"
+msgstr "Atari klasikleri"
+
+msgid "argyria"
+msgstr "Gri ten hastalığı"
+
+msgid "argyria_desc"
+msgstr "Saf gümüş bağımlısıyım"
+
+msgid "arid_planet"
+msgstr ""
+
+msgid "armory_locker_desc"
+msgstr "Zırh, takıları ve silah tamir et"
+
+msgid "armory_pallet"
+msgstr "Zırh paleti"
+
+msgid "armory_stored_something"
+msgstr "~A stoklandı"
+
+msgid "ascending"
+msgstr "Azalan"
+
+msgid "asteroid"
+msgstr "Asteroit"
+
+msgid "attack"
+msgstr "Saldır"
+
+msgid "attack_label"
+msgstr "Saldırmak için tıkla ~A"
+
+msgid "attacked"
+msgstr "Saldırıldı"
+
+msgid "attacked_desc"
+msgstr "saldırıldım!"
+
+msgid "attacking_desc"
+msgstr "Saldırgan"
+
+msgid "attributes_c"
+msgstr "Beceriler:"
+
+msgid "attrition_destroyed_object"
+msgstr "~A bir düşman tarafından öldürüldü: ~A"
+
+msgid "audio"
+msgstr "Ses"
+
+msgid "augustus"
+msgstr "Şef Ağustos"
+
+msgid "augustus_desc"
+msgstr "Evrenin (in)en ünlü aşçısı. Usta Aşçı seviyesinde ve yemeği çifter üretir."
+
+msgid "auto"
+msgstr "Oto"
+
+msgid "auto_combat_false"
+msgstr "~A kontrolü sende, eleman seçildiği yada ekipte olana kadar"
+
+msgid "auto_combat_true"
+msgstr "~A elemanlar tarafından kontrol edilecek"
+
+msgid "auto_desc"
+msgstr "Saldırılar otomatik yapılmış olacak"
+
+msgid "auto_label"
+msgstr "OTO"
+
+msgid "auto_owner_change"
+msgstr "Yeni sahibi: ~A"
+
+msgid "auto_translator"
+msgstr "Çevirmen"
+
+msgid "autopilot_disabled"
+msgstr ""
+
+msgid "autopilot_enabled"
+msgstr ""
+
+msgid "back"
+msgstr "Geriye"
+
+msgid "bad_sleep"
+msgstr "Tavşan uykusu"
+
+msgid "bad_sleep_desc"
+msgstr "Yataksız uyudu"
+
+msgid "base_price_a"
+msgstr "Alt fiyat: @ui_icon_20px_credits04.png ~A"
+
+msgid "base_spec"
+msgstr "Alt özellik"
+
+msgid "basic_kitchen"
+msgstr "Ocak"
+
+msgid "basic_kitchen_desc"
+msgstr "Ucuz yemekler pişirir"
+
+msgid "basic_rations"
+msgstr "Gıdalar"
+
+msgid "basic_ship_engines_parts"
+msgstr ""
+
+msgid "basic_ship_hull_parts"
+msgstr ""
+
+msgid "basic_ship_lifesupport_parts"
+msgstr ""
+
+msgid "basic_ship_structure_parts"
+msgstr ""
+
+msgid "basic_soap"
+msgstr "Sabun"
+
+msgid "beam_desc"
+msgstr "Tek atış, Işın"
+
+msgid "bed_plain2"
+msgstr "Yatak"
+
+msgid "bed_plain_desc"
+msgstr "Uykuyu düzenler. Misafirler dışında herhangi bir elemanınız kullanabilir"
+
+msgid "bedofficer"
+msgstr ""
+
+msgid "bedofficer_desc"
+msgstr ""
+
+msgid "bernice"
+msgstr "Bernice"
+
+msgid "bernice_desc"
+msgstr "Karagah yardımcınız,ilerleyişinizi değerlendirir."
+
+msgid "best"
+msgstr ""
+
+msgid "bigger_ui"
+msgstr "Geniş Menü"
+
+msgid "billiard"
+msgstr "Bilardo"
+
+msgid "billiard_desc"
+msgstr "Topları bir sopayla çarptırarak deliklere sokmaya çalışırsın."
+
+msgid "bio_extractor"
+msgstr "Hücrelileri toplar"
+
+msgid "bio_extractor_desc"
+msgstr "Etrafındaki hücresel bio canlıları toplar"
+
+msgid "bionanites"
+msgstr "Hücreçekimler"
+
+msgid "bistro_drinks"
+msgstr "Bistro içki"
+
+msgid "bistro_drinks_desc"
+msgstr "Ödüllendirilmiş içecek sunumu"
+
+msgid "bistro_food"
+msgstr " Bistro yemeği"
+
+msgid "bistro_food_desc"
+msgstr "Servis edilmiş nefis yemek"
+
+msgid "bistro_table"
+msgstr "Bistro masa"
+
+msgid "bistro_table_desc"
+msgstr "Görkemli bir yemeğin koltukları"
+
+msgid "black_hole"
+msgstr ""
+
+msgid "blackjack"
+msgstr "Zar masası"
+
+msgid "blackjack_desc"
+msgstr "Salla, zar tutmak yok. Kırmızı jeton kullanır."
+
+msgid "blood_from"
+msgstr "~A nın kanları"
+
+msgid "blorg_adjective"
+msgstr "Blorg %s"
+
+msgid "blorg_adjective2"
+msgstr "Blorg ~A"
+
+msgid "blorg_member"
+msgstr "Blorg"
+
+msgid "blorg_name"
+msgstr "Blorgs"
+
+msgid "blorg_plutocracy"
+msgstr "Blorg Yönetimi"
+
+msgid "body_level_in"
+msgstr "%s (Seviye %d) içinde %s"
+
+msgid "bonbons"
+msgstr "Drajeler"
+
+msgid "bonus_amt_health"
+msgstr "Bonus: ~A BK"
+
+msgid "bonus_amt_power"
+msgstr "Bonus: ~A güç"
+
+msgid "bonus_health"
+msgstr "Bonus: Sağlık"
+
+msgid "bonus_health_short"
+msgstr "+Kan"
+
+msgid "bonus_power"
+msgstr "Güç bonusu"
+
+msgid "bonus_power_short"
+msgstr "+Güç"
+
+msgid "booking_room"
+msgstr "Önsipariş odası"
+
+msgid "brewery"
+msgstr "İçki fabrikası"
+
+msgid "brewery_desc"
+msgstr "Arpanın suyunun çıkarıldığı yer"
+
+msgid "broken"
+msgstr "Bozuk"
+
+msgid "bugs"
+msgstr "Böcekler"
+
+msgid "bugs_node"
+msgstr "Böcek bloğu"
+
+msgid "build_advanced_ship_engines"
+msgstr ""
+
+msgid "build_advanced_ship_hull"
+msgstr ""
+
+msgid "build_advanced_ship_lifesupport"
+msgstr ""
+
+msgid "build_advanced_ship_structure"
+msgstr ""
+
+msgid "build_alert_attrition"
+msgstr ""
+
+msgid "build_basic_ship_engines"
+msgstr ""
+
+msgid "build_basic_ship_hull"
+msgstr ""
+
+msgid "build_basic_ship_lifesupport"
+msgstr ""
+
+msgid "build_basic_ship_structure"
+msgstr ""
+
+msgid "build_builder_robot"
+msgstr "İnşaat robotu yap"
+
+msgid "build_cargo_robot"
+msgstr "Taşıyıcı robot yap"
+
+msgid "build_cleaner_robot"
+msgstr "Temizlikçi robot yap"
+
+msgid "build_collector"
+msgstr "Hammaddeyi çıkarmak için yakınlarına toplayıcı kur"
+
+msgid "build_color"
+msgstr ""
+
+msgid "build_corridor_desc"
+msgstr "Odaları birleştirir"
+
+msgid "build_firefighter_robot"
+msgstr "İtfaiyeci robot yap"
+
+msgid "build_floor"
+msgstr "Zemin diz"
+
+msgid "build_floors_label"
+msgstr "Oda zemin stilleri:"
+
+msgid "build_groups"
+msgstr "Nesne Kategorisi:"
+
+msgid "build_info_stocks"
+msgstr ""
+
+msgid "build_info_treatment_for"
+msgstr ""
+
+msgid "build_intermediate_ship_engines"
+msgstr ""
+
+msgid "build_intermediate_ship_hull"
+msgstr ""
+
+msgid "build_intermediate_ship_lifesupport"
+msgstr ""
+
+msgid "build_intermediate_ship_structure"
+msgstr ""
+
+msgid "build_job_warn_invalid_room"
+msgstr ""
+
+msgid "build_maintenance_robot"
+msgstr "Tamir robotu"
+
+msgid "build_object"
+msgstr "Nesne kur"
+
+msgid "build_objects_label"
+msgstr "Nesneler:"
+
+msgid "build_out_of_bounds"
+msgstr ""
+
+msgid "build_security_robot"
+msgstr "Güvenlik robotu"
+
+msgid "build_tool"
+msgstr "Nesne kur"
+
+msgid "build_walls"
+msgstr ""
+
+msgid "builder_robot"
+msgstr "inşaat robotu"
+
+msgid "building"
+msgstr "İnşa"
+
+msgid "building_info_shop"
+msgstr ""
+
+msgid "building_resources"
+msgstr "Zorunlu maddeler:"
+
+msgid "built_floor"
+msgstr "Zemin diz"
+
+msgid "built_object"
+msgstr ""
+
+msgid "built_wall"
+msgstr ""
+
+msgid "busy"
+msgstr "Meşgul"
+
+msgid "buy_from"
+msgstr ""
+
+msgid "by_age"
+msgstr ""
+
+msgid "by_gear_level"
+msgstr ""
+
+msgid "by_mind"
+msgstr "Zihinsel"
+
+msgid "by_spec"
+msgstr "Özelliğe göre"
+
+msgid "calmed_feeling"
+msgstr "Sakinleşti"
+
+msgid "calmed_feeling_desc"
+msgstr "Bu korkunçtu ama şimdi biraz daha iyiyim"
+
+msgid "cancel"
+msgstr "İptal"
+
+msgid "cancel_construction"
+msgstr "İnşa iptali"
+
+msgid "cancel_destruction"
+msgstr "Yıkım iptali"
+
+msgid "cancel_dismantling"
+msgstr "Parçalama iptal"
+
+msgid "cancel_rally_point"
+msgstr "Nöbeti iptal et"
+
+msgid "cancel_research"
+msgstr "Geliştirme iptal"
+
+msgid "cant_build_blocked"
+msgstr "Dört tarafı engelli zemin"
+
+msgid "cant_build_exists_construction"
+msgstr "Bu bölgede zaten nesne kurulmuş"
+
+msgid "cant_build_has_singleton"
+msgstr "Odaya iki nesnenizden sadece bir tanesine kurulum izni verilir."
+
+msgid "cant_build_invalid_floor"
+msgstr "Seçilmiş nesneyi kurmak için geçersiz zemin"
+
+msgid "cant_build_invalid_ground"
+msgstr "Zemin inşa etmeyi engelliyor."
+
+msgid "cant_build_limited_to_one"
+msgstr "Bu tip objeden bir tane kurabilirsiniz"
+
+msgid "cant_build_needs_room"
+msgstr ""
+
+msgid "cant_build_too_close_enemy"
+msgstr "Buraya inşa edemezsiniz düşman binaları çok yakın "
+
+msgid "cant_build_too_far_friendly_town"
+msgstr "Nesne yalnızca düşman bulunmayan bir topluluğun alanına kurulmalı"
+
+msgid "cant_build_too_far_town"
+msgstr "Nesne bir topluluğa ait alana kurulmalı"
+
+msgid "cant_build_too_many"
+msgstr "Aynı çeşit nesne fazlası"
+
+msgid "cant_build_wrong_civ_allies"
+msgstr ""
+
+msgid "canteen_drinks"
+msgstr "İçecek kabini"
+
+msgid "canteen_drinks_desc"
+msgstr "Ekstra süslemeye gerek duymadan içecekleri hizmete sunar."
+
+msgid "canteen_food"
+msgstr "Yemek kabini"
+
+msgid "canteen_food_desc"
+msgstr "Ekstra süslemeye gerek duymadan yemekleri hizmete sunar."
+
+msgid "canteen_table"
+msgstr "Kantin masası"
+
+msgid "canteen_table_desc"
+msgstr "Basit ve faydalı. Oturur ve yemek yersiniz. "
+
+msgid "cargo_hold"
+msgstr "Kargo Bagajı"
+
+msgid "cargo_n"
+msgstr "Kargo: ~A paket"
+
+msgid "cargo_robot"
+msgstr "Taşıyıcı robot"
+
+msgid "ceilingcam"
+msgstr "Hücre Kamerası"
+
+msgid "ceilingcam_desc"
+msgstr "Gizlice yapılacak durumları gözler"
+
+msgid "ceilingturret"
+msgstr "Tavan taret silahı"
+
+msgid "ceilingturret_desc"
+msgstr "Küçük darbeli taret silahı"
+
+msgid "center_view"
+msgstr "Merkez izleme"
+
+msgid "chance_of_success"
+msgstr "Başarı şansı"
+
+msgid "change_machine"
+msgstr "Jeton makinası"
+
+msgid "change_machine_desc"
+msgstr "Paraları jetona çevirir."
+
+msgid "chaotic_adjective"
+msgstr "Kabusi %s"
+
+msgid "chaotic_adjective2"
+msgstr "Kabusi ~A"
+
+msgid "chaotic_enemy"
+msgstr "Düşman kabusi"
+
+msgid "chaotic_member"
+msgstr "Kabusi"
+
+msgid "chaotics"
+msgstr "Kabusiler"
+
+msgid "chef"
+msgstr "Aşçı"
+
+msgid "chef_desc"
+msgstr "Karmaşık tarifleri pişirme kabiliyeti. Gelişmiş istasyonda abartılı yemekleri yapmak için şefe ihtiyaç vardır."
+
+msgid "chemist"
+msgstr "Kimyager"
+
+msgid "chemist_desc"
+msgstr "Kabaran sıvılar ve kontrollü tepkimeler gün geçtikçe her geçen gün daha da artmaktadır."
+
+msgid "chemistry"
+msgstr "Kimya"
+
+msgid "chest_01"
+msgstr ""
+
+msgid "chest_02"
+msgstr ""
+
+msgid "chest_03"
+msgstr ""
+
+msgid "chest_04"
+msgstr ""
+
+msgid "chest_05"
+msgstr ""
+
+msgid "chest_06"
+msgstr ""
+
+msgid "chest_07"
+msgstr ""
+
+msgid "chest_08"
+msgstr ""
+
+msgid "chest_09"
+msgstr ""
+
+msgid "chest_10"
+msgstr ""
+
+msgid "chest_11"
+msgstr ""
+
+msgid "chest_12"
+msgstr ""
+
+msgid "chest_13"
+msgstr ""
+
+msgid "chest_14"
+msgstr ""
+
+msgid "chest_15"
+msgstr ""
+
+msgid "chest_16"
+msgstr ""
+
+msgid "chest_17"
+msgstr ""
+
+msgid "chest_18"
+msgstr ""
+
+msgid "chest_19"
+msgstr ""
+
+msgid "chest_20"
+msgstr ""
+
+msgid "chest_item"
+msgstr "Vücut giysisi"
+
+msgid "chuchu_adjective"
+msgstr "Cücük %s"
+
+msgid "chuchu_adjective2"
+msgstr "Cücük ~A"
+
+msgid "chuchu_full"
+msgstr "Cücük sürüsü"
+
+msgid "chuchu_member"
+msgstr "Cücük"
+
+msgid "chuchu_name"
+msgstr "Cücük"
+
+msgid "church_of_lactus"
+msgstr ""
+
+msgid "civ_colony"
+msgstr "Koloni "
+
+msgid "civ_encountered"
+msgstr "İlk %s gezegen sistemi keşfedildi! Artık ırkları ırk ekranında görebilirsiz."
+
+msgid "civ_uninhabited"
+msgstr "Issız yer old"
+
+msgid "civs"
+msgstr "Irklar"
+
+msgid "civs_points"
+msgstr "%d / %d puan"
+
+msgid "civs_tutorial"
+msgstr ""
+
+msgid "claim_reward"
+msgstr "Ödülü al"
+
+msgid "cleaner_robot"
+msgstr "Temizlik robotu"
+
+msgid "cleaning"
+msgstr "Temizlik"
+
+msgid "click_info"
+msgstr ""
+
+msgid "click_pick_officer"
+msgstr "Bir elemanı seçmek için tıkla"
+
+msgid "clone_chamber"
+msgstr ""
+
+msgid "clone_chamber_desc"
+msgstr ""
+
+msgid "cocktail"
+msgstr "Kokteyl"
+
+msgid "combat"
+msgstr "Tavır"
+
+msgid "combat_busy_desc"
+msgstr ""
+
+msgid "combat_mode_disabled"
+msgstr ""
+
+msgid "combat_mode_enabled"
+msgstr ""
+
+msgid "combat_robot"
+msgstr ""
+
+msgid "comics"
+msgstr "Holokitap rafları"
+
+msgid "comics_desc"
+msgstr "Eski popüler eğlence kitapları dizilir"
+
+msgid "commercial_tier_1"
+msgstr "Temel ürünler I"
+
+msgid "commercial_tier_2"
+msgstr "Temel ürünler II"
+
+msgid "commercial_tier_3"
+msgstr "Temel ürünler III"
+
+msgid "commercial_tier_4"
+msgstr "Ara ürünler I"
+
+msgid "commercial_tier_5"
+msgstr "Ara ürünler II"
+
+msgid "commercial_tier_6"
+msgstr "Gelişmiş ürünler I"
+
+msgid "commercial_tier_7"
+msgstr "Gelişmiş ürünler II"
+
+msgid "complete"
+msgstr "Tamamla"
+
+msgid "confirm_cancel_research"
+msgstr "Bu Geliştirmenin tüm puanları iptal etmiş olacaksınız,İptal edilsin mi?"
+
+msgid "confirm_cancel_ship_construction"
+msgstr "Varolan işi sonlandırmak kullanılan kaynakları geri vermiyecek! Devam edilsin mi?"
+
+msgid "confirm_evolve_officer"
+msgstr "Geliştirme ~A yı ~A görevi bir daha ondan geri alınamaz! ~A iyi olduğu işler dışında artık bazı işlerden de muaf olacak. Devam? "
+
+msgid "confirm_fire_officer"
+msgstr "~A kovulması, elemanınızı sonsuza dek görememek demektir! Devam?"
+
+msgid "construction"
+msgstr "İnşaat"
+
+msgid "contemplated"
+msgstr ""
+
+msgid "contemplated_desc"
+msgstr ""
+
+msgid "contemplation"
+msgstr ""
+
+msgid "continue"
+msgstr "Devam et"
+
+msgid "contract_bonus_chance"
+msgstr "Kontrat bonusları :"
+
+msgid "contract_completed"
+msgstr "%s içinde %s (Seviye %d) biten kontrat"
+
+msgid "contract_extra_xp_desc"
+msgstr "Ekstra XP alma %d%% nin XP değeri kadar %d her eleman için (%s XP)"
+
+msgid "contract_name_diff_place_level"
+msgstr "%s zorlanma %s (Seviye %d)"
+
+msgid "contract_price"
+msgstr "%s Kontrat ödeme"
+
+msgid "contract_resource_reward"
+msgstr "%s %s (stok içinde: %s)"
+
+msgid "contract_rewards"
+msgstr "Ödüller:"
+
+msgid "contract_xp_officer"
+msgstr "her eleman için XP (%s XP @L%d)"
+
+msgid "controlled_stock"
+msgstr "Stok Kontrolü"
+
+msgid "controls"
+msgstr "Klavye Ayarı"
+
+msgid "cooking"
+msgstr "Pişirme"
+
+msgid "cooldown_amt"
+msgstr "~0,1Fs de güç toplar"
+
+msgid "corpse"
+msgstr "Kalıntı"
+
+msgid "corpse_desc"
+msgstr "Bu kalıntılar geridönüşümde değiştirilir. Tavuk gibi bir tadı vardır."
+
+msgid "corpse_of"
+msgstr "~A dan kalanlar"
+
+msgid "corridor"
+msgstr "Koridor"
+
+msgid "corridor_build_info"
+msgstr "Sol mouse basılı tutarak bir çizgi çizin, veya boyayı seçip kurulu zeminleri tek tek boyayabilirsiniz. Çizgiyi çizerken mouse bırakmadan ESC ile iptal edebilirsiniz."
+
+msgid "corridor_desc"
+msgstr "Odaları birbirine bağlar"
+
+msgid "crafts_table"
+msgstr "Dikimhane"
+
+msgid "crafts_table_desc"
+msgstr "Giyim işleri imalathanesi"
+
+msgid "crew"
+msgstr "Tayfa "
+
+msgid "crew_bridge_selector"
+msgstr "Üstteki karelere tıklayarak gemiye tayfalarınızı atayın"
+
+msgid "crew_n"
+msgstr "Tayfa: ~A koltukta"
+
+msgid "crew_n2"
+msgstr ""
+
+msgid "crowd_control"
+msgstr "Kalabalık kontrolü"
+
+msgid "crowd_control_short"
+msgstr "KK"
+
+msgid "crusantian_adjective"
+msgstr "Çekirge %s"
+
+msgid "crusantian_adjective2"
+msgstr "Çekirge ~A"
+
+msgid "crusantian_bunch"
+msgstr "Çekirge sürüsü"
+
+msgid "crusantian_member"
+msgstr "Çekirgeni"
+
+msgid "crusantian_name"
+msgstr "Çekirgeniler"
+
+msgid "cryopod"
+msgstr "Kış yatağı"
+
+msgid "cryopod_desc"
+msgstr ""
+
+msgid "cucurbian_adjective"
+msgstr "Sukabaklı %s"
+
+msgid "cucurbian_adjective2"
+msgstr "Sukabaklı ~A"
+
+msgid "cucurbian_crop"
+msgstr "Sukabaklı bedeni"
+
+msgid "cucurbian_member"
+msgstr "Sukabaklı"
+
+msgid "cucurbian_name"
+msgstr "Sukabakgiller"
+
+msgid "current_demands"
+msgstr "Talepler:"
+
+msgid "current_game"
+msgstr ""
+
+msgid "current_ownership"
+msgstr "Zimmetli nesne:"
+
+msgid "current_research"
+msgstr "Varolan Geliştirme: ~A ~A"
+
+msgid "current_research_none"
+msgstr "Geliştirme şu an durmuş durumda. Geliştirme ekranındaki gruptan bir geliştirme başlatın."
+
+msgid "dance_floor"
+msgstr "Dans Pisti"
+
+msgid "dance_floor_desc"
+msgstr "Yalnızca madde temelli yaşam formları için geçerlidir."
+
+msgid "dancing"
+msgstr "Dans"
+
+msgid "dead"
+msgstr "Ölü"
+
+msgid "decor_adscreen"
+msgstr "Reklam ekranı"
+
+msgid "decor_balloons"
+msgstr "Balonlar"
+
+msgid "decor_bannerspatials"
+msgstr "İstasyon afişi"
+
+msgid "decor_bust"
+msgstr "Büst"
+
+msgid "decor_cabinets"
+msgstr "Dolaplar"
+
+msgid "decor_classydivisor"
+msgstr ""
+
+msgid "decor_colorbox"
+msgstr "Renkli küpler"
+
+msgid "decor_darktech01"
+msgstr "Umutsuzluk totemi"
+
+msgid "decor_darktech02"
+msgstr "Üzüntü simgesi"
+
+msgid "decor_energycolumn"
+msgstr "Işıklı kolon"
+
+msgid "decor_galaxyball"
+msgstr "Evren haritası"
+
+msgid "decor_glassdivisor"
+msgstr ""
+
+msgid "decor_holoprojector"
+msgstr "Holoprojektör"
+
+msgid "decor_holoscreen"
+msgstr "Holoekran"
+
+msgid "decor_homelydivisor"
+msgstr ""
+
+msgid "decor_lamp01"
+msgstr "Lamba"
+
+msgid "decor_lamp02"
+msgstr "Lamba"
+
+msgid "decor_lamp03"
+msgstr "Lamba"
+
+msgid "decor_lightcube"
+msgstr "Işık küpü"
+
+msgid "decor_majesticcolumn"
+msgstr "Klas kolon"
+
+msgid "decor_mannequin01"
+msgstr "Cansız Manken"
+
+msgid "decor_mannequin02"
+msgstr "Cansız Manken"
+
+msgid "decor_mannequin03"
+msgstr "Cansız Manken"
+
+msgid "decor_map"
+msgstr "İstasyon haritası"
+
+msgid "decor_organicsamples"
+msgstr "Organik rafı "
+
+msgid "decor_rocket"
+msgstr "Roket modeli"
+
+msgid "decor_rugancient"
+msgstr "Eski kilimi"
+
+msgid "decor_rugdiplomacy"
+msgstr "İletişimci kilimi"
+
+msgid "decor_rugengineering"
+msgstr "Mühendis kilimi"
+
+msgid "decor_ruglodge"
+msgstr "Loca halısı"
+
+msgid "decor_rugmedicine"
+msgstr "Doctor kilimi"
+
+msgid "decor_rugredshirt"
+msgstr "Ucuz kilim"
+
+msgid "decor_rugscience"
+msgstr "Kimyacı kilimi"
+
+msgid "decor_rugsmall01"
+msgstr "Paspas"
+
+msgid "decor_rugsmall02"
+msgstr "Paspas"
+
+msgid "decor_rugsmall03"
+msgstr "Paspas"
+
+msgid "decor_rugspacecow"
+msgstr "Uzay ineği kilimi"
+
+msgid "decor_rugstrategist"
+msgstr "Asker kilimi"
+
+msgid "decor_screens"
+msgstr "Ekranlar"
+
+msgid "decor_shipmodel"
+msgstr "Detaylı gemi modeli"
+
+msgid "decor_skeleton"
+msgstr "İnsan iskeleti"
+
+msgid "decor_statueman"
+msgstr "Heykel"
+
+msgid "decor_statuewoman"
+msgstr "Heykel"
+
+msgid "decor_table&lamp"
+msgstr "Lamba ve masa"
+
+msgid "decor_table&lamp02"
+msgstr "Lamba ve masa"
+
+msgid "decor_table&lamp03"
+msgstr "Lamba ve masa"
+
+msgid "decor_towels"
+msgstr "Havlu"
+
+msgid "decor_tvcolumn"
+msgstr "Video kolon"
+
+msgid "decor_wardrobe"
+msgstr "Gardolap"
+
+msgid "decor_wardrobe02"
+msgstr "Gardolap"
+
+msgid "decor_wardrobe03"
+msgstr "Gardolap"
+
+msgid "decor_weaponsrack2"
+msgstr "Savaş ganimeti"
+
+msgid "decoration"
+msgstr "Dekorasyon"
+
+msgid "delete"
+msgstr "Sil"
+
+msgid "delicatessen_expositor"
+msgstr "Şarküteri tanıtımcısı"
+
+msgid "delicatessen_expositor_desc"
+msgstr "Tatlı ve leziz tasarımlar sunar"
+
+msgid "delicatessen_kitchen"
+msgstr "Şekerlemeci"
+
+msgid "delicatessen_kitchen_desc"
+msgstr "Tatlı, lezzetli ve kaliteli şekerleme üretimi."
+
+msgid "deliver_from_action"
+msgstr "~A dan dağıt"
+
+msgid "deliver_from_ground"
+msgstr "Zeminden"
+
+msgid "deliver_from_ground_no"
+msgstr "Taşıyanlar bu nesneye hammaddeleri taşırken depodan veya yerde duranları seçmeyecekler."
+
+msgid "deliver_from_ground_yes"
+msgstr "Taşıyanlar bu nesneye hammaddeleri taşırken depodan veya yerde duranları seçecekler."
+
+msgid "deliver_from_source"
+msgstr "Malzeme Aktarımı"
+
+msgid "deliver_from_source_at"
+msgstr "Malzeme: ~A"
+
+msgid "deliver_from_source_cancel"
+msgstr "Malzeme seçimi iptal"
+
+msgid "deliver_from_source_desc"
+msgstr "Herhangi bir palet yada depo nesnesine tıklayın, hangi hammadelerin nasıl ve nereden dağıtılacağının ayarı için."
+
+msgid "deliver_from_storage"
+msgstr "Paletten"
+
+msgid "deliver_from_storage_no"
+msgstr "Taşıyanlar bu nesneye hammaddeleri taşırken paletlerin içindekileri kullanmazlar."
+
+msgid "deliver_from_storage_yes"
+msgstr "Taşıyanlar bu nesneye hammaddeleri palet içinden taşıyacaklar"
+
+msgid "delivery_select_ship"
+msgstr ""
+
+msgid "demand_current"
+msgstr "Mevcut"
+
+msgid "demand_one_of"
+msgstr "Türü"
+
+msgid "demand_value"
+msgstr "Değer"
+
+msgid "demand_wanted"
+msgstr "İstenen"
+
+msgid "deposited_scroll"
+msgstr ""
+
+msgid "descending"
+msgstr "Artan"
+
+msgid "description"
+msgstr "Açıklaması"
+
+msgid "desperate_critical"
+msgstr "~A çaresizlik içinde! Önlerine çıkan herşeye ve herkese sebebsizce vuruyorlar ."
+
+msgid "desperate_critical_violent"
+msgstr "~A çaresizce silahını arkadaşlarına ateşliyor!"
+
+msgid "desperate_warning"
+msgstr "~A çaresiz durumda ve kötü hissediyor."
+
+msgid "dessert"
+msgstr "Tatlı"
+
+msgid "developer"
+msgstr "Geliştirici"
+
+msgid "developer_console"
+msgstr "Geliştirici arayüzü"
+
+msgid "diner_table"
+msgstr "Kafe masası"
+
+msgid "diner_table_desc"
+msgstr "Büyüleyici"
+
+msgid "diplomat"
+msgstr "İletişimcilik"
+
+msgid "diplomat_desc"
+msgstr "Sosyal ilişkilerde iyidirler, Anlaşma, Galaksi bilgisi ve zaman zaman birazcık kandırma."
+
+msgid "direct_desc"
+msgstr "Tek hedef"
+
+msgid "dirt"
+msgstr "Kir"
+
+msgid "dirt_desc"
+msgstr "Temizlikçiler bu kiri temizler"
+
+msgid "disable"
+msgstr "Engelle"
+
+msgid "disabled"
+msgstr "Engellendi"
+
+msgid "disco_bar"
+msgstr "Disko barı"
+
+msgid "disco_bar_desc"
+msgstr "Kültürlü içecekler burada sunulur"
+
+msgid "disco_table"
+msgstr "Disko masası"
+
+msgid "disco_table_desc2"
+msgstr "Soğuk süslü bir içecek"
+
+msgid "disease_cured"
+msgstr "Hastalığı geçti: ~A"
+
+msgid "dismantle"
+msgstr "Parçala"
+
+msgid "dismantled_object"
+msgstr ""
+
+msgid "display"
+msgstr "Çözünürlük"
+
+msgid "dizzy_sick"
+msgstr "Başdönmesi"
+
+msgid "dizzy_sick_desc"
+msgstr "Kendimi sersem gibi hissediyorum"
+
+msgid "dock_officer_info_label"
+msgstr "Buraya iniş yapacak gemiyi seçin. Kargolarınız ve tayfa buraya bırakılacak."
+
+msgid "dock_officer_select"
+msgstr "Gemi seç"
+
+msgid "docking"
+msgstr "İniş:"
+
+msgid "doctordesk"
+msgstr "Doktor masası"
+
+msgid "doctordesk_desk"
+msgstr "Doktorlar hastalarını burada bekler ve ilaç listesi verirler"
+
+msgid "done"
+msgstr "Tamam"
+
+msgid "door"
+msgstr "Kapı"
+
+msgid "door_allowed"
+msgstr ""
+
+msgid "door_allowed_desc"
+msgstr ""
+
+msgid "door_desc"
+msgstr "Odalara erişimi kontrol edersiniz"
+
+msgid "door_lock"
+msgstr ""
+
+msgid "door_lock_title"
+msgstr ""
+
+msgid "door_lock_title_desc"
+msgstr ""
+
+msgid "door_officers"
+msgstr ""
+
+msgid "door_robots"
+msgstr ""
+
+msgid "door_tourists"
+msgstr ""
+
+msgid "dps_label"
+msgstr "Saniye başına hasar verme"
+
+msgid "dps_label_short"
+msgstr "SBH"
+
+msgid "drink_shop"
+msgstr "Kahvehane"
+
+msgid "drink_shop_desc"
+msgstr "İçecekler burada sunulur"
+
+msgid "drunk"
+msgstr "İçmiş"
+
+msgid "drunk_desc"
+msgstr "şişş...ben sarhoş değilim"
+
+msgid "electronics_workshop"
+msgstr "Elektronik atölyesi"
+
+msgid "electronics_workshop_desc"
+msgstr "Elektronik üretimi yeri"
+
+msgid "electropet"
+msgstr "Teknodost "
+
+msgid "electropet_display"
+msgstr "Teknodost rafı"
+
+msgid "electropet_display_desc"
+msgstr "Sizin yeni yüksek teknolojik evcil hayvanınız, orta fiyatla,daha az bozulan arkadaş sizi bekliyor!"
+
+msgid "embassies"
+msgstr "Elçilikler"
+
+msgid "empty"
+msgstr "Boş"
+
+msgid "empty_slot"
+msgstr "Boş yer"
+
+msgid "enable"
+msgstr "Aktif"
+
+msgid "enable_alert_popups"
+msgstr ""
+
+msgid "enable_music"
+msgstr "Müzik Aç"
+
+msgid "enable_sound_effects"
+msgstr "Ses efektlerini Aç"
+
+msgid "enable_station_events"
+msgstr ""
+
+msgid "enable_station_violent_events"
+msgstr ""
+
+msgid "enable_storage"
+msgstr "Depolamayı etkinleştir:"
+
+msgid "enabled"
+msgstr "Aktiftir"
+
+msgid "enabled_user_mods"
+msgstr "Modlar aktiftir"
+
+msgid "enemy"
+msgstr "Düşman"
+
+msgid "enemy_adjective"
+msgstr "Düşman %s"
+
+msgid "enemy_adjective2"
+msgstr "Düşman ~A"
+
+msgid "enemy_member"
+msgstr "Düşman"
+
+msgid "enemy_name"
+msgstr "Düşmanlar"
+
+msgid "energy"
+msgstr "Enerji"
+
+msgid "engineer"
+msgstr "Mühendis"
+
+msgid "engineer_desc"
+msgstr "Eğer metal ise mühandislere verin. Robot, gemiler yapmak onların işi."
+
+msgid "engineering"
+msgstr "Mühendislik"
+
+msgid "entrance_fee"
+msgstr "Giriş ücreti"
+
+msgid "equip_item_must_station"
+msgstr "%s istasyonda olmalı"
+
+msgid "equip_item_no_reqs"
+msgstr "~A , ~A yı kullanamaz"
+
+msgid "equip_item_replace"
+msgstr "~A bırakıp , ~A  kullanacak mısınız?"
+
+msgid "equip_item_rmb"
+msgstr "Giydir ~A"
+
+msgid "equip_item_slot_disabled"
+msgstr "~A , ~A aleti kullanmak için daha üst özellik gerekiyor"
+
+msgid "equip_matrix"
+msgstr "Ekipman çizelgesi"
+
+msgid "equip_officer_slot_current"
+msgstr "Kullanıldı: %s"
+
+msgid "equip_officer_slot_equip"
+msgstr "Kullan"
+
+msgid "equip_officer_slot_no_selection"
+msgstr "Bir nesne seç"
+
+msgid "equip_officer_slot_none"
+msgstr "Ekipmansız"
+
+msgid "equip_officer_slot_selected"
+msgstr "Seçildi"
+
+msgid "equip_officer_slot_stored"
+msgstr "İstasyonda taşındı"
+
+msgid "equip_officer_slot_title"
+msgstr "%s kullan %s için"
+
+msgid "equipmatrix_available"
+msgstr ""
+
+msgid "equipmatrix_too_low_cell"
+msgstr ""
+
+msgid "erase_floor_tool"
+msgstr "Zemini kaldır"
+
+msgid "erase_objects_tool"
+msgstr "Nesneyi kaldır "
+
+msgid "erase_walls_tool"
+msgstr ""
+
+msgid "eraser_hint"
+msgstr ""
+
+msgid "error_bad_save"
+msgstr "Oyun yüklemede  hata: kayıtlı dosya bozuk yada silinmiş"
+
+msgid "error_deleting"
+msgstr "Silme hatası"
+
+msgid "error_missing_mods_1"
+msgstr "Takip edilmesi ve/veya yüklenmesi gereken bir moda ait kayıt dosyası :\n"
+
+msgid "error_missing_mods_2"
+msgstr "Bu kayıtı yüklemeniz görüntü sorunları yada oyun hstsları yaratabilir,yine de devam?"
+
+msgid "error_saving_game"
+msgstr "Kayıt esnasında sorun oluştu"
+
+msgid "event_augustus_warn"
+msgstr "Şef Ağustos burada mutfaklara yardım için bulunuyor! İstasyonuzdayken mutfak işlerini o yönetecek."
+
+msgid "event_bernice_fail"
+msgstr "Vakit doldu ve başarılı olunamadı, ödül alamayacaksınız. Umarım bir daha gelişimde istasyon daha iyi işler."
+
+msgid "event_bernice_goal_build"
+msgstr "Bernice daha fazla tesis gerekli diyor. 2 dakikada %d nesne kurun %d para ödülü için."
+
+msgid "event_bernice_goal_floor"
+msgstr "Bernice daha büyük istasyon gerekli diyor. 2 dakikada %d zeminli bir yapı inşa edin %d para ödülü için."
+
+msgid "event_bernice_goal_produce"
+msgstr "Bernice daha yüksek bir üretim hızı gerektiğini söylüyor. %d üretimi iki dakika içinde %d para ödülü için üretin."
+
+msgid "event_bernice_succ"
+msgstr "Hedefe ulaşıldı! Bir %d ödül, istasyon hesabına yatırıldı. İyi iş ve bir sonraki görüşmede görüşürüz"
+
+msgid "event_bernice_warn"
+msgstr "Envanter zamanı! Sağkolun Bernice istasyonda tesislerinizi ve stoklarınızı kontrol ediyor."
+
+msgid "event_breakage_warn"
+msgstr "İstasyonunuzda bazı makinalar bozuldu!"
+
+msgid "event_explodefire_warn"
+msgstr "%s patladı ve yangın başladı!"
+
+msgid "event_finished"
+msgstr "Görev tamamlandı"
+
+msgid "event_foodpoisoning_warn"
+msgstr "İstasyonda bulunanlar yemekten zehirlendi!"
+
+msgid "event_invaderbomb_out_of_time"
+msgstr "Geç kaldın! Bomba patladı!"
+
+msgid "event_invaderbomb_warn"
+msgstr ""
+
+msgid "event_invaders_alert"
+msgstr "Baskın yapacak ekip ulaştı!, ~A istasyonumuza saldırıyor!"
+
+msgid "event_invaders_retaliate_warn"
+msgstr ""
+
+msgid "event_invaders_warn4c"
+msgstr ""
+
+msgid "event_kowka_warn"
+msgstr "Кedi kowka meraklı bir kedi ve burada arkadaşlarının durumunu kontrol eder. Hala arkadaş mısın? Onlar buradayken ordusu istasyonunuz çevresini koruyacaktır."
+
+msgid "event_liberty_warn"
+msgstr "Hürriyet burada! Misafirler, ahali ve çevresinde bulunan herkes mutlu olur."
+
+msgid "event_manysick_fail"
+msgstr "Bazı %s misafirler kurtarılamadı, Ödül alınmayacak."
+
+msgid "event_manysick_succ"
+msgstr "Tüm %s misafirler iyileşti!  %d ödülü ved %d itibarıyla mutlu olun."
+
+msgid "event_manysick_warn"
+msgstr "Bu %s acil durumda  %d hastaları istasyonunuza ışınladı! Zaman 0 olmadan iyileştirin ve %d den ödülü ve %d itibarını kazanın."
+
+msgid "event_meteors_end"
+msgstr "Meteor yağmuru durdu"
+
+msgid "event_meteors_start"
+msgstr "Meteor yağmuru başladı!"
+
+msgid "event_meteors_warn"
+msgstr "Bir meteor yağmuru geliyor! Düştüğü noktaya bir dakika zarar verebilir."
+
+msgid "event_miasmacloud_ended"
+msgstr "Küf bulutu daha fazla zarar vermeden durduruldu "
+
+msgid "event_miasmacloud_warn"
+msgstr "Bir nesne bozulmuş ve içinden birşey çıkıyor, küflü asit bulutu. Nesneyi tamir et veya yok et bulutu durdurmak için."
+
+msgid "event_octopus_warn"
+msgstr "Senin kibirin uzayın derinlerindeki canavarı uyandırdı! Bir uzay ahtopotu saldırıda."
+
+msgid "event_ongoing"
+msgstr "Devam ediyor.."
+
+msgid "event_pest_spawn_queen"
+msgstr "Parazit kraliçe gizlendiği yerden çıktı!"
+
+msgid "event_pest_warn"
+msgstr ""
+
+msgid "event_pirates_reveal"
+msgstr ""
+
+msgid "event_progress"
+msgstr "Görev gelişimi: %s"
+
+msgid "event_robots_reveal"
+msgstr ""
+
+msgid "event_timer"
+msgstr "Kalan süre: %s"
+
+msgid "event_waterleak_warn"
+msgstr "%s kırılmış ve etrafına taştı!"
+
+msgid "event_worm_warn"
+msgstr "Kibiriniz uzayın derinlerindeki canavarı uyandırdı. Bir uzay solucanı istasyonunuza saldırmakta!"
+
+msgid "event_xenos_spawned"
+msgstr "Xenomorphs yumurtladı!"
+
+msgid "event_xenos_warn"
+msgstr ""
+
+msgid "excessive_machine"
+msgstr "Zevk ölçüm makinası"
+
+msgid "excessive_machine_desc"
+msgstr "Samimi duygularınıza bakım yapar. Kırmayın!"
+
+msgid "exclude"
+msgstr "Artan"
+
+msgid "exhausted"
+msgstr "Yorgun"
+
+msgid "exotic_infusion"
+msgstr "Demleme içki"
+
+msgid "expectations_high"
+msgstr "Büyük umut"
+
+msgid "expectations_huge"
+msgstr "Çok büyük umut"
+
+msgid "expectations_low"
+msgstr "Düşük umut"
+
+msgid "expectations_meet"
+msgstr "~A (~A% karşılar)"
+
+msgid "expectations_normal"
+msgstr "Normal umut"
+
+msgid "expectations_very_high"
+msgstr "Yüksek umut"
+
+msgid "exploration"
+msgstr ""
+
+msgid "explore"
+msgstr "Keşfet"
+
+msgid "explore_warn_already_exploring_other"
+msgstr "Tek seferde sadece bir gezegen keşfedilebilr."
+
+msgid "explore_warn_no_ship"
+msgstr "Bu gezegene inen gemi yok. Gezegen üstüne geminizi sürükleyip bırakın ,yanaştığında o gezegeni keşif tuşu aktif olacaktır."
+
+msgid "explore_warn_no_weapons"
+msgstr "Gemidekiler silahsız. Gezegeni keşfe çıkacak mısın?"
+
+msgid "exploring"
+msgstr "Keşfediliyor"
+
+msgid "export_current_rate"
+msgstr ""
+
+msgid "extractor_info"
+msgstr "Hammaddeleri toplar:"
+
+msgid "eyedropper_hint"
+msgstr ""
+
+msgid "facilities_tier_1"
+msgstr ""
+
+msgid "facilities_tier_10"
+msgstr ""
+
+msgid "facilities_tier_11"
+msgstr ""
+
+msgid "facilities_tier_12"
+msgstr ""
+
+msgid "facilities_tier_13"
+msgstr ""
+
+msgid "facilities_tier_2"
+msgstr ""
+
+msgid "facilities_tier_3"
+msgstr ""
+
+msgid "facilities_tier_3b"
+msgstr ""
+
+msgid "facilities_tier_4"
+msgstr ""
+
+msgid "facilities_tier_5"
+msgstr ""
+
+msgid "facilities_tier_6"
+msgstr ""
+
+msgid "facilities_tier_7"
+msgstr ""
+
+msgid "facilities_tier_8"
+msgstr ""
+
+msgid "facilities_tier_9"
+msgstr ""
+
+msgid "factory"
+msgstr "Fabrika"
+
+msgid "factory_info_no_recipes"
+msgstr "Bu fabrikanın üretim tarifleri belirlenmemiş. Daha fazla tarifeyi geliştirme yaparak açabilirsiniz."
+
+msgid "failure"
+msgstr "Başarısız"
+
+msgid "fake_relic"
+msgstr "Sahte antika"
+
+msgid "fancy_clothes"
+msgstr "Fantazi giyim"
+
+msgid "feet_01"
+msgstr ""
+
+msgid "feet_02"
+msgstr ""
+
+msgid "feet_03"
+msgstr ""
+
+msgid "feet_04"
+msgstr ""
+
+msgid "feet_05"
+msgstr ""
+
+msgid "feet_06"
+msgstr ""
+
+msgid "feet_07"
+msgstr ""
+
+msgid "feet_08"
+msgstr ""
+
+msgid "feet_09"
+msgstr ""
+
+msgid "feet_10"
+msgstr ""
+
+msgid "feet_item"
+msgstr "Ayak giyimi "
+
+msgid "fibers"
+msgstr "Lifler"
+
+msgid "fibers_node"
+msgstr "Lif bloğu"
+
+msgid "fiction_program"
+msgstr "Kurgu yayını"
+
+msgid "field_medic"
+msgstr "İlk Yardımcı"
+
+msgid "field_medic_desc"
+msgstr "Savaşın sıcağında yalnızca ilk yardımcı ile hayat ile ölüm arasında duruyorlar."
+
+msgid "file_manager"
+msgstr "Dosya yöneticisi"
+
+msgid "filter_ship_assigned"
+msgstr ""
+
+msgid "filter_ship_not_assigned"
+msgstr ""
+
+msgid "filtered_water"
+msgstr "Arınık su"
+
+msgid "fine_grape_must"
+msgstr "Üzüm şıra"
+
+msgid "fine_soup"
+msgstr "İyi Çorba"
+
+msgid "finish_other_research"
+msgstr "Bu geliştirmeye başlamak için önceki geliştirmeyi iptal edin veya bitmesini bekleyin"
+
+msgid "fire"
+msgstr "Ateş"
+
+msgid "fire_desc"
+msgstr "Havanın oksitlenmesi ile hızlı bir şekilde yakarak felakete yol açar. Civardaki robotları ve haraketli canlıları korkutacaktır. İtfayecilerinizin su malzeme yığınlarına yakın ve erişilebilecekleri durumda olduğuna emin olun."
+
+msgid "firefighter"
+msgstr "İtfaiyeci"
+
+msgid "firefighter_robot"
+msgstr "İtfaiyeci robot"
+
+msgid "flag_broken"
+msgstr "Bozuk bayrağı tuşuna basmanız elemanlarınızı onu tamir etmeye zorlar"
+
+msgid "flee_desc"
+msgstr "Dehşete kapılmış"
+
+msgid "flee_short_desc"
+msgstr ""
+
+msgid "fleet"
+msgstr "Gemi Kokpiti"
+
+msgid "fleet_too_many"
+msgstr "Gemi sınırı kapasitenize ulaştınız daha fazla inşa edilemez."
+
+msgid "floor_build_info"
+msgstr "Tıklayıp sürükleyerek kare çizin, veya tek tek zemin dizin. Kareyi çizerken ESC tuşu ile iptal edilebilir."
+
+msgid "floor_color_black"
+msgstr "Siyah"
+
+msgid "floor_color_cyan"
+msgstr "Cam göbeği"
+
+msgid "floor_color_dark_blue"
+msgstr "Lacivert"
+
+msgid "floor_color_dark_green"
+msgstr "Yeşil"
+
+msgid "floor_color_grey"
+msgstr "Gri"
+
+msgid "floor_color_light_blue"
+msgstr "Mavi"
+
+msgid "floor_color_light_green"
+msgstr "Açık Yeşil"
+
+msgid "floor_color_lilac"
+msgstr "Eflatun"
+
+msgid "floor_color_none"
+msgstr "Renksiz"
+
+msgid "floor_color_orange"
+msgstr "Turuncu"
+
+msgid "floor_color_pink"
+msgstr "Pembe"
+
+msgid "floor_color_red"
+msgstr "Kırmızı"
+
+msgid "floor_color_torquoise"
+msgstr "Turkuaz"
+
+msgid "floor_color_violet"
+msgstr "Mor"
+
+msgid "floor_color_white"
+msgstr "Beyaz"
+
+msgid "floor_color_yellow"
+msgstr "Sarı"
+
+msgid "floor_tool"
+msgstr "Zemin inşa et"
+
+msgid "fluid_extractor"
+msgstr "Sıvı toplayıcı"
+
+msgid "fluid_extractor_desc"
+msgstr "Gaz ve sıvı kaynakları kapsadığı alanda toplar"
+
+msgid "freaking_out"
+msgstr "Çıldırdı"
+
+msgid "frozen_planet"
+msgstr ""
+
+msgid "fruits"
+msgstr "Meyveler"
+
+msgid "fruits_node"
+msgstr "Meyve bloğu"
+
+msgid "fs_delete_file"
+msgstr "Dosya sil"
+
+msgid "fs_load_file"
+msgstr "Dosya yükle"
+
+msgid "fs_new_file"
+msgstr "Yeni dosya"
+
+msgid "fs_new_file_name"
+msgstr "Yeni kayıt ismi girin"
+
+msgid "fs_new_file_name_too_long"
+msgstr "Uzun isim kullanılmaz"
+
+msgid "fs_new_file_name_too_short"
+msgstr "Çok kısa isim kulanılmaz"
+
+msgid "fs_overwrite_file"
+msgstr "Üstüne kayıt"
+
+msgid "fs_prompt_select"
+msgstr "Bir dosya seç"
+
+msgid "fuel_cell"
+msgstr "Benzin deposu"
+
+msgid "fullscreen"
+msgstr "Tam Ekran"
+
+msgid "fullscreen_exclusive"
+msgstr ""
+
+msgid "fun"
+msgstr "Eğlence"
+
+msgid "fun_feeling_high"
+msgstr "Etkilendi"
+
+msgid "fun_feeling_high_desc"
+msgstr "Muazzam!!!"
+
+msgid "fun_feeling_low"
+msgstr "Sıkıldı"
+
+msgid "fun_feeling_low_desc"
+msgstr "Ortam çok sıkıcı"
+
+msgid "gaia_planet"
+msgstr ""
+
+msgid "galaxy"
+msgstr "Evren"
+
+msgid "galaxy_filter_cargo"
+msgstr "Gezegen kaynaklarını göster"
+
+msgid "galaxy_filter_cvis"
+msgstr "Irkları göster"
+
+msgid "galaxy_filter_imports"
+msgstr ""
+
+msgid "galaxy_filter_imports2"
+msgstr ""
+
+msgid "galaxy_filter_none"
+msgstr "Sadece evren"
+
+msgid "galaxy_filter_none_show"
+msgstr "Sadece evren etiketlerini göster"
+
+msgid "galaxy_filter_reps"
+msgstr "Irklar"
+
+msgid "galaxy_filter_resources2"
+msgstr ""
+
+msgid "galaxy_filter_show_civ_ships"
+msgstr "Irkların gemilerini gizle"
+
+msgid "galaxy_name"
+msgstr "%s Evreni"
+
+msgid "gambling"
+msgstr "Kumar"
+
+msgid "game_coins"
+msgstr "Oyun jetonu"
+
+msgid "game_guide"
+msgstr "Oyun Rehberi old"
+
+msgid "game_speed_1x"
+msgstr "Oyun Hızı 1x"
+
+msgid "game_speed_3x"
+msgstr "Oyun hızı 3x"
+
+msgid "game_speed_6x"
+msgstr "Oyun hızı 6x"
+
+msgid "garden_bamboopot"
+msgstr "Bambu"
+
+msgid "garden_bush01"
+msgstr "Çalılık"
+
+msgid "garden_bush02"
+msgstr "Çalılık"
+
+msgid "garden_flowerpot"
+msgstr "Süs Bitkisi"
+
+msgid "garden_plantpot01"
+msgstr "Süs Bitkisi"
+
+msgid "garden_plantpot02"
+msgstr "Süs Bitkisi"
+
+msgid "garden_plantpot03"
+msgstr "Süs Bitkisi"
+
+msgid "garden_plantpot04"
+msgstr "Süs Bitkisi"
+
+msgid "garden_plantpot05"
+msgstr "Süs Bitkisi"
+
+msgid "garden_plantpot06"
+msgstr "Saksı"
+
+msgid "garden_plantpot07"
+msgstr "Saksı"
+
+msgid "garden_plantpot08"
+msgstr "Saksı"
+
+msgid "garden_pond"
+msgstr "Gölet"
+
+msgid "garden_tree01"
+msgstr "Ağaç"
+
+msgid "garden_tree02"
+msgstr "Ağaç"
+
+msgid "garden_tree03"
+msgstr "Ağaç"
+
+msgid "garden_tree04"
+msgstr "Ağaç"
+
+msgid "garden_tree05"
+msgstr "Ağaç"
+
+msgid "garden_tree06"
+msgstr "Ağaç"
+
+msgid "garden_tree07"
+msgstr "Ağaç"
+
+msgid "garden_tree08"
+msgstr "Ağaç"
+
+msgid "garden_tree09"
+msgstr "Ağaç"
+
+msgid "garden_tree10"
+msgstr "Ağaç"
+
+msgid "garden_zengarden"
+msgstr "Zen bahçesi"
+
+msgid "gardening"
+msgstr "Bahçecilik"
+
+msgid "gas_planet"
+msgstr ""
+
+msgid "gastrodisaster"
+msgstr "Mide fesadı"
+
+msgid "gastrodisaster_desc"
+msgstr "Midem şişti"
+
+msgid "gems"
+msgstr "Elmaslar"
+
+msgid "gems_node"
+msgstr "Elmas bloğu"
+
+msgid "generic_extractor"
+msgstr "Toplayıcı"
+
+msgid "generic_extractor_desc"
+msgstr "Çevresinde kapsadığı hammaddeleri toplar."
+
+msgid "gigantism"
+msgstr "Devleşme"
+
+msgid "gigantism_desc"
+msgstr "Hala kapılardan geçebilir miyim?"
+
+msgid "global_max_export_amount_desc"
+msgstr ""
+
+msgid "global_max_import_amount"
+msgstr ""
+
+msgid "global_min_stock_amount"
+msgstr "En az stok"
+
+msgid "global_min_stock_amount_desc"
+msgstr "Stoğun belirtilen sayının altına düşmemesi için fabrikalarda üretim emrini genel yapın "
+
+msgid "global_recipes_inv_hint"
+msgstr ""
+
+msgid "goal_bartender1_desc"
+msgstr "Barmenler 42 içecek servis eder ama içkiler ve haplar evrene geliş amacımız değildir."
+
+msgid "goal_bartender1_title"
+msgstr "Barda 42 içecek servis et"
+
+msgid "goal_buildany1_desc"
+msgstr "Küçük istasyon, 135 zeminli ve 15 nesne."
+
+msgid "goal_buildany1_title"
+msgstr "Küçük istasyon"
+
+msgid "goal_buildany2_desc"
+msgstr "Normal istasyon,675 zeminli ve 75 nesne."
+
+msgid "goal_buildany2_title"
+msgstr "Normal istasyona ulaşın"
+
+msgid "goal_buildany3_desc"
+msgstr "Büyük istasyon,1800 zeminli ve 200 nesne."
+
+msgid "goal_buildany3_title"
+msgstr "Büyük istasyona ulaşın"
+
+msgid "goal_buildbar1_desc"
+msgstr "Dans kulubü, 1 bar, 3 bar masası ve 2 dance zemini."
+
+msgid "goal_buildbar1_title"
+msgstr "Dans kulubü inşa edin"
+
+msgid "goal_builddecorations1_desc"
+msgstr "10 adet dekorasyon yapısı dikin."
+
+msgid "goal_builddecorations1_title"
+msgstr "10 dekarasyon kur"
+
+msgid "goal_buildfactory1_desc"
+msgstr "1 Sabun ,1 metal baskı ve 1 tıbbi makina ile imalatlar yapın."
+
+msgid "goal_buildfactory1_title"
+msgstr "Temel atölye oluştur"
+
+msgid "goal_buildhospital1_desc"
+msgstr "Başlangıç hastanesi 1 hasta yatak,1 eczadolabı ve 10 kutu ilaç"
+
+msgid "goal_buildhospital1_title"
+msgstr "Başlangıç hastanesi inşa edin"
+
+msgid "goal_buildliving1_desc"
+msgstr "3 sade yatak ve 1 Hijyen 3000 kur."
+
+msgid "goal_buildliving1_title"
+msgstr "Temel yaşam alanı inşa edin."
+
+msgid "goal_buildlogistics1_desc"
+msgstr "Lojistik 1 depo,1 palet ve 1 geridönüşümdür"
+
+msgid "goal_buildlogistics1_title"
+msgstr "Temel lojistik yapıları istasyonunuza kurun."
+
+msgid "goal_buildplanet1_desc"
+msgstr "Bir gezegene elçilik binası dikin."
+
+msgid "goal_buildplanet1_title"
+msgstr "Elçilik binası dikin"
+
+msgid "goal_buildplanet2_desc"
+msgstr "Bir gezegene işe alım binası dikin."
+
+msgid "goal_buildplanet2_title"
+msgstr "İşe alım binası dikin."
+
+msgid "goal_buildplanet3_desc"
+msgstr "Toplamı 3 adet hammadde toplayıcı tercih ettiğiniz gezegen yüzeylerine kur. "
+
+msgid "goal_buildplanet3_title"
+msgstr "3 hammadde toplayıcısı"
+
+msgid "goal_buildsecurity1_desc"
+msgstr "Kamera odası ve güvenlik kapısı inşa et"
+
+msgid "goal_buildsecurity1_title"
+msgstr "Temel güvenlik sistemi kur"
+
+msgid "goal_cargo1_desc"
+msgstr "60 adet tek veya karışık tip hammadeleri istasyonunuza gemilerle ulaştırın."
+
+msgid "goal_cargo1_title"
+msgstr "60 hammadde taşıt"
+
+msgid "goal_cargo2_desc"
+msgstr "800 adet tek veya karışık tip hammadeleri istasyonunuza gemilerle ulaştırın."
+
+msgid "goal_cargo2_title"
+msgstr "800 hammadde taşıt"
+
+msgid "goal_cargo3_desc"
+msgstr "12000 adet tek veya karışık tip hammadeleri istasyonunuza gemilerle ulaştırın."
+
+msgid "goal_cargo3_title"
+msgstr "12000 hammadde taşıt"
+
+msgid "goal_clean1_desc"
+msgstr "Yerleri temizlet.Bazı elemanlarınız temizlik işi aktif olsun."
+
+msgid "goal_clean1_title"
+msgstr "100 kirli yeri temizlet"
+
+msgid "goal_completed_alert"
+msgstr "Hedef <<~A>> tamamlandı. Ödülünüzü Hedefler kutusundan alın."
+
+msgid "goal_consumerism1_desc"
+msgstr "Sadece alışveriş için gelen misafirlere 100 tekno-aletler satılırsa sayılacaktır."
+
+msgid "goal_consumerism1_title"
+msgstr "Misafirlere 100 tekno aletler sat"
+
+msgid "goal_cook1_desc"
+msgstr "Elemanlarınızın yemek yapması için ocak kurulmalı."
+
+msgid "goal_cook1_title"
+msgstr "10 yemeye gıda hazırla"
+
+msgid "goal_cook2_desc"
+msgstr "Elemanlarınızın yemek yapması için ocak kurulmalı."
+
+msgid "goal_cook2_title"
+msgstr "150 yemeye gıda hazırla"
+
+msgid "goal_cook3_desc"
+msgstr "Elemanlarınızın yemek yapması için ocak kurulmalı."
+
+msgid "goal_cook3_title"
+msgstr "1000 yemeye gıda hazırla"
+
+msgid "goal_crew1_desc"
+msgstr "Kokpit ekranında,gemilerinize 10 kere yeni elemanlarınızı atayın."
+
+msgid "goal_crew1_title"
+msgstr "Gemi personel değişikliği"
+
+msgid "goal_dance1_desc"
+msgstr "200 dans eden istasyonda görülür."
+
+msgid "goal_dance1_title"
+msgstr "Dans Ateşi"
+
+msgid "goal_dock1_desc"
+msgstr "10 kere istasyonunuza gemi uğrar"
+
+msgid "goal_dock1_title"
+msgstr "Gemi limanlarına iniş "
+
+msgid "goal_doctor1_desc"
+msgstr "Doktorlarınız hasta yatağındaki 10 hastaya bakar."
+
+msgid "goal_doctor1_title"
+msgstr "10 hasta iyileştir."
+
+msgid "goal_extract1_desc"
+msgstr "100 bio maddesi, 100 mineral ve 100 sıvı olan kaynağa gezegenlerden toplayıcı dikerek toplat."
+
+msgid "goal_extract1_title"
+msgstr "Farklı hammaddeler toplat"
+
+msgid "goal_galaxy1_desc"
+msgstr "Evren ekranında 3 yıldız sistemi açın."
+
+msgid "goal_galaxy1_title"
+msgstr "3 yıldız sistemi aç"
+
+msgid "goal_imports1_desc"
+msgstr ""
+
+msgid "goal_imports1_title"
+msgstr ""
+
+msgid "goal_imports2_desc"
+msgstr ""
+
+msgid "goal_imports2_title"
+msgstr ""
+
+msgid "goal_imports3_desc"
+msgstr ""
+
+msgid "goal_imports3_title"
+msgstr ""
+
+msgid "goal_itemequip1_desc"
+msgstr "Elemanlarınızın 10 kere yeni ekipmanlara kavuşmasını sağla"
+
+msgid "goal_itemequip1_title"
+msgstr "10 ekipman giyimi"
+
+msgid "goal_itemloot1_desc"
+msgstr "Gezegenleri keşfederken düşmanları yenerek 5 öğeyi yağmalayın"
+
+msgid "goal_itemloot1_title"
+msgstr "5 öğeyi yağmalayın"
+
+msgid "goal_itemloot2_desc"
+msgstr "Gezegenleri keşfederken düşmanları yenerek 80 öğeyi yağmalayın"
+
+msgid "goal_itemloot2_title"
+msgstr "80 öğeyi yağmalayın"
+
+msgid "goal_itemloot3_desc"
+msgstr "Gezegenleri keşfederken düşmanları yenerek 400 öğeyi yağmalayın"
+
+msgid "goal_itemloot3_title"
+msgstr "400 öğe yağmala"
+
+msgid "goal_itemprod1_desc"
+msgstr "Herhangi bir çeşit ve aşamadan 15 adet üetim yap."
+
+msgid "goal_itemprod1_title"
+msgstr "15 ekipman yap."
+
+msgid "goal_itemprod2_desc"
+msgstr "5 Ekipmanın herbirinden 1 tane oluşturun."
+
+msgid "goal_itemprod2_title"
+msgstr "5 Ekipman yap"
+
+msgid "goal_jobs1_desc"
+msgstr "İş tablosunda 10 kere değişik iş atamaları  yapın"
+
+msgid "goal_jobs1_title"
+msgstr "İş tablosu ayarla"
+
+msgid "goal_kill1_desc"
+msgstr "Size saldırgan davranan 20 düşmanı öldür."
+
+msgid "goal_kill1_title"
+msgstr "20 düşman yoket"
+
+msgid "goal_kill2_desc"
+msgstr "Size saldırgan davranan 140 düşmanı öldür."
+
+msgid "goal_kill2_title"
+msgstr "140 düşman yoket"
+
+msgid "goal_kill3_desc"
+msgstr "Size saldırgan davranan 900 düşmanı öldür."
+
+msgid "goal_kill3_title"
+msgstr "900 düşman yoket"
+
+msgid "goal_makedrink1_desc"
+msgstr "10 meyve su için ocak kurmalısın."
+
+msgid "goal_makedrink1_title"
+msgstr "10 meyve su yap"
+
+msgid "goal_makedrink2_desc"
+msgstr "150 içecek için ocak kurmalısın."
+
+msgid "goal_makedrink2_title"
+msgstr "150 içecek yap"
+
+msgid "goal_makedrink3_desc"
+msgstr "1000 içecek için ocak kurmalısın."
+
+msgid "goal_makedrink3_title"
+msgstr "1000 içecek yap"
+
+msgid "goal_makerobot1_desc"
+msgstr "Elemanlarınızın robot yapmak için robot fabrikası kurmalı."
+
+msgid "goal_makerobot1_title"
+msgstr "Bir robot oluştur"
+
+msgid "goal_planet1_desc"
+msgstr "Seviyesi farketmeksizin 3 gezegeni keşfet "
+
+msgid "goal_planet1_title"
+msgstr "3 gezegeni keşfet "
+
+msgid "goal_planet2_desc"
+msgstr "Seviyesi 5 veya üstü olan 3 gezegeni keşfet "
+
+msgid "goal_planet2_title"
+msgstr "Seviyesi 5 olan 3 gezegeni keşfet "
+
+msgid "goal_planet3_desc"
+msgstr "Seviyesi 10 veya üstü olan 3 gezegeni keşfet "
+
+msgid "goal_planet3_title"
+msgstr "Seviyesi 10 olan 3 gezegeni keşfet "
+
+msgid "goal_planet4_desc"
+msgstr "Seviyesi 20 veya üstü olan 3 gezegeni keşfet "
+
+msgid "goal_planet4_title"
+msgstr "Seviyesi 20 olan 3 gezegeni keşfet "
+
+msgid "goal_progress"
+msgstr "İşlenen: ~A%"
+
+msgid "goal_ready_alert"
+msgstr "Yeni hedef <<~A>> kullanımda."
+
+msgid "goal_recruit1_desc"
+msgstr "Yeni 5 eleman işe alın."
+
+msgid "goal_recruit1_title"
+msgstr "5 yeni eleman ata."
+
+msgid "goal_recycle1_desc"
+msgstr "İstasyonda en az 1 Geridönüşüm makinası kurun ve elemanlarınızdan birinin temizlik işi yaptığına emin olun. Allah rahmet eylesin."
+
+msgid "goal_recycle1_title"
+msgstr "50 atık dönüştür"
+
+msgid "goal_recycle2_desc"
+msgstr "İstasyonda en az 1 Geridönüşüm makinası kurun ve elemanlarınızdan birinin temizlik işi yaptığına emin olun. Allah rahmet eylesin."
+
+msgid "goal_recycle2_title"
+msgstr "5 kalıntı dönüştür"
+
+msgid "goal_repair1_desc"
+msgstr "Bir şekilde bozulan nesne yada robot tamir et"
+
+msgid "goal_repair1_title"
+msgstr "20 bozulan nesne tamir et"
+
+msgid "goal_research1_desc"
+msgstr "Herhangi bir teknoloji aşaması geliştirmeyi tamamla."
+
+msgid "goal_research1_title"
+msgstr "Aşaması 1 olan teknoloji geliştir"
+
+msgid "goal_research2_desc"
+msgstr "Elemanlarınız 500 XP toplasın geliştirme masası kullanarak."
+
+msgid "goal_research2_title"
+msgstr "500 puanlık geliştirme"
+
+msgid "goal_reward"
+msgstr "Ödül: @ui_icon_20px_credits04.png ~A"
+
+msgid "goal_shipbuild1_desc"
+msgstr "Gemi planlayıcı  ve masalarını kullanarak gemi inşaa et"
+
+msgid "goal_shipbuild1_title"
+msgstr "Gemi inşa et"
+
+msgid "goal_shipbuild2_desc"
+msgstr "Yeni bir gemi dikerken, gemi çalışma masasında 100 gemi inşa görevi ata."
+
+msgid "goal_shipbuild2_title"
+msgstr "100 gemi inşa görevi ata"
+
+msgid "goal_specs1_desc"
+msgstr "Deneyim kazanmış elemanınıza uyumlu mezuniyetlik verin."
+
+msgid "goal_specs1_title"
+msgstr "Elemanı mezun edin."
+
+msgid "goal_specs2_desc"
+msgstr "6 deneyim kazanmış elemanlarınıza uyumlu mezuniyetlik verin."
+
+msgid "goal_specs2_title"
+msgstr "6 elemanı mezun edin."
+
+msgid "goal_specs3_desc"
+msgstr "1 deneyim kazanmış elemanı usta yapın."
+
+msgid "goal_specs3_title"
+msgstr "1 usta yetiştir"
+
+msgid "goal_specs4_desc"
+msgstr "6 elemanızı herhangi bir görevde usta seviyesine ulaştırın"
+
+msgid "goal_specs4_title"
+msgstr "6 usta yetiştir"
+
+msgid "goal_visitors1_desc"
+msgstr "istasyonunuza 10 misafir uğrar"
+
+msgid "goal_visitors1_title"
+msgstr "10 misafir getir"
+
+msgid "goal_visitors2_desc"
+msgstr "İstasyonunuza 100 misafir uğrar"
+
+msgid "goal_visitors2_title"
+msgstr "100 misafir getir"
+
+msgid "goal_visitors3_desc"
+msgstr "İstasyonunuza 1000 misafir uğrar"
+
+msgid "goal_visitors3_title"
+msgstr "1000 misafir getir"
+
+msgid "goal_vitals1_desc"
+msgstr "Elemanlarınızdan en az biri 25'ten fazla uyumuş, doymuş, su içmiş ve yıkanmış olmalı."
+
+msgid "goal_vitals1_title"
+msgstr "Hayati değerler karşılandı"
+
+msgid "goals"
+msgstr "Başarımlar"
+
+msgid "goals_why"
+msgstr "Kullanıma hazır araç ve sistemleri keşfetmek için kendi hedeflerinizi yapın. Merkez, onları tamamlanırken sizi ödüllendirecektir."
+
+msgid "gogobot"
+msgstr "Dansbot"
+
+msgid "gogobot_desc"
+msgstr "En iyi dans, 0 nano tölerans"
+
+msgid "gold_token"
+msgstr "Altın jeton"
+
+msgid "graduate_spec"
+msgstr "Mezunluk"
+
+msgid "green_token"
+msgstr "Yeşil jeton"
+
+msgid "group_commercial"
+msgstr "Dükkan"
+
+msgid "group_control"
+msgstr ""
+
+msgid "group_damage"
+msgstr ""
+
+msgid "group_decor"
+msgstr "Bahçe dekorasyonu"
+
+msgid "group_eating"
+msgstr "Yeme & İçme"
+
+msgid "group_facilities"
+msgstr "Tesisler ve güvenlik"
+
+msgid "group_factory"
+msgstr "Üretim"
+
+msgid "group_gardening"
+msgstr "Bahçelik"
+
+msgid "group_healing"
+msgstr ""
+
+msgid "group_health"
+msgstr "Sağlık ve hijyen"
+
+msgid "group_hygiene"
+msgstr "Hijyen"
+
+msgid "group_misc"
+msgstr "Diğerleri"
+
+msgid "group_recreational"
+msgstr "Dinlendirici"
+
+msgid "group_security"
+msgstr "Güvenlik"
+
+msgid "group_shielding"
+msgstr ""
+
+msgid "group_ships"
+msgstr "Gemi inşaası"
+
+msgid "group_sleeping"
+msgstr "Misafirperverlik"
+
+msgid "gun_beamgun_name"
+msgstr "Işın silahı"
+
+msgid "gun_blaster_name"
+msgstr "Püskürtücü"
+
+msgid "gun_blorg_name"
+msgstr "Blorg yokedici"
+
+msgid "gun_crus_name"
+msgstr "Standard Çekirgeni"
+
+msgid "gun_cucur_name"
+msgstr "Standart Sukabaklı"
+
+msgid "gun_disruptor_name"
+msgstr "Şalter"
+
+msgid "gun_laser_name"
+msgstr "Lazer silahı"
+
+msgid "gun_lemur_name"
+msgstr "Standart lemur"
+
+msgid "gun_medus_name"
+msgstr "Standart medyum"
+
+msgid "gun_nogi_name"
+msgstr "Standart boylu "
+
+msgid "gun_phaser_name"
+msgstr "Ses silahı"
+
+msgid "gun_pirates_name"
+msgstr "Standart korsan"
+
+msgid "gun_pistol_name"
+msgstr "Pistola"
+
+msgid "gun_raygun_name"
+msgstr "Işık silahı"
+
+msgid "gun_robots_name"
+msgstr "Standart Robotlar"
+
+msgid "gun_zapper_name"
+msgstr "Huzurbozan silahı"
+
+msgid "had_to_flee"
+msgstr "Korkutulmuş"
+
+msgid "had_to_flee_desc"
+msgstr "Birşeyden korktu"
+
+msgid "hands_01"
+msgstr ""
+
+msgid "hands_02"
+msgstr ""
+
+msgid "hands_03"
+msgstr ""
+
+msgid "hands_04"
+msgstr ""
+
+msgid "hands_05"
+msgstr ""
+
+msgid "hands_06"
+msgstr ""
+
+msgid "hands_07"
+msgstr ""
+
+msgid "hands_08"
+msgstr ""
+
+msgid "hands_09"
+msgstr ""
+
+msgid "hands_10"
+msgstr ""
+
+msgid "hands_item"
+msgstr "El araçları"
+
+msgid "hard"
+msgstr "Zor "
+
+msgid "heal_1"
+msgstr "Ay şifası"
+
+msgid "heal_2"
+msgstr "Ay şifası 2"
+
+msgid "heal_3"
+msgstr "Uzaktan telkin"
+
+msgid "heal_4"
+msgstr "Sağlık patlatıcı"
+
+msgid "heal_nearby"
+msgstr "Yakın şifa"
+
+msgid "healing_desc"
+msgstr "Şifa verme"
+
+msgid "health"
+msgstr "Sağlık"
+
+msgid "health_feeling_low"
+msgstr "Yaralı"
+
+msgid "health_feeling_low_desc"
+msgstr "Darbe almış"
+
+msgid "health_feeling_very_low"
+msgstr "Ağır yaralı"
+
+msgid "health_feeling_very_low_desc"
+msgstr "Çok ağrılı yara"
+
+msgid "health_tier_1"
+msgstr "Temel sağlık"
+
+msgid "health_tier_2"
+msgstr "Geliştirilmiş sağlık"
+
+msgid "health_tier_3"
+msgstr "Geliştirilmiş hijyen"
+
+msgid "health_tier_4"
+msgstr "Cerrahlık"
+
+msgid "health_tier_5"
+msgstr "Termal iyilik"
+
+msgid "health_tier_6"
+msgstr "Toplam toparlama"
+
+msgid "helium"
+msgstr "Helyum"
+
+msgid "helium_node"
+msgstr "Helyum bloğu"
+
+msgid "historic_program"
+msgstr "Tarih belgeseli"
+
+msgid "holo"
+msgstr "Hologram"
+
+msgid "holobooks"
+msgstr "Holokitaplar"
+
+msgid "holobooks_obj"
+msgstr "Holokitap rafları"
+
+msgid "holobooks_obj_desc"
+msgstr "Kağıt formatında içinde evren içindeki bütün bilgiyi satar. Çok abartarak!"
+
+msgid "holocomics"
+msgstr "Holodergi"
+
+msgid "holofiction"
+msgstr "Holokurgu v19.2"
+
+msgid "holofiction_desc"
+msgstr "4D içinde inanılmaz sayıda eğlence"
+
+msgid "holohistorical"
+msgstr "Holotarih v24.8"
+
+msgid "holohistorical_desc"
+msgstr ""
+
+msgid "home"
+msgstr "İstasyonunuz"
+
+msgid "home_station"
+msgstr "İstasyonunuz"
+
+msgid "hospital_bed"
+msgstr "Hasta yatağı"
+
+msgid "hospital_bed_desc"
+msgstr "Bir doktorun çalışması için ileri tıbbi sistemleri bulundurur. "
+
+msgid "hospitality_job"
+msgstr "Misafirperverlik"
+
+msgid "hospitality_tier_1"
+msgstr ""
+
+msgid "hospitality_tier_2"
+msgstr ""
+
+msgid "hospitality_tier_3"
+msgstr "Motel"
+
+msgid "hospitality_tier_4"
+msgstr "Lüks otel"
+
+msgid "hospitality_tier_5"
+msgstr "Kışuykusu"
+
+msgid "hostile"
+msgstr "Saldırgan"
+
+msgid "hotel_bed_must_single"
+msgstr "Her motel veya otel odasına tek yatak konur."
+
+msgid "hotel_checkin"
+msgstr "Otel kayıt"
+
+msgid "hotel_checkin_desc"
+msgstr "Otel odasını şimdi kullanabilirim"
+
+msgid "hotelbed"
+msgstr "Otel yatağı"
+
+msgid "hotelbed_desc"
+msgstr "Lüks yatak zengin müşterilere. Kayıt masası lazım. Elemanlar kullanamaz"
+
+msgid "hotelcheckin"
+msgstr "Otel karşılama"
+
+msgid "hotelcheckin_desc"
+msgstr "Misafirler kalacakları odaya kayıt yaptırır ve ödeme yapıp kalırlar."
+
+msgid "hps_label"
+msgstr "Şifa saniyede"
+
+msgid "hps_label_short"
+msgstr "SBİ"
+
+msgid "human_federation"
+msgstr "İnsan Medeniyeti"
+
+msgid "humans_adjective"
+msgstr "İnsan %s"
+
+msgid "humans_adjective2"
+msgstr "İnsan ~A"
+
+msgid "humans_member"
+msgstr "İnsan"
+
+msgid "humans_name"
+msgstr "İnsanlar"
+
+msgid "hunger"
+msgstr "Açlık"
+
+msgid "hunger_feeling_high"
+msgstr "Karnı Tok"
+
+msgid "hunger_feeling_high_desc"
+msgstr "Bu yemek iyi geldi!"
+
+msgid "hunger_feeling_low"
+msgstr "Acıkıyor"
+
+msgid "hunger_feeling_low_desc"
+msgstr "Açlık sıkıntısı"
+
+msgid "hygiene"
+msgstr "Hijyen"
+
+msgid "hygiene_feeling_high"
+msgstr "Yıkandı"
+
+msgid "hygiene_feeling_high_desc"
+msgstr "Temizlik imandan gelir"
+
+msgid "hygiene_feeling_low"
+msgstr "Leş kokan"
+
+msgid "hygiene_feeling_low_desc"
+msgstr "Benden kaçıyorlar, yıkanmalıyım"
+
+msgid "hygienizer_basic"
+msgstr "Temizliknator 3000"
+
+msgid "hygienizer_basic_desc"
+msgstr "Herkesi temiz ve ferah tutar"
+
+msgid "hygienizer_max"
+msgstr "MegaDuş 5000"
+
+msgid "hygienizer_max_desc"
+msgstr "Sizi çok temiz tutar kendinize karşı koyamazsınız"
+
+msgid "hygienizer_plus"
+msgstr "Şaşalı duş"
+
+msgid "hygienizer_plus_desc"
+msgstr "Herkesi temiz ve ferah tutar"
+
+msgid "implant_01"
+msgstr ""
+
+msgid "implant_02"
+msgstr ""
+
+msgid "implant_03"
+msgstr ""
+
+msgid "implant_04"
+msgstr ""
+
+msgid "implant_05"
+msgstr ""
+
+msgid "implant_06"
+msgstr ""
+
+msgid "implant_07"
+msgstr ""
+
+msgid "implant_08"
+msgstr ""
+
+msgid "implant_09"
+msgstr ""
+
+msgid "implant_10"
+msgstr ""
+
+msgid "implant_11"
+msgstr ""
+
+msgid "implant_12"
+msgstr ""
+
+msgid "implant_13"
+msgstr ""
+
+msgid "implant_14"
+msgstr ""
+
+msgid "implant_15"
+msgstr ""
+
+msgid "implant_16"
+msgstr ""
+
+msgid "implant_17"
+msgstr ""
+
+msgid "implant_18"
+msgstr ""
+
+msgid "implant_19"
+msgstr ""
+
+msgid "implant_20"
+msgstr ""
+
+msgid "implant_item"
+msgstr "Takılar"
+
+msgid "import_amount"
+msgstr ""
+
+msgid "import_amount_over_hold"
+msgstr ""
+
+msgid "import_amount_over_stock"
+msgstr ""
+
+msgid "import_changed_stock"
+msgstr ""
+
+msgid "import_invaded_planet"
+msgstr ""
+
+msgid "import_invalid_ship_id"
+msgstr ""
+
+msgid "import_invalid_ship_not_home"
+msgstr ""
+
+msgid "import_too_low_amount"
+msgstr ""
+
+msgid "imports_current_reputation"
+msgstr ""
+
+msgid "imports_donation_bonus"
+msgstr ""
+
+msgid "imports_donation_button"
+msgstr ""
+
+msgid "imports_hostile_donation_desc"
+msgstr ""
+
+msgid "imports_hostile_limit"
+msgstr ""
+
+msgid "imports_no_planets"
+msgstr ""
+
+msgid "in_progress"
+msgstr "İşlemde.."
+
+msgid "in_stasis"
+msgstr "Durgunluk "
+
+msgid "in_storage_area"
+msgstr "Depo alanı içinde"
+
+msgid "in_use"
+msgstr "Kullanımda"
+
+msgid "include"
+msgstr "Arttır"
+
+msgid "industrialist"
+msgstr "Sanayici"
+
+msgid "industrialist_desc2"
+msgstr "İstasyonuz için yüksek yetenekli imalatçılar günlerini ağır sanayiide emek vererek harcarlar."
+
+msgid "inebriation"
+msgstr "Sarhoşluk"
+
+msgid "infinity"
+msgstr "Sonsuzluk"
+
+msgid "infinity_short"
+msgstr "Ebedi"
+
+msgid "info_tool"
+msgstr "Bilgi/Seç/Ayrıl"
+
+msgid "ingredient_of"
+msgstr "Üretirilebilir:"
+
+msgid "input"
+msgstr "Eklenen"
+
+msgid "interiorturret"
+msgstr "Büyük taret silahı"
+
+msgid "interiorturret_desc"
+msgstr "Büyük, yüksek kalibreli taret silahı"
+
+msgid "intermediate_ship_engines_parts"
+msgstr ""
+
+msgid "intermediate_ship_hull_parts"
+msgstr ""
+
+msgid "intermediate_ship_lifesupport_parts"
+msgstr ""
+
+msgid "intermediate_ship_structure_parts"
+msgstr ""
+
+msgid "interrupted_by_noise"
+msgstr ""
+
+msgid "intro_1"
+msgstr "5781 AD, İnsan Federasyonu Anabinası, Dünya\n \nKarşılama elemanı. 5 yıldızlık emrivaki azminiz üstleriniz tarafından farkedildi. Galaksinin keşfedilmemiş yerlerini yapılandırma ve yönetme konusunda seçilmişsiniz."
+
+msgid "intro_2"
+msgstr "Çevredeki evren sistemleri ve içindeki gezegenlerini keşfe başlayıp, kaynaklarını ele geçirin ve isyancı edenlere karşı kullanın. İnsan Topluluğunun kurtaracak güven kaynağısınız!"
+
+msgid "invaded_by"
+msgstr ""
+
+msgid "invaded_by_other_desc"
+msgstr ""
+
+msgid "invaded_by_spatials_desc"
+msgstr ""
+
+msgid "invaderbomb"
+msgstr "Saatli bomba"
+
+msgid "invaderbomb_desc"
+msgstr "Şu bombayı yoket zamanı sıfırlanıp  büyük bir patlama olmadan"
+
+msgid "invasion_happens_alert"
+msgstr ""
+
+msgid "invasion_happens_alert_spatials"
+msgstr ""
+
+msgid "invasion_mission_can_invade"
+msgstr ""
+
+msgid "invasion_mission_can_liberate"
+msgstr ""
+
+msgid "invasion_mission_can_liberate_done"
+msgstr ""
+
+msgid "invasion_mission_none"
+msgstr ""
+
+msgid "invasion_mission_player_invaded"
+msgstr ""
+
+msgid "inventory"
+msgstr "Envanter"
+
+msgid "inventory_in_shops"
+msgstr ""
+
+msgid "inventory_locked"
+msgstr "Kilitli: ~A"
+
+msgid "inventory_missing_ingredients"
+msgstr "Malzemeler yetersiz"
+
+msgid "inventory_on_pallets"
+msgstr ""
+
+msgid "inventory_on_storage_areas"
+msgstr ""
+
+msgid "inventory_stacks"
+msgstr "Yığınlar: ~A"
+
+msgid "inventory_total"
+msgstr "Toplam: ~A"
+
+msgid "inventory_unattended"
+msgstr ""
+
+msgid "item"
+msgstr "Madde"
+
+msgid "item_info_amount"
+msgstr "Miktarı: ~A"
+
+msgid "item_inventory_shortcut"
+msgstr "@ui_icon_30px_cargo.png envanter"
+
+msgid "item_level"
+msgstr "Seviye ~A"
+
+msgid "item_power_single"
+msgstr "~A ~A"
+
+msgid "item_prefix_epic"
+msgstr "Destansı"
+
+msgid "item_prefix_legendary"
+msgstr "Efsanevi"
+
+msgid "item_prefix_powerful"
+msgstr "Güçlü"
+
+msgid "item_prefix_rare"
+msgstr "Nadir"
+
+msgid "item_prefix_strong"
+msgstr "Kuvvetli"
+
+msgid "itemforge"
+msgstr "Dökümhane"
+
+msgid "itemforge_desc"
+msgstr "Zırh, takılar ve silah üret"
+
+msgid "jewellery"
+msgstr "Değerli Takılar"
+
+msgid "job_matrix"
+msgstr "İş çizelgesi"
+
+msgid "job_matrix_click_officer_name"
+msgstr "Haritaya yakınlaş"
+
+msgid "job_matrix_click_officer_portrait"
+msgstr "Elemana yakınlaş"
+
+msgid "job_matrix_job_tip"
+msgstr "~A\nöncelik: ~A"
+
+msgid "job_matrix_per_job_prio_disabled"
+msgstr "Bu eleman için genel iş önceliği kullan"
+
+msgid "job_matrix_per_job_prio_enabled"
+msgstr ""
+
+msgid "job_matrix_prompt_officer_prio"
+msgstr "İş için öncelik ata 1 ila 99 arası yada onu 0 ile devredışı bırak."
+
+msgid "job_speed"
+msgstr "Sürat: ~0,2Fx"
+
+msgid "job_tier_1"
+msgstr "Aşama 1"
+
+msgid "job_tier_2"
+msgstr "Aşama 2"
+
+msgid "job_tier_3"
+msgstr "Aşama 3"
+
+msgid "job_tier_current_xp"
+msgstr "XP şuan"
+
+msgid "job_tier_rating"
+msgstr "Derece"
+
+msgid "job_tier_speed"
+msgstr "Hız"
+
+msgid "job_warn_no_credits"
+msgstr "Yeterli ödeme yok"
+
+msgid "job_warn_no_recipe"
+msgstr "Üretime başlamak için yemek tarif seçin."
+
+msgid "job_warn_no_resources3"
+msgstr ""
+
+msgid "job_warn_no_resources4"
+msgstr ""
+
+msgid "job_warn_wait_worker"
+msgstr "Uygun bir işçi bekliyor."
+
+msgid "job_warning"
+msgstr "Uyarı"
+
+msgid "jobs"
+msgstr "İşler"
+
+msgid "jobs_enable_manual_prio"
+msgstr "Elle ayara öncelik ver"
+
+msgid "juice"
+msgstr "Meyve suyu"
+
+msgid "jukebox"
+msgstr "Müzik  kutusu"
+
+msgid "jukebox_desc"
+msgstr "En iyi şarkıyı seç ve kimse izlemiyormuş gibi rahat dans et"
+
+msgid "k_thousands"
+msgstr "bin"
+
+msgid "kb_build_rotate_left"
+msgstr ""
+
+msgid "kb_build_rotate_right"
+msgstr ""
+
+msgid "kb_combat_mode"
+msgstr ""
+
+msgid "kb_group_1"
+msgstr ""
+
+msgid "kb_group_2"
+msgstr ""
+
+msgid "kb_group_3"
+msgstr ""
+
+msgid "kb_group_4"
+msgstr ""
+
+msgid "kb_group_5"
+msgstr ""
+
+msgid "kb_group_6"
+msgstr ""
+
+msgid "kb_set_attack_target"
+msgstr ""
+
+msgid "kb_set_cc_target"
+msgstr ""
+
+msgid "kb_set_heal_target"
+msgstr ""
+
+msgid "kb_set_shield_target"
+msgstr ""
+
+msgid "kb_teleport_to"
+msgstr ""
+
+msgid "keep_slot_empty"
+msgstr "Seçilmiş alanı boş bırak"
+
+msgid "key_unbind"
+msgstr "Bırak"
+
+msgid "knowledge"
+msgstr "Bilgi"
+
+msgid "kowka_desc"
+msgstr "Sosyal çalışmaların kahramanı. 20.yy'da uzaya deney olarak gönderildi ve ölüme terkedildi, ama gizemli bir şekilde 38.yy kadar yaşadı ve şimdi tüm robotlar onun etrafında."
+
+msgid "kowka_guard"
+msgstr "Kedi kowka koruması"
+
+msgid "kowka_guard_desc"
+msgstr "Kedi kowka'nin kişisel robot ordusu istasyonunuza yardım ediyor"
+
+msgid "lactian_adjective"
+msgstr ""
+
+msgid "lactian_adjective2"
+msgstr ""
+
+msgid "lactian_member"
+msgstr ""
+
+msgid "lactians_name"
+msgstr ""
+
+msgid "landing"
+msgstr "İnişe geçiyor..."
+
+msgid "landing_start"
+msgstr "@ui_icon_30px_aterrizaje.png Keşfet"
+
+msgid "language"
+msgstr "Oyun Dili"
+
+msgid "latest_save"
+msgstr "Son kayıt: %s"
+
+msgid "lemurian_adjective"
+msgstr "Lemur %s"
+
+msgid "lemurian_adjective2"
+msgstr "Lemur ~A"
+
+msgid "lemurian_domain"
+msgstr "Lemur Bölgesi"
+
+msgid "lemurian_member"
+msgstr "Lemurlu"
+
+msgid "lemurian_name"
+msgstr "Lemurlar"
+
+msgid "level_n"
+msgstr "Seviye %d"
+
+msgid "level_n_paren"
+msgstr ""
+
+msgid "liberation_happens_alert_spatials"
+msgstr ""
+
+msgid "liberty_desc"
+msgstr "Özgürlük ve cesaret. Şimdi gittiği her yere neşe getiriyor.Hayatta kalan biri için 38 yüzyıllık uzun bir geçmişin hayvanlarla  tecrübe edilmesi "
+
+msgid "libery_name"
+msgstr "Hürriyet"
+
+msgid "library_table"
+msgstr "Okuma masası"
+
+msgid "library_table_desc"
+msgstr "Sakin ve sessiz okuma masaları"
+
+msgid "list"
+msgstr ""
+
+msgid "litter"
+msgstr "Atık"
+
+msgid "litter_desc"
+msgstr "Temizlik işi yapanların geridönüşüme attıkları çöp"
+
+msgid "load_game"
+msgstr "Oyunu Yükle"
+
+msgid "local"
+msgstr "Yerel"
+
+msgid "locked"
+msgstr "Kilitli"
+
+msgid "lunch_shop"
+msgstr "Lokanta"
+
+msgid "lunch_shop_desc"
+msgstr "Yemek burada servis edilir"
+
+msgid "luxury_clothes"
+msgstr "Lüks giyim"
+
+msgid "luxury_clothes_desc"
+msgstr "Lüks kumaşlar cinsi tükenmişlerden yapısı değiştirilerek üretilmiştir"
+
+msgid "luxury_dinner"
+msgstr "Lüks yemek"
+
+msgid "luxury_display"
+msgstr "Takı rafı"
+
+msgid "luxury_display_desc"
+msgstr "Kıymetli taşlar ve antika"
+
+msgid "luxury_kitchen"
+msgstr "Lüks ocak"
+
+msgid "m_millions"
+msgstr "M"
+
+msgid "macarons"
+msgstr "Makaron şekeri"
+
+msgid "macosx_experimental"
+msgstr "Bu seçenek deneme aşamasındadır! Çok monitör bağlı ve aşırı ölçekte olan aygıtlarda çalışmaz."
+
+msgid "macosx_retina"
+msgstr "Mac OS X\nRetina desteği"
+
+msgid "main_menu"
+msgstr "Giriş Ekranı"
+
+msgid "maintenance_robot"
+msgstr "Hizmet robotu "
+
+msgid "make_active_absorb"
+msgstr ""
+
+msgid "make_active_control"
+msgstr ""
+
+msgid "make_active_damage"
+msgstr ""
+
+msgid "make_active_healing"
+msgstr ""
+
+msgid "make_chest"
+msgstr "Vücuda yap Seviye:~A-~A"
+
+msgid "make_feet"
+msgstr "Ayağa yap Seviye:~A-~A"
+
+msgid "make_fuel_cell"
+msgstr "Benzin üret"
+
+msgid "make_hands"
+msgstr "Ele yap Seviye:~A-~A"
+
+msgid "make_implant"
+msgstr "Takı yap Seviye:~A-~A"
+
+msgid "make_owned_action"
+msgstr "Zimmeti ata: ~A"
+
+msgid "make_owner_action"
+msgstr "Zimmetle: ~A"
+
+msgid "make_repair_part"
+msgstr "Yan parça üret"
+
+msgid "map_scroll_down"
+msgstr "Harita aşağı kaydır"
+
+msgid "map_scroll_left"
+msgstr "Harita sola kaydır"
+
+msgid "map_scroll_right"
+msgstr "Harita sağa kaydır"
+
+msgid "map_scroll_up"
+msgstr "Harita yukarı kaydır"
+
+msgid "master_spec"
+msgstr "Usta özellik"
+
+msgid "max_3char"
+msgstr ""
+
+msgid "max_stack_size"
+msgstr "Max. yığın: ~A"
+
+msgid "max_stock"
+msgstr "En çok yükle"
+
+msgid "mead"
+msgstr "Likör"
+
+msgid "meat"
+msgstr "Et"
+
+msgid "meat_node"
+msgstr "Et bloğu"
+
+msgid "medic"
+msgstr "Doktor"
+
+msgid "medic_desc"
+msgstr "Hastaları, özürlüleri ve acıyı iyileştirir."
+
+msgid "medical_analyzer"
+msgstr "Tıbbi analizci"
+
+msgid "medical_analyzer_desc"
+msgstr "Bir hastalık yada darbenin analizini yapar"
+
+msgid "medical_workshop"
+msgstr "Ecza atölyesi"
+
+msgid "medical_workshop_desc"
+msgstr "Eczacılık ürünleri"
+
+msgid "medicine"
+msgstr "İlaç"
+
+msgid "meds_dispenser"
+msgstr "Eczadolabı"
+
+msgid "meds_dispenser_desc"
+msgstr "Tıbbi malzemeleri ve ilaçları saklar"
+
+msgid "medus_adjective"
+msgstr "Medyum %s"
+
+msgid "medus_adjective2"
+msgstr "Medyum ~A"
+
+msgid "medus_full"
+msgstr "Medyum küresi"
+
+msgid "medus_member"
+msgstr "Medyumlar"
+
+msgid "medus_name"
+msgstr "Medyumlar"
+
+msgid "melee_name"
+msgstr "Yakın silah"
+
+msgid "menu"
+msgstr "Menü"
+
+msgid "metal_press"
+msgstr "Metal baskı"
+
+msgid "metal_press_desc"
+msgstr "Ağır metal üretimi.80 lerin saç stili izlerini anımsatır."
+
+msgid "miasma"
+msgstr "Hastalıklı hava"
+
+msgid "miasma_desc"
+msgstr "Etraftaki leş kalıntıları veya çürümüş olan maddelerin yarattığı kokulu hava ortamı. Etraftakileri de hasta eder. Etrafınızda bu pislikleri temizlemek için eleman ve alet olduğuna emin olun"
+
+msgid "miasma_touched"
+msgstr "Havadan zehirlendi"
+
+msgid "miasma_touched_desc"
+msgstr "Bö,iğrenç kokuyor"
+
+msgid "microbiota"
+msgstr "Mikroplar"
+
+msgid "microbiota_node"
+msgstr "Mikrop bloğu"
+
+msgid "mind"
+msgstr "Akıl"
+
+msgid "mind_combat"
+msgstr ""
+
+msgid "mind_combat_desc"
+msgstr ""
+
+msgid "mind_crew"
+msgstr ""
+
+msgid "mind_crew_desc"
+msgstr ""
+
+msgid "mind_feeling_low"
+msgstr "Umursamaz"
+
+msgid "mind_feeling_low2"
+msgstr "Zavallı"
+
+msgid "mind_feeling_low2_desc"
+msgstr "Herşey önemsiz. Yaşamak istemiyorum"
+
+msgid "mind_feeling_low_desc"
+msgstr "Bunu daha fazla kaldıramam!"
+
+msgid "mind_tip"
+msgstr "Akıl: %d"
+
+msgid "mineral_extractor"
+msgstr "Mineral toplayıcı"
+
+msgid "mineral_extractor_desc"
+msgstr "Etki alanı içindeki mineral kaynakları toplar"
+
+msgid "miniservo"
+msgstr "Miniservisçi robot"
+
+msgid "miniservo_display"
+msgstr "miniservisçi rafı"
+
+msgid "miniservo_display_desc"
+msgstr "Küçük bir kişisel robot ama fiyatı kesinlikle küçük değil"
+
+msgid "missing_demands"
+msgstr "eksik ihtiyaç"
+
+msgid "missing_demands_desc"
+msgstr "Bazı taleplerim karşılanmadı hala"
+
+msgid "mod_outdated"
+msgstr "Seçilen mod şu an ki versiyon ile uyumsuz"
+
+msgid "mods"
+msgstr "Modlar"
+
+msgid "mods_in_steam_workshop"
+msgstr "Steam'den modlara bak"
+
+msgid "mood_10_of_10"
+msgstr "Sevinçli"
+
+msgid "mood_1_of_10"
+msgstr "Asabi"
+
+msgid "mood_2_of_10"
+msgstr "Kavgalı"
+
+msgid "mood_3_of_10"
+msgstr "Mutsuz"
+
+msgid "mood_4_of_10"
+msgstr "İlgisiz"
+
+msgid "mood_5_of_10"
+msgstr "Bıkmış"
+
+msgid "mood_6_of_10"
+msgstr "Doğal"
+
+msgid "mood_7_of_10"
+msgstr "Memnun"
+
+msgid "mood_8_of_10"
+msgstr "Mutlu"
+
+msgid "mood_9_of_10"
+msgstr "Güleryüzlü"
+
+msgid "motel_checkin"
+msgstr "Motel kayıt"
+
+msgid "motel_checkin_desc"
+msgstr "Motel odasını şimdi kullanabilirim"
+
+msgid "motelbed"
+msgstr "Motel yatağı"
+
+msgid "motelbed_desc"
+msgstr "Nerde olsa yatarız diyen müşteriler için ucuz yatak.Kullanmak için bir rezerve masası şart. Elemanlarınız kullanamaz."
+
+msgid "motelcheckin"
+msgstr "Motel karşılama"
+
+msgid "motelcheckin_desc"
+msgstr "Müşteriler odayı beğenip kayıt yapmalı burada ve kullanmadan önce ödeme yapabilmek için."
+
+msgid "music_volume"
+msgstr "Ses seviye"
+
+msgid "mutosis"
+msgstr "Beze"
+
+msgid "mutosis_desc"
+msgstr "Şu elde çıkan şişlik..."
+
+msgid "mystery_milk"
+msgstr "Sihirli Süt"
+
+msgid "name"
+msgstr "İsim"
+
+msgid "name_too_long"
+msgstr "İsim çok uzun"
+
+msgid "name_too_short"
+msgstr "İsim çok kısa"
+
+msgid "name_used"
+msgstr "Bu isim kullanımda"
+
+msgid "narcolepsy"
+msgstr "Uykuseverlik"
+
+msgid "narcolepsy_desc"
+msgstr "İçim geçmiş"
+
+msgid "navigation"
+msgstr "Kılavuzluğu"
+
+msgid "navigator"
+msgstr "Rehber"
+
+msgid "navigator_desc"
+msgstr "İnanamayacağınız şeyler görmüşlerdir , Oryonun omuzlarında tonlarca mekik. şimdiki zamana kadar kazanda gibi dönüyorlardı."
+
+msgid "need_booking"
+msgstr "Oda Rezervasyon"
+
+msgid "need_booking_desc"
+msgstr "Uyumak için bir oda ihtiyacı var"
+
+msgid "neutral"
+msgstr "Doğal"
+
+msgid "neutral_adjective"
+msgstr "Sakin %s"
+
+msgid "neutral_adjective2"
+msgstr "Sakin ~A"
+
+msgid "neutral_member"
+msgstr "Doğal"
+
+msgid "neutral_name"
+msgstr "Sakin"
+
+msgid "new_game"
+msgstr "Yeni Oyun"
+
+msgid "new_game_option_events"
+msgstr ""
+
+msgid "new_game_option_events_desc"
+msgstr ""
+
+msgid "new_game_option_pick_planet_kind"
+msgstr ""
+
+msgid "new_game_options"
+msgstr ""
+
+msgid "new_save_option"
+msgstr "<Yeni Kayıt>"
+
+msgid "next"
+msgstr "İleri"
+
+msgid "nitrogen"
+msgstr "Nitrojen"
+
+msgid "nitrogen_node"
+msgstr "Nitrojen bloğu"
+
+msgid "no"
+msgstr "Hayır"
+
+msgid "no_ship_desired"
+msgstr "İstenen gemi yok"
+
+msgid "no_user_mods"
+msgstr "Herhangi mod bulunmadı.Aktif etmeden önce modu indirip oyunu yeniden başlatın "
+
+msgid "no_user_mods_enabled"
+msgstr "Herhangi kullanıcı mod aktif değil."
+
+msgid "nogi_adjective"
+msgstr "Boylu %s"
+
+msgid "nogi_adjective2"
+msgstr "Boylu ~A"
+
+msgid "nogi_member"
+msgstr "Boylu"
+
+msgid "nogi_name"
+msgstr "Boylular"
+
+msgid "nogi_tyrants"
+msgstr "Boylu Zulümcüler"
+
+msgid "noise"
+msgstr ""
+
+msgid "noise_feeling"
+msgstr ""
+
+msgid "noise_interruption_desc"
+msgstr ""
+
+msgid "noise_room"
+msgstr ""
+
+msgid "non_walkable"
+msgstr "İçinden geçip gidilmez"
+
+msgid "normal"
+msgstr "Normal"
+
+msgid "not_bound"
+msgstr "Bağlı değil"
+
+msgid "not_exploring_any_planet"
+msgstr "Hiç bir gezegen keşifte değil"
+
+msgid "not_exploring_short"
+msgstr "Keşfetmiyor"
+
+msgid "not_number"
+msgstr "Bir numara değil"
+
+msgid "not_tutorial_planet"
+msgstr "Gezegen dersi sadece istasyonunuza yakın Tutolandta öğretilir."
+
+msgid "npc_animal01"
+msgstr "Hayvan kalıtısı"
+
+msgid "npc_animal02"
+msgstr "Hayvan kalıtısı"
+
+msgid "npc_animal03"
+msgstr "Hayvan kalıtısı"
+
+msgid "npc_artifact01"
+msgstr "El yapımı"
+
+msgid "npc_artifact02"
+msgstr "El yapımı"
+
+msgid "npc_artifact03"
+msgstr "El yapımı"
+
+msgid "npc_artifact04"
+msgstr "El yapımı"
+
+msgid "npc_artifact05"
+msgstr "El yapımı"
+
+msgid "npc_augustus"
+msgstr "Şef Ağustos "
+
+msgid "npc_bagelhead"
+msgstr "Bagelhead"
+
+msgid "npc_bicho01"
+msgstr "Vacavaga"
+
+msgid "npc_bicho02"
+msgstr "Lemur faresi"
+
+msgid "npc_bicho03"
+msgstr "Heliominder"
+
+msgid "npc_bicho04"
+msgstr "Uzunçekiç"
+
+msgid "npc_bicho05"
+msgstr "Zümrüt böceği"
+
+msgid "npc_bicho06"
+msgstr "Pedipole"
+
+msgid "npc_bicho07"
+msgstr "Tweetto"
+
+msgid "npc_bicho08"
+msgstr "Ağırsaldıran"
+
+msgid "npc_bicho09"
+msgstr "Haloffe"
+
+msgid "npc_bicho10"
+msgstr "Zojamb"
+
+msgid "npc_bicho11"
+msgstr "Şekersi"
+
+msgid "npc_bicho12"
+msgstr "Oraki"
+
+msgid "npc_bicho13"
+msgstr "Kızılboynuz"
+
+msgid "npc_blorg01"
+msgstr "Sömürgeci Blorg"
+
+msgid "npc_blorg02"
+msgstr "Sömürgeci Blorg"
+
+msgid "npc_blorg03"
+msgstr "Sömürgeci Blorg"
+
+msgid "npc_blorg_boss"
+msgstr "Baş Blorg"
+
+msgid "npc_blorg_crate_pickable"
+msgstr "Blorg gömüsü"
+
+msgid "npc_blorg_mine"
+msgstr "Maden"
+
+msgid "npc_blorg_visitor01"
+msgstr "Blorg Misafiri"
+
+msgid "npc_blorg_visitor02"
+msgstr "Blorg Misafiri"
+
+msgid "npc_blorg_visitor03"
+msgstr "Blorg Misafiri"
+
+msgid "npc_blorg_visitor04"
+msgstr "Blorg Misafiri"
+
+msgid "npc_chuchu01"
+msgstr "Cücük misafiri"
+
+msgid "npc_chuchu02"
+msgstr "Cücük misafiri"
+
+msgid "npc_chuchu03"
+msgstr "Cücük misafiri"
+
+msgid "npc_chuchu04"
+msgstr "Cücük misafiri"
+
+msgid "npc_chuchu05"
+msgstr "Cücük misafiri"
+
+msgid "npc_chuchucolony01"
+msgstr "Savaşçı Cücük"
+
+msgid "npc_chuchucolony02"
+msgstr "Saygın Cücük"
+
+msgid "npc_chuchucolony03"
+msgstr "Ağır Cücük"
+
+msgid "npc_chuchucolony04"
+msgstr "Tamirci Cücük"
+
+msgid "npc_colonycrusantian01"
+msgstr "Sömürgeci Çekirge"
+
+msgid "npc_colonycrusantian02"
+msgstr "Sömürgeci Çekirge"
+
+msgid "npc_colonycrusantian03"
+msgstr "Sömürgeci Çekirge"
+
+msgid "npc_colonycrusantian04"
+msgstr "Sömürgeci Çekirge"
+
+msgid "npc_colonylactian01"
+msgstr ""
+
+msgid "npc_colonylactian02"
+msgstr ""
+
+msgid "npc_colonylactian03"
+msgstr ""
+
+msgid "npc_colonylactian04"
+msgstr ""
+
+msgid "npc_colonylemurian01"
+msgstr "Kürekçi lemur"
+
+msgid "npc_colonylemurian02"
+msgstr "Lemur kuvvetleri"
+
+msgid "npc_colonylemurian03"
+msgstr "Koruyucu lemur"
+
+msgid "npc_colonynogi01"
+msgstr "Boylu genç"
+
+msgid "npc_colonynogi02"
+msgstr "Boylu telkinci"
+
+msgid "npc_colonynogi03"
+msgstr "Boylu dede"
+
+msgid "npc_container01"
+msgstr "Konteynır"
+
+msgid "npc_container02"
+msgstr "Konteynır"
+
+msgid "npc_container03"
+msgstr "Konteynır"
+
+msgid "npc_container04"
+msgstr "Konteynır"
+
+msgid "npc_container05"
+msgstr "Konteynır"
+
+msgid "npc_container06"
+msgstr "Konteynır"
+
+msgid "npc_crusantian_visitor01"
+msgstr "Çekirgeni misafiri"
+
+msgid "npc_crusantian_visitor02"
+msgstr "Çekirgeni misafiri"
+
+msgid "npc_crusantian_visitor03"
+msgstr "Çekirgeni misafiri"
+
+msgid "npc_crusantian_visitor04"
+msgstr "Çekirgeni misafiri"
+
+msgid "npc_crusantianbox01"
+msgstr "Çekirgeni gömüsü"
+
+msgid "npc_cucurbian01"
+msgstr "Sukabaklı misafir"
+
+msgid "npc_cucurbian02"
+msgstr "Sukabaklı misafir"
+
+msgid "npc_cucurbian03"
+msgstr "Sukabaklı misafir"
+
+msgid "npc_cucurbian_boss"
+msgstr "Baş Sukabaklı"
+
+msgid "npc_cucurbian_crate01"
+msgstr "Sukabaklı gömüsü"
+
+msgid "npc_droid01"
+msgstr "Tetikçi Robot"
+
+msgid "npc_droid02"
+msgstr "Süvari Robot"
+
+msgid "npc_droid03"
+msgstr "Robot köle"
+
+msgid "npc_droid04"
+msgstr "Tank Robot"
+
+msgid "npc_droid05"
+msgstr "Turbo Robot"
+
+msgid "npc_human01"
+msgstr "Sömürgeci insan"
+
+msgid "npc_human02"
+msgstr "Sömürgeci insan"
+
+msgid "npc_human03"
+msgstr "Sömürgeci insan"
+
+msgid "npc_human04"
+msgstr "Sömürgeci insan"
+
+msgid "npc_human_visitor01"
+msgstr "İnsan misafiri"
+
+msgid "npc_human_visitor02"
+msgstr "İnsan misafiri"
+
+msgid "npc_human_visitor03"
+msgstr "İnsan misafiri"
+
+msgid "npc_human_visitor04"
+msgstr "İnsan misafiri"
+
+msgid "npc_kowka"
+msgstr "Kedi kowka"
+
+msgid "npc_lemurian_visitor01"
+msgstr "Lemur misafiri"
+
+msgid "npc_lemurian_visitor02"
+msgstr "Lemur misafiri"
+
+msgid "npc_lemurian_visitor03"
+msgstr "Lemur misafiri"
+
+msgid "npc_lemurianbox01"
+msgstr "Lemur gömüsü"
+
+msgid "npc_medus01"
+msgstr ""
+
+msgid "npc_medus02"
+msgstr ""
+
+msgid "npc_medus03"
+msgstr ""
+
+msgid "npc_medus04"
+msgstr ""
+
+msgid "npc_medus05"
+msgstr ""
+
+msgid "npc_meduscolony01"
+msgstr ""
+
+msgid "npc_meduscolony02"
+msgstr ""
+
+msgid "npc_meduscolony03"
+msgstr ""
+
+msgid "npc_meduscolony04"
+msgstr ""
+
+msgid "npc_memorymodule"
+msgstr "Hafıza modülü"
+
+msgid "npc_mineral01"
+msgstr "Kaya"
+
+msgid "npc_mineral02"
+msgstr "Kaya"
+
+msgid "npc_mineral03"
+msgstr "Kaya"
+
+msgid "npc_mutant"
+msgstr "Mutant"
+
+msgid "npc_nogi_visitor01"
+msgstr "Boylu misafir"
+
+msgid "npc_nogi_visitor02"
+msgstr "Boylu misafir"
+
+msgid "npc_nogi_visitor03"
+msgstr "Boylu misafir"
+
+msgid "npc_nogi_visitor04"
+msgstr "Boylu misafir"
+
+msgid "npc_nogibox01"
+msgstr "Boylu gömüsü"
+
+msgid "npc_octopus"
+msgstr "Ahtapotör"
+
+msgid "npc_pioneersbox01"
+msgstr "İnsan gömüsü"
+
+msgid "npc_pirate01"
+msgstr "Korsan hırıltısı"
+
+msgid "npc_pirate02"
+msgstr "Korsan asker"
+
+msgid "npc_pirate03"
+msgstr "Korsan kurye"
+
+msgid "npc_pirate04"
+msgstr "Korsan canavar"
+
+msgid "npc_pirate_boss"
+msgstr "Baş Korsan "
+
+msgid "npc_pirates_crap"
+msgstr "Çöp"
+
+msgid "npc_pirates_mine"
+msgstr "Maden"
+
+msgid "npc_pirates_unicrate01"
+msgstr "Korsan gömüsü"
+
+msgid "npc_pirates_unicrate02"
+msgstr "Korsan gömüsü"
+
+msgid "npc_piratesbox01"
+msgstr "Korsan gömüsü"
+
+msgid "npc_robotbox01"
+msgstr "Robot gömüsü"
+
+msgid "npc_seeds"
+msgstr "Tohumlar"
+
+msgid "npc_tribbler01"
+msgstr "kıllı parazit"
+
+msgid "npc_tribbler02"
+msgstr "kıllı parazit"
+
+msgid "npc_tribbler03"
+msgstr "kıllı parazit"
+
+msgid "npc_tribbler_boss"
+msgstr "Baş parazit"
+
+msgid "npc_veg01"
+msgstr "Bitki örtüsü"
+
+msgid "npc_veg02"
+msgstr "Bitki örtüsü"
+
+msgid "npc_veg03"
+msgstr "Bitki örtüsü"
+
+msgid "npc_visitorcucurbian01"
+msgstr "Sukabaklı misafir"
+
+msgid "npc_visitorcucurbian02"
+msgstr "Sukabaklı misafir"
+
+msgid "npc_visitorcucurbian03"
+msgstr "Sukabaklı misafir"
+
+msgid "npc_visitorcucurbian04"
+msgstr "Sukabaklı misafir"
+
+msgid "npc_worm"
+msgstr "Uzay solucanı"
+
+msgid "npc_xenomorph"
+msgstr "Xenomorfo"
+
+msgid "nuclearkitchen"
+msgstr "Nükleer ocak"
+
+msgid "nuclearkitchen_desc"
+msgstr "Sadece en çok yemek hazırlamış aşçılar bu ocağa yaklaşabilir.Bu ocağın yemeklerinin tadına bu evrende daha önce rastlanmadı."
+
+msgid "obj_alienegg"
+msgstr "Xenormorfo yumurtası"
+
+msgid "obj_blorg-arch"
+msgstr "Kemer"
+
+msgid "obj_blorg-biojelly"
+msgstr "Hücre değiştirici"
+
+msgid "obj_blorg-crates1"
+msgstr "Kasa"
+
+msgid "obj_blorg-crates2"
+msgstr "Kasa"
+
+msgid "obj_blorg-crates3"
+msgstr "Kasa"
+
+msgid "obj_blorg-house"
+msgstr "Ev"
+
+msgid "obj_blorg-jelly"
+msgstr "jöleli"
+
+msgid "obj_blorg-robotfactory"
+msgstr "Fabrika"
+
+msgid "obj_blorg-robotmegabrain"
+msgstr "Beyin"
+
+msgid "obj_blorg-ship-house"
+msgstr "Farklı gemi"
+
+msgid "obj_blorg-shuttle"
+msgstr "Mekik"
+
+msgid "obj_blorg-turret"
+msgstr "Taret silahı"
+
+msgid "obj_blorgbuilding04"
+msgstr "Büyük ev"
+
+msgid "obj_blorgwall"
+msgstr "Duvar"
+
+msgid "obj_blorgwallturret"
+msgstr "Taret silahı"
+
+msgid "obj_build_info"
+msgstr "Boş alana basılı tuttuktan sonra bir yöne sürükleyerek döndürebilirsiniz. Esc ile bunu iptal edersiniz."
+
+msgid "obj_capsule"
+msgstr "Kapsül"
+
+msgid "obj_capsule-ok"
+msgstr "Kapsül"
+
+msgid "obj_chuchubox01"
+msgstr "Kutular"
+
+msgid "obj_chuchubox02"
+msgstr "Kutular"
+
+msgid "obj_chuchubox03"
+msgstr "Kutular"
+
+msgid "obj_chuchubox04"
+msgstr "Kutular"
+
+msgid "obj_chuchubox05"
+msgstr "Kutular"
+
+msgid "obj_chuchubuilding01"
+msgstr "Samanlık ambarı "
+
+msgid "obj_chuchubuilding02"
+msgstr "Büyük ev"
+
+msgid "obj_chuchubuilding03"
+msgstr "Ev"
+
+msgid "obj_chuchubuilding04"
+msgstr "Gözlem kulesi"
+
+msgid "obj_chuchudeposit"
+msgstr "Ön ödeme"
+
+msgid "obj_chuchudestillery"
+msgstr "İçki mahzeni"
+
+msgid "obj_chuchufield"
+msgstr "Alan"
+
+msgid "obj_chuchupress"
+msgstr "Hidrolik baskı"
+
+msgid "obj_chuchuwall"
+msgstr "Duvar"
+
+msgid "obj_chuchuwallturret"
+msgstr "Taret silahı"
+
+msgid "obj_computer-off"
+msgstr "Bilgisayar"
+
+msgid "obj_computer-on"
+msgstr "Bilgisayar"
+
+msgid "obj_crashed-ship"
+msgstr "Hasarlı gemi"
+
+msgid "obj_crusantianbox01"
+msgstr "Kutular"
+
+msgid "obj_crusantianbox02"
+msgstr "Kutular"
+
+msgid "obj_crusantianbox03"
+msgstr "Kutular"
+
+msgid "obj_crusantianbuilding01"
+msgstr "Kule"
+
+msgid "obj_crusantianbuilding02"
+msgstr "Şehir merkezi"
+
+msgid "obj_crusantianbuilding03"
+msgstr "Ev"
+
+msgid "obj_crusantianbuilding04"
+msgstr "Ev"
+
+msgid "obj_crusantianfield"
+msgstr "Alanlar"
+
+msgid "obj_crusantianwall"
+msgstr "Duvar"
+
+msgid "obj_crusantianwallturret"
+msgstr "Taret silahı"
+
+msgid "obj_cucu-1"
+msgstr "Konut"
+
+msgid "obj_cucu-2"
+msgstr "Ev"
+
+msgid "obj_cucu-3"
+msgstr "Konut"
+
+msgid "obj_cucu-airvent"
+msgstr "Havalandırma"
+
+msgid "obj_cucu-debris-1"
+msgstr "Enkaz"
+
+msgid "obj_cucu-debris-2"
+msgstr "Enkaz"
+
+msgid "obj_cucu-elevator"
+msgstr "Asansör"
+
+msgid "obj_cucu-superweapon"
+msgstr "Karşıt yörünge ışını"
+
+msgid "obj_cucurbianairvent"
+msgstr "Havalandırma"
+
+msgid "obj_cucurbianwall"
+msgstr "Duvar"
+
+msgid "obj_cucurbianwallturret"
+msgstr "Taret silahı"
+
+msgid "obj_destroyedbuilding01"
+msgstr "Enkaz"
+
+msgid "obj_destroyedbuilding02"
+msgstr "Enkaz"
+
+msgid "obj_destroyedbuilding03"
+msgstr "Enkaz"
+
+msgid "obj_destroyedbuilding04"
+msgstr "Enkaz"
+
+msgid "obj_destroyedbuilding05"
+msgstr "Enkaz"
+
+msgid "obj_destroyedbuilding06"
+msgstr "Enkaz"
+
+msgid "obj_destroyedbuilding07"
+msgstr "Enkaz"
+
+msgid "obj_destroyedbuilding08"
+msgstr "Enkaz"
+
+msgid "obj_destroyedbuilding09"
+msgstr "Enkaz"
+
+msgid "obj_destroyedbuilding10"
+msgstr "Enkaz"
+
+msgid "obj_embassy-statue"
+msgstr "Heykel"
+
+msgid "obj_generator"
+msgstr "Jenerator"
+
+msgid "obj_generator-off"
+msgstr "Jenerator"
+
+msgid "obj_generator-on"
+msgstr "Jenerator"
+
+msgid "obj_group_commercial"
+msgstr "Dükkan"
+
+msgid "obj_group_decor"
+msgstr "Dekorasyon"
+
+msgid "obj_group_eating"
+msgstr "Yemek & İçecek"
+
+msgid "obj_group_facilities"
+msgstr "Tesisler"
+
+msgid "obj_group_factory"
+msgstr "Üretimler"
+
+msgid "obj_group_gardening"
+msgstr "Bahçeleme"
+
+msgid "obj_group_health"
+msgstr "Sağlık"
+
+msgid "obj_group_hygiene"
+msgstr "Hijyen"
+
+msgid "obj_group_misc"
+msgstr "Diğerleri"
+
+msgid "obj_group_recreational"
+msgstr "Tasarım"
+
+msgid "obj_group_security"
+msgstr "Güvenlik"
+
+msgid "obj_group_sleeping"
+msgstr "Dinlenme"
+
+msgid "obj_hive-crystal"
+msgstr "Kristal"
+
+msgid "obj_hive-crystal2"
+msgstr "Kristal"
+
+msgid "obj_hive-crystal3"
+msgstr "Kristal"
+
+msgid "obj_hive-mother"
+msgstr "Kristal"
+
+msgid "obj_hive-nest"
+msgstr "Kuluçka"
+
+msgid "obj_hive-pupa"
+msgstr "Larva"
+
+msgid "obj_human-boxes1"
+msgstr "Kutular"
+
+msgid "obj_human-boxes2"
+msgstr "Kutular"
+
+msgid "obj_human-boxes3"
+msgstr "Kutular"
+
+msgid "obj_human-plant"
+msgstr "Alan"
+
+msgid "obj_human-plant-burnt"
+msgstr "Yanmış alan"
+
+msgid "obj_human-short"
+msgstr "Ev"
+
+msgid "obj_human-station-box"
+msgstr "Kutular"
+
+msgid "obj_human-tall"
+msgstr "Konut"
+
+msgid "obj_human-tower"
+msgstr "Kule"
+
+msgid "obj_in_way"
+msgstr "Engel olan nesneler var, önce onları kaldırın."
+
+msgid "obj_lactianbanner"
+msgstr ""
+
+msgid "obj_lactianidol01"
+msgstr ""
+
+msgid "obj_lactianidol02"
+msgstr ""
+
+msgid "obj_lemurianbox01"
+msgstr "Kutular"
+
+msgid "obj_lemurianbox02"
+msgstr "Kutular"
+
+msgid "obj_lemurianbox03"
+msgstr "Kutular"
+
+msgid "obj_lemurianbuilding01"
+msgstr "Konut"
+
+msgid "obj_lemurianbuilding02"
+msgstr "Büyük ev"
+
+msgid "obj_lemurianbuilding03"
+msgstr "Toplantı odası"
+
+msgid "obj_lemuriancomputer"
+msgstr "Bilgisayar"
+
+msgid "obj_lemurianfield"
+msgstr "Alan"
+
+msgid "obj_lemurianmill"
+msgstr "Değirmen"
+
+msgid "obj_lemurianwall"
+msgstr "Duvar"
+
+msgid "obj_lemurianwallturret"
+msgstr "Taret silahı"
+
+msgid "obj_medusbomb"
+msgstr "Bomba"
+
+msgid "obj_medusbox01"
+msgstr "Kutular"
+
+msgid "obj_medusbox02"
+msgstr "Kutular"
+
+msgid "obj_medusbox03"
+msgstr "Kutular"
+
+msgid "obj_medusbox04"
+msgstr "Kutular"
+
+msgid "obj_medusbuilding01"
+msgstr "Konut"
+
+msgid "obj_medusbuilding02"
+msgstr "Büyük ev"
+
+msgid "obj_medusbuilding03"
+msgstr "Konut"
+
+msgid "obj_medusbuilding04"
+msgstr "Ev"
+
+msgid "obj_medusfield"
+msgstr "Alan"
+
+msgid "obj_medustree"
+msgstr "Alan"
+
+msgid "obj_medusturbine"
+msgstr "Türbün"
+
+msgid "obj_meduswall"
+msgstr "Duvar"
+
+msgid "obj_meduswallturret"
+msgstr "Taret silahı"
+
+msgid "obj_nogibox01"
+msgstr "Kutular"
+
+msgid "obj_nogibox03"
+msgstr "Kutular"
+
+msgid "obj_nogibuilding01"
+msgstr "Konut"
+
+msgid "obj_nogibuilding02"
+msgstr "Ev"
+
+msgid "obj_nogibuilding03"
+msgstr "Konut"
+
+msgid "obj_nogibuilding04"
+msgstr "Ev"
+
+msgid "obj_nogicondensator"
+msgstr "Kapasitör"
+
+msgid "obj_nogiextractor"
+msgstr "Toplayıcı"
+
+msgid "obj_nogigenerator"
+msgstr "Jeneratör"
+
+msgid "obj_nogiwall"
+msgstr "Duvar"
+
+msgid "obj_nogiwallturret"
+msgstr "Taret silahi"
+
+msgid "obj_pest-field"
+msgstr "İşgal bölgesi"
+
+msgid "obj_pest-house"
+msgstr "İşgaldeki ev"
+
+msgid "obj_pest-pile"
+msgstr "Belalı kazık"
+
+msgid "obj_pioneerswall"
+msgstr "Duvar"
+
+msgid "obj_pioneerswallturret"
+msgstr "Taret silahı"
+
+msgid "obj_pirate-antenna"
+msgstr "Anten"
+
+msgid "obj_pirate-building-bikes"
+msgstr "Bisiklet"
+
+msgid "obj_pirate-building-shuttle"
+msgstr "Mekik"
+
+msgid "obj_pirate-building-tent"
+msgstr "Çadır"
+
+msgid "obj_pirate-building-tower1"
+msgstr "Kule"
+
+msgid "obj_pirate-building-tower2"
+msgstr "Kule"
+
+msgid "obj_pirate-command"
+msgstr "Kontrol  merkezi"
+
+msgid "obj_pirate-crate"
+msgstr "Kasa"
+
+msgid "obj_pirate-debris-ab1"
+msgstr "Enkaz"
+
+msgid "obj_pirate-debris-ab2"
+msgstr "Enkaz"
+
+msgid "obj_pirate-debris-crap"
+msgstr "Çöp"
+
+msgid "obj_pirate-debris-crates1"
+msgstr "Kasalar"
+
+msgid "obj_pirate-debris-crates2"
+msgstr "Kasalar"
+
+msgid "obj_pirate-mineassembler"
+msgstr "Fabrika"
+
+msgid "obj_pirate-turret"
+msgstr "Taret silahı"
+
+msgid "obj_pirateswall"
+msgstr "Duvar"
+
+msgid "obj_pirateswallturret"
+msgstr "Taret silahı"
+
+msgid "obj_probe"
+msgstr "Sonda"
+
+msgid "obj_probe2"
+msgstr "Sonda"
+
+msgid "obj_robotbattery01"
+msgstr "Pil"
+
+msgid "obj_robotbattery02"
+msgstr "Pil"
+
+msgid "obj_robotbox01"
+msgstr "Kutular"
+
+msgid "obj_robotbox02"
+msgstr "Kutular"
+
+msgid "obj_robotbox03"
+msgstr "Kutular"
+
+msgid "obj_robotbox04"
+msgstr "Kutular"
+
+msgid "obj_robotbuilding01"
+msgstr "Hızlandırıcı"
+
+msgid "obj_robotbuilding02"
+msgstr "Dökümhane"
+
+msgid "obj_robotbuilding03"
+msgstr "Süzgeç"
+
+msgid "obj_robotcondensator"
+msgstr "Kapasitör"
+
+msgid "obj_robotsensor"
+msgstr "Sensör"
+
+msgid "obj_robotturret"
+msgstr "Taret silahı"
+
+msgid "obj_robotwall"
+msgstr "Duvar"
+
+msgid "obj_robotwallturret"
+msgstr "Taret silahı"
+
+msgid "obj_ruinsgreybuilding01"
+msgstr "Harabeler"
+
+msgid "obj_ruinsgreybuilding02"
+msgstr "Harabeler"
+
+msgid "obj_ruinsgreybuilding03"
+msgstr "Harabeler"
+
+msgid "obj_ruinsgreybuilding04"
+msgstr "Harabeler"
+
+msgid "obj_ruinsgreybuilding05"
+msgstr "Harabeler"
+
+msgid "obj_ruinsgreybuilding06"
+msgstr "Harabeler"
+
+msgid "obj_ruinsgreycolumns01"
+msgstr "Kolonlar"
+
+msgid "obj_ruinsgreycolumns02"
+msgstr "Kolonlar"
+
+msgid "obj_ruinsgreycolumns03"
+msgstr "Kolonlar"
+
+msgid "obj_ruinsgreycolumns04"
+msgstr "Kolonlar"
+
+msgid "obj_ruinsgreyrubble01"
+msgstr "Moloz"
+
+msgid "obj_ruinsgreyrubble02"
+msgstr "Moloz"
+
+msgid "obj_ruinsgreyrubble03"
+msgstr "Moloz"
+
+msgid "obj_ruinsgreyrubble04"
+msgstr "Moloz"
+
+msgid "obj_ruinsgreyrubble05"
+msgstr "Moloz"
+
+msgid "obj_ruinsgreyrubble06"
+msgstr "Moloz"
+
+msgid "obj_ruinsgreystatue01"
+msgstr "Heykel"
+
+msgid "obj_ruinsgreystatue02"
+msgstr "Heykel"
+
+msgid "obj_ruinspyhall01"
+msgstr "Salon"
+
+msgid "obj_ruinspyhall02"
+msgstr "Salon"
+
+msgid "obj_ruinspyhall03"
+msgstr "Salon"
+
+msgid "obj_ruinspyhall04"
+msgstr "Salon"
+
+msgid "obj_ruinspyhall05"
+msgstr "Salon"
+
+msgid "obj_ruinspyhall06"
+msgstr "Salon"
+
+msgid "obj_ruinspyrbuilding01"
+msgstr "Harabeler"
+
+msgid "obj_ruinspyrbuilding02"
+msgstr "Harabeler"
+
+msgid "obj_ruinspyrbuilding03"
+msgstr "Harabeler"
+
+msgid "obj_ruinspyrbuilding04"
+msgstr "Harabeler"
+
+msgid "obj_ruinspyrbuilding05"
+msgstr "Harabeler"
+
+msgid "obj_ruinspyrpyramid01part0"
+msgstr "Piramit"
+
+msgid "obj_ruinspyrpyramid01part1"
+msgstr "Piramit"
+
+msgid "obj_ruinspyrpyramid01part2"
+msgstr "Piramit"
+
+msgid "obj_ruinspyrpyramid01part3"
+msgstr "Piramit"
+
+msgid "obj_ruinspyrpyramid01part4"
+msgstr "Piramit"
+
+msgid "obj_ruinspyrpyramid02part1"
+msgstr "Piramit"
+
+msgid "obj_ruinspyrpyramid02part2"
+msgstr "Piramit"
+
+msgid "obj_ruinspyrpyramid02part3"
+msgstr "Piramit"
+
+msgid "obj_ruinspyrpyramid03"
+msgstr "Piramit"
+
+msgid "obj_ruinspyrpyramid04"
+msgstr "Piramit"
+
+msgid "obj_ruinspyrrubble01"
+msgstr "Moloz"
+
+msgid "obj_ruinspyrrubble02"
+msgstr "Moloz"
+
+msgid "obj_ruinspyrrubble03"
+msgstr "Moloz"
+
+msgid "obj_ruinspyrrubble04"
+msgstr "Moloz"
+
+msgid "obj_ruinspyrrubble05"
+msgstr "Moloz"
+
+msgid "obj_ruinspyrrubble06"
+msgstr "Moloz"
+
+msgid "obj_ruinspyrsphinx01"
+msgstr "Sifenks"
+
+msgid "obj_ruinspyrsphinx02"
+msgstr "Sifenks"
+
+msgid "obj_ruinspyrsphinx03"
+msgstr "Sifenks"
+
+msgid "obj_ruinspyrsphinx04"
+msgstr "Sifenks"
+
+msgid "obj_ruinspyrstatue01"
+msgstr "Heykel"
+
+msgid "obj_ruinspyrstatue02"
+msgstr "Heykel"
+
+msgid "obj_ruinspyrstatue03"
+msgstr "Heykel"
+
+msgid "obj_ship-debris-1"
+msgstr "Enkaz"
+
+msgid "obj_ship-debris-2"
+msgstr "Enkaz"
+
+msgid "obj_ship-debris-3"
+msgstr "Enkaz"
+
+msgid "obj_shuttle"
+msgstr "Mekik"
+
+msgid "obj_silo"
+msgstr "Ambar"
+
+msgid "obj_soup"
+msgstr "Çorba"
+
+msgid "obj_soy-empty"
+msgstr "Alan"
+
+msgid "obj_surprise-crate"
+msgstr "Oluştur"
+
+msgid "object"
+msgstr "Nesne"
+
+msgid "object_is_busy"
+msgstr ""
+
+msgid "object_strength"
+msgstr ""
+
+msgid "objects"
+msgstr "Nesneler"
+
+msgid "obsolete"
+msgstr "Kullanılmaz"
+
+msgid "oceanic_planet"
+msgstr ""
+
+msgid "off"
+msgstr "Kapalı"
+
+msgid "offcer_can_evolve"
+msgstr "~A yeni ~A görevi için yeterli deneyime sahip.Bu elemanınızı Personel>özellik ekranından rütbe verebilirsiniz"
+
+msgid "officer"
+msgstr "Eleman"
+
+msgid "officer_busy"
+msgstr "Elemanların hepsi meşgul "
+
+msgid "officer_died"
+msgstr "Elemanınız ~A öldü"
+
+msgid "officer_dock"
+msgstr "Tayfa Limanı"
+
+msgid "officer_dock_desc"
+msgstr "Bu üs için atanmış gemi sadece iniş yapabilir "
+
+msgid "officer_from"
+msgstr "~A (Seviye ~A) doğdu-(~A sistemi)"
+
+msgid "officer_in_crew"
+msgstr "Mevcut gemide: ~A"
+
+msgid "officer_location_station"
+msgstr "İstasyonda bul"
+
+msgid "officer_single_navi_speed"
+msgstr "Gemi sürat katımı: +~0,2F%"
+
+msgid "officer_single_navi_speed_desc"
+msgstr "Not: Eğer seçilen rehber en iyisi değilse tayfada ,onlar gemi ulaşım hızına daha az katkıda bulunacaktır."
+
+msgid "oils"
+msgstr "Yağlar"
+
+msgid "oils_node"
+msgstr "Yağ bloğu"
+
+msgid "ok"
+msgstr "OK"
+
+msgid "okay"
+msgstr "Uygun"
+
+msgid "on"
+msgstr "Açık"
+
+msgid "on_patrol_busy"
+msgstr "Nöbette"
+
+msgid "on_strike"
+msgstr "Savaşta"
+
+msgid "on_strike_desc"
+msgstr "Çalışmaya karşı, ekipmanı karşı sinirli"
+
+msgid "options"
+msgstr "Ayarlar"
+
+msgid "options_menu"
+msgstr "Seçenekler"
+
+msgid "options_more_languages"
+msgstr ""
+
+msgid "options_need_game"
+msgstr ""
+
+msgid "options_save_desc"
+msgstr ""
+
+msgid "orion_soda"
+msgstr "Oryon Soda"
+
+msgid "output"
+msgstr "Sonuç"
+
+msgid "owned_desc"
+msgstr "Bu nesne zimmetli ve sahibi kullanır. Bakımları diğer eleman yada robotlar tarafından yapılır."
+
+msgid "owner_officer_select"
+msgstr "Zimmeti değiştir"
+
+msgid "owner_propagates_desc"
+msgstr "Bu nesne zimmetlenirse oda içindeki bütün diğer nesneler otomatik olarak o kişiye zimmetlenir."
+
+msgid "ownership"
+msgstr "Zimmetle"
+
+msgid "ownership_area_must_single"
+msgstr "Oda sahipi başına sadece bir yatak"
+
+msgid "pacifist"
+msgstr "Barışçıl"
+
+msgid "paid_salary_amt"
+msgstr "~A/~A "
+
+msgid "pallet"
+msgstr "Palet"
+
+msgid "pallet_desc"
+msgstr "Sadece bir stoğunuzu belirttiğiniz sayılar kadar barındırır"
+
+msgid "pallet_info_help"
+msgstr ""
+
+msgid "passing_out"
+msgstr "Bilinçsiz"
+
+msgid "patient"
+msgstr "Hasta"
+
+msgid "pause"
+msgstr "Oyunu beklet"
+
+msgid "pending"
+msgstr "Hesaplanan"
+
+msgid "pending_upgrade"
+msgstr "geliştirme gereken"
+
+msgid "pharmacist"
+msgstr "Eczacı"
+
+msgid "pharmacist_desc"
+msgstr "Doktorlar uyuşturmaya ihtiyaç duyar, Eczacılarda bunu üretmekte ustalar."
+
+msgid "pharmacy"
+msgstr "Eczacılık"
+
+msgid "photo_frames"
+msgstr "Resim çerçeveleri"
+
+msgid "photobooth"
+msgstr "Resim çekilme kabini"
+
+msgid "photobooth_desc"
+msgstr "Foto çeker ve size çıktıyı sunar, Tarih öncesi gibi."
+
+msgid "pick_resource_pallet"
+msgstr "Palete stokla"
+
+msgid "pills"
+msgstr "Haplar"
+
+msgid "pinball"
+msgstr "Pinball oyunu"
+
+msgid "pinball_desc"
+msgstr "Demir topu ıskalamada yüzeydeki nesnelere çarptırma oyunu."
+
+msgid "pirates_adjective"
+msgstr "Korsan %s"
+
+msgid "pirates_adjective2"
+msgstr "Korsan ~A"
+
+msgid "pirates_ltd"
+msgstr "Korsan çetesi"
+
+msgid "pirates_member"
+msgstr "Korsan"
+
+msgid "pirates_name"
+msgstr "Korsanlar"
+
+msgid "pizza"
+msgstr "Pizza"
+
+msgid "plain_clothes"
+msgstr "Sade elbise"
+
+msgid "plain_clothes_obj"
+msgstr "Giysi rafları"
+
+msgid "plain_clothes_obj_desc"
+msgstr "Basit raf giysilere"
+
+msgid "planet"
+msgstr "Gezegen"
+
+msgid "planet_defensive_turret"
+msgstr "Savunma taret silahı"
+
+msgid "planet_defensive_turret_desc"
+msgstr "Düşmanlara karşı yakınlarındaki binalarınızı savunur"
+
+msgid "planet_embassy"
+msgstr "Elçilik"
+
+msgid "planet_embassy_desc"
+msgstr "Yerel medeniyete karşı itibarımızı yavaş yavaş arttırır ,bir sınıra kadar."
+
+msgid "planet_info_friend"
+msgstr "Arkadaşlarımız mütavazi  gezegenimiz The Spatials:Galactology'e hoşgeldiniz. Lütfen herşeyi araklamaya kalkmayın."
+
+msgid "planet_info_hostile"
+msgstr "İşgalciler! Tüm birimleri toplayın!"
+
+msgid "planet_info_neutral"
+msgstr "Merhaba! Silahı kime doğrulttuğuna dikkat eder misin?"
+
+msgid "planet_info_no_civ"
+msgstr "Bu gezegende gelişmiş zeka belirtileri tespit edilmedi. Ağaçlarda dahil buna"
+
+msgid "planet_no_stocks"
+msgstr "Bu gezegende hammadde stokları kullanılmamakta, daha fazla toplayıcı binası inşa edin veya üretilmeleri için bekleyin"
+
+msgid "planet_propaganda"
+msgstr "Reklam istasyonu"
+
+msgid "planet_propaganda_desc"
+msgstr "Gezegen sisteminizden başlayarak istasyona inecek gemilerin sıklığı artar"
+
+msgid "planet_recruitment_center"
+msgstr "İşe alım binası"
+
+msgid "planet_recruitment_center_desc"
+msgstr "Bu gezegenden yeni elemanlar çıkartır, onların ırkıyla müttefik olduğumuz sürece."
+
+msgid "planet_resource_extract_disable"
+msgstr "Bu çeşit hammadelerin toplanması engellenir. Gemiye yüklenene kadar varolan stok kalacaktır."
+
+msgid "planet_resource_extract_enable"
+msgstr "Bu çeşit hammadeler için toplayıcı kullanımda"
+
+msgid "planet_ships_with_order"
+msgstr ""
+
+msgid "planet_storage"
+msgstr "Depo"
+
+msgid "planet_storage_current"
+msgstr "~A birim depoda"
+
+msgid "planet_storage_desc"
+msgstr "Bu gezegen çıkarılan hammade için depo alanına 50 birim ekler "
+
+msgid "planet_storage_max"
+msgstr "~A birim maksimum"
+
+msgid "planet_travel"
+msgstr "@ui_icon_30px_fleet2.png Seyahat"
+
+msgid "planetarium"
+msgstr "Gezegentaşı"
+
+msgid "planetarium_desc_friendly"
+msgstr "~A karşı anlayışlı oluşunuz size buraya rüşvet ödemenize ve bilgi paylaşmanıza sebep olur kan dökmeden ve itibarlı bir şekilde."
+
+msgid "planetarium_desc_hostile"
+msgstr "Bu binayı yok etmek bağlı gezengen yıldız sistemine ulaşmanızı sağlar: ~A"
+
+msgid "planetarium_pay"
+msgstr "Haraç ödemek"
+
+msgid "planetarium_price"
+msgstr "Fiyat: ~A @ui_icon_20px_credits04.png"
+
+msgid "planetarium_warn_rep"
+msgstr "Bu binayı yoketmek sizin şöhretinizi büyük ölçüde ~A gözünde azaltacaktır."
+
+msgid "platinum"
+msgstr "Platinyum"
+
+msgid "platinum_node"
+msgstr "Platinyum bloğu"
+
+msgid "player"
+msgstr "Oyuncu"
+
+msgid "player_desc"
+msgstr "Saldırma oyuncunun kontrolündedir. Bu ayar sadece varlık grupta yada ekipte olduğu sürece geçerlidir."
+
+msgid "pleasure_program"
+msgstr "Eğlence yayını"
+
+msgid "plus_rep"
+msgstr ""
+
+msgid "plus_rep_c"
+msgstr ""
+
+msgid "plus_soap"
+msgstr "Büyük sabun"
+
+msgid "power"
+msgstr "Güç"
+
+msgid "power_base_absorb"
+msgstr "Temel savuşturma: ~A"
+
+msgid "power_base_control"
+msgstr "Kalabalık kontrol odası: ~A"
+
+msgid "power_base_damage"
+msgstr "Temel hasar: ~A"
+
+msgid "power_base_healing"
+msgstr "Temel iyileşme: ~A"
+
+msgid "power_base_health"
+msgstr "Temel sağlık: ~A"
+
+msgid "power_factor_absorb"
+msgstr "Savuşturma faktörü: x~A"
+
+msgid "power_factor_control"
+msgstr "Kalabalık kontrol etkisi: x~A"
+
+msgid "power_factor_damage"
+msgstr "Saldırma faktörü: x~A"
+
+msgid "power_factor_healing"
+msgstr "İyileşme faktörü: x~A"
+
+msgid "power_factor_health"
+msgstr "Hayat faktörü: x~A"
+
+msgid "power_short"
+msgstr "Güç"
+
+msgid "pr"
+msgstr "Bakıcı"
+
+msgid "pre_intro"
+msgstr "Aynı şeylerden yoruldunuz mu? Evrendeki yerinizi henüz bulamadınız mı? Yıldız sistemleri hakkında meraklı mısınz? Bu sorulardan birine cevabınız evetse tereddütsüz OYUNA KATILIN!"
+
+msgid "press_esc_cancel2"
+msgstr "\nEsc basın veya sağ tıklayıp iptal edin"
+
+msgid "press_new_key"
+msgstr ""
+
+msgid "pretentious_foods"
+msgstr "Gösterişli gıdalar"
+
+msgid "pretentious_foods_desc"
+msgstr "Bazı gezegenlerde yasaklı olan lezzetli yiyecekler"
+
+msgid "previous"
+msgstr "Önceki"
+
+msgid "price"
+msgstr "Fiyatı"
+
+msgid "price_bom_row"
+msgstr ""
+
+msgid "price_row"
+msgstr ""
+
+msgid "price_too_much"
+msgstr "Yeterli para yok"
+
+msgid "processing"
+msgstr "İşliyor..."
+
+msgid "prod_current_queue2"
+msgstr "Sıradaki"
+
+msgid "prod_global"
+msgstr "Görevsiz"
+
+msgid "prod_global_desc"
+msgstr "Stok envanter penceresinde toplam miktarı hesaplanarak üretim görevleri otomatik eklenecektir."
+
+msgid "prod_local"
+msgstr "Görevle"
+
+msgid "prod_local_desc"
+msgstr "Üretilen Görev oluştur tuşuyla elle eklenir"
+
+msgid "prod_production"
+msgstr "Üretim:"
+
+msgid "prodction_queue_empty"
+msgstr "Boş"
+
+msgid "producing_recipe2"
+msgstr "Üreten"
+
+msgid "projectile_direct_desc"
+msgstr "Tek atış, Kurşun"
+
+msgid "projectile_explosive_desc"
+msgstr "Bölge, Mermisi"
+
+msgid "projectile_reactive_desc"
+msgstr "Mesafe zamanlı, Kurşun"
+
+msgid "purchases"
+msgstr "Satışlar"
+
+msgid "purifier_salts"
+msgstr "Arınmış tuz"
+
+msgid "quick_jump"
+msgstr ""
+
+msgid "quit_game"
+msgstr "Çıkış"
+
+msgid "random"
+msgstr ""
+
+msgid "range_max"
+msgstr "Uzaklık: ~A zemin"
+
+msgid "range_min_max"
+msgstr "Uzaklık: ~A - ~A zeminler"
+
+msgid "rations_luxury"
+msgstr "Lüks gıdalar"
+
+msgid "rations_quality"
+msgstr "Kaliteli gıdalar"
+
+msgid "reactive_area_desc"
+msgstr "Alan"
+
+msgid "rebuildable_ruins_build"
+msgstr ""
+
+msgid "rebuildable_ruins_desc"
+msgstr ""
+
+msgid "rebuildable_ruins_recycle"
+msgstr ""
+
+msgid "recipe_add_queue"
+msgstr "Sıraya koy"
+
+msgid "recipe_difficulty"
+msgstr ""
+
+msgid "recipe_duration"
+msgstr "Üretim süresi: ~As"
+
+msgid "recipe_failed"
+msgstr "~A başarısız"
+
+msgid "recipe_job_name"
+msgstr "Zorunlu iş: ~A"
+
+msgid "recipe_mini"
+msgstr "Tarif:"
+
+msgid "recipe_order_amount"
+msgstr "Kaç kere üretsin bir tarifi veya -1 sınırsız kere."
+
+msgid "recipe_order_amount_tip"
+msgstr "Bir tarifi kaç kere üretsin "
+
+msgid "recipe_order_create"
+msgstr "Görev oluştur"
+
+msgid "recipe_order_delete"
+msgstr "Görevi kaldır"
+
+msgid "recipes"
+msgstr "Yemek tarifi"
+
+msgid "recreational_tier_1"
+msgstr "Kütüphane I"
+
+msgid "recreational_tier_2"
+msgstr "Taverna I"
+
+msgid "recreational_tier_3"
+msgstr "Taverna II / Kütüphane II"
+
+msgid "recreational_tier_4"
+msgstr "Atari I"
+
+msgid "recreational_tier_5"
+msgstr "Disko I"
+
+msgid "recreational_tier_6"
+msgstr "Disko II / Atari II"
+
+msgid "recreational_tier_7"
+msgstr "Gazino I"
+
+msgid "recreational_tier_8"
+msgstr "HoloTv I"
+
+msgid "recreational_tier_9"
+msgstr "HoloTv II / Casino II"
+
+msgid "recruit"
+msgstr "İşe al "
+
+msgid "recruit_existing_xp"
+msgstr "Deneyimi:"
+
+msgid "recruit_existing_xp_in"
+msgstr "~A: ~A XP\n"
+
+msgid "recruit_hire"
+msgstr "İşe al: ~A"
+
+msgid "recruit_hire_price"
+msgstr "İşe giriş bonusu: ~A @ui_icon_20px_credits04.png"
+
+msgid "recruit_hire_price_too_much"
+msgstr "Yeterli para yok"
+
+msgid "recycle_items_level"
+msgstr "Çöpler aşama altında :"
+
+msgid "recycled_something"
+msgstr "~A dönüştürüldü"
+
+msgid "recycler"
+msgstr "Geridönüşüm"
+
+msgid "recycling"
+msgstr "Çöpçülük"
+
+msgid "recyler"
+msgstr "Geri dönüşüm"
+
+msgid "recyler_desc"
+msgstr "Çöpleri dönüştürür"
+
+msgid "red_token"
+msgstr "Kırmızı jeton"
+
+msgid "redshirt"
+msgstr "Vasıfsız"
+
+msgid "redshirt_desc"
+msgstr "Her işe koşan, kimseye ustalık taslamayan. Çok yönlü ama yorularak çok şey öğrenen. Her işte yetiştirilebilir. Bazı tarifeler tamamlayıcı olabilir onların ulaşmak istediği işe."
+
+msgid "regenerativechamber"
+msgstr "Hücre yenileme haznesi"
+
+msgid "regenerativechamber_desc"
+msgstr "Evrenin en gelişmiş sağlık bakım sistem."
+
+msgid "remains"
+msgstr "Kalıntılar"
+
+msgid "remains_desc"
+msgstr "Kalıntılar bir geridönüşümle yeni bir  nesneye dönüştürülür."
+
+msgid "remains_of"
+msgstr "Kalıntılar: ~A"
+
+msgid "removed_floor"
+msgstr "Kaldırmış zemin"
+
+msgid "removed_wall"
+msgstr ""
+
+msgid "rep_allied"
+msgstr "Müttefik"
+
+msgid "rep_at_war"
+msgstr "Savaşan"
+
+msgid "rep_at_war_desc"
+msgstr ""
+
+msgid "rep_friendly"
+msgstr "Dost"
+
+msgid "rep_hostile"
+msgstr "Saldırgan"
+
+msgid "rep_hostile_desc"
+msgstr ""
+
+msgid "rep_neutral"
+msgstr "Tarafsız old"
+
+msgid "rep_neutral_plus_desc"
+msgstr ""
+
+msgid "rep_uncontested"
+msgstr "Kabül gören"
+
+msgid "repair"
+msgstr "Tamir"
+
+msgid "repair_parts"
+msgstr "Tamir parçaları"
+
+msgid "repair_workplace_action"
+msgstr "Tamir: ~A"
+
+msgid "replay_introduction"
+msgstr "Sunumu tekrarla"
+
+msgid "reputation"
+msgstr "İtibar"
+
+msgid "reputation_gain"
+msgstr "Satışta kazanç itibarı:"
+
+msgid "reputation_hit"
+msgstr "Satışta popüler itibar:"
+
+msgid "req_decor"
+msgstr "Herhangi dekor"
+
+msgid "req_shower"
+msgstr "Herhangi duş"
+
+msgid "required_points"
+msgstr "Gerekli puan: ~A"
+
+msgid "required_tokens"
+msgstr "Gerekli jeton: FIXME"
+
+msgid "research"
+msgstr "Geliştirme"
+
+msgid "research_completed_alert"
+msgstr "Gelişim <<~A ~A>> için tamamlanmıştır."
+
+msgid "research_points"
+msgstr "Geliştirme puanı: ~A of ~A"
+
+msgid "research_remember"
+msgstr "Geliştirme masası kurmayı ve masaya elemanları atamayı unutmayın. Geliştirme işleri gelişme puanı almalarını sağlar. 2016-07-03T20:30:59.196653"
+
+msgid "research_tutorial"
+msgstr "Geliştirme dersi"
+
+msgid "researcher"
+msgstr "Geliştirici"
+
+msgid "researcher_desc"
+msgstr "Onlarca yıl bir bilgisayar önünde kim durmak ister? Araştırmacılar. Teknoloji, bir araştırmacı ekibi ile her zamankinden daha hızlı ilerleyecektir."
+
+msgid "researchtable"
+msgstr "Geliştirme Masası"
+
+msgid "researchtable_desc"
+msgstr "Elemanlar burada araştırır."
+
+msgid "resource"
+msgstr "Malzeme"
+
+msgid "resource_node_info_reqs"
+msgstr "Zorunlu"
+
+msgid "resource_tag_armor"
+msgstr "Zırh"
+
+msgid "resource_tag_bio"
+msgstr "Hücreliler"
+
+msgid "resource_tag_consumerist_product"
+msgstr "Tüketim"
+
+msgid "resource_tag_crowdcontrol"
+msgstr "Kalabalık kontrolü"
+
+msgid "resource_tag_drinkable"
+msgstr "İçilen"
+
+msgid "resource_tag_edible"
+msgstr "Yenen"
+
+msgid "resource_tag_equipment"
+msgstr "Ekipman"
+
+msgid "resource_tag_extracted"
+msgstr ""
+
+msgid "resource_tag_fluid"
+msgstr "Akışkan"
+
+msgid "resource_tag_fun"
+msgstr "Komik"
+
+msgid "resource_tag_gambling_giving"
+msgstr "Kumar"
+
+msgid "resource_tag_gas"
+msgstr "Gaz"
+
+msgid "resource_tag_implant"
+msgstr "Takılar"
+
+msgid "resource_tag_inebriation_giving"
+msgstr "Sarhoşluk veren"
+
+msgid "resource_tag_knowledge_giving"
+msgstr "Zihin açan"
+
+msgid "resource_tag_liquid"
+msgstr "Sıvı"
+
+msgid "resource_tag_medical"
+msgstr "Tıbbi"
+
+msgid "resource_tag_meds"
+msgstr "İlaç"
+
+msgid "resource_tag_metal"
+msgstr "Metal"
+
+msgid "resource_tag_mineral"
+msgstr "Mineral"
+
+msgid "resource_tag_organic"
+msgstr "Organik"
+
+msgid "resource_tag_power_absorb"
+msgstr "Savuşturma"
+
+msgid "resource_tag_power_control"
+msgstr "Kontrol"
+
+msgid "resource_tag_power_damage"
+msgstr "Hasar"
+
+msgid "resource_tag_power_generic"
+msgstr "Güç bonusu"
+
+msgid "resource_tag_power_healing"
+msgstr "İyileştirme"
+
+msgid "resource_tag_power_health"
+msgstr "Sağlık bonusu"
+
+msgid "resource_tag_product"
+msgstr "Ürün"
+
+msgid "resource_tag_readable"
+msgstr "Okunabilir"
+
+msgid "resource_tag_shielding"
+msgstr "Korumalık"
+
+msgid "resource_tag_slot_active"
+msgstr "Giyildi"
+
+msgid "resource_tag_slot_chest"
+msgstr "Vücuda"
+
+msgid "resource_tag_slot_feet"
+msgstr "Ayaklara"
+
+msgid "resource_tag_slot_hands"
+msgstr "Ellere"
+
+msgid "resource_tag_slot_implant"
+msgstr "Takı"
+
+msgid "resource_tag_soap"
+msgstr "Sabun"
+
+msgid "resource_tag_weapon"
+msgstr "Silah"
+
+msgid "restock_at"
+msgstr "Stok eşitse"
+
+msgid "restocking"
+msgstr "Taşıma"
+
+msgid "right_mouse_button_abbr"
+msgstr "Tıkla"
+
+msgid "robot_adjective"
+msgstr "Robot %s"
+
+msgid "robot_adjective2"
+msgstr "Robot ~A"
+
+msgid "robot_charger"
+msgstr "Robot şarjı"
+
+msgid "robot_charger_desc"
+msgstr "Robotu şarj etmek için benzin doldurun"
+
+msgid "robot_factory"
+msgstr "Robot fabrikası"
+
+msgid "robot_factory_desc"
+msgstr "İstasyonda çalışacak robot üretimi."
+
+msgid "robot_inventory"
+msgstr ""
+
+msgid "robot_inventory_max_robots"
+msgstr ""
+
+msgid "robot_inventory_total_robots"
+msgstr ""
+
+msgid "robot_member"
+msgstr "Robot"
+
+msgid "robot_name"
+msgstr "Robotlar"
+
+msgid "robot_union"
+msgstr "Robot ulusu"
+
+msgid "robots_cannot_build_more"
+msgstr ""
+
+msgid "room_10"
+msgstr "Ev stili"
+
+msgid "room_11"
+msgstr "Düz kareli"
+
+msgid "room_12"
+msgstr "Ağır metal"
+
+msgid "room_13"
+msgstr "Saf atölye"
+
+msgid "room_14"
+msgstr "Kristalsi "
+
+msgid "room_15"
+msgstr "Gökyüzü Çatı "
+
+msgid "room_16"
+msgstr "Sıhhi Tesisat"
+
+msgid "room_17"
+msgstr "Arınmış bölme"
+
+msgid "room_18"
+msgstr "Dolgulu bölme "
+
+msgid "room_19"
+msgstr "Servis tarzı"
+
+msgid "room_20"
+msgstr "Kanalizasyonel"
+
+msgid "room_21"
+msgstr "Çörek deseni"
+
+msgid "room_22"
+msgstr "Fantezi Stili"
+
+msgid "room_23"
+msgstr "İçine çeken"
+
+msgid "room_24"
+msgstr "Suit stili"
+
+msgid "room_25"
+msgstr "Cennet bahçesi"
+
+msgid "room_26"
+msgstr "Sağlam fayans"
+
+msgid "room_27"
+msgstr "Flamingo stil"
+
+msgid "room_28"
+msgstr "Kırsal stil"
+
+msgid "room_29"
+msgstr "Kütüphanelik"
+
+msgid "room_30"
+msgstr "Ceket şıklığı"
+
+msgid "room_31"
+msgstr "Tekno   "
+
+msgid "room_32"
+msgstr "Kıyametsel"
+
+msgid "room_33"
+msgstr "Tapınaksı"
+
+msgid "room_34"
+msgstr "Gemi içi"
+
+msgid "room_35"
+msgstr "Sahipsiz"
+
+msgid "room_36"
+msgstr "Karmaşa I"
+
+msgid "room_37"
+msgstr "Karmaşa II"
+
+msgid "room_38"
+msgstr "Yeşilliksel"
+
+msgid "room_39"
+msgstr "Fikirsel I"
+
+msgid "room_40"
+msgstr "Fikirsel II"
+
+msgid "room_41"
+msgstr "Aşamalı Neon"
+
+msgid "room_42"
+msgstr "Nostalji Ahırı"
+
+msgid "room_43"
+msgstr "Kırık desenli"
+
+msgid "room_44"
+msgstr "Greyfurt stili"
+
+msgid "room_aestehtics_amt"
+msgstr ""
+
+msgid "room_aesthetics"
+msgstr ""
+
+msgid "room_of_aesthetics"
+msgstr ""
+
+msgid "room_of_tiles"
+msgstr "%d zeminli oda"
+
+msgid "room_size"
+msgstr "Oda ölçüleri"
+
+msgid "room_size_amt"
+msgstr "~A zemin"
+
+msgid "rooms"
+msgstr "Odalar"
+
+msgid "roulette"
+msgstr "Rulet"
+
+msgid "roulette_desc"
+msgstr "Bu topun acıması yok, yeminle. Altın jeton atılır."
+
+msgid "ruins"
+msgstr ""
+
+msgid "salary"
+msgstr "Maaş"
+
+msgid "salary_amt"
+msgstr "~A @ui_icon_20px_credits04.png dakikada."
+
+msgid "sapper"
+msgstr "Bahçevan"
+
+msgid "sapper_desc"
+msgstr "Birşeyin nasıl kurulduğunu bilirsen nasıl parçalandığınıda bilirsin. Hızlı. İçi bir ateş topu"
+
+msgid "sauna"
+msgstr "Sahuna"
+
+msgid "sauna_desc"
+msgstr "Sağlık için bin yıllık en etkili bakım"
+
+msgid "save_game"
+msgstr "Oyunu kaydet"
+
+msgid "saw_corpse"
+msgstr "Beden kalıntısı gördü"
+
+msgid "saw_corpse_desc"
+msgstr "Korkunç!"
+
+msgid "scan_alert"
+msgstr "Davetsiz misafir bulundu!"
+
+msgid "scientist"
+msgstr "Bilimci"
+
+msgid "scientist_desc"
+msgstr "Araştırma ve deneyde yardımcılar. Maddeleri günlerce birbiriyle karıştırırlar. "
+
+msgid "scrap_ship"
+msgstr "Gemiyi parçala"
+
+msgid "seaweed_juice"
+msgstr "Yosun suyu"
+
+msgid "secscan"
+msgstr "Güvenlik taraması"
+
+msgid "secscan_desc"
+msgstr "Misafirleri güvenlik için tarar."
+
+msgid "security_desc"
+msgstr "Keskin nişancılıkla uzmanca silah kullanır, Güvenlik elemanları istasyonda ve galaksi seferlerinde sizi korur."
+
+msgid "security_robot"
+msgstr "Güvenlik robotu"
+
+msgid "security_spec"
+msgstr "Güvenlik"
+
+msgid "securitydoor"
+msgstr "Güvenlik kapısı"
+
+msgid "securitydoor_desc"
+msgstr "Kontrollü erişim için güçlü kapı"
+
+msgid "seeds"
+msgstr "Tohumlar"
+
+msgid "seeds_node"
+msgstr "Tohum bloku"
+
+msgid "select"
+msgstr "Seç"
+
+msgid "select_load_slot"
+msgstr "Yüklenecek alanı seç"
+
+msgid "select_officer"
+msgstr "Bir eleman seçin"
+
+msgid "select_officer_current_location"
+msgstr "İstasyondaki konumu bulun"
+
+msgid "select_officer_open_fleet"
+msgstr "Kokpite dön"
+
+msgid "select_officer_open_ship"
+msgstr "Gemiye bağlan"
+
+msgid "select_recipe_order"
+msgstr "Bir yemek tarifi seç:"
+
+msgid "select_save_slot"
+msgstr "Kaydedilecek alanı seç"
+
+msgid "select_ship"
+msgstr "Gemi seç"
+
+msgid "select_ship_design"
+msgstr "Gemi dizaynını seçin:"
+
+msgid "selected"
+msgstr "Seçildi"
+
+msgid "selected_recipe"
+msgstr "Seçilmiş tarif: ~A"
+
+msgid "self_destroy"
+msgstr "Düşmanlara zarar vermek için bir patlat. Yangın çıkarabilir."
+
+msgid "sell_to"
+msgstr ""
+
+msgid "set target to ~A"
+msgstr "Seçilen hedef: ~A "
+
+msgid "set_group_target_cc_label"
+msgstr ""
+
+msgid "set_group_target_damage_label"
+msgstr ""
+
+msgid "set_group_target_heal_label"
+msgstr ""
+
+msgid "set_group_target_shield_label"
+msgstr ""
+
+msgid "set_rally_point"
+msgstr "Bekleme noktasını ayarla"
+
+msgid "set_rally_point_label"
+msgstr "Tıkladığınız yerdeki bayrak noktasında ~A beklemeye başlar"
+
+msgid "set_target_cc"
+msgstr ""
+
+msgid "set_target_cc_label"
+msgstr ""
+
+msgid "set_target_damage"
+msgstr ""
+
+msgid "set_target_damage_label"
+msgstr ""
+
+msgid "set_target_heal"
+msgstr ""
+
+msgid "set_target_heal_label"
+msgstr ""
+
+msgid "set_target_shield"
+msgstr ""
+
+msgid "set_target_shield_label"
+msgstr ""
+
+msgid "shell_autosaving"
+msgstr "Otomatik kaydediyor..."
+
+msgid "shell_saving"
+msgstr "Kaydediyor..."
+
+msgid "shield_1_name"
+msgstr "Hasar kalkanı"
+
+msgid "shield_2_name"
+msgstr "Super hasar kalkanı"
+
+msgid "shield_3_name"
+msgstr "Ultra hasar kalkanı"
+
+msgid "ship_allowed_cargo"
+msgstr ""
+
+msgid "ship_allowed_desc"
+msgstr ""
+
+msgid "ship_allowed_edit"
+msgstr ""
+
+msgid "ship_approach_progress"
+msgstr "~A% işlemde"
+
+msgid "ship_arrived_info"
+msgstr "%s şu an %s"
+
+msgid "ship_auto_status_run"
+msgstr "Oto pilotta"
+
+msgid "ship_auto_status_stop"
+msgstr "Manuel ayarda"
+
+msgid "ship_build_done"
+msgstr "~A (~A)  inşası bitti ve istasyona iniş yaptı"
+
+msgid "ship_busy_cannot_edit"
+msgstr "Gemi istasyonunuza parketmedi"
+
+msgid "ship_cargo_info"
+msgstr "Kargo: ~A kullanılan/ ~A toplam"
+
+msgid "ship_construction_is_paused"
+msgstr "Gemi inşası duraklatıldı"
+
+msgid "ship_construction_start"
+msgstr "İnşaaya başla"
+
+msgid "ship_distance_to_other"
+msgstr "Mesafe  %s (Seviye %d): %0.2f parse 2016-10-14T12:38:54.517333"
+
+msgid "ship_dock_assigned"
+msgstr ""
+
+msgid "ship_final_destination"
+msgstr "Son durak: %s (Seviye %d)"
+
+msgid "ship_kind_authority"
+msgstr "Kuğu"
+
+msgid "ship_kind_bagelhead"
+msgstr "Bagelhead gemisi"
+
+msgid "ship_kind_benevolence"
+msgstr "Kurbağa"
+
+msgid "ship_kind_blorg"
+msgstr "Blorg gemisi"
+
+msgid "ship_kind_chuchu"
+msgstr "Cücük gemisi"
+
+msgid "ship_kind_crusantian"
+msgstr "Çekirgeni gemisi"
+
+msgid "ship_kind_cucurbian"
+msgstr "Sukabaklı gemisi"
+
+msgid "ship_kind_diligence"
+msgstr "Yengeç"
+
+msgid "ship_kind_droid"
+msgstr "Robot gemisi"
+
+msgid "ship_kind_exploration"
+msgstr "Balina"
+
+msgid "ship_kind_foresight"
+msgstr "Penguen"
+
+msgid "ship_kind_human"
+msgstr "İnsan gemisi"
+
+msgid "ship_kind_intervention"
+msgstr "Yunus"
+
+msgid "ship_kind_lactian"
+msgstr "Lactiana gemisi"
+
+msgid "ship_kind_lemurian"
+msgstr "Lemur gemisi"
+
+msgid "ship_kind_medus"
+msgstr ""
+
+msgid "ship_kind_nogi"
+msgstr "Boylu gemisi"
+
+msgid "ship_kind_pirates"
+msgstr "Korsan gemisi"
+
+msgid "ship_kind_rationality"
+msgstr "Köpekbalığı"
+
+msgid "ship_kind_temerity"
+msgstr "Dilbalığı"
+
+msgid "ship_kind_volition"
+msgstr "Pelikan"
+
+msgid "ship_must_parked_home2"
+msgstr ""
+
+msgid "ship_not_available_empty"
+msgstr "Gemide eleman yok "
+
+msgid "ship_not_available_empty_only_home"
+msgstr "Gemiyi kullanacak eleman yok sadece geri dönebilir old"
+
+msgid "ship_not_available_full_morale"
+msgstr "Elemanlarınızdan birinin morali bozuk"
+
+msgid "ship_not_available_invalid"
+msgstr "Gemi kullanılamaz halde"
+
+msgid "ship_not_available_some_already_exploring"
+msgstr "Bir geminizi zaten keşifte kullanıyorsunuz"
+
+msgid "ship_not_available_this_already_exploring"
+msgstr "Gemi gezegeni keşfediyor"
+
+msgid "ship_order_item_subtile_home"
+msgstr ""
+
+msgid "ship_order_item_subtile_other"
+msgstr ""
+
+msgid "ship_order_item_tile"
+msgstr "Seyahat yeri: %s (Seviye %d) en %s"
+
+msgid "ship_order_item_tile_star"
+msgstr "Seyahat yeri: %s (Seviye %d)"
+
+msgid "ship_order_wait_time_dialog_label"
+msgstr "Bir dakika süresi belirleyin, 0 değeri en az olan 10 saniyedir:"
+
+msgid "ship_orders_delete_order"
+msgstr "Seçilen durağı kaldır"
+
+msgid "ship_orders_drag_icon"
+msgstr "Bu simgeyi sürükleyip bir gezegen yada gezegenin sistemi üstünde bırakıp bir talimat oluşturun"
+
+msgid "ship_orders_go_bridge"
+msgstr "Kokpiti aç"
+
+msgid "ship_orders_move_down"
+msgstr "Seçilen durağı alta düşür"
+
+msgid "ship_orders_move_up"
+msgstr "Seçilen durağı üste al"
+
+msgid "ship_orders_set_time"
+msgstr "Durakta bekleme süresi"
+
+msgid "ship_orders_show_target"
+msgstr "Seçilen durağa git"
+
+msgid "ship_orders_start"
+msgstr "Otopilot devrede"
+
+msgid "ship_orders_stop"
+msgstr "Otopilot devredışı"
+
+msgid "ship_orders_title"
+msgstr "%s - [Otopilot ayarı]"
+
+msgid "ship_planner_cancel"
+msgstr "İnşaayı iptal et"
+
+msgid "ship_planner_info"
+msgstr "Gemi inşaası"
+
+msgid "ship_planner_must_single"
+msgstr "İstasyon başına sadece bir gemi planlayıcı"
+
+msgid "ship_planner_needed"
+msgstr "Gemi planlayıcı kur önce"
+
+msgid "ship_planner_pause"
+msgstr "İnşayı duraklat"
+
+msgid "ship_planner_resume"
+msgstr "İnşasına devam et"
+
+msgid "ship_scrap_confirm"
+msgstr "Bu gemiyi yok ettiğiniz de ondan çok az hammadde elde edebilirsiniz? Parçalansın mı?"
+
+msgid "ship_servicing"
+msgstr ""
+
+msgid "ship_servicing_cond"
+msgstr ""
+
+msgid "ship_servicing_depart"
+msgstr ""
+
+msgid "ship_skill_healing_wave"
+msgstr ""
+
+msgid "ship_skill_insurance"
+msgstr ""
+
+msgid "ship_skill_jumpdrive"
+msgstr ""
+
+msgid "ship_skill_mass_hysteria"
+msgstr ""
+
+msgid "ship_skill_orbital_cannon"
+msgstr ""
+
+msgid "ship_skill_orbital_cannon_label"
+msgstr ""
+
+msgid "ship_skill_robodrop"
+msgstr ""
+
+msgid "ship_skill_robodrop_label"
+msgstr ""
+
+msgid "ship_skill_shield_dome"
+msgstr ""
+
+msgid "ship_skill_shield_dome_label"
+msgstr ""
+
+msgid "ship_skill_teleport"
+msgstr ""
+
+msgid "ship_skills_l"
+msgstr ""
+
+msgid "ship_travel_approach"
+msgstr "Yaklaşmakta: %s (Seviye %d)"
+
+msgid "ship_travel_parked"
+msgstr "Yanaştı: %s (Seviye %d)"
+
+msgid "ship_travel_progress"
+msgstr "~0,2F dönüm / ETA ~As"
+
+msgid "ship_travel_traveling"
+msgstr "Kalkışta: %s (Seviye %d)"
+
+msgid "ship_travel_unknow"
+msgstr "Bilinmeyen"
+
+msgid "ship_user_travel_msg"
+msgstr "Yeni direkt seyahet emri: %s son hedeflenen %s. Oto pilot durduruldu."
+
+msgid "shipplanner"
+msgstr "Gemi planlayıcısı"
+
+msgid "shipplanner_desc"
+msgstr "İnşa için gemi seçer ve inşa aşamasını izler. İnşadan sonra bir veya daha fazla çalışma masası dikilir."
+
+msgid "ships"
+msgstr "Uzay gemileri"
+
+msgid "shipworktable"
+msgstr "Gemi çalışma masası"
+
+msgid "shipworktable_desc"
+msgstr "Gemi inşasının çeşitli parçaları üstünde çalışmak için kullanılır. Üretim sırası gemi inşa plancısı tarafından kontrol edilir."
+
+msgid "shop_stock"
+msgstr "Mağaza stoğu"
+
+msgid "shopping"
+msgstr "Alışveriş"
+
+msgid "shopping_list_desc"
+msgstr "Alışveriş listesi:"
+
+msgid "show_all_ships"
+msgstr "Tüm gemileri göster"
+
+msgid "show_only_spatials_ships"
+msgstr "Sadece gemilerinizi göster"
+
+msgid "sight_range"
+msgstr "Görüşü: ~A zemin"
+
+msgid "sleep"
+msgstr "Uyku"
+
+msgid "sleep_feeling_high"
+msgstr "Dinlenmiş"
+
+msgid "sleep_feeling_high_desc"
+msgstr "İyi uykudan sonra dipdiri"
+
+msgid "sleep_feeling_low"
+msgstr "Uykusuz "
+
+msgid "sleep_feeling_low_desc"
+msgstr "Yorgunluktan uyuması lazım"
+
+msgid "slime"
+msgstr "Balçık"
+
+msgid "slime_node"
+msgstr "Balçık bloğu"
+
+msgid "slot_active"
+msgstr "Giyilen"
+
+msgid "slot_chest"
+msgstr "Vücuda"
+
+msgid "slot_feet"
+msgstr "Ayaklara"
+
+msgid "slot_hands"
+msgstr "Ellere"
+
+msgid "slot_implant"
+msgstr "Takılar"
+
+msgid "slot_machine"
+msgstr "Kumar makinası"
+
+msgid "slot_machine_desc"
+msgstr "Yeşil jeton atıp, kolu çekerek 3 rengi tutturma kumarı"
+
+msgid "slot_name"
+msgstr "Kutu: ~A"
+
+msgid "slot_need_higher_spec"
+msgstr "Daha yüksek özellik gerek"
+
+msgid "slowpox"
+msgstr "Frengi virüsü"
+
+msgid "slowpox_desc"
+msgstr "Bu kadardan fazla hızlı yürüyemem"
+
+msgid "slug_pate"
+msgstr "Böcek ezmesi"
+
+msgid "smaller_ui"
+msgstr "Küçük menüler"
+
+msgid "sneaker_reveal_alert"
+msgstr "Gizlice sızan bir ~A istasyonunuzda kendini açığa çıkardı!"
+
+msgid "soap_maker"
+msgstr "Sabun üretici"
+
+msgid "soap_maker_desc"
+msgstr "Sabunlar kimyasal etkileşimle oluşur"
+
+msgid "social"
+msgstr "Sosyallik"
+
+msgid "social_feeling_low"
+msgstr "Dışlanmış"
+
+msgid "social_feeling_low_desc"
+msgstr "Kimse konuşmuyor"
+
+msgid "sound_effecs_volume"
+msgstr "Ses efekti seviyesi"
+
+msgid "souvenirs"
+msgstr "Hediyelikler"
+
+msgid "souvenirs_obj"
+msgstr "Hediyelik reyonu"
+
+msgid "souvenirs_obj_desc"
+msgstr "Asteroid zeminden otantik bir çöl tozu. Şaşırtıcı."
+
+msgid "spa_tub"
+msgstr "Yüzme havuzu"
+
+msgid "spa_tub_desc"
+msgstr "Rahatlatan su"
+
+msgid "space_octopus"
+msgstr "Ahtapot"
+
+msgid "space_pest"
+msgstr "Parazit"
+
+msgid "space_pest_queen"
+msgstr "Belalı kraliçe"
+
+msgid "space_worm"
+msgstr "Uzay solucanı"
+
+msgid "spatials_adjective"
+msgstr "Uzay fedaisi %s"
+
+msgid "spatials_adjective2"
+msgstr "Uzay fedaisi ~A"
+
+msgid "spatials_crew"
+msgstr "Uzay tayfası"
+
+msgid "spatials_member"
+msgstr "Spatial"
+
+msgid "spatials_name"
+msgstr "Uzay fedaileri"
+
+msgid "spatials_shuttle"
+msgstr "Spatials iniş mekiği"
+
+msgid "spec"
+msgstr "Özellik"
+
+msgid "spec_disallows"
+msgstr ""
+
+msgid "spec_info_demands"
+msgstr ""
+
+msgid "spec_info_salary"
+msgstr "Ortalama en az maaş: %d @ui_icon_20px_credits04.png"
+
+msgid "spec_not_ready2"
+msgstr " %s olarak yükselmek için en az bir işin zorunlu XP değerine erişmeli"
+
+msgid "spec_promote_to"
+msgstr " %s değere yükseldi "
+
+msgid "specops_desc"
+msgstr "Güvenlik elemanları silah tutmada uzmandır acımasız olarak."
+
+msgid "specops_spec"
+msgstr "Özel tim"
+
+msgid "speed_n"
+msgstr "Sürat: ~0,2F dönüm/s"
+
+msgid "speed_pause"
+msgstr "Durdur"
+
+msgid "spores"
+msgstr "Hücreler"
+
+msgid "spores_node"
+msgstr "Hücre bloku"
+
+msgid "stack_of"
+msgstr "Yığın: %s"
+
+msgid "staff"
+msgstr "Personel"
+
+msgid "staff_gui_basics_panel_demands"
+msgstr "Talepler"
+
+msgid "staff_gui_basics_panel_equipment"
+msgstr "Ekipmanlar"
+
+msgid "staff_gui_basics_panel_vitals"
+msgstr "Hayati değerler"
+
+msgid "staff_gui_crew_of_none"
+msgstr "Gemi atanmamış"
+
+msgid "staff_screen"
+msgstr "Personel"
+
+msgid "staff_ui_basics"
+msgstr "@ui_icon_20px_stats_01.png Hayati değerleri"
+
+msgid "staff_ui_jobs_xp"
+msgstr "@ui_icon_20px_jobs_01.png İşler ve XP"
+
+msgid "staff_ui_spec"
+msgstr "@ui_icon_20px_xp2.png Özellik"
+
+msgid "staff_view_counter"
+msgstr "Toplam %d"
+
+msgid "staff_view_counter_filtered"
+msgstr "Toplam %d / Arıtılmış %d"
+
+msgid "stance_is"
+msgstr "Durum: ~A"
+
+msgid "star"
+msgstr ""
+
+msgid "star_map"
+msgstr "Yıldız haritası"
+
+msgid "start_delivery"
+msgstr ""
+
+msgid "start_game"
+msgstr "Oyuna başla"
+
+msgid "start_research"
+msgstr "Geliştirme başlat"
+
+msgid "station"
+msgstr "İstasyon"
+
+msgid "station_attrition_warn"
+msgstr ""
+
+msgid "steam_workshop"
+msgstr "Steam Atölyesi"
+
+msgid "steel"
+msgstr "Demir"
+
+msgid "steel_node"
+msgstr "Demir bloğu"
+
+msgid "steel_wall"
+msgstr ""
+
+msgid "stinky_cheese"
+msgstr "Kaşar peyniri"
+
+msgid "stock"
+msgstr ""
+
+msgid "stocks_control"
+msgstr "Stok kontrol"
+
+msgid "storage_area"
+msgstr "Depo alanı"
+
+msgid "storage_area_desc"
+msgstr ""
+
+msgid "storage_area_full"
+msgstr "Depo alanı doldu"
+
+msgid "storage_area_must_single2"
+msgstr "Depolar diğer nesnelerle oda paylaşamaz"
+
+msgid "storage_area_no_empty_floor"
+msgstr "Yeni hammadde çeşidi yüklemeye yeterli alan yok"
+
+msgid "storage_filter_disabled"
+msgstr "Burası depolama alanı olarak kullanımda ve malzeme filtrelemeye izin verilemez"
+
+msgid "storage_status"
+msgstr "Depo durumu:"
+
+msgid "stored_group_clear"
+msgstr ""
+
+msgid "stored_group_selected"
+msgstr ""
+
+msgid "stored_group_set"
+msgstr ""
+
+msgid "stored_scroll"
+msgstr ""
+
+msgid "striking_warning"
+msgstr "~A talepleri karşılanana kadar saldıracak, Çalışmayı reddedecek ve grev yapacaklar."
+
+msgid "success"
+msgstr "Başarı"
+
+msgid "sure_to_delete"
+msgstr "Silmek istediğiniz kayıta onay verin: %s?"
+
+msgid "sure_to_load"
+msgstr "Yüklemek istediğiniz kayıta onay verin: %s? Şu an kaydedilmeyen kısmı kaybedeceksiz."
+
+msgid "sure_to_replace"
+msgstr "Yerleştirmek istediğinize emin misiniz %s?"
+
+msgid "surgeon"
+msgstr "Cerrah"
+
+msgid "surgeon_desc"
+msgstr "Bir cerrah pek çok eleman kurtarmıştır, kısa bir sürede mucizeler yaratır."
+
+msgid "surgeon_table"
+msgstr "Cerrahi masa"
+
+msgid "surgeon_table_desc"
+msgstr "Doktorların cerrahi müdahale yapmasına olanak verir and hastalara sentetik organ nakil yapar. Sentetik organ zorunluluk."
+
+msgid "sushi_roll"
+msgstr "Sushi dolma"
+
+msgid "synth_organs"
+msgstr "Sentetik organlar"
+
+msgid "system_name"
+msgstr "Sistem ~A"
+
+msgid "system_name_level"
+msgstr "Sistem %s (Seviye %d)"
+
+msgid "systems_unlocked"
+msgstr "Takip edilen sistemler keşfedilmiş olabilir: ~A"
+
+msgid "table"
+msgstr ""
+
+msgid "take_off_tool"
+msgstr "Kalkış"
+
+msgid "talked_feeling"
+msgstr "Sohbet etti"
+
+msgid "talked_feeling_desc"
+msgstr "İlginç sohbet etti"
+
+msgid "tavern_bar"
+msgstr "Taverna barı"
+
+msgid "tavern_bar_desc"
+msgstr "Evinizde gibi hissedin!"
+
+msgid "tavern_table"
+msgstr "Taverna masası"
+
+msgid "tavern_table_desc"
+msgstr "Ev ortamında içiyor gibi"
+
+msgid "teleport_group_to_label"
+msgstr ""
+
+msgid "teleport_to"
+msgstr "Işınlama"
+
+msgid "teleport_to_label"
+msgstr " ~A yı ışınlamak için tıklayın"
+
+msgid "tending_workplace_action"
+msgstr "yönelimi ~A"
+
+msgid "terra_planet"
+msgstr ""
+
+msgid "thirst"
+msgstr "Susuzluk"
+
+msgid "thirst_feeling_high"
+msgstr "Suya doydu "
+
+msgid "thirst_feeling_high_desc"
+msgstr "Bu içeceğe ihtiyacı vardı"
+
+msgid "thirst_feeling_low"
+msgstr "Susadı"
+
+msgid "thirst_feeling_low_desc"
+msgstr "Başı döndü ve ölecek gibi hissediyor"
+
+msgid "thousand_sep"
+msgstr ""
+
+msgid "tier1"
+msgstr "Aşama 1"
+
+msgid "tier2"
+msgstr "Aşama 2"
+
+msgid "tier3"
+msgstr "Aşama 3"
+
+msgid "tier4"
+msgstr "Aşama 4"
+
+msgid "tier5"
+msgstr "Aşama 5"
+
+msgid "tier6"
+msgstr "Aşama 6"
+
+msgid "tier7"
+msgstr "Aşama 7"
+
+msgid "tier8"
+msgstr "Aşama 8"
+
+msgid "tier9"
+msgstr "Aşama 9"
+
+msgid "tile_construction_job"
+msgstr "Yer döşemesi"
+
+msgid "tile_destruction_job"
+msgstr "Yer kaldırma"
+
+msgid "titanium"
+msgstr "Titanyum"
+
+msgid "titanium_node"
+msgstr "Titanyum bloku"
+
+msgid "titanium_wall"
+msgstr ""
+
+msgid "toggle_combatmode"
+msgstr ""
+
+msgid "toggle_walls"
+msgstr "Duvarları gizle"
+
+msgid "tonicx"
+msgstr "Tonik X"
+
+msgid "toogle_global_recipes"
+msgstr "Varolan tariflerin genel üretimini bu nesne için aç yada kapa:"
+
+msgid "total_row"
+msgstr ""
+
+msgid "travel_shop"
+msgstr "Seyahat bölmeleri"
+
+msgid "travel_shop_desc"
+msgstr ""
+
+msgid "treatment"
+msgstr "Tıbbi tedavi"
+
+msgid "treatment_desc"
+msgstr "~A nın zorunlu tedavisi için adımlar:"
+
+msgid "try_delivery_action"
+msgstr ""
+
+msgid "try_delivery_action_error"
+msgstr ""
+
+msgid "turret_name"
+msgstr "Taret siahı"
+
+msgid "tutorial_civs_basics"
+msgstr ""
+
+msgid "tutorial_civs_basics_1"
+msgstr ""
+
+msgid "tutorial_civs_basics_2"
+msgstr ""
+
+msgid "tutorial_civs_basics_3"
+msgstr ""
+
+msgid "tutorial_civs_basics_4"
+msgstr ""
+
+msgid "tutorial_civs_basics_5"
+msgstr ""
+
+msgid "tutorial_civs_basics_6"
+msgstr ""
+
+msgid "tutorial_civs_basics_7a"
+msgstr ""
+
+msgid "tutorial_civs_basics_7b"
+msgstr ""
+
+msgid "tutorial_civs_title"
+msgstr ""
+
+msgid "tutorial_ended"
+msgstr "Ders bitti"
+
+msgid "tutorial_exit"
+msgstr "@ui_icon_30px_help_02.png"
+
+msgid "tutorial_exit_tooltip"
+msgstr "Mevcut dersten çık ve ders menü ekranına dön"
+
+msgid "tutorial_galaxy_autopilot"
+msgstr "Otopilot"
+
+msgid "tutorial_galaxy_autopilot_1"
+msgstr "Tek tek gezegenleri dolaşıp kargo taşımak sıkıcıdır. Bu yüzden uzay gemilerinin oto pilot desteği vardır. Yanıp sönen uzay gemisine tıklayarak oto pilotu başlatın."
+
+msgid "tutorial_galaxy_autopilot_2"
+msgstr ""
+
+msgid "tutorial_galaxy_autopilot_4"
+msgstr ""
+
+msgid "tutorial_galaxy_autopilot_5"
+msgstr ""
+
+msgid "tutorial_galaxy_basics"
+msgstr "Temel dersler"
+
+msgid "tutorial_galaxy_basics_1"
+msgstr "Şu Galaksi. Keşfedilecek çok yeri var. Kahredicide olabilir! En iyisi basit işlerle başlamak.\nTüm evrene kuşbakışı görüntüsüdür. Bir gezegen sistemine tıklayarak içindeki gezegenleri görebilirsiniz. Fakat biz şimdilik istasyonumuzun sistemine ulaşabiliyoruz. Tıklayıp görelim."
+
+msgid "tutorial_galaxy_basics_2"
+msgstr "Bu bölümde,dikkatimizi ham maddeler olarak mutfak ve fabrikalarda kullanılacaklara odaklamalıyız.Gezegenler de oluşan ham maddeler bu haritada gösterilmektedir. "
+
+msgid "tutorial_galaxy_basics_3"
+msgstr "Eğitim gezegeni Tutolanda gidelim.Direk gitmek için bir gemiyi sürükleyip bırakalım, sürükle ve bırak yanıp sönen gemiyi Tutoland'a. Eğer gezegenleri görmenizi engelleyen pencere varsa pencere başlığından tutup sürükleyin ."
+
+msgid "tutorial_galaxy_basics_4"
+msgstr "Lütfen geminizin gezegen yörüngesine yanaşmasını bekleyin"
+
+msgid "tutorial_galaxy_basics_5"
+msgstr "Hadi Tutoland keşfedilmeye hazır, tıkla!"
+
+msgid "tutorial_galaxy_basics_6"
+msgstr "Keşfet butonuna basarak keşfe başla. Gezegen ekranına ulaşabileceksin ve temel gezegen işlerine öğrenmeye başlayabilirsin."
+
+msgid "tutorial_galaxy_basics_7"
+msgstr "Temel olarak hepsi bu kadar! Gezegendeyken Ham madde nasıl çıkarılır öğrenin,sonra Otopilotu uygulayın. Menüye tıkla."
+
+msgid "tutorial_galaxy_title"
+msgstr " Galaksi dersi"
+
+msgid "tutorial_menu_goals_hint"
+msgstr "Öneri: Eğer öğrenimleri başarılı uygularsanız, başarım kutusunuza tıklayıp ödülleri alın."
+
+msgid "tutorial_planet_basics_1"
+msgstr "Ders alacağınız bir gezegene indiniz!\nGezegenler hammaddelere ulaşacağınız kaynaklardır, öyleyse yaşamanız için onlar değerlidir. Hammaddeler için gezegenlere uğrayın."
+
+msgid "tutorial_planet_basics_2"
+msgstr "İstasyondaki gibi,W-A-S-D tuşları ile haritada gezinin.Mouse tekeri ilede yakın ve uzaklaştırın."
+
+msgid "tutorial_planet_basics_3"
+msgstr "Elemanlarınıza emir vermek için bilgi buttonundan sonra eleman seçip alt kısımdan ışınlama tuşundan sonra bir noktayı seçip ışınlatın yada diğer emirleri uygulatın."
+
+msgid "tutorial_planet_basics_4"
+msgstr "Alttaki Eylem emir kutusundan direkt emir alırlar ve aynı anda emri yerine getiriler. Bir eleman için yürü emri çok kullanacığınız emirdir ki tuşlar aktifken sağ mouse ile de uygulayabilirsiniz."
+
+msgid "tutorial_planet_basics_5"
+msgstr "Eğer elemanlarınızı zor bir noktaya götürmek istiyorsanız ışınlanmayı kullanabilirsiniz.Parantez içindeki harfler varsayılan klavye tuşlarıdır.Klavye [T] tuşu ile de ışınlanma tuşuna tıklamış olursunuz."
+
+msgid "tutorial_planet_basics_6b"
+msgstr ""
+
+msgid "tutorial_planet_basics_7b"
+msgstr ""
+
+msgid "tutorial_planet_basics_8b"
+msgstr ""
+
+msgid "tutorial_planet_extraction"
+msgstr "Toplayıcı"
+
+msgid "tutorial_planet_extraction_1"
+msgstr "Ham madde toplayıcı çalıştıralım! . Bu binalar gezegenin yüzeyinde kurulur, ve ham maddelere ulaşmanız için belirli süreler içinde çalışıp toplar. Etki alanı hammaddeleri kapsayacak bölgelere kurulmalı. İnşa tuşuna basın."
+
+msgid "tutorial_planet_extraction_2"
+msgstr "Sol menü yanıp sönen nesneye tıklayın: Toplayıcı."
+
+msgid "tutorial_planet_extraction_3"
+msgstr ""
+
+msgid "tutorial_planet_extraction_4"
+msgstr "Yapı sizin elemanlarınız tarafından kurulmalı. Kurulana kadar bekleyelim. Eğer yapı kurulacak yer uzak ise elemanınızı bölgeye ışınlayabilirsiniz."
+
+msgid "tutorial_planet_extraction_5"
+msgstr ""
+
+msgid "tutorial_planet_extraction_6_dev"
+msgstr ""
+
+msgid "tutorial_planet_planetarium"
+msgstr "Yeni yıldız gezegen sistem açılışı"
+
+msgid "tutorial_planet_planetarium_1"
+msgstr "Seviyesi 1 düzeyinde eviniz ufak olacaktır. İstasyonunuzu yürütmek için hammadde ve müsterilere ihtiyacınız olacak. Yeni gezegen sistemlerini açmanın yolu bir gezegen taşıdır. Her ziyaret edilen gezegende 1 tane vardır. İleri tuşuna basarak taşı görün."
+
+msgid "tutorial_planet_planetarium_2"
+msgstr "Gezegentaşı, gezegenler hakkında yerel bilgiyi içerir.Bilgi panelinde belirtildiği gibi, bu bilgiyi zorla veya ücretli olarak almak sizin tercihinizdir. Tercihiniz sizi etkiler! Onu aldıktan sonra,Gezegene bağlı bütün sistemler seyahat için açılır."
+
+msgid "tutorial_planet_squad"
+msgstr "Temel ders ve takım görevleri"
+
+msgid "tutorial_planet_title"
+msgstr "Gezegen dersi"
+
+msgid "tutorial_research_basics"
+msgstr "Geliştirme"
+
+msgid "tutorial_research_basics_1"
+msgstr "Bu geliştirme ekranı. Galakside çok yerde teklonojiyi kullanırsın, ama başlangıçta bunları öğrenmemiz lazım, ve bu ekran gerekli teknolojileri geliştrimeye odaklanmamızı sağlar."
+
+msgid "tutorial_research_basics_2"
+msgstr "Teknoloji geliştirme gruplara ayrılmıştır. Yemek ve içeçek gruplarına tıklayalıp bakalım."
+
+msgid "tutorial_research_basics_3"
+msgstr "Yemek ve içeçek aşamalarını  buradan görebiliriz. Her bir aşamaya ulaşmak yeni yemek tarifleri ve makinaları istasyonunuzda kullanmanızı sağlar. Araştır butonu seçili aşamadakileri araştırmayı başlatır."
+
+msgid "tutorial_research_basics_4"
+msgstr "Aşamaya şu an istasyonunuzda odaklanıldı. Ama bu sadece geliştirme projelerinizin yönetim ekranıdır. Ayriyetten elemanlarınızı atadığınız geliştirme altyapısına ihtiyaç duyacaksınız."
+
+msgid "tutorial_research_basics_5"
+msgstr "Geliştirme masaları kurun ve elemanların gelişim hedeflerini iş tablosundan aktif edip gelişme puanı alalarını sağlayın. Gelişme puanları toplamı yeni aşamanızı tamamlamayı sağlar."
+
+msgid "tutorial_research_title"
+msgstr "Geliştirme Dersi"
+
+msgid "tutorial_station_basics"
+msgstr "Temel bilgiler"
+
+msgid "tutorial_station_basics_1"
+msgstr ""
+
+msgid "tutorial_station_basics_2"
+msgstr ""
+
+msgid "tutorial_station_basics_3_1"
+msgstr "Sol taraf menülerinde istasyonunuzu düzenlemek ve inşa etmek için gerekli herşeyi bulursunuz. İlk menü Bilgilenme aracıdır. ESC tuşu ile bağlıdır."
+
+msgid "tutorial_station_basics_3_2"
+msgstr "Aracı seçip istasyondaki herhangi bir elemana veya nesneye tıklayın."
+
+msgid "tutorial_station_basics_4"
+msgstr "Bilgilendirme aracı seçilen nesne hakkında bilgi görüntüler. Ayrıca nesneyi ayarlamak için ekstra kontrolleri sunar, Ocak başında tarifeleri ayarlamak gibi.\nEğer bir nesne diğer nesneyi engellerse, tekrar aynı noktaya tıklayarak arkada kalanlar seçilir, Aynı nokta tıklayarak daha arkadakilerde seçilir."
+
+msgid "tutorial_station_building"
+msgstr ""
+
+msgid "tutorial_station_building_1"
+msgstr ""
+
+msgid "tutorial_station_building_10"
+msgstr ""
+
+msgid "tutorial_station_building_11"
+msgstr ""
+
+msgid "tutorial_station_building_12"
+msgstr ""
+
+msgid "tutorial_station_building_13"
+msgstr ""
+
+msgid "tutorial_station_building_14"
+msgstr ""
+
+msgid "tutorial_station_building_15"
+msgstr ""
+
+msgid "tutorial_station_building_16"
+msgstr ""
+
+msgid "tutorial_station_building_2"
+msgstr ""
+
+msgid "tutorial_station_building_2_b"
+msgstr ""
+
+msgid "tutorial_station_building_3"
+msgstr ""
+
+msgid "tutorial_station_building_4"
+msgstr ""
+
+msgid "tutorial_station_building_5"
+msgstr ""
+
+msgid "tutorial_station_building_5_b"
+msgstr ""
+
+msgid "tutorial_station_building_6"
+msgstr ""
+
+msgid "tutorial_station_building_7"
+msgstr ""
+
+msgid "tutorial_station_building_8"
+msgstr ""
+
+msgid "tutorial_station_building_9"
+msgstr ""
+
+msgid "tutorial_station_object_tool"
+msgstr "Nesne kur"
+
+msgid "tutorial_station_object_tool_1"
+msgstr "Yalnız odaları inşa etmek elemanlarınıza ve misafirlere hizmet vermek için yeterli değildir. Şimdi bazı nesneler kuralım.\nİnşa et tuşuyla menüye ulaşın."
+
+msgid "tutorial_station_object_tool_2"
+msgstr "Nesne kur tuşu, istasyonda kurulacak tüm kilidi açılmamış nesneleri listeler. Önce kategori seçin. Yiyecek ve içecek kategorisini tıklayın."
+
+msgid "tutorial_station_object_tool_3"
+msgstr "Şimdi yanıp sönen Ocak nesnesine tıklayın"
+
+msgid "tutorial_station_object_tool_4"
+msgstr "Bu basit bir ocak, ucuz ve basit olan yemekleri pişirir. bir tane kurun, zemin üstünde basılı tuttuktan sonra bir yöne doğru sürüklemeniz ocağın o yöne dönmesini sağlayacaktır. Q ve E tuşları ile de ocağı zemine tıklamadan öncede döndürebilirsiniz.\nOcağınızı yanıp sönen zemine kurun."
+
+msgid "tutorial_station_object_tool_5"
+msgstr "Tıpki zemin dizmek gibi nesnelerinde dikilmesi için elemanlarınızı bekleyelim."
+
+msgid "tutorial_station_object_tool_6"
+msgstr "Misafirler ve elemanlarınız yerde yemek yemeyi ret eder. Onlar için masa kurmalısınız ki yemeklerini keyifli yesinler. Kantin masasını seçin ve yanıp sönen zemine kurun."
+
+msgid "tutorial_station_object_tool_7"
+msgstr "Yemek ve İçecek tesisi için temeli öğrendik. Ama yemek üretimi için ocağa görev emri vermeliyiz ve stokları kullanma dersinede geçiş yapmış oluruz. Daha fazlasını üretim dersinden öğrenin."
+
+msgid "tutorial_station_production"
+msgstr "Üretimler"
+
+msgid "tutorial_station_production_1"
+msgstr "Hammaddelerin çoğu işlenmeli elemanlarınız tarafından kullanılmadan önce. istasyonunuzda yapılacak her işi gibi, elemanlarınız ocak başında çalışmaya aktif hale gelmiş olmalı. Solda İş çizelgesi tuşuna tıklayın."
+
+msgid "tutorial_station_production_2"
+msgstr "Bu ekranda bütün elemanlarınızın ve iş için aktif halde olduğunu gösteren listesi var,elemanlarınızın birinde Pişirme işinin seçili olduğuna emin olun. ve ileri tuşuna tıklayın"
+
+msgid "tutorial_station_production_3_1"
+msgstr "Şimdi mutfağımızı yiyecek hazırlamak için hazırlayalım. Bilgi aracıyla seçin"
+
+msgid "tutorial_station_production_3_2"
+msgstr "İpucu: Bilgi aracını etkinleştirmek için istasyondayken istediğiniz zaman Esc tuşuna basın, ardından özelliklerini görmek için herhangi bir istasyon nesnesini tıklayın."
+
+msgid "tutorial_station_production_4"
+msgstr "Bu Ocak bilgi panosudur.Bazı temel bilgiler içerir, ihtiyaçlar sekmesi gibi ve bazı özel bilgiler içerir, fabrika sekmesi gibi.\nFabrika sekmesine tıklayın."
+
+msgid "tutorial_station_production_5"
+msgstr "Fabrika sekmesi, seçilen mutfağa yeni üretim siparişleri eklemenize izin verir. İlk ayarında üretim kapalı olacaktır. Bir üretim emri verelim. Görev oluştur tuşuna basın."
+
+msgid "tutorial_station_production_5_2"
+msgstr ""
+
+msgid "tutorial_station_production_5_3"
+msgstr "Şimdi seçili üründen kaç adet yapılacağını 1 yazan alanı 3 adet ayarlayarak pişirilmesini bekleyelim."
+
+msgid "tutorial_station_production_5_4"
+msgstr "Emriniz şu an ayarlandı ve oluşturulmaya hazır. Sıraya koy ile emir onaylanır ve tarif ocak listesinde sıraya üretilmek için eklenir."
+
+msgid "tutorial_station_production_6"
+msgstr "Elemanlarınız gıda pişirmeye başlayacak hammaddeler istasyonda bulunduğu sürece , Elemanlarınızın iş çizelgesinde pişirme seçeneği aktif olmalı, ve üretim sırasında üretilecek nesneler emri hala varsa sırayla tamamlanır.\nŞimdi onların gıda hazırlamasını bekleyelim."
+
+msgid "tutorial_station_production_7"
+msgstr "Bu kadar! Bu istasyonda pişirilen ilk gıda, Ancak hammaddeleri zeminde tutmak iyi bir fikir değil. Stok dersi ile hammaddeleri nesneler içinde depolamayı öğrenmeyle devam edin."
+
+msgid "tutorial_station_stocks"
+msgstr "Stoklar"
+
+msgid "tutorial_station_stocks_1"
+msgstr "Hammadeleri yerde tutmak iş görür, fakat kontrol edilemez bir durum oluşturur. Bu yüzden hammaddeleri içinde stoklayan nesneler vardır.Bazıları çalışması için bu stoklara ihtiyaç duyar.\nMesela yemek kabini kuralım. Nesne kura tıklayın."
+
+msgid "tutorial_station_stocks_10"
+msgstr "Şimdi tesisleri seçin."
+
+msgid "tutorial_station_stocks_11"
+msgstr "Yanıp sönen nesne bir palet.Sadece seçili bir yığının kontrolünü yapar. Bir dükkan gibi ama aktarma amaçlı. Mesela paleti bir fabrika makinasının yanına dikerseniz o makinaya gerekli olan hammaddeyi hazır bulunduracaktır. Tek bir hammadenin stok kontrolünü dakik istediğinizde paletleri kullanın. "
+
+msgid "tutorial_station_stocks_12"
+msgstr "Yanıp sönen nesne bir depo.Sadece bomboş bir odaya bir tane dikilir ve bu odanın içini de aktarma sahası olarak kullanır."
+
+msgid "tutorial_station_stocks_12b"
+msgstr ""
+
+msgid "tutorial_station_stocks_13b"
+msgstr ""
+
+msgid "tutorial_station_stocks_2"
+msgstr "Yemek ve içecek kategorisini seçin."
+
+msgid "tutorial_station_stocks_3"
+msgstr "Şimdi yanıp sönen Yemek kabinini seçin."
+
+msgid "tutorial_station_stocks_4"
+msgstr "Yanıp sönen zemin nesnesini dizmek için tıklayın."
+
+msgid "tutorial_station_stocks_5"
+msgstr "Kurulmasını bekleyin."
+
+msgid "tutorial_station_stocks_6_1"
+msgstr "Şimdi sol taraftan bilgi tuşuna tıklayın ve yemek kabini nesnesine tıklayın."
+
+msgid "tutorial_station_stocks_6_2"
+msgstr "İpucu: Bilgi aracını etkinleştirmek için istasyondayken istediğiniz zaman Esc tuşuna basın, ardından özelliklerini görmek için herhangi bir istasyon nesnesini tıklayın."
+
+msgid "tutorial_station_stocks_7"
+msgstr "Stok panelini seçin."
+
+msgid "tutorial_station_stocks_8"
+msgstr "Bu panelde yiyecek kabinin ne zaman ne kadar hangi stoğu barındıracağını belirleyebilirsiniz. Zaten gıdalar varsaılan olarak ayarlanmış, ama dilerseniz onun hammadde ve üretilecek stoğu belirlersiniz."
+
+msgid "tutorial_station_stocks_9"
+msgstr ""
+
+msgid "tutorial_station_title"
+msgstr "İstasyon dersi"
+
+msgid "tutorial_station_vitals"
+msgstr "Hayati değerler"
+
+msgid "tutorial_station_vitals_1"
+msgstr "İstasyonun ana işlevi memurlarını canlı tutmaktır.Burada çalışacaklar ve galaksiyi keşfettikten sonra buraya dönecekler ve ihtiyaçlarını giderecekler. Onlara bir göz atalım.Bilgi aracını seçin, ardından herhangi bir elemanı tıklayın (önlerinde bir şey varsa birden fazla tıklayın)."
+
+msgid "tutorial_station_vitals_2"
+msgstr "Hayati değerler panelini seç henüz seçilmediyse.\nBu panel elemanınızın hayat değerleri. Yeme, içme, eğlence odaları, ve diğer tesislerle, elemanlarınızın bu değerleri onarması sağlanır bu değerler küçüldüğünde. Çok ve birden fazla düşmesine izin verme, yoksa akıl sağlıklarını bozarlar yada vücutlarına zarar verirler."
+
+msgid "tutorial_station_vitals_4"
+msgstr "Bir elemanın aklı pek çok şeyden etkilenebilir. Mesela aç kalmak sadece elemanınızı inciltmez kötü düşünmesinede yol açar.  Bu bilgileri değerlerin altında gösterilir. Akıl sağlığı çok düşük biriyse hayatını kaybedebilir veya saldırgan olabilir.Zemin kur dersi ile devam edebilirsiniz."
+
+msgid "tutorial_waiting"
+msgstr "Bekliyor..."
+
+msgid "type_new_max_stock"
+msgstr "Depoda bu nesne maksimum stok  "
+
+msgid "type_officer_name"
+msgstr "Eleman ismini girin:"
+
+msgid "type_restock_at_stock"
+msgstr "Tekrar stoklama işlemi, stok miktarı değeri bu değerden az yada eşit ise başlar ve maksimuma ulaşana kadar tekrar stoklar yerleştirilir."
+
+msgid "type_ship_name"
+msgstr "Gemi ismini girin:"
+
+msgid "ugc_but_create"
+msgstr "Oluştur"
+
+msgid "ugc_but_update"
+msgstr "Güncelle"
+
+msgid "ugc_change_desc"
+msgstr "Değişen kayıtları güncelle (Real text editöründen yapıştırabilirsiniz)"
+
+msgid "ugc_changelog"
+msgstr "Değişen kayıtları güncelle:"
+
+msgid "ugc_create_new_mod"
+msgstr "Yeni mod oluştur"
+
+msgid "ugc_desc"
+msgstr "Açıklama:"
+
+msgid "ugc_entry_desc_req"
+msgstr "Açıklama şarttır"
+
+msgid "ugc_entry_desc_too_log"
+msgstr "Açıklama çok uzun"
+
+msgid "ugc_entry_title_req"
+msgstr "Başlık şarttır"
+
+msgid "ugc_entry_title_too_log"
+msgstr "Başlık çok uzun"
+
+msgid "ugc_error_conn"
+msgstr "Steam Atölye bağlantı hatası"
+
+msgid "ugc_error_logged"
+msgstr "Bu işlem için Steam'e"
+
+msgid "ugc_error_priv"
+msgstr " Varsayılan kullanıcı hesabı için Steam'de yeterli izin tanınmamış"
+
+msgid "ugc_error_timeout"
+msgstr "Steam'e bağlanırken zaman aşımı oluştu."
+
+msgid "ugc_folder"
+msgstr "İçerik Klasörü:"
+
+msgid "ugc_folder_desc"
+msgstr "Mod yüklemek için içerik klasörünü seçin"
+
+msgid "ugc_image"
+msgstr "Resim:"
+
+msgid "ugc_mod_desc"
+msgstr "Mod açıklama (Real text editörden yapıştırabilirsiniz)"
+
+msgid "ugc_mod_title"
+msgstr "Mod ismi"
+
+msgid "ugc_my_workshop"
+msgstr "Atölye"
+
+msgid "ugc_tag_translation"
+msgstr "Çeviri"
+
+msgid "ugc_tags"
+msgstr "Etiketleri:"
+
+msgid "ugc_title"
+msgstr "Başlık:"
+
+msgid "ugc_user_warning"
+msgstr "Mod geliştirenler için araçtır. Modları kurmak ve aktif etmek için \"Yeni oyun\" ekranındaki \"Mods sekmesini\" kullanın. 2017-02-17T12:08:46.816707"
+
+msgid "ugc_valid_desc_req"
+msgstr "Açıklama şarttır"
+
+msgid "ugc_valid_desc_too_long"
+msgstr "Açıklama çok uzun"
+
+msgid "ugc_valid_folder_req"
+msgstr "İçerik klasörü şarttır"
+
+msgid "ugc_valid_image_req"
+msgstr "Resim seçmek gerekli"
+
+msgid "ugc_valid_title_req"
+msgstr "Başlık şarttır"
+
+msgid "ugc_valid_title_too_long"
+msgstr "Başlık uzun"
+
+msgid "ugc_vis"
+msgstr "Görünürlük:"
+
+msgid "ugc_vis_friends"
+msgstr "Dostlar"
+
+msgid "ugc_vis_private"
+msgstr "Özel"
+
+msgid "ugc_vis_public"
+msgstr "Genel"
+
+msgid "ugc_warn_already"
+msgstr "Bir mod zaten yaratılmış ve/veya güncellenmiş, Biraz bekle"
+
+msgid "ui_color"
+msgstr "Menü Renkleri"
+
+msgid "ui_scale"
+msgstr "Menu Ölçüsü"
+
+msgid "unassigned"
+msgstr "Koltuğu boşalt"
+
+msgid "unavailable"
+msgstr "Kullanım dışı"
+
+msgid "uncompensated"
+msgstr "Dengesiz"
+
+msgid "universal_printer"
+msgstr "Evrensel yazıcı"
+
+msgid "universal_printer_desc"
+msgstr "Dinlenme tesisleri tarafından zorunlu olan herşeyi yazar"
+
+msgid "unlocked"
+msgstr "Kilitsiz"
+
+msgid "unowned"
+msgstr "Sahipsiz"
+
+msgid "unowned_desc"
+msgstr "Bu nesnenin zimmetsiz ve herhangi biri tarafından kullanılabilir."
+
+msgid "unowned_keep"
+msgstr "Bu nesneyi herkes tarafından kullanılabilir yapar"
+
+msgid "v_xp"
+msgstr "%d XP"
+
+msgid "vaccine"
+msgstr "Aşı"
+
+msgid "valid_sources"
+msgstr "Malzeme Aktar"
+
+msgid "value_higher_min"
+msgstr "Girilen değer mevcut adetten fazla olmalı"
+
+msgid "value_lower_max"
+msgstr "Girilen değer mevcut adetten fazla olamaz"
+
+msgid "value_not_number"
+msgstr ""
+
+msgid "value_too_high"
+msgstr "Değer çok yüksek  alto"
+
+msgid "value_too_high_res"
+msgstr "En çok yığın %s için: %d"
+
+msgid "value_too_low"
+msgstr "Değer çok düşük"
+
+msgid "vegan_feast"
+msgstr "Yeşillik şöleni"
+
+msgid "video"
+msgstr "Video"
+
+msgid "video_restart"
+msgstr "Herhangi bir ayarın uygulanması için oyunu yeniden başlatın."
+
+msgid "visit_thespatials_com"
+msgstr "Sitemize uğrayın thespatials.com"
+
+msgid "visitor_bored"
+msgstr "Sıkıldı"
+
+msgid "visitor_bored_desc"
+msgstr "Eğlence nerde?"
+
+msgid "visitor_departing_feeling"
+msgstr "Kalkış"
+
+msgid "visitor_departing_feeling_desc"
+msgstr "Eve dönüş"
+
+msgid "visitor_dock"
+msgstr "Misafir Limanı"
+
+msgid "visitor_dock_desc"
+msgstr "Misafir uzay gemileri buraya iner"
+
+msgid "visitor_docking_disabled"
+msgstr "Misafir gemiler iniş yasağı"
+
+msgid "visitor_docking_enabled"
+msgstr "Misafir gemiler iniş izni"
+
+msgid "visitor_gambler"
+msgstr "Kumarbaz"
+
+msgid "visitor_gambler_desc"
+msgstr "Bir, bir daha, yuvarla. uykum gelene kadar, sanırım güçlü bir içecek içmeliyim"
+
+msgid "visitor_gourmet"
+msgstr "Gurme"
+
+msgid "visitor_gourmet_desc"
+msgstr "Bu istasyonda sunulan içecek ve yemeklere ilgi duydum"
+
+msgid "visitor_holiday"
+msgstr "Tatil izninde"
+
+msgid "visitor_holiday_desc"
+msgstr "Umarım herşeyi yapacak zamanım olur!"
+
+msgid "visitor_mallrat"
+msgstr "Dükkan faresi"
+
+msgid "visitor_mallrat_desc"
+msgstr "Keşke burada yaşayabilseydim!"
+
+msgid "visitor_opinion_vital"
+msgstr "Değer verdiği"
+
+msgid "visitor_party"
+msgstr "Hayvani parti"
+
+msgid "visitor_party_desc"
+msgstr "üçyüz beşyüz üçyüz beşyüz!!"
+
+msgid "visitor_researcher"
+msgstr "Geliştirmeci"
+
+msgid "visitor_researcher_desc"
+msgstr "Bilgi arar"
+
+msgid "visitor_shopper"
+msgstr "Müşteri"
+
+msgid "visitor_shopper_desc"
+msgstr "En iyi tekliflere bakıyor"
+
+msgid "visitor_sick"
+msgstr "Hasta"
+
+msgid "visitor_sick_desc"
+msgstr "Tıbbi bakıma muhtaç"
+
+msgid "visitor_timer_feeling"
+msgstr "Misafir"
+
+msgid "visitor_timer_feeling_desc"
+msgstr "Geçici olarak burada"
+
+msgid "visitor_tired"
+msgstr "Yorgun"
+
+msgid "visitor_tired_desc"
+msgstr "Sadece dinlenmeli ve kendime gelmeliyim "
+
+msgid "visitor_usage"
+msgstr ""
+
+msgid "visitor_wasted"
+msgstr "Harcandı"
+
+msgid "visitor_wasted_desc"
+msgstr "Doğru en yakın bar yada tavernaya, arkana bile bakma..."
+
+msgid "vital_factors"
+msgstr "Hayati faktörler:"
+
+msgid "vital_satisfy_desc"
+msgstr "~A memnun"
+
+msgid "vitals"
+msgstr "Hayati değerler"
+
+msgid "vitamin_water"
+msgstr "Vitaminli su"
+
+msgid "volcanic_planet"
+msgstr ""
+
+msgid "vomit_from"
+msgstr "Kusmuş: ~A"
+
+msgid "vsync"
+msgstr "VSync"
+
+msgid "vsync_default"
+msgstr "Varsayılan"
+
+msgid "vsync_late"
+msgstr "Geciken"
+
+msgid "vsync_off"
+msgstr "Kapalı"
+
+msgid "vsync_on"
+msgstr "Açık"
+
+msgid "walk_group_to_label"
+msgstr ""
+
+msgid "walk_here"
+msgstr "Yürü"
+
+msgid "walk_order_desc"
+msgstr "Yürüme komutu"
+
+msgid "walk_to"
+msgstr "Yürüt"
+
+msgid "walk_to_label"
+msgstr " ~A yı seçili nokta yürütmek için tıklayın "
+
+msgid "walkable"
+msgstr "İçinden geçilir"
+
+msgid "wall_construction_job"
+msgstr ""
+
+msgid "wall_destruction_job"
+msgstr ""
+
+msgid "wallet"
+msgstr "Cüzdan"
+
+msgid "walls_build_info"
+msgstr ""
+
+msgid "walls_tool"
+msgstr ""
+
+msgid "warn_autopilot_no_need_home"
+msgstr ""
+
+msgid "warn_no_officer_dock"
+msgstr ""
+
+msgid "warn_no_shop"
+msgstr ""
+
+msgid "water"
+msgstr "Su"
+
+msgid "water_leak"
+msgstr "Su sızıntısı"
+
+msgid "water_node"
+msgstr "Su bloku"
+
+msgid "welcome_emp"
+msgstr "Merhabalar!"
+
+msgid "window"
+msgstr "Pencere"
+
+msgid "window_size"
+msgstr "Pencere boyutu"
+
+msgid "work_on_action"
+msgstr "Çalış ~A"
+
+msgid "working"
+msgstr "Çalışıyor"
+
+msgid "working_label"
+msgstr "Çalışıyor: ~A"
+
+msgid "world_enlargement"
+msgstr "Dünya genişlemesi "
+
+msgid "world_enlargement_desc"
+msgstr "Herşey kocaman!"
+
+msgid "xeno_egg"
+msgstr "Xenomorph yumurtası"
+
+msgid "xeno_egg_desc"
+msgstr "Süre sıfırlamadan yumurtasını yokedin"
+
+msgid "xenomorph"
+msgstr "Xenomorph"
+
+msgid "xray"
+msgstr "Röntgen"
+
+msgid "xray_desc"
+msgstr "Hasta vücutun iç resimlerini çeker."
+
+msgid "yes"
+msgstr "Evet"
+
+msgid "zoom_in"
+msgstr "Yakınla+"
+
+msgid "zoom_out"
+msgstr "Uzaklaş-"
+
