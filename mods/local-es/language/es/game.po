@@ -1,3 +1,18 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-31 18:54+0000\n"
+"PO-Revision-Date: 2018-01-31 18:54+0000\n"
+"Last-Translator: Carlos <info@weirdandwry.com>\n"
+"Language-Team: Spanish <http://*/projects/galactology/game/es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.18\n"
+
 msgid "Luxury_kitchen_desc"
 msgstr "La mejor cocina del universo se prepara aquí"
 
@@ -8174,10 +8189,10 @@ msgid "zoom_out"
 msgstr "Zoom-"
 
 msgid "available"
-msgstr ""
+msgstr "Disponible"
 
 msgid "cant_build_needs_outside"
-msgstr ""
+msgstr "Requiere area exterior"
 
 msgid "cargo_label"
 msgstr ""
@@ -8289,4 +8304,3 @@ msgstr ""
 
 msgid "tutorial_station_object_tool_7b"
 msgstr ""
-
