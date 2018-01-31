@@ -1,5 +1,5 @@
 msgid "Luxury_kitchen_desc"
-msgstr "The absolute best cuisine in the universe is prepared here"
+msgstr "The absolute best cuisine in the universe is prepared here TEST"
 
 msgid "PR_desc"
 msgstr "Charming and fun to be around, they are very successful at convincing potential clients on how great everything is."
