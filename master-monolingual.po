@@ -1,8 +1,11 @@
-msgid "Luxury_kitchen_desc"
-msgstr "The absolute best cuisine in the universe is prepared here"
+msgid "AAAtest1"
+msgstr "added string"
 
-msgid "PR_desc"
-msgstr "Charming and fun to be around, they are very successful at convincing potential clients on how great everything is."
+msgid "Luxury_kitchen_desc"
+msgstr "The absolute best cuisine in the universe is prepared here TEST TEST"
+
+# msgid "PR_desc"
+# msgstr "Charming and fun to be around, they are very successful at convincing potential clients on how great everything is."
 
 msgid "absorbtion"
 msgstr "Absorbtion"
