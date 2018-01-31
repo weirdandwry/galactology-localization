@@ -1,0 +1,7767 @@
+msgid "Luxury_kitchen_desc"
+msgstr "The absolute best cuisine in the universe is prepared here"
+
+msgid "PR_desc"
+msgstr "Charming and fun to be around, they are very successful at convincing potential clients on how great everything is."
+
+msgid "absorbtion"
+msgstr "Absorbtion"
+
+msgid "absorbtion_short"
+msgstr "Abs"
+
+msgid "accept"
+msgstr "Accept"
+
+msgid "action_cooldown"
+msgstr "[~A] is in cooldown"
+
+msgid "active_absorb"
+msgstr "~A absorb"
+
+msgid "active_absorb_item"
+msgstr "Active absorb item"
+
+msgid "active_control"
+msgstr "~A crowd control"
+
+msgid "active_control_item"
+msgstr "Active control item"
+
+msgid "active_damage"
+msgstr "~A-~A damage"
+
+msgid "active_damage_item"
+msgstr "Active damage item"
+
+msgid "active_healing"
+msgstr "~A-~A healing"
+
+msgid "active_healing_item"
+msgstr "Active healing item"
+
+msgid "advanced_kitchen"
+msgstr "Advanced kitchen"
+
+msgid "advanced_kitchen_desc"
+msgstr "Prepare some really great food and drinks"
+
+msgid "advanced_ship_engines_parts"
+msgstr "Advanced ship engine parts"
+
+msgid "advanced_ship_hull_parts"
+msgstr "Advanced ship hull parts"
+
+msgid "advanced_ship_lifesupport_parts"
+msgstr "Advanced ship life support parts"
+
+msgid "advanced_ship_structure_parts"
+msgstr "Advanced ship structure parts"
+
+msgid "advanced_soap"
+msgstr "Advanced soap"
+
+msgid "aesthetic_room"
+msgstr "Aesthetics: %d"
+
+msgid "aesthetics"
+msgstr "Aesthetics"
+
+msgid "aesthetics_feeling_high"
+msgstr "Pleased"
+
+msgid "aesthetics_feeling_high_desc"
+msgstr "Such a quaint space station, I like it."
+
+msgid "aesthetics_feeling_low"
+msgstr "Not impressed"
+
+msgid "aesthetics_feeling_low_desc"
+msgstr "This is one ugly place"
+
+msgid "aesthetics_feeling_very_high"
+msgstr "Admiring"
+
+msgid "aesthetics_feeling_very_high_desc"
+msgstr "I am surrounded by beauty"
+
+msgid "aesthetics_feeling_very_low"
+msgstr "Disgusted"
+
+msgid "aesthetics_feeling_very_low_desc"
+msgstr "My surroundings are terrible"
+
+msgid "ale"
+msgstr "Ale"
+
+msgid "alert_delete"
+msgstr "Delete"
+
+msgid "alert_minimize"
+msgstr "Hide"
+
+msgid "alert_reports"
+msgstr "Alerts and reports"
+
+msgid "algae"
+msgstr "Algae"
+
+msgid "algae_node"
+msgstr "Algae node"
+
+msgid "all"
+msgstr "All"
+
+msgid "all_officers"
+msgstr "All officers"
+
+msgid "all_resources"
+msgstr "All resources"
+
+msgid "alphabetically"
+msgstr "Alphabetically"
+
+msgid "aluminium"
+msgstr "Aluminium"
+
+msgid "aluminium_node"
+msgstr "Aluminium node"
+
+msgid "aluminium_wall"
+msgstr "Aluminium wall"
+
+msgid "amount"
+msgstr "Amount"
+
+msgid "antagonist_desc"
+msgstr "This is an antagonist civ, and as such they are not interested in any kind of diplomacy or trade with you, ever."
+
+msgid "antimatter_cleaner"
+msgstr "Antimatter Cleaner"
+
+msgid "any_power"
+msgstr "Any power"
+
+msgid "any_slot"
+msgstr "Any slot"
+
+msgid "arcade cabinet"
+msgstr "Arcade cabinet"
+
+msgid "arcade_desc"
+msgstr "All time arcade classics"
+
+msgid "argyria"
+msgstr "Argyria"
+
+msgid "argyria_desc"
+msgstr "I'm addicted to purestrain silver"
+
+msgid "arid_planet"
+msgstr "Arid planet"
+
+msgid "armory_locker_desc"
+msgstr "Store armor, implants and weapons"
+
+msgid "armory_pallet"
+msgstr "Armory pallet"
+
+msgid "armory_stored_something"
+msgstr "Stored ~A"
+
+msgid "ascending"
+msgstr "Ascending"
+
+msgid "asteroid"
+msgstr "Asteroid"
+
+msgid "attack"
+msgstr "Attack"
+
+msgid "attack_label"
+msgstr "Click to use ~A"
+
+msgid "attacked"
+msgstr "Attacked"
+
+msgid "attacked_desc"
+msgstr "I was attacked!"
+
+msgid "attacking_desc"
+msgstr "Attacking enemy"
+
+msgid "attributes_c"
+msgstr "Attributes:"
+
+msgid "attrition_destroyed_object"
+msgstr "~A has been destroyed by enemies in ~A"
+
+msgid "audio"
+msgstr "Audio"
+
+msgid "augustus"
+msgstr "Augustus"
+
+msgid "augustus_desc"
+msgstr "Galaxy (in)famous cook. He has a master level Chef spec and produces double the amount of food."
+
+msgid "auto"
+msgstr "Auto"
+
+msgid "auto_combat_false"
+msgstr "~A is now controlled by you, as long as the officer is selected or in the squad"
+
+msgid "auto_combat_true"
+msgstr "~A is now automatically controlled by the officer"
+
+msgid "auto_desc"
+msgstr "Attacking will be done automatically"
+
+msgid "auto_label"
+msgstr "AUTO"
+
+msgid "auto_owner_change"
+msgstr "New owner: ~A"
+
+msgid "auto_translator"
+msgstr "Auto translator"
+
+msgid "autopilot_disabled"
+msgstr "Autopilot is disabled"
+
+msgid "autopilot_enabled"
+msgstr "Autopilot is enabled"
+
+msgid "available"
+msgstr "Available"
+
+msgid "back"
+msgstr "Back"
+
+msgid "bad_sleep"
+msgstr "Bad sleep"
+
+msgid "bad_sleep_desc"
+msgstr "I recently slept without a bed"
+
+msgid "base_price_a"
+msgstr "Base price: @ui_icon_20px_credits04.png ~A"
+
+msgid "base_spec"
+msgstr "Base spec"
+
+msgid "basic_kitchen"
+msgstr "Basic kitchen"
+
+msgid "basic_kitchen_desc"
+msgstr "Cooks cheap food"
+
+msgid "basic_rations"
+msgstr "Basic rations"
+
+msgid "basic_ship_engines_parts"
+msgstr "Basic ship engine parts"
+
+msgid "basic_ship_hull_parts"
+msgstr "Basic ship hull parts"
+
+msgid "basic_ship_lifesupport_parts"
+msgstr "Basic ship life support parts"
+
+msgid "basic_ship_structure_parts"
+msgstr "Basic ship structure parts"
+
+msgid "basic_soap"
+msgstr "Basic soap"
+
+msgid "beam_desc"
+msgstr "Single target, Beam"
+
+msgid "bed_plain2"
+msgstr "Basic bed"
+
+msgid "bed_plain_desc"
+msgstr "Restores sleep. Can be used by any officer. Cannot be used by visitors."
+
+msgid "bedofficer"
+msgstr "Master officer bed"
+
+msgid "bedofficer_desc"
+msgstr "Comfortable bed for your master officers. It marks its room as an ownership area for its assigned owner. Cannot be used by visitors."
+
+msgid "bernice"
+msgstr "Bernice"
+
+msgid "bernice_desc"
+msgstr "Your HQ deputy, here to evaluate your progress."
+
+msgid "best"
+msgstr "Best"
+
+msgid "bigger_ui"
+msgstr "Bigger UI"
+
+msgid "billiard"
+msgstr "Billiard"
+
+msgid "billiard_desc"
+msgstr "Hit balls with a stick on a green cloth table. Provides Fun."
+
+msgid "bio_extractor"
+msgstr "Bio Extractor"
+
+msgid "bio_extractor_desc"
+msgstr "Extract biological resources within its area of influence"
+
+msgid "bionanites"
+msgstr "Bionanites"
+
+msgid "bistro_drinks"
+msgstr "Bistro drinks"
+
+msgid "bistro_drinks_desc"
+msgstr "The fanciest presentation for premium drinks."
+
+msgid "bistro_food"
+msgstr "Bistro food"
+
+msgid "bistro_food_desc"
+msgstr "An exquisite way to serve food."
+
+msgid "bistro_table"
+msgstr "Bistro table"
+
+msgid "bistro_table_desc"
+msgstr "Luxury seating to enjoy a sumptuous meal"
+
+msgid "black_hole"
+msgstr "Black hole"
+
+msgid "blackjack"
+msgstr "Blackjack table"
+
+msgid "blackjack_desc"
+msgstr "Shaken, not stirred. Uses red tokens."
+
+msgid "blood_from"
+msgstr "Blood from ~A"
+
+msgid "blorg_adjective"
+msgstr "Blorg %s"
+
+msgid "blorg_adjective2"
+msgstr "Blorg ~A"
+
+msgid "blorg_member"
+msgstr "Blorg"
+
+msgid "blorg_name"
+msgstr "Blorgs"
+
+msgid "blorg_plutocracy"
+msgstr "Blorg Plutocracy"
+
+msgid "body_level_in"
+msgstr "%s (L%d) in %s"
+
+msgid "bonbons"
+msgstr "Bonbons"
+
+msgid "bonus_amt_health"
+msgstr "Bonus: ~A health"
+
+msgid "bonus_amt_power"
+msgstr "Bonus: ~A power"
+
+msgid "bonus_health"
+msgstr "Bonus health"
+
+msgid "bonus_health_short"
+msgstr "+Health"
+
+msgid "bonus_power"
+msgstr "Bonus power"
+
+msgid "bonus_power_short"
+msgstr "+Power"
+
+msgid "booking_room"
+msgstr "Booking room"
+
+msgid "brewery"
+msgstr "Brewery"
+
+msgid "brewery_desc"
+msgstr "Distills recreational fermented drinks"
+
+msgid "broken"
+msgstr "Broken"
+
+msgid "bugs"
+msgstr "Bugs"
+
+msgid "bugs_node"
+msgstr "Bugs node"
+
+msgid "build_advanced_ship_engines"
+msgstr "Build advanced ship engines"
+
+msgid "build_advanced_ship_hull"
+msgstr "Build advanced ship hull"
+
+msgid "build_advanced_ship_lifesupport"
+msgstr "Build advanced ship life support"
+
+msgid "build_advanced_ship_structure"
+msgstr "Build advanced ship structure"
+
+msgid "build_alert_attrition"
+msgstr "This planet is owned by a hostile civ. Buildings will suffer attrition over time until they are destroyed. Invade this planet to make sure your constructions don't get destroyed after you leave."
+
+msgid "build_basic_ship_engines"
+msgstr "Build basic ship engines"
+
+msgid "build_basic_ship_hull"
+msgstr "Build basic ship hull"
+
+msgid "build_basic_ship_lifesupport"
+msgstr "Build basic ship life support"
+
+msgid "build_basic_ship_structure"
+msgstr "Build basic ship structure"
+
+msgid "build_builder_robot"
+msgstr "Build builder robot"
+
+msgid "build_cargo_robot"
+msgstr "Build cargo robot"
+
+msgid "build_cleaner_robot"
+msgstr "Build cleaner robot"
+
+msgid "build_collector"
+msgstr "Build a collector nearby to extract this resource"
+
+msgid "build_color"
+msgstr "Room floor color:"
+
+msgid "build_corridor_desc"
+msgstr "Connects rooms"
+
+msgid "build_firefighter_robot"
+msgstr "Build firefighter robot"
+
+msgid "build_floor"
+msgstr "Build floor"
+
+msgid "build_floors_label"
+msgstr "Room floor styles:"
+
+msgid "build_groups"
+msgstr "Object categories:"
+
+msgid "build_info_stocks"
+msgstr "Stocks"
+
+msgid "build_info_treatment_for"
+msgstr "Treatment"
+
+msgid "build_intermediate_ship_engines"
+msgstr "Build intermediate ship engines"
+
+msgid "build_intermediate_ship_hull"
+msgstr "Build intermediate ship hull"
+
+msgid "build_intermediate_ship_lifesupport"
+msgstr "Build intermediate ship life support"
+
+msgid "build_intermediate_ship_structure"
+msgstr "Build intermediate ship structure"
+
+msgid "build_job_warn_invalid_room"
+msgstr "Not inside a valid room"
+
+msgid "build_maintenance_robot"
+msgstr "Build maintenance robot"
+
+msgid "build_object"
+msgstr "Build object"
+
+msgid "build_objects_label"
+msgstr "Objects:"
+
+msgid "build_out_of_bounds"
+msgstr "Outside of valid building area"
+
+msgid "build_security_robot"
+msgstr "Build security robot"
+
+msgid "build_tool"
+msgstr "Build objects"
+
+msgid "build_walls"
+msgstr "Build walls"
+
+msgid "builder_robot"
+msgstr "Builder robot"
+
+msgid "building"
+msgstr "Building"
+
+msgid "building_info_shop"
+msgstr "Shop: Enables the payment of its stored products or usage fees by visitors"
+
+msgid "building_resources"
+msgstr "Required resources:"
+
+msgid "built_floor"
+msgstr "Built floor"
+
+msgid "built_object"
+msgstr "Built object"
+
+msgid "built_wall"
+msgstr "Built wall"
+
+msgid "busy"
+msgstr "Busy"
+
+msgid "buy_from"
+msgstr "@ui_icon_30px_buy.png Buy from %s"
+
+msgid "by_age"
+msgstr "Seniority"
+
+msgid "by_gear_level"
+msgstr "Worst Equipped"
+
+msgid "by_mind"
+msgstr "By Mind"
+
+msgid "by_spec"
+msgstr "By Spec"
+
+msgid "calmed_feeling"
+msgstr "Calmed down"
+
+msgid "calmed_feeling_desc"
+msgstr "That was horrible, but now I feel better"
+
+msgid "cancel"
+msgstr "Cancel"
+
+msgid "cancel_construction"
+msgstr "Cancel construction"
+
+msgid "cancel_destruction"
+msgstr "Cancel destruction"
+
+msgid "cancel_dismantling"
+msgstr "Cancel dismantling"
+
+msgid "cancel_rally_point"
+msgstr "Cancel patrol point"
+
+msgid "cancel_research"
+msgstr "Cancel Research"
+
+msgid "cant_build_blocked"
+msgstr "The tile is blocked on its four sides"
+
+msgid "cant_build_exists_construction"
+msgstr "An object is already present in this location"
+
+msgid "cant_build_has_singleton"
+msgstr "An object in this room disallows any other construction"
+
+msgid "cant_build_invalid_floor"
+msgstr "Floor is not valid for the selected object"
+
+msgid "cant_build_invalid_ground"
+msgstr "Ground doesn't allow construction"
+
+msgid "cant_build_limited_to_one"
+msgstr "Only one object of this kind is allowed"
+
+msgid "cant_build_needs_outside"
+msgstr "Requires outdoor area"
+
+msgid "cant_build_needs_room"
+msgstr "Requires a fully floored, fully wall/door delimited room"
+
+msgid "cant_build_too_close_enemy"
+msgstr "Enemy buildings are too close to build here"
+
+msgid "cant_build_too_far_friendly_town"
+msgstr "Object must be built near a neutral or friendly town"
+
+msgid "cant_build_too_far_town"
+msgstr "Object must be built near a town"
+
+msgid "cant_build_too_many"
+msgstr "Too many objects of this kind"
+
+msgid "cant_build_wrong_civ_allies"
+msgstr "Can only be built on Human or Crusantian planets"
+
+msgid "canteen_drinks"
+msgstr "Canteen drinks"
+
+msgid "canteen_drinks_desc"
+msgstr "Makes drinks available for consumption without any extra frills."
+
+msgid "canteen_food"
+msgstr "Canteen food"
+
+msgid "canteen_food_desc"
+msgstr "Makes food available for consumption without any extra frills."
+
+msgid "canteen_table"
+msgstr "Canteen table"
+
+msgid "canteen_table_desc"
+msgstr "Simple and utilitarian. You sit, you eat."
+
+msgid "cargo_hold"
+msgstr "Cargo hold"
+
+msgid "cargo_label"
+msgstr "Cargo:"
+
+msgid "cargo_n"
+msgstr "Cargo: ~A units"
+
+msgid "cargo_robot"
+msgstr "Cargo robot"
+
+msgid "cargo_value"
+msgstr "%d units"
+
+msgid "ceilingcam"
+msgstr "Ceiling camera"
+
+msgid "ceilingcam_desc"
+msgstr "Looks for hidden trespassers"
+
+msgid "ceilingshield_1"
+msgstr "Ceiling shielder"
+
+msgid "ceilingshield_desc"
+msgstr "Creates a small damage shield when detecting an enemy, with a cooldown."
+
+msgid "ceilingturret"
+msgstr "Ceiling turret"
+
+msgid "ceilingturret_1"
+msgstr "Basic ceiling turret"
+
+msgid "ceilingturret_2"
+msgstr "Enhanced ceiling turret"
+
+msgid "ceilingturret_3"
+msgstr "Advanced ceiling turret"
+
+msgid "ceilingturret_desc"
+msgstr "Small, low powered turret"
+
+msgid "center_view"
+msgstr "Center view"
+
+msgid "chance_of_success"
+msgstr "Chance of success"
+
+msgid "change_machine"
+msgstr "Change machine"
+
+msgid "change_machine_desc"
+msgstr "Exchange your real cash for fake cash"
+
+msgid "chaotic_adjective"
+msgstr "Chaotic %s"
+
+msgid "chaotic_adjective2"
+msgstr "Chaotic ~A"
+
+msgid "chaotic_enemy"
+msgstr "Chaotic Enemy"
+
+msgid "chaotic_member"
+msgstr "Chaotic"
+
+msgid "chaotics"
+msgstr "Chaotics"
+
+msgid "chef"
+msgstr "Chef"
+
+msgid "chef_desc"
+msgstr "Capable of cooking the most complicated of recipes. Any advanced station needs chefs to make the most extravagant food and drinks."
+
+msgid "chemist"
+msgstr "Chemist"
+
+msgid "chemist_desc"
+msgstr "Bubbly fluids and controlled reactions are their day to day."
+
+msgid "chemistry"
+msgstr "Chemistry"
+
+msgid "chest_01"
+msgstr "SecuVest"
+
+msgid "chest_02"
+msgstr "Nanostraps"
+
+msgid "chest_03"
+msgstr "Light Armor"
+
+msgid "chest_04"
+msgstr "Underwarmer"
+
+msgid "chest_05"
+msgstr "Pilot Vest"
+
+msgid "chest_06"
+msgstr "Impact Mesh"
+
+msgid "chest_07"
+msgstr "Heavy Duty Cover"
+
+msgid "chest_08"
+msgstr "Cool Shirt"
+
+msgid "chest_09"
+msgstr "ShockABS MkII"
+
+msgid "chest_10"
+msgstr "Fancy Shirt"
+
+msgid "chest_11"
+msgstr "EVA Suit Armor"
+
+msgid "chest_12"
+msgstr "Strong Shell"
+
+msgid "chest_13"
+msgstr "Chest Guard"
+
+msgid "chest_14"
+msgstr "Fusion Welder Coat"
+
+msgid "chest_15"
+msgstr "Scaly Protector"
+
+msgid "chest_16"
+msgstr "Royal Robes"
+
+msgid "chest_17"
+msgstr "Powered Armor"
+
+msgid "chest_18"
+msgstr "Ablative Armor"
+
+msgid "chest_19"
+msgstr "Raintrooper Jacket"
+
+msgid "chest_20"
+msgstr "Cyber V80"
+
+msgid "chest_item"
+msgstr "Chest item"
+
+msgid "chuchu_adjective"
+msgstr "Chuchu %s"
+
+msgid "chuchu_adjective2"
+msgstr "Chuchu ~A"
+
+msgid "chuchu_full"
+msgstr "Chuchu Pack"
+
+msgid "chuchu_member"
+msgstr "Chuchu"
+
+msgid "chuchu_name"
+msgstr "Chuchu"
+
+msgid "church_of_lactus"
+msgstr "Church of Lactus"
+
+msgid "civ_colony"
+msgstr "Colony"
+
+msgid "civ_encountered"
+msgstr "First %s star system discovered! You can now see this civ in the civs screen."
+
+msgid "civ_uninhabited"
+msgstr "Uninhabited"
+
+msgid "civs"
+msgstr "Civs"
+
+msgid "civs_points"
+msgstr "%d / %d points"
+
+msgid "civs_tutorial"
+msgstr "Civs tutorial"
+
+msgid "claim_reward"
+msgstr "Claim reward"
+
+msgid "cleaner_robot"
+msgstr "Cleaner robot"
+
+msgid "cleaning"
+msgstr "Cleaning"
+
+msgid "click_info"
+msgstr "Click to select any entity in the game and display its properties"
+
+msgid "click_pick_officer"
+msgstr "Click to pick an officer"
+
+msgid "clone_chamber"
+msgstr "Insurance cloner"
+
+msgid "clone_chamber_desc"
+msgstr "Automatically creates a clone of its assigned officer when they die, even at the other end of the galaxy. The object is destroyed after spawning the clone. Very fragile!"
+
+msgid "cocktail"
+msgstr "Cocktail"
+
+msgid "combat"
+msgstr "Combat"
+
+msgid "combat_busy_desc"
+msgstr "Only combat"
+
+msgid "combat_mode_disabled"
+msgstr "Combat mode disabled"
+
+msgid "combat_mode_enabled"
+msgstr "Combat mode enabled"
+
+msgid "combat_robot"
+msgstr "Combat robot"
+
+msgid "comics"
+msgstr "Holocomics shelves"
+
+msgid "comics_desc"
+msgstr "Sells old fashioned fun"
+
+msgid "commercial_tier_1"
+msgstr "Basic products I"
+
+msgid "commercial_tier_2"
+msgstr "Basic products II"
+
+msgid "commercial_tier_3"
+msgstr "Basic products III"
+
+msgid "commercial_tier_4"
+msgstr "Intermediate products I"
+
+msgid "commercial_tier_5"
+msgstr "Intermediate products II"
+
+msgid "commercial_tier_6"
+msgstr "Advanced products I"
+
+msgid "commercial_tier_7"
+msgstr "Advanced products II"
+
+msgid "complete"
+msgstr "Complete"
+
+msgid "confirm_cancel_research"
+msgstr "Are you sure? If you cancel this research you will lose the current research points."
+
+msgid "confirm_cancel_ship_construction"
+msgstr "Are you sure? If you cancel all the already finished work and resources will be lost."
+
+msgid "confirm_evolve_officer"
+msgstr "Upgrading ~A to ~A cannot be undone! It will make ~A unable to do some jobs, while being better in others. Are you sure?"
+
+msgid "confirm_fire_officer"
+msgstr "Firing ~A cannot be undone, the officer will be gone forever! Are you sure?"
+
+msgid "construction"
+msgstr "Construction"
+
+msgid "contemplated"
+msgstr "Contemplated"
+
+msgid "contemplated_desc"
+msgstr "Such beautiful objects"
+
+msgid "contemplation"
+msgstr "Contemplation"
+
+msgid "continue"
+msgstr "Continue"
+
+msgid "contract_bonus_chance"
+msgstr "Bonus chance when picking:"
+
+msgid "contract_completed"
+msgstr "%s in %s (L%d) has been completed"
+
+msgid "contract_extra_xp_desc"
+msgstr "Extra XP equivalent to %d%% of all level %d experience for every officer (%s XP)"
+
+msgid "contract_name_diff_place_level"
+msgstr "%s difficulty in %s (L%d)"
+
+msgid "contract_price"
+msgstr "%s contract price"
+
+msgid "contract_resource_reward"
+msgstr "%s %s (in stock: %s)"
+
+msgid "contract_rewards"
+msgstr "Rewards:"
+
+msgid "contract_xp_officer"
+msgstr "XP for every officer (%s XP @L%d)"
+
+msgid "controlled_stock"
+msgstr "Controlled stock"
+
+msgid "controls"
+msgstr "Controls"
+
+msgid "cooking"
+msgstr "Cooking"
+
+msgid "cooldown_amt"
+msgstr "~0,1Fs cooldown"
+
+msgid "corpse"
+msgstr "Corpse"
+
+msgid "corpse_desc"
+msgstr "This corpse can be recycled in a recycler. Tastes like chicken."
+
+msgid "corpse_of"
+msgstr "Corpse of ~A"
+
+msgid "corridor"
+msgstr "Corridor"
+
+msgid "corridor_build_info"
+msgstr "Click and drag a line to draw a corridor, or click to paint tile by tile. You can press Esc while dragging to cancel the line."
+
+msgid "corridor_desc"
+msgstr "Connects different rooms"
+
+msgid "crafts_table"
+msgstr "Crafts workshop"
+
+msgid "crafts_table_desc"
+msgstr "Clothes and small crafts are made here"
+
+msgid "crew"
+msgstr "Crew"
+
+msgid "crew_bridge_selector"
+msgstr "Pick your crew for this ship by clicking in the slots"
+
+msgid "crew_label"
+msgstr "Crew:"
+
+msgid "crew_n"
+msgstr "Crew: ~A slots"
+
+msgid "crew_n2"
+msgstr "Crew: ~A slots, ~A% ready"
+
+msgid "crew_value"
+msgstr "%d slots"
+
+msgid "crowd_control"
+msgstr "Crowd control"
+
+msgid "crowd_control_short"
+msgstr "CC"
+
+msgid "crusantian_adjective"
+msgstr "Crusantian %s"
+
+msgid "crusantian_adjective2"
+msgstr "Crusantian ~A"
+
+msgid "crusantian_bunch"
+msgstr "Crusantian Bunch"
+
+msgid "crusantian_member"
+msgstr "Crusantian"
+
+msgid "crusantian_name"
+msgstr "Crusantians"
+
+msgid "cryopod"
+msgstr "Cryo pod"
+
+msgid "cryopod_desc"
+msgstr "Allows your officers to get a full night sleep in mere seconds. Counts as a master officer bed with respect to spec demands. Cannot be used by visitors."
+
+msgid "cucurbian_adjective"
+msgstr "Cucurbian %s"
+
+msgid "cucurbian_adjective2"
+msgstr "Cucurbian ~A"
+
+msgid "cucurbian_crop"
+msgstr "Cucurbian Crop"
+
+msgid "cucurbian_member"
+msgstr "Cucurbian"
+
+msgid "cucurbian_name"
+msgstr "Cucurbians"
+
+msgid "current_demands"
+msgstr "Demands:"
+
+msgid "current_game"
+msgstr "Current game"
+
+msgid "current_ownership"
+msgstr "Owned objects:"
+
+msgid "current_research"
+msgstr "Current research: ~A ~A"
+
+msgid "current_research_none"
+msgstr "No research is being performed. Select a group and click on Start Research."
+
+msgid "dance_floor"
+msgstr "Dance floor"
+
+msgid "dance_floor_desc"
+msgstr "Available only for matter-based life forms."
+
+msgid "dancing"
+msgstr "Dancing"
+
+msgid "dead"
+msgstr "Dead"
+
+msgid "decor_adscreen"
+msgstr "Ads screen"
+
+msgid "decor_balloons"
+msgstr "Balloons"
+
+msgid "decor_bannerspatials"
+msgstr "Station banner"
+
+msgid "decor_bust"
+msgstr "Bust"
+
+msgid "decor_cabinets"
+msgstr "Lockers"
+
+msgid "decor_classydivisor"
+msgstr "Classy divider"
+
+msgid "decor_colorbox"
+msgstr "Color cubes"
+
+msgid "decor_darktech01"
+msgstr "Totem of despair"
+
+msgid "decor_darktech02"
+msgstr "Icon of grief"
+
+msgid "decor_energycolumn"
+msgstr "Light column"
+
+msgid "decor_galaxyball"
+msgstr "Live galaxy map"
+
+msgid "decor_glassdivisor"
+msgstr "Glass divider"
+
+msgid "decor_holoprojector"
+msgstr "Holoprojector"
+
+msgid "decor_holoscreen"
+msgstr "Holoscreen"
+
+msgid "decor_homelydivisor"
+msgstr "Divider"
+
+msgid "decor_lamp01"
+msgstr "Lamp"
+
+msgid "decor_lamp02"
+msgstr "Lamp"
+
+msgid "decor_lamp03"
+msgstr "Lamp"
+
+msgid "decor_lightcube"
+msgstr "Cube of light"
+
+msgid "decor_majesticcolumn"
+msgstr "Classy column"
+
+msgid "decor_mannequin01"
+msgstr "Mannequin"
+
+msgid "decor_mannequin02"
+msgstr "Mannequin"
+
+msgid "decor_mannequin03"
+msgstr "Mannequin"
+
+msgid "decor_map"
+msgstr "Station map"
+
+msgid "decor_organicsamples"
+msgstr "Organics display"
+
+msgid "decor_rocket"
+msgstr "Rocket model"
+
+msgid "decor_rugancient"
+msgstr "Ancient rug"
+
+msgid "decor_rugdiplomacy"
+msgstr "Diplomat's rug"
+
+msgid "decor_rugengineering"
+msgstr "Engineers's rug"
+
+msgid "decor_ruglodge"
+msgstr "Lodge carpet"
+
+msgid "decor_rugmedicine"
+msgstr "Doctor's rug"
+
+msgid "decor_rugredshirt"
+msgstr "Cheap rug"
+
+msgid "decor_rugscience"
+msgstr "Scientist's rug"
+
+msgid "decor_rugsmall01"
+msgstr "Mat"
+
+msgid "decor_rugsmall02"
+msgstr "Mat"
+
+msgid "decor_rugsmall03"
+msgstr "Mat"
+
+msgid "decor_rugspacecow"
+msgstr "Space cow rug"
+
+msgid "decor_rugstrategist"
+msgstr "Soldier's rug"
+
+msgid "decor_screens"
+msgstr "Screens"
+
+msgid "decor_shipmodel"
+msgstr "Detailed model ship"
+
+msgid "decor_skeleton"
+msgstr "Human skeleton"
+
+msgid "decor_statueman"
+msgstr "Statue"
+
+msgid "decor_statuewoman"
+msgstr "Statue"
+
+msgid "decor_table&lamp"
+msgstr "Table and lamp"
+
+msgid "decor_table&lamp02"
+msgstr "Table and lamp"
+
+msgid "decor_table&lamp03"
+msgstr "Table and lamp"
+
+msgid "decor_towels"
+msgstr "Towels"
+
+msgid "decor_tvcolumn"
+msgstr "Video column"
+
+msgid "decor_wardrobe"
+msgstr "Wardrobe"
+
+msgid "decor_wardrobe02"
+msgstr "Wardrobe"
+
+msgid "decor_wardrobe03"
+msgstr "Wardrobe"
+
+msgid "decor_weaponsrack2"
+msgstr "War trophies"
+
+msgid "decoration"
+msgstr "Decoration"
+
+msgid "delete"
+msgstr "Delete"
+
+msgid "delicatessen_expositor"
+msgstr "Delicatessen expositor"
+
+msgid "delicatessen_expositor_desc"
+msgstr "Displays sweet and delicious creations"
+
+msgid "delicatessen_kitchen"
+msgstr "Delicatessen atelier"
+
+msgid "delicatessen_kitchen_desc"
+msgstr "Sweet, savory and high quality confectionery production."
+
+msgid "deliver_from_action"
+msgstr "Deliver from ~A"
+
+msgid "deliver_from_ground"
+msgstr "Ground"
+
+msgid "deliver_from_ground_no"
+msgstr "Haulers will avoid delivering resources to this object when the source is a stack lying on the ground or inside a storage area"
+
+msgid "deliver_from_ground_yes"
+msgstr "Haulers will deliver resources to this object from resource stacks lying on the ground or inside a storage area"
+
+msgid "deliver_from_source"
+msgstr "Exclusive source"
+
+msgid "deliver_from_source_at"
+msgstr "Source: ~A"
+
+msgid "deliver_from_source_cancel"
+msgstr "Cancel exclusive source"
+
+msgid "deliver_from_source_desc"
+msgstr "Right click on any pallet or storage area controller to set that object as the exclusive source for delivery of resources to this object."
+
+msgid "deliver_from_storage"
+msgstr "Pallets"
+
+msgid "deliver_from_storage_no"
+msgstr "Haulers will avoid delivering resources to this object when the source is a pallet"
+
+msgid "deliver_from_storage_yes"
+msgstr "Haulers will deliver resources to this object from inside pallets"
+
+msgid "delivery_select_ship"
+msgstr "Select ship for delivery"
+
+msgid "demand_current"
+msgstr "Current"
+
+msgid "demand_one_of"
+msgstr "One of"
+
+msgid "demand_value"
+msgstr "Value"
+
+msgid "demand_wanted"
+msgstr "Wanted"
+
+msgid "deposited_scroll"
+msgstr "Deposited %d"
+
+msgid "descending"
+msgstr "Descending"
+
+msgid "description"
+msgstr "Description"
+
+msgid "desperate_critical"
+msgstr "~A is going desperate now! They uselessly hit anything and anybody in their path."
+
+msgid "desperate_critical_violent"
+msgstr "~A is going desperate now and using their weapons on their friends!"
+
+msgid "desperate_warning"
+msgstr "~A is feeling very bad and is at risk of going desperate"
+
+msgid "dessert"
+msgstr "Dessert"
+
+msgid "developer"
+msgstr "Developer"
+
+msgid "developer_console"
+msgstr "Developer console"
+
+msgid "diner_table"
+msgstr "Diner table"
+
+msgid "diner_table_desc"
+msgstr "Charming and retro"
+
+msgid "diplomat"
+msgstr "Diplomat"
+
+msgid "diplomat_desc"
+msgstr "Diplomats are experts in social conventions, negotiation, knowledge of the galaxy and a little deception from time to time."
+
+msgid "direct_desc"
+msgstr "Single target"
+
+msgid "dirt"
+msgstr "Dirt"
+
+msgid "dirt_desc"
+msgstr "Cleaners can remove this dirt"
+
+msgid "disable"
+msgstr "Disable"
+
+msgid "disabled"
+msgstr "Disabled"
+
+msgid "disco_bar"
+msgstr "Disco bar"
+
+msgid "disco_bar_desc"
+msgstr "Sophisticated drinks are served here"
+
+msgid "disco_table"
+msgstr "Disco table"
+
+msgid "disco_table_desc2"
+msgstr "Chill out with a fancy drink"
+
+msgid "disease_cured"
+msgstr "Disease cured: ~A"
+
+msgid "dismantle"
+msgstr "Dismantle"
+
+msgid "dismantled_object"
+msgstr "Dismantled object"
+
+msgid "display"
+msgstr "Display"
+
+msgid "dizzy_sick"
+msgstr "Dizzylapse"
+
+msgid "dizzy_sick_desc"
+msgstr "I feel very dizzy"
+
+msgid "dock_needs_space"
+msgstr "Objects too close"
+
+msgid "dock_officer_info_label"
+msgstr "Select the officer ship to dock here. Cargo will be unloaded around this dock and officers will disembark here."
+
+msgid "dock_officer_select"
+msgstr "Select ship"
+
+msgid "docking"
+msgstr "Docking:"
+
+msgid "doctordesk"
+msgstr "Doctor desk"
+
+msgid "doctordesk_desk"
+msgstr "Doctors await for patients at this desk and give them a treatment checklist."
+
+msgid "done"
+msgstr "Done"
+
+msgid "door"
+msgstr "Door"
+
+msgid "door_allowed"
+msgstr "Authorized units"
+
+msgid "door_allowed_desc"
+msgstr "This is equivalent to a polite sign stuck on the door; violent invaders will ignore it."
+
+msgid "door_desc"
+msgstr "Control access to station areas. Allows to keep away visitors from storage and production rooms."
+
+msgid "door_lock"
+msgstr "Lock"
+
+msgid "door_lock_title"
+msgstr "Total locking"
+
+msgid "door_lock_title_desc"
+msgstr "This will firmly lock the door for all units; violent invaders will need to destroy it."
+
+msgid "door_officers"
+msgstr "Officers"
+
+msgid "door_robots"
+msgstr "Robots"
+
+msgid "door_tourists"
+msgstr "Tourists"
+
+msgid "dps_label"
+msgstr "Damage per second"
+
+msgid "dps_label_short"
+msgstr "DPS"
+
+msgid "drink_shop"
+msgstr "Diner drinks"
+
+msgid "drink_shop_desc"
+msgstr "Drinks are served here."
+
+msgid "drunk"
+msgstr "Drunk"
+
+msgid "drunk_desc"
+msgstr "YESH this okay I'm good"
+
+msgid "electronics_workshop"
+msgstr "Electronics workshop"
+
+msgid "electronics_workshop_desc"
+msgstr "Manufacture of consumer electronics"
+
+msgid "electropet"
+msgstr "Electropet"
+
+msgid "electropet_display"
+msgstr "Electropet display"
+
+msgid "electropet_display_desc"
+msgstr "Your new high-tech, mid price, low maintenace friend is wating for you!"
+
+msgid "embassies"
+msgstr "Embassies"
+
+msgid "empty"
+msgstr "Empty"
+
+msgid "empty_slot"
+msgstr "Empty slot"
+
+msgid "enable"
+msgstr "Enable"
+
+msgid "enable_alert_popups"
+msgstr "Enable alert popups"
+
+msgid "enable_critical_speed"
+msgstr "Set game speed to 1x on critical alerts"
+
+msgid "enable_music"
+msgstr "Enable music"
+
+msgid "enable_sound_effects"
+msgstr "Enable sound effects"
+
+msgid "enable_station_events"
+msgstr "Enable station events"
+
+msgid "enable_station_violent_events"
+msgstr "Enable station violent events"
+
+msgid "enable_storage"
+msgstr "Enable storage of:"
+
+msgid "enabled"
+msgstr "Enabled"
+
+msgid "enabled_user_mods"
+msgstr "Enabled user mods:"
+
+msgid "enemy"
+msgstr "Enemy"
+
+msgid "enemy_adjective"
+msgstr "Enemy %s"
+
+msgid "enemy_adjective2"
+msgstr "Enemy ~A"
+
+msgid "enemy_member"
+msgstr "Enemy"
+
+msgid "enemy_name"
+msgstr "Enemies"
+
+msgid "energy"
+msgstr "Energy"
+
+msgid "engineer"
+msgstr "Engineer"
+
+msgid "engineer_desc"
+msgstr "If it has metal leave it to the engineers. Making robots and space ships are their most valued capabilities."
+
+msgid "engineering"
+msgstr "Engineering"
+
+msgid "entrance_fee"
+msgstr "Entrance fee"
+
+msgid "equip_item_must_station"
+msgstr "%s must be in the home station"
+
+msgid "equip_item_no_reqs"
+msgstr "~A cannot equip ~A"
+
+msgid "equip_item_replace"
+msgstr "Destroy ~A and replace it with ~A?"
+
+msgid "equip_item_rmb"
+msgstr "Equip ~A"
+
+msgid "equip_item_slot_disabled"
+msgstr "~A needs a higher spec to equip ~A"
+
+msgid "equip_matrix"
+msgstr "Equipment matrix"
+
+msgid "equip_officer_slot_current"
+msgstr "Equipped %s"
+
+msgid "equip_officer_slot_equip"
+msgstr "Equip"
+
+msgid "equip_officer_slot_no_selection"
+msgstr "Select an item"
+
+msgid "equip_officer_slot_none"
+msgstr "None equipped"
+
+msgid "equip_officer_slot_selected"
+msgstr "Selected"
+
+msgid "equip_officer_slot_stored"
+msgstr "Stored in station"
+
+msgid "equip_officer_slot_title"
+msgstr "Equip %s for %s"
+
+msgid "equipmatrix_available"
+msgstr "Available"
+
+msgid "equipmatrix_too_low_cell"
+msgstr "Too low"
+
+msgid "erase_floor_tool"
+msgstr "Erase floors"
+
+msgid "erase_objects_tool"
+msgstr "Erase objects"
+
+msgid "erase_walls_tool"
+msgstr "Erase walls"
+
+msgid "eraser_hint"
+msgstr "Hold Shift for eraser mode"
+
+msgid "error_bad_save"
+msgstr "Error loading game: cannot read the save file, or it is corrupted."
+
+msgid "error_deleting"
+msgstr "Error deleting game"
+
+msgid "error_missing_mods_1"
+msgstr "This save file makes use of the following mods which are not subscribed and/or installed:\n"
+
+msgid "error_missing_mods_2"
+msgstr "The game may crash or display errors if you try to load this save file. Load it anyway?"
+
+msgid "error_saving_game"
+msgstr "Error saving game"
+
+msgid "event_augustus_warn"
+msgstr "Augustus is here to help you with those kitchens! He will take on cooking jobs while he's in the station."
+
+msgid "event_bernice_fail"
+msgstr "Time ran out and the work was not completed, so no reward has been granted. I hope the station will perform better in the next review."
+
+msgid "event_bernice_goal_build"
+msgstr "Bernice has determined more facilities are required. Build %d objects in two minutes for a %d credits reward."
+
+msgid "event_bernice_goal_floor"
+msgstr "Bernice has determined a larger station is required. Build %d floor tiles in two minutes for a %d credits reward."
+
+msgid "event_bernice_goal_produce"
+msgstr "Bernice has determined a higher production rate is required. Manufacture %d products in two minutes for a %d credits reward."
+
+msgid "event_bernice_succ"
+msgstr "The goal has been achieved! A %d credits reward has been deposited in the station account. Good work and see you in the next review!"
+
+msgid "event_bernice_warn"
+msgstr "It's review time! Bernice is in the station checking your facilities and stocks."
+
+msgid "event_breakage_warn"
+msgstr "Some factories in your station have broken down!"
+
+msgid "event_explodefire_warn"
+msgstr "%s has exploded and started a fire!"
+
+msgid "event_finished"
+msgstr "Event finished"
+
+msgid "event_foodpoisoning_warn"
+msgstr "Some station inhabitants are food poisoned!"
+
+msgid "event_invaderbomb_out_of_time"
+msgstr "You ran out of time! The bomb has exploded!"
+
+msgid "event_invaderbomb_warn"
+msgstr "A hidden enemy sapper has been found! Look nearby for a ticking bomb and destroy it before it explodes! The bomb is a neutral unit and requires manual target orders."
+
+msgid "event_invaders_alert"
+msgstr "A raiding party has arrived! ~A are attacking our station!"
+
+msgid "event_invaders_retaliate_warn"
+msgstr "%s are retaliating against us! A raiding party from %s is approaching our station. Be prepared!"
+
+msgid "event_invaders_warn4c"
+msgstr "We have received reports of a %s raiding party from %s approaching our station. Be prepared!"
+
+msgid "event_kowka_warn"
+msgstr "Кошка is a curious cat and she's here to check on the progress of her friend. Are you still a friend? Her robot army will help around in the station while they are here."
+
+msgid "event_lactian_spam_warn"
+msgstr "The Church of Lactus, a new galaxy cult who worship a mysterious milk entity, are proselytizing in your station. For now they appear to only carry leaflets (or do they?). Deal with them as you wish, or just wait until they are gone."
+
+msgid "event_liberty_warn"
+msgstr "Liberty is here! Her presence will make everybody around her happy, visitor and resident alike."
+
+msgid "event_manysick_fail"
+msgstr "Some %s visitors are not cured, no reward has been granted."
+
+msgid "event_manysick_succ"
+msgstr "All %s visitors have been cured! Enjoy a bonus of %d credits and %d reputation."
+
+msgid "event_manysick_warn"
+msgstr "The %s have emergency teleported %d sick citizens to your station! Cure them before the timer hits 0 for a bonus of %d credits and %d reputation."
+
+msgid "event_meteors_end"
+msgstr "The meteor rain has ended"
+
+msgid "event_meteors_start"
+msgstr "The meteor rain has started!"
+
+msgid "event_meteors_warn"
+msgstr "A meteor rain is coming! The target area will be hit very hard in one minute."
+
+msgid "event_miasmacloud_ended"
+msgstr "The miasma cloud is not expanding anymore"
+
+msgid "event_miasmacloud_warn"
+msgstr "An object has broken and is spewing an expanding, toxic miasma cloud. Repair it or destroy it to stop the cloud."
+
+msgid "event_octopus_warn"
+msgstr "Your hubris has awoken a forgotten beast from deep space. A space octopus is attacking your station!"
+
+msgid "event_ongoing"
+msgstr "Ongoing"
+
+msgid "event_pest_spawn_queen"
+msgstr "The pest queen is now out of hiding!"
+
+msgid "event_pest_warn"
+msgstr "A pest is infesting your station! Eliminate enough pest critters to force their queen out of hiding. Critters are neutral units and require manual target orders."
+
+msgid "event_pirates_reveal"
+msgstr "The Pirates have revealed themselves for the first time! Your success caught their eye. They may want a share of it, and they really put the 'hostile' in 'hostile takeover'."
+
+msgid "event_progress"
+msgstr "Event progress: %s"
+
+msgid "event_raid_alert"
+msgstr "A raiding party has arrived! ~A are attacking our station!"
+
+msgid "event_raid_retaliate_warn"
+msgstr "%s are retaliating against us! A raiding party from %s is approaching our station. Be prepared!"
+
+msgid "event_raid_warn4c"
+msgstr "We have received reports of a %s raiding party from %s approaching our station. Be prepared!"
+
+msgid "event_robots_reveal"
+msgstr "The Robots have revealed themselves for the first time! Are your labour standards for robots up to spec? They will come to check for sure. And they won't like it, for sure."
+
+msgid "event_timer"
+msgstr "Remaining time: %s"
+
+msgid "event_waterleak_warn"
+msgstr "%s has broken and flooded its surroundings!"
+
+msgid "event_worm_warn"
+msgstr "Your hubris has awoken a forgotten beast from deep space. A space worm is attacking your station!"
+
+msgid "event_xenos_spawned"
+msgstr "The xenomorphs have spawned!"
+
+msgid "event_xenos_warn"
+msgstr "Xenomorph eggs have been found in your station! Eliminate them before they spawn, or deal with the consequences. Eggs are neutral units and require manual target orders."
+
+msgid "excessive_machine"
+msgstr "Excessive machine"
+
+msgid "excessive_machine_desc"
+msgstr "Taking care of all your intimate needs. Don't break it!"
+
+msgid "exclude"
+msgstr "Exclude"
+
+msgid "exhausted"
+msgstr "Exhausted"
+
+msgid "exotic_infusion"
+msgstr "Exotic infusion"
+
+msgid "expectations_high"
+msgstr "High expectations"
+
+msgid "expectations_huge"
+msgstr "Huge expectations"
+
+msgid "expectations_low"
+msgstr "Low expectations"
+
+msgid "expectations_meet"
+msgstr "~A (~A% meet)"
+
+msgid "expectations_normal"
+msgstr "Normal expectations"
+
+msgid "expectations_very_high"
+msgstr "Very high expectations"
+
+msgid "exploration"
+msgstr "Exploration"
+
+msgid "explore"
+msgstr "Explore"
+
+msgid "explore_warn_already_exploring_other"
+msgstr "Only one planet can be explored at the same time."
+
+msgid "explore_warn_no_ship"
+msgstr "No ship is parked in this planet. Drag and drop a ship on this planet to set a manual travel order and when it arrives you'll be able to explore its surface."
+
+msgid "explore_warn_no_weapons"
+msgstr "Nobody in the ship crew is equipped with a weapon. Are you sure want to explore the planet?"
+
+msgid "exploring"
+msgstr "Exploring"
+
+msgid "export_current_rate"
+msgstr "Export price rate"
+
+msgid "extractor_info"
+msgstr "Can extract:"
+
+msgid "eyedropper_hint"
+msgstr "Alt + click to copy existing"
+
+msgid "facilities_tier_1"
+msgstr "Basic station"
+
+msgid "facilities_tier_10"
+msgstr "Equipment tier 21-25"
+
+msgid "facilities_tier_11"
+msgstr "Equipment tier 26-30"
+
+msgid "facilities_tier_12"
+msgstr "Equipment tier 31-35"
+
+msgid "facilities_tier_13"
+msgstr "Equipment tier 36-40"
+
+msgid "facilities_tier_2"
+msgstr "Equipment tier 1-5"
+
+msgid "facilities_tier_3"
+msgstr "Basic robotics"
+
+msgid "facilities_tier_3b"
+msgstr "Visitor docks"
+
+msgid "facilities_tier_4"
+msgstr "Equipment tier 6-10"
+
+msgid "facilities_tier_5"
+msgstr "Basic security"
+
+msgid "facilities_tier_6"
+msgstr "Logistics"
+
+msgid "facilities_tier_7"
+msgstr "Equipment tier 11-15"
+
+msgid "facilities_tier_8"
+msgstr "Equipment tier 16-20"
+
+msgid "facilities_tier_9"
+msgstr "Advanced security"
+
+msgid "facilities_tier_9b"
+msgstr "Robotic security"
+
+msgid "factory"
+msgstr "Factory"
+
+msgid "factory_info_no_recipes"
+msgstr "No recipes are available for this factory. Unlock recipes by doing more research."
+
+msgid "failure"
+msgstr "Failure"
+
+msgid "fake_relic"
+msgstr "Fake relic"
+
+msgid "fancy_clothes"
+msgstr "Fancy clothes"
+
+msgid "feet_01"
+msgstr "Fusion Welder Boots"
+
+msgid "feet_02"
+msgstr "EVA Suit Boots"
+
+msgid "feet_03"
+msgstr "Raintrooper Boots"
+
+msgid "feet_04"
+msgstr "Shell Boots"
+
+msgid "feet_05"
+msgstr "Pilot Boots"
+
+msgid "feet_06"
+msgstr "Cyber V81"
+
+msgid "feet_07"
+msgstr "Powered Boots"
+
+msgid "feet_08"
+msgstr "Ablative Boots"
+
+msgid "feet_09"
+msgstr "Heavy Duty Boots"
+
+msgid "feet_10"
+msgstr "ShockBoots 1.1"
+
+msgid "feet_item"
+msgstr "Feet item"
+
+msgid "fibers"
+msgstr "Fibers"
+
+msgid "fibers_node"
+msgstr "Fibers node"
+
+msgid "fiction_program"
+msgstr "Fiction program"
+
+msgid "field_medic"
+msgstr "Field Medic"
+
+msgid "field_medic_desc"
+msgstr "In the heat of battle only field medics stand between life and death."
+
+msgid "file_manager"
+msgstr "File manager"
+
+msgid "filter_ship_assigned"
+msgstr "Ship assigned"
+
+msgid "filter_ship_named"
+msgstr "Ship: %s"
+
+msgid "filter_ship_not_assigned"
+msgstr "Ship not assigned"
+
+msgid "filtered_water"
+msgstr "Filtered water"
+
+msgid "fine_grape_must"
+msgstr "Fine grape must"
+
+msgid "fine_soup"
+msgstr "Fine soup"
+
+msgid "finish_other_research"
+msgstr "Finish or cancel the current research to start this one"
+
+msgid "fire"
+msgstr "Fire"
+
+msgid "fire_desc"
+msgstr "A bunch of matter experiencing rapid catastrophic oxidation, with some tendency to expand. It will scare robot and organic living things alike. Make sure your firefighters are nearby and have access to water item stacks."
+
+msgid "fire_officer"
+msgstr "Fire officer"
+
+msgid "firefighter"
+msgstr "Firefighter"
+
+msgid "firefighter_robot"
+msgstr "Firefighter robot"
+
+msgid "flag_broken"
+msgstr "Flag as broken to force its repair"
+
+msgid "flee_desc"
+msgstr "Fleeing in panic"
+
+msgid "flee_short_desc"
+msgstr "Avoiding danger"
+
+msgid "fleet"
+msgstr "Fleet"
+
+msgid "fleet_too_many"
+msgstr "Your fleet capacity is at its limit and you cannot build more ships"
+
+msgid "floor_build_info"
+msgstr "Click and drag to draw a rectangular room, or click to paint tile by tile. You can press Esc while dragging to cancel the rectangle."
+
+msgid "floor_color_black"
+msgstr "Black"
+
+msgid "floor_color_cyan"
+msgstr "Cyan"
+
+msgid "floor_color_dark_blue"
+msgstr "Dark blue"
+
+msgid "floor_color_dark_green"
+msgstr "Dark green"
+
+msgid "floor_color_grey"
+msgstr "Grey"
+
+msgid "floor_color_light_blue"
+msgstr "Light blue"
+
+msgid "floor_color_light_green"
+msgstr "Light green"
+
+msgid "floor_color_lilac"
+msgstr "Lilac"
+
+msgid "floor_color_none"
+msgstr "None"
+
+msgid "floor_color_orange"
+msgstr "Orange"
+
+msgid "floor_color_pink"
+msgstr "Pink"
+
+msgid "floor_color_red"
+msgstr "Red"
+
+msgid "floor_color_torquoise"
+msgstr "Torquoise"
+
+msgid "floor_color_violet"
+msgstr "Violet"
+
+msgid "floor_color_white"
+msgstr "White"
+
+msgid "floor_color_yellow"
+msgstr "Yellow"
+
+msgid "floor_tool"
+msgstr "Build floor"
+
+msgid "fluid_extractor"
+msgstr "Fluid Extractor"
+
+msgid "fluid_extractor_desc"
+msgstr "Extract liquid and gaseous resources within its area of influence"
+
+msgid "freaking_out"
+msgstr "Freaking out"
+
+msgid "frozen_planet"
+msgstr "Frozen planet"
+
+msgid "fruits"
+msgstr "Fruits"
+
+msgid "fruits_node"
+msgstr "Fruits node"
+
+msgid "fs_delete_file"
+msgstr "Delete file"
+
+msgid "fs_load_file"
+msgstr "Load file"
+
+msgid "fs_new_file"
+msgstr "New file"
+
+msgid "fs_new_file_name"
+msgstr "Enter name for new save file"
+
+msgid "fs_new_file_name_too_long"
+msgstr "Name is too long"
+
+msgid "fs_new_file_name_too_short"
+msgstr "Name is too short"
+
+msgid "fs_overwrite_file"
+msgstr "Overwrite file"
+
+msgid "fs_prompt_select"
+msgstr "Select a file"
+
+msgid "fuel_cell"
+msgstr "Fuel cell"
+
+msgid "fullscreen"
+msgstr "Fullscreen"
+
+msgid "fullscreen_exclusive"
+msgstr "Exclusive"
+
+msgid "fun"
+msgstr "Fun"
+
+msgid "fun_feeling_high"
+msgstr "Excited"
+
+msgid "fun_feeling_high_desc"
+msgstr "WOAH!!!"
+
+msgid "fun_feeling_low"
+msgstr "Bored"
+
+msgid "fun_feeling_low_desc"
+msgstr "Life here is very dull"
+
+msgid "gaia_planet"
+msgstr "Gaia planet"
+
+msgid "galaxy"
+msgstr "Galaxy"
+
+msgid "galaxy_filter_cargo"
+msgstr "Show planet exports"
+
+msgid "galaxy_filter_cvis"
+msgstr "Show civs"
+
+msgid "galaxy_filter_imports"
+msgstr "Show planet imports"
+
+msgid "galaxy_filter_imports2"
+msgstr "Imported product: %s"
+
+msgid "galaxy_filter_none"
+msgstr "Just the galaxy"
+
+msgid "galaxy_filter_none_show"
+msgstr "Show just galaxy labels"
+
+msgid "galaxy_filter_reps"
+msgstr "Civs"
+
+msgid "galaxy_filter_resources2"
+msgstr "Exported resource: %s"
+
+msgid "galaxy_filter_show_civ_ships"
+msgstr "Toggle civ ships"
+
+msgid "galaxy_name"
+msgstr "Galaxy %s"
+
+msgid "gambling"
+msgstr "Gambling"
+
+msgid "game_coins"
+msgstr "Game coins"
+
+msgid "game_guide"
+msgstr "Game guide"
+
+msgid "game_speed_1x"
+msgstr "Game speed 1x"
+
+msgid "game_speed_3x"
+msgstr "Game speed 3x"
+
+msgid "game_speed_6x"
+msgstr "Game speed 6x"
+
+msgid "garden_bamboopot"
+msgstr "Bamboo"
+
+msgid "garden_bush01"
+msgstr "Bush"
+
+msgid "garden_bush02"
+msgstr "Bush"
+
+msgid "garden_flowerpot"
+msgstr "Flower pot"
+
+msgid "garden_plantpot01"
+msgstr "Plant plot"
+
+msgid "garden_plantpot02"
+msgstr "Plant plot"
+
+msgid "garden_plantpot03"
+msgstr "Plant plot"
+
+msgid "garden_plantpot04"
+msgstr "Plant plot"
+
+msgid "garden_plantpot05"
+msgstr "Plant plot"
+
+msgid "garden_plantpot06"
+msgstr "Plant pot"
+
+msgid "garden_plantpot07"
+msgstr "Plant pot"
+
+msgid "garden_plantpot08"
+msgstr "Plant pot"
+
+msgid "garden_pond"
+msgstr "Pond"
+
+msgid "garden_tree01"
+msgstr "Tree"
+
+msgid "garden_tree02"
+msgstr "Tree"
+
+msgid "garden_tree03"
+msgstr "Tree"
+
+msgid "garden_tree04"
+msgstr "Tree"
+
+msgid "garden_tree05"
+msgstr "Tree"
+
+msgid "garden_tree06"
+msgstr "Tree"
+
+msgid "garden_tree07"
+msgstr "Tree"
+
+msgid "garden_tree08"
+msgstr "Tree"
+
+msgid "garden_tree09"
+msgstr "Tree"
+
+msgid "garden_tree10"
+msgstr "Tree"
+
+msgid "garden_zengarden"
+msgstr "Zen garden"
+
+msgid "gardening"
+msgstr "Gardening"
+
+msgid "gas_planet"
+msgstr "Gas planet"
+
+msgid "gastrodisaster"
+msgstr "Gastrodisaster"
+
+msgid "gastrodisaster_desc"
+msgstr "My stomach is messed up"
+
+msgid "gems"
+msgstr "Gems"
+
+msgid "gems_node"
+msgstr "Gems node"
+
+msgid "generic_extractor"
+msgstr "Generic Extractor"
+
+msgid "generic_extractor_desc"
+msgstr "Extract resources within its area of influence"
+
+msgid "gigantism"
+msgstr "Gigantism"
+
+msgid "gigantism_desc"
+msgstr "Can I still pass through doors?"
+
+msgid "global_max_export_amount_desc"
+msgstr "Ships exporting resources from plannets will skip this resource when the station stock reaches this amount"
+
+msgid "global_max_import_amount"
+msgstr "Max stock"
+
+msgid "global_min_stock_amount"
+msgstr "Min stock"
+
+msgid "global_min_stock_amount_desc"
+msgstr "Try to keep this amount of stock by giving orders to factories set to global queue"
+
+msgid "global_recipes_inv_hint"
+msgstr "Set the global min stock values in the inventory window"
+
+msgid "goal_bartender1_desc"
+msgstr "Your bartenders must serve 42 drinks in the bar. But really, drinks and drugs are not the answer to the universe."
+
+msgid "goal_bartender1_title"
+msgstr "Serve 42 drinks in the bar"
+
+msgid "goal_buildany1_desc"
+msgstr "Build 15 objects and 135 floor tiles."
+
+msgid "goal_buildany1_title"
+msgstr "Start building your station"
+
+msgid "goal_buildany2_desc"
+msgstr "Build 75 objects and 675 floor tiles."
+
+msgid "goal_buildany2_title"
+msgstr "Build a medium station"
+
+msgid "goal_buildany3_desc"
+msgstr "Build 200 objects and 1800 floor tiles."
+
+msgid "goal_buildany3_title"
+msgstr "Build a big station"
+
+msgid "goal_buildbar1_desc"
+msgstr "Build a disco bar, 3 disco tables and 2 dance floors."
+
+msgid "goal_buildbar1_title"
+msgstr "Build a dance club"
+
+msgid "goal_builddecorations1_desc"
+msgstr "Build 10 decorations."
+
+msgid "goal_builddecorations1_title"
+msgstr "Build 10 decorations"
+
+msgid "goal_buildfactory1_desc"
+msgstr "Build a soap maker, a metal press and a medical workshop."
+
+msgid "goal_buildfactory1_title"
+msgstr "Build a basic workshop area"
+
+msgid "goal_buildhospital1_desc"
+msgstr "Build a hospital bed, a meds dispenser and make 10 pills."
+
+msgid "goal_buildhospital1_title"
+msgstr "Build a stater hospital"
+
+msgid "goal_buildliving1_desc"
+msgstr "Build 3 plain beds and one Hygienizer 3000."
+
+msgid "goal_buildliving1_title"
+msgstr "Build a basic living space"
+
+msgid "goal_buildlogistics1_desc"
+msgstr "Build one storage area, one pallet and one recycler."
+
+msgid "goal_buildlogistics1_title"
+msgstr "Build basic logistic objects"
+
+msgid "goal_buildplanet1_desc"
+msgstr "Build an embassy on the surface of a planet."
+
+msgid "goal_buildplanet1_title"
+msgstr "Build an embassy on a planet"
+
+msgid "goal_buildplanet2_desc"
+msgstr "Build a recruitment center on the surface of a planet."
+
+msgid "goal_buildplanet2_title"
+msgstr "Build a recruitment center on a planet"
+
+msgid "goal_buildplanet3_desc"
+msgstr "Build 3 resource extractors on the surface of one or more planets."
+
+msgid "goal_buildplanet3_title"
+msgstr "Build 3 extractors on planets"
+
+msgid "goal_buildsecurity1_desc"
+msgstr "Build one camera area and one security door."
+
+msgid "goal_buildsecurity1_title"
+msgstr "Build basic security systems"
+
+msgid "goal_cargo1_desc"
+msgstr "Have one or more of your ships unload 60 units of any kind of cargo in your station."
+
+msgid "goal_cargo1_title"
+msgstr "Unload 60 cargo units"
+
+msgid "goal_cargo2_desc"
+msgstr "Have one or more of your ships unload 800 units of any kind of cargo in your station."
+
+msgid "goal_cargo2_title"
+msgstr "Unload 800 cargo units"
+
+msgid "goal_cargo3_desc"
+msgstr "Have one or more of your ships unload 12000 units of any kind of cargo in your station."
+
+msgid "goal_cargo3_title"
+msgstr "Unload 12000 cargo units"
+
+msgid "goal_clean1_desc"
+msgstr "Clean 100 dirty areas. Make sure the cleaning job is enabled for some of your officers."
+
+msgid "goal_clean1_title"
+msgstr "Clean 100 dirty areas"
+
+msgid "goal_completed_alert"
+msgstr "The goal <<~A>> has been completed. Claim its reward in the Goals window."
+
+msgid "goal_consumerism1_desc"
+msgstr "Sell 100 things to visitors, using shop objects. Only consumerist items are counted, vital items like food do not count for this goal."
+
+msgid "goal_consumerism1_title"
+msgstr "Sell 100 things to visitors"
+
+msgid "goal_cook1_desc"
+msgstr "Your officers must use a kitchen to cook 10 rations of any kind."
+
+msgid "goal_cook1_title"
+msgstr "Cook 10 rations"
+
+msgid "goal_cook2_desc"
+msgstr "Your officers must use a kitchen to cook 150 dishes of any kind."
+
+msgid "goal_cook2_title"
+msgstr "Cook 150 dishes"
+
+msgid "goal_cook3_desc"
+msgstr "Your officers must use a kitchen to cook 1000 dishes of any kind."
+
+msgid "goal_cook3_title"
+msgstr "Cook 1000 dishes"
+
+msgid "goal_crew1_desc"
+msgstr "In the fleet view, change the crew slots of one or more ships at least 10 times."
+
+msgid "goal_crew1_title"
+msgstr "Shuffle ship crew"
+
+msgid "goal_dance1_desc"
+msgstr "This station has seen 200 dances."
+
+msgid "goal_dance1_title"
+msgstr "Dance fever"
+
+msgid "goal_dock1_desc"
+msgstr "A ship shuttle has docked at least 10 times in the station"
+
+msgid "goal_dock1_title"
+msgstr "Docked ship shuttles"
+
+msgid "goal_doctor1_desc"
+msgstr "Your doctors must take care of 10 patients in the hospital bed."
+
+msgid "goal_doctor1_title"
+msgstr "Heal 10 patients"
+
+msgid "goal_extract1_desc"
+msgstr "Have your planet extractors extract 100 units of bio resources, 100 units of mineral resources and 100 units of fluid resources on one or more planets."
+
+msgid "goal_extract1_title"
+msgstr "Extract different resources"
+
+msgid "goal_galaxy1_desc"
+msgstr "Open 3 start systems in the galaxy screen."
+
+msgid "goal_galaxy1_title"
+msgstr "Open 3 star systems"
+
+msgid "goal_imports1_desc"
+msgstr "Have one or more of your ships sell 50 units of any product to a civ planet."
+
+msgid "goal_imports1_title"
+msgstr "Sell 50 cargo units to a planet"
+
+msgid "goal_imports2_desc"
+msgstr "Have one or more of your ships sell 500 units of any product to a civ planet."
+
+msgid "goal_imports2_title"
+msgstr "Sell 500 cargo units to a planet"
+
+msgid "goal_imports3_desc"
+msgstr "Have one or more of your ships sell 5000 units of any product to a civ planet."
+
+msgid "goal_imports3_title"
+msgstr "Sell 5000 cargo units to a planet"
+
+msgid "goal_itemequip1_desc"
+msgstr "Equip new items 10 times to any number of officers."
+
+msgid "goal_itemequip1_title"
+msgstr "Equip new items 10 times"
+
+msgid "goal_itemloot1_desc"
+msgstr "Loot 5 items by defeating enemies while exploring planets."
+
+msgid "goal_itemloot1_title"
+msgstr "Loot 5 items"
+
+msgid "goal_itemloot2_desc"
+msgstr "Loot 80 items by defeating enemies while exploring planets."
+
+msgid "goal_itemloot2_title"
+msgstr "Loot 80 items"
+
+msgid "goal_itemloot3_desc"
+msgstr "Loot 400 items by defeating enemies while exploring planets."
+
+msgid "goal_itemloot3_title"
+msgstr "Loot 400 items"
+
+msgid "goal_itemprod1_desc"
+msgstr "Make 15 items of any kind and of any level."
+
+msgid "goal_itemprod1_title"
+msgstr "Make 15 items"
+
+msgid "goal_itemprod2_desc"
+msgstr "Make chest item, an active item, a hands item, a feet item and an implant item."
+
+msgid "goal_itemprod2_title"
+msgstr "Make 5 items for different slots"
+
+msgid "goal_jobs1_desc"
+msgstr "Use the job matrix in the station to change a job assignation 10 times."
+
+msgid "goal_jobs1_title"
+msgstr "Shuffle job matrix"
+
+msgid "goal_kill1_desc"
+msgstr "Kill 20 members of a civ which is at war or hostile with you."
+
+msgid "goal_kill1_title"
+msgstr "Kill 20 enemies"
+
+msgid "goal_kill2_desc"
+msgstr "Kill 140 members of a civ which is at war or hostile with you."
+
+msgid "goal_kill2_title"
+msgstr "Kill 140 enemies"
+
+msgid "goal_kill3_desc"
+msgstr "Kill 900 members of a civ which is at war or hostile with you."
+
+msgid "goal_kill3_title"
+msgstr "Kill 900 enemies"
+
+msgid "goal_makedrink1_desc"
+msgstr "Your officers must use a kitchen to make 10 juices."
+
+msgid "goal_makedrink1_title"
+msgstr "Make 10 juices"
+
+msgid "goal_makedrink2_desc"
+msgstr "Your officers must use a kitchen to make 150 drinks."
+
+msgid "goal_makedrink2_title"
+msgstr "Make 150 drinks"
+
+msgid "goal_makedrink3_desc"
+msgstr "Your officers must use a kitchen to make 1000 drinks."
+
+msgid "goal_makedrink3_title"
+msgstr "Make 1000 drinks"
+
+msgid "goal_makerobot1_desc"
+msgstr "Your officers must use a robot factory to build a robot."
+
+msgid "goal_makerobot1_title"
+msgstr "Build a robot"
+
+msgid "goal_planet1_desc"
+msgstr "Land at least 3 times on planets, no matter the level."
+
+msgid "goal_planet1_title"
+msgstr "Land 3 times on planets"
+
+msgid "goal_planet2_desc"
+msgstr "Land at least 3 times on planets of level 5 or higher."
+
+msgid "goal_planet2_title"
+msgstr "Land 3 times on planets of level 5"
+
+msgid "goal_planet3_desc"
+msgstr "Land at least 3 times on planets of level 10 or higher."
+
+msgid "goal_planet3_title"
+msgstr "Land 3 times on planets of level 10"
+
+msgid "goal_planet4_desc"
+msgstr "Land at least 3 times on planets of level 20 or higher."
+
+msgid "goal_planet4_title"
+msgstr "Land 3 times on planets of level 20"
+
+msgid "goal_progress"
+msgstr "Progress: ~A%"
+
+msgid "goal_ready_alert"
+msgstr "The goal <<~A>> is now available."
+
+msgid "goal_recruit1_desc"
+msgstr "Recruit 5 new officers in the Staff screen."
+
+msgid "goal_recruit1_title"
+msgstr "Recruit 5 new officers"
+
+msgid "goal_recycle1_desc"
+msgstr "Recycle 50 pieces of litter. Make sure you have at least one recycler and that the cleaning job is enabled for some of your officers."
+
+msgid "goal_recycle1_title"
+msgstr "Recycle 50 pieces of litter"
+
+msgid "goal_recycle2_desc"
+msgstr "Recycle 5 corpses. Make sure you have at least one recycler and that the cleaning job is enabled for some of your officers. Yeah RIP."
+
+msgid "goal_recycle2_title"
+msgstr "Recycle 5 corpses"
+
+msgid "goal_repair1_desc"
+msgstr "Repair 20 objects or robots, damaged during the course of combat or from malfunction."
+
+msgid "goal_repair1_title"
+msgstr "Repair 20 objects or robots"
+
+msgid "goal_research1_desc"
+msgstr "Complete the research one technology tier of any kind."
+
+msgid "goal_research1_title"
+msgstr "Research 1 tier"
+
+msgid "goal_research2_desc"
+msgstr "Have your officers produce 500 research points by working on research desks."
+
+msgid "goal_research2_title"
+msgstr "Research 500 points"
+
+msgid "goal_reward"
+msgstr "Reward: @ui_icon_20px_credits04.png ~A"
+
+msgid "goal_shipbuild1_desc"
+msgstr "Build a ship using the ship building planner and the ship work desks."
+
+msgid "goal_shipbuild1_title"
+msgstr "Build a ship"
+
+msgid "goal_shipbuild2_desc"
+msgstr "While building new ships, produce 100 ship build order tasks in the ship work desks."
+
+msgid "goal_shipbuild2_title"
+msgstr "Produce 100 ship build order tasks"
+
+msgid "goal_specs1_desc"
+msgstr "Pick any sufficiently experienced officer and upgrade them to any graduate spec."
+
+msgid "goal_specs1_title"
+msgstr "Upgrade an officer to any graduate spec"
+
+msgid "goal_specs2_desc"
+msgstr "Pick 6 sufficiently experienced officers and upgrade them to any graduate spec."
+
+msgid "goal_specs2_title"
+msgstr "Upgrade 6 officers to any graduate spec"
+
+msgid "goal_specs3_desc"
+msgstr "Pick any sufficiently experienced officer and upgrade them to any master spec."
+
+msgid "goal_specs3_title"
+msgstr "Upgrade an officer to any master spec"
+
+msgid "goal_specs4_desc"
+msgstr "Pick 6 sufficiently experienced officers and upgrade them to any master spec."
+
+msgid "goal_specs4_title"
+msgstr "Upgrade 6 officers to any master spec"
+
+msgid "goal_visitors1_desc"
+msgstr "Have 10 visitors land on your station"
+
+msgid "goal_visitors1_title"
+msgstr "Receive 10 visitors"
+
+msgid "goal_visitors2_desc"
+msgstr "Have 100 visitors land on your station"
+
+msgid "goal_visitors2_title"
+msgstr "Receive 100 visitors"
+
+msgid "goal_visitors3_desc"
+msgstr "Have 1000 visitors land on your station"
+
+msgid "goal_visitors3_title"
+msgstr "Receive 1000 visitors"
+
+msgid "goal_vitals1_desc"
+msgstr "One or more officers have slept, had lunch, drank and showered 25 or more times, for each kind of activity."
+
+msgid "goal_vitals1_title"
+msgstr "Basic vitals are being met"
+
+msgid "goals"
+msgstr "Goals"
+
+msgid "goals_why"
+msgstr "Complete goals at your own pace to explore the tools and systems at your disposal. HQ will reward you when completing them."
+
+msgid "gogobot"
+msgstr "Gogobot"
+
+msgid "gogobot_desc"
+msgstr "Perfect dance moves, down to a nanometer tolerance"
+
+msgid "gold_token"
+msgstr "Gold token"
+
+msgid "graduate_spec"
+msgstr "Graduate spec"
+
+msgid "green_token"
+msgstr "Green token"
+
+msgid "group_commercial"
+msgstr "Commercial"
+
+msgid "group_control"
+msgstr "@ui_icon_30px_lupa.png Crowd control"
+
+msgid "group_damage"
+msgstr "@ui_icon_30px_lupa.png Damage"
+
+msgid "group_decor"
+msgstr "Decoration and gardening"
+
+msgid "group_eating"
+msgstr "Food & drink"
+
+msgid "group_facilities"
+msgstr "Facilities and security"
+
+msgid "group_facilities2"
+msgstr "Facilities"
+
+msgid "group_factory"
+msgstr "Production"
+
+msgid "group_gardening"
+msgstr "Gardening"
+
+msgid "group_healing"
+msgstr "@ui_icon_30px_lupa.png Healing"
+
+msgid "group_health"
+msgstr "Health and hygiene"
+
+msgid "group_hygiene"
+msgstr "Hygiene"
+
+msgid "group_misc"
+msgstr "Others"
+
+msgid "group_recreational"
+msgstr "Recreational"
+
+msgid "group_security"
+msgstr "Security"
+
+msgid "group_shielding"
+msgstr "@ui_icon_30px_lupa.png Shielding"
+
+msgid "group_ships"
+msgstr "Ship construction"
+
+msgid "group_sleeping"
+msgstr "Hospitality"
+
+msgid "gun_beamgun_name"
+msgstr "Beam Gun"
+
+msgid "gun_blaster_name"
+msgstr "Blaster"
+
+msgid "gun_blorg_name"
+msgstr "Blorg Demolisher"
+
+msgid "gun_crus_name"
+msgstr "Crusantian Standard"
+
+msgid "gun_cucur_name"
+msgstr "Cucurbian Standard"
+
+msgid "gun_disruptor_name"
+msgstr "Disruptor"
+
+msgid "gun_laser_name"
+msgstr "Laser Gun"
+
+msgid "gun_lemur_name"
+msgstr "Lemurian Standard"
+
+msgid "gun_medus_name"
+msgstr "Medus Standard"
+
+msgid "gun_nogi_name"
+msgstr "Nogi Standard"
+
+msgid "gun_phaser_name"
+msgstr "Phaser"
+
+msgid "gun_pirates_name"
+msgstr "Pirates Standard"
+
+msgid "gun_pistol_name"
+msgstr "Pistol"
+
+msgid "gun_raygun_name"
+msgstr "Ray Gun"
+
+msgid "gun_robots_name"
+msgstr "Robots Standard"
+
+msgid "gun_zapper_name"
+msgstr "Stun ray"
+
+msgid "had_to_flee"
+msgstr "Ran away in panic"
+
+msgid "had_to_flee_desc"
+msgstr "Something scared me and I ran away"
+
+msgid "hands_01"
+msgstr "Heavy Duty Gloves"
+
+msgid "hands_02"
+msgstr "Cyber V82"
+
+msgid "hands_03"
+msgstr "Shell Gloves"
+
+msgid "hands_04"
+msgstr "Pilot Gloves"
+
+msgid "hands_05"
+msgstr "Raintrooper Gloves"
+
+msgid "hands_06"
+msgstr "Fusion Welder Gloves"
+
+msgid "hands_07"
+msgstr "EVA Suit Gloves"
+
+msgid "hands_08"
+msgstr "Powered Gloves"
+
+msgid "hands_09"
+msgstr "Ablative Gloves"
+
+msgid "hands_10"
+msgstr "ShockGloves Beta"
+
+msgid "hands_item"
+msgstr "Hands item"
+
+msgid "hard"
+msgstr "Hard"
+
+msgid "heal_1"
+msgstr "ProxHeal"
+
+msgid "heal_2"
+msgstr "ProxHeal Plus"
+
+msgid "heal_3"
+msgstr "FarHeal Advanced"
+
+msgid "heal_4"
+msgstr "MedXploder"
+
+msgid "heal_nearby"
+msgstr "Heal nearby"
+
+msgid "healing_desc"
+msgstr "Healing friend"
+
+msgid "health"
+msgstr "Health"
+
+msgid "health_feeling_low"
+msgstr "Wounded"
+
+msgid "health_feeling_low_desc"
+msgstr "My wounds hurt"
+
+msgid "health_feeling_very_low"
+msgstr "Badly wounded"
+
+msgid "health_feeling_very_low_desc"
+msgstr "My wounds hurt very badly"
+
+msgid "health_tier_1"
+msgstr "Basic health"
+
+msgid "health_tier_2"
+msgstr "Advanced health"
+
+msgid "health_tier_3"
+msgstr "Advanced hygiene"
+
+msgid "health_tier_4"
+msgstr "Surgery"
+
+msgid "health_tier_5"
+msgstr "Thermal wellness"
+
+msgid "health_tier_6"
+msgstr "Total regeneration"
+
+msgid "helium"
+msgstr "Helium"
+
+msgid "helium_node"
+msgstr "Helium node"
+
+msgid "historic_program"
+msgstr "Historic program"
+
+msgid "holo"
+msgstr "holo"
+
+msgid "holobooks"
+msgstr "Holobooks"
+
+msgid "holobooks_obj"
+msgstr "Holobooks shelves"
+
+msgid "holobooks_obj_desc"
+msgstr "Sells all the knowledge in the galaxy in paper format. It's retro!"
+
+msgid "holocomics"
+msgstr "Holocomics"
+
+msgid "holofiction"
+msgstr "HoloFiction v19.2"
+
+msgid "holofiction_desc"
+msgstr "An amazing amount of fun in 4D"
+
+msgid "holohistorical"
+msgstr "HoloHistory v24.8"
+
+msgid "holohistorical_desc"
+msgstr "Relive ye olden times"
+
+msgid "home"
+msgstr "Home"
+
+msgid "home_station"
+msgstr "Home station"
+
+msgid "hospital_bed"
+msgstr "Hospital bed"
+
+msgid "hospital_bed_desc"
+msgstr "Includes advanced medical systems that require a doctor to operate"
+
+msgid "hospitality_job"
+msgstr "Hospitality"
+
+msgid "hospitality_tier_1"
+msgstr "Redshirt and graduate barracks"
+
+msgid "hospitality_tier_2"
+msgstr "Master officer bedrooms"
+
+msgid "hospitality_tier_3"
+msgstr "Motel"
+
+msgid "hospitality_tier_4"
+msgstr "Luxury hotel"
+
+msgid "hospitality_tier_5"
+msgstr "Cryoresting"
+
+msgid "hostile"
+msgstr "Hostile"
+
+msgid "hotel_bed_must_single"
+msgstr "Only one bed per motel or hotel room"
+
+msgid "hotel_checkin"
+msgstr "Hotel check-in"
+
+msgid "hotel_checkin_desc"
+msgstr "I can use hotel rooms now"
+
+msgid "hotelbed"
+msgstr "Hotel bed"
+
+msgid "hotelbed_desc"
+msgstr "Luxury bed for affluent visitors. Requires an hotel check-in desk to be used. Cannot be used by officers."
+
+msgid "hotelcheckin"
+msgstr "Hotel reception"
+
+msgid "hotelcheckin_desc"
+msgstr "Visitors must check-in here and pay before they can use an hotel bed."
+
+msgid "hps_label"
+msgstr "Healing per second"
+
+msgid "hps_label_short"
+msgstr "HPS"
+
+msgid "human_federation"
+msgstr "Human Civilians"
+
+msgid "humans_adjective"
+msgstr "Human %s"
+
+msgid "humans_adjective2"
+msgstr "Human ~A"
+
+msgid "humans_member"
+msgstr "Human"
+
+msgid "humans_name"
+msgstr "Humans"
+
+msgid "hunger"
+msgstr "Hunger"
+
+msgid "hunger_feeling_high"
+msgstr "Well fed"
+
+msgid "hunger_feeling_high_desc"
+msgstr "That meal was really good!"
+
+msgid "hunger_feeling_low"
+msgstr "Starving"
+
+msgid "hunger_feeling_low_desc"
+msgstr "My hunger is hurting me"
+
+msgid "hygiene"
+msgstr "Hygiene"
+
+msgid "hygiene_feeling_high"
+msgstr "Refreshed"
+
+msgid "hygiene_feeling_high_desc"
+msgstr "It's very pleasant to feel this clean"
+
+msgid "hygiene_feeling_low"
+msgstr "Gross smelling"
+
+msgid "hygiene_feeling_low_desc"
+msgstr "People avoid me, I need a shower"
+
+msgid "hygienizer_basic"
+msgstr "Hygienizer 3000"
+
+msgid "hygienizer_basic_desc"
+msgstr "Keeps everybody clean and refreshed"
+
+msgid "hygienizer_max"
+msgstr "MegaShower 5000"
+
+msgid "hygienizer_max_desc"
+msgstr "Washes you so clean you may not recognize yourself"
+
+msgid "hygienizer_plus"
+msgstr "Shower Delux"
+
+msgid "hygienizer_plus_desc"
+msgstr "Keeps everybody cleaner and refreshed-er"
+
+msgid "implant_01"
+msgstr "Nerve OC"
+
+msgid "implant_02"
+msgstr "TargetTron++"
+
+msgid "implant_03"
+msgstr "ReflexPlus"
+
+msgid "implant_04"
+msgstr "ReflexPlus Lite"
+
+msgid "implant_05"
+msgstr "ADRNL Bypass"
+
+msgid "implant_06"
+msgstr "uWatch mKill"
+
+msgid "implant_07"
+msgstr "uRun mKill"
+
+msgid "implant_08"
+msgstr "Hot Reloader"
+
+msgid "implant_09"
+msgstr "FocusIN"
+
+msgid "implant_10"
+msgstr "Backup Power"
+
+msgid "implant_11"
+msgstr "Stress Reliever"
+
+msgid "implant_12"
+msgstr "MindExpander"
+
+msgid "implant_13"
+msgstr "Hand Steadier"
+
+msgid "implant_14"
+msgstr "Emergency cells"
+
+msgid "implant_15"
+msgstr "Power Injector"
+
+msgid "implant_16"
+msgstr "Widget 3000P"
+
+msgid "implant_17"
+msgstr "Extra Sight"
+
+msgid "implant_18"
+msgstr "Mass Modulator"
+
+msgid "implant_19"
+msgstr "Meta Modulator"
+
+msgid "implant_20"
+msgstr "Flux Modulator"
+
+msgid "implant_item"
+msgstr "Implant item"
+
+msgid "import_amount"
+msgstr "Enter amount of %s to sell to %s"
+
+msgid "import_amount_over_hold"
+msgstr "Ship cargo hold is too small"
+
+msgid "import_amount_over_stock"
+msgstr "Not enough non-shop stock in the station"
+
+msgid "import_changed_stock"
+msgstr "Station stock changed at the last second and it is now under your selected amount"
+
+msgid "import_invaded_planet"
+msgstr "The selected planet is invaded and does not accept product sales."
+
+msgid "import_invalid_ship_id"
+msgstr "Select a ship"
+
+msgid "import_invalid_ship_not_home"
+msgstr "Ship must be parked at home"
+
+msgid "import_too_low_amount"
+msgstr "Select a resource amount to deliver"
+
+msgid "imports_current_reputation"
+msgstr "Current reputation: %d/%d"
+
+msgid "imports_donation_bonus"
+msgstr "Reputation bonus: +%d"
+
+msgid "imports_donation_button"
+msgstr "Donate @ui_icon_20px_credits04.png %d"
+
+msgid "imports_hostile_donation_desc"
+msgstr "We are not interested in your shiny baubles, but a donation to our cause will make us hate you a little less intensely."
+
+msgid "imports_hostile_limit"
+msgstr "We will tolerate you, but we will reconsider our position if you are hostile to us again."
+
+msgid "imports_no_planets"
+msgstr "Open more star systems to discover planets with a demand for this product"
+
+msgid "in_progress"
+msgstr "In Progress"
+
+msgid "in_progress_p"
+msgstr "In progress: %d/%d"
+
+msgid "in_stasis"
+msgstr "In stasis"
+
+msgid "in_storage_area"
+msgstr "In storage area"
+
+msgid "in_use"
+msgstr "In use"
+
+msgid "include"
+msgstr "Include"
+
+msgid "industrialist"
+msgstr "Industrialist"
+
+msgid "industrialist_desc2"
+msgstr "Industrialists spend their days toiling in the heavy factories of your station with the highest skill."
+
+msgid "inebriation"
+msgstr "Inebriation"
+
+msgid "infinity"
+msgstr "Infinity"
+
+msgid "infinity_short"
+msgstr "Inf"
+
+msgid "info_tool"
+msgstr "Info/zoom/pan"
+
+msgid "ingredient_of"
+msgstr "Ingredient of:"
+
+msgid "input"
+msgstr "Input"
+
+msgid "interiorturret"
+msgstr "Big turrret"
+
+msgid "interiorturret_desc"
+msgstr "Large, high caliber turret"
+
+msgid "intermediate_ship_engines_parts"
+msgstr "Intermediate ship engine parts"
+
+msgid "intermediate_ship_hull_parts"
+msgstr "Intermediate ship hull parts"
+
+msgid "intermediate_ship_lifesupport_parts"
+msgstr "Intermediate ship life support parts"
+
+msgid "intermediate_ship_structure_parts"
+msgstr "Intermediate ship structure parts"
+
+msgid "interrupted_by_noise"
+msgstr "Interrupted by noise"
+
+msgid "intro_1"
+msgstr "5781 AD, Human Federation HQ, Earth\n \nGreetings officer. Your outstanding work as a Rank 5 Bureaucrat has been noticed by your superiors. You have been chosen to build and lead a new station in an uncharted corner of the galaxy."
+
+msgid "intro_2"
+msgstr "Explore the surrounding systems and their planets, discover their resources, and deal with any opposition. You have the trust of the Human Federation!"
+
+msgid "invaded_by"
+msgstr "Invaded by %s"
+
+msgid "invaded_by_other_desc"
+msgstr "This planet has been invaded and no extraction or commerce is possible. Tourists will not come to visit your station from its system either. Liberate it to enable commerce again."
+
+msgid "invaded_by_spatials_desc"
+msgstr "You have invaded this planet and it is under your control. Your built objects won't suffer attrition."
+
+msgid "invaderbomb"
+msgstr "Ticking bomb"
+
+msgid "invaderbomb_desc"
+msgstr "Destroy this bomb before the event timer reaches 0 to avoid a big explosion"
+
+msgid "invasion_happens_alert"
+msgstr "%s have invaded the planet %s, owned by %s. Trade, extraction and tourism from this planet is now blockaded."
+
+msgid "invasion_happens_alert_spatials"
+msgstr "You have invaded the planet %s. Reputation with %s has decreased by %d."
+
+msgid "invasion_mission_can_invade"
+msgstr "You can invade this hostile planet by destroying enough enemy objects. Check the progress counter next to me, when it reaches 100%, the planet will be invaded. This will allow us to keep our extractors intact after taking off."
+
+msgid "invasion_mission_can_liberate"
+msgstr "Hostiles have taken over this planet, and they are blockading all trade and extraction! Destroy their structures to liberate it. Check the progress counter next to me, when it reaches 100%, the planet will be liberated."
+
+msgid "invasion_mission_can_liberate_done"
+msgstr "You have liberated the planet! Trade and extraction are possible again."
+
+msgid "invasion_mission_none"
+msgstr "This planet is friendly to us. Let's keep it that way, unless you have very good reasons not to..."
+
+msgid "invasion_mission_player_invaded"
+msgstr "This planet is now invaded. Our extractors won't suffer attrition damage."
+
+msgid "inventory"
+msgstr "Inventory"
+
+msgid "inventory_in_shops"
+msgstr "In shops: ~A"
+
+msgid "inventory_locked"
+msgstr "Locked: ~A"
+
+msgid "inventory_missing_ingredients"
+msgstr "Not enough of one or more ingredients"
+
+msgid "inventory_on_pallets"
+msgstr "On pallets: ~A"
+
+msgid "inventory_on_storage_areas"
+msgstr "On storage areas: ~A"
+
+msgid "inventory_stacks"
+msgstr "Stacks: ~A"
+
+msgid "inventory_total"
+msgstr "Total: ~A"
+
+msgid "inventory_unattended"
+msgstr "Unattended: ~A"
+
+msgid "item"
+msgstr "Item"
+
+msgid "item_info_amount"
+msgstr "Amount: ~A"
+
+msgid "item_inventory_shortcut"
+msgstr "@ui_icon_30px_cargo.png Inventory status"
+
+msgid "item_level"
+msgstr "Level ~A"
+
+msgid "item_power_single"
+msgstr "~A ~A"
+
+msgid "item_prefix_epic"
+msgstr "Epic"
+
+msgid "item_prefix_legendary"
+msgstr "Legendary"
+
+msgid "item_prefix_powerful"
+msgstr "Powerful"
+
+msgid "item_prefix_rare"
+msgstr "Rare"
+
+msgid "item_prefix_strong"
+msgstr "Strong"
+
+msgid "itemforge"
+msgstr "Item forge"
+
+msgid "itemforge_desc"
+msgstr "Manufacture armor, implants and weapons"
+
+msgid "jewellery"
+msgstr "Jewellery"
+
+msgid "job_matrix"
+msgstr "Job matrix"
+
+msgid "job_matrix_click_officer_name"
+msgstr "Focus on map"
+
+msgid "job_matrix_click_officer_portrait"
+msgstr "Focus in staff"
+
+msgid "job_matrix_job_tip"
+msgstr "~A\nPriority: ~A"
+
+msgid "job_matrix_per_job_prio_disabled"
+msgstr "Use global job priority for this officer"
+
+msgid "job_matrix_per_job_prio_enabled"
+msgstr "Set individual job priorities for this officer"
+
+msgid "job_matrix_prompt_officer_prio"
+msgstr "Enter priority value for the job, 1 to 99, or 0 for disabling it."
+
+msgid "job_speed"
+msgstr "Speed: ~0,2Fx"
+
+msgid "job_tier_1"
+msgstr "Tier 1"
+
+msgid "job_tier_2"
+msgstr "Tier 2"
+
+msgid "job_tier_3"
+msgstr "Tier 3"
+
+msgid "job_tier_current_xp"
+msgstr "Current XP"
+
+msgid "job_tier_rating"
+msgstr "Rating"
+
+msgid "job_tier_speed"
+msgstr "Speed"
+
+msgid "job_warn_no_credits"
+msgstr "Not enough credits."
+
+msgid "job_warn_no_recipe"
+msgstr "Select a recipe to activate production."
+
+msgid "job_warn_no_resources3"
+msgstr "No stock of or no path to required ~A"
+
+msgid "job_warn_no_resources4"
+msgstr "No stock of or no path to required resources"
+
+msgid "job_warn_wait_worker"
+msgstr "Waiting for a qualified worker."
+
+msgid "job_warning"
+msgstr "Warning"
+
+msgid "jobs"
+msgstr "Jobs"
+
+msgid "jobs_enable_manual_prio"
+msgstr "Use manual priorities"
+
+msgid "juice"
+msgstr "Juice"
+
+msgid "jukebox"
+msgstr "Jukebox"
+
+msgid "jukebox_desc"
+msgstr "Pick your favorite song and dance like nobody's watching"
+
+msgid "k_thousands"
+msgstr "K"
+
+msgid "kb_build_rotate_left"
+msgstr "Build: Rotate left"
+
+msgid "kb_build_rotate_right"
+msgstr "Build: Rotate right"
+
+msgid "kb_combat_mode"
+msgstr "Toggle combat mode"
+
+msgid "kb_group_1"
+msgstr "Select group 1"
+
+msgid "kb_group_2"
+msgstr "Select group 2"
+
+msgid "kb_group_3"
+msgstr "Select group 3"
+
+msgid "kb_group_4"
+msgstr "Select group 4"
+
+msgid "kb_group_5"
+msgstr "Select group 5"
+
+msgid "kb_group_6"
+msgstr "Select group 6"
+
+msgid "kb_set_attack_target"
+msgstr "Action: Set attack target(s)"
+
+msgid "kb_set_cc_target"
+msgstr "Action: Set crowd control target(s)"
+
+msgid "kb_set_heal_target"
+msgstr "Action: Set healing target(s)"
+
+msgid "kb_set_shield_target"
+msgstr "Action: Set shielding target(s)"
+
+msgid "kb_teleport_to"
+msgstr "Action: Teleport to"
+
+msgid "keep_slot_empty"
+msgstr "Keep the selected slot or seat empty"
+
+msgid "key_unbind"
+msgstr "Unbind"
+
+msgid "knowledge"
+msgstr "Knowledge"
+
+msgid "kowka_desc"
+msgstr "Hero of Socialist Labour. She was sent to space to die as an experiment in the 20th century, but she mysteriously survived for 38 centuries and now rallies robots around her."
+
+msgid "kowka_guard"
+msgstr "Кошка Guard"
+
+msgid "kowka_guard_desc"
+msgstr "The personal robot army of Кошка is helping around in your station."
+
+msgid "lactian_adjective"
+msgstr "Lactian %s"
+
+msgid "lactian_adjective2"
+msgstr "Lactian ~A"
+
+msgid "lactian_leaflets"
+msgstr "Lactian leaflets"
+
+msgid "lactian_leaflets_desc"
+msgstr "All praise Lactus, our sacred milk. Can be recycled."
+
+msgid "lactian_member"
+msgstr "Lactian"
+
+msgid "lactians_name"
+msgstr "Lactians"
+
+msgid "landing"
+msgstr "Landing..."
+
+msgid "landing_start"
+msgstr "@ui_icon_30px_aterrizaje.png Explore"
+
+msgid "language"
+msgstr "Language"
+
+msgid "latest_save"
+msgstr "Latest save: %s"
+
+msgid "lemurian_adjective"
+msgstr "Lemurian %s"
+
+msgid "lemurian_adjective2"
+msgstr "Lemurian ~A"
+
+msgid "lemurian_domain"
+msgstr "Lemurian Domain"
+
+msgid "lemurian_member"
+msgstr "Lemurian"
+
+msgid "lemurian_name"
+msgstr "Lemurians"
+
+msgid "level_n"
+msgstr "Level %d"
+
+msgid "level_n_paren"
+msgstr " (level %d)"
+
+msgid "liberation_happens_alert_spatials"
+msgstr "You have liberated the planet %s. Reputation with %s has increased by %d, and reputation with %s has decreased by %d."
+
+msgid "liberty_desc"
+msgstr "Freedom and Courage. Survivor for 38 centuries of a long gone past of experimenting with animals, now brings joy everywhere she goes."
+
+msgid "libery_name"
+msgstr "Liberty"
+
+msgid "library_table"
+msgstr "Library table"
+
+msgid "library_table_desc"
+msgstr "Calm and quiet table for reading"
+
+msgid "list"
+msgstr "List"
+
+msgid "litter"
+msgstr "Litter"
+
+msgid "litter_desc"
+msgstr "Cleaners with access to a recycler can remove this litter"
+
+msgid "load_game"
+msgstr "Load game"
+
+msgid "local"
+msgstr "Local"
+
+msgid "locked"
+msgstr "Locked"
+
+msgid "lunch_shop"
+msgstr "Diner food"
+
+msgid "lunch_shop_desc"
+msgstr "Food is served here."
+
+msgid "luxury_clothes"
+msgstr "Luxury clothes"
+
+msgid "luxury_clothes_desc"
+msgstr "Luxurious fabrics from bioengineered species made extinct on purpose"
+
+msgid "luxury_dinner"
+msgstr "Luxury dinner"
+
+msgid "luxury_display"
+msgstr "Luxury display"
+
+msgid "luxury_display_desc"
+msgstr "Precious jewels and relics"
+
+msgid "luxury_kitchen"
+msgstr "Luxury kitchen"
+
+msgid "m_millions"
+msgstr "M"
+
+msgid "macarons"
+msgstr "Macarons"
+
+msgid "macosx_experimental"
+msgstr "This option is experimental! It won't work correctly with multi monitor setups and some scaled modes."
+
+msgid "macosx_retina"
+msgstr "Mac OS X\nRetina Support"
+
+msgid "main_menu"
+msgstr "Main menu"
+
+msgid "maintenance_robot"
+msgstr "Maintenance robot"
+
+msgid "make_active_absorb"
+msgstr "Make active absorb item L~A-L~A"
+
+msgid "make_active_control"
+msgstr "Make active control item L~A-L~A"
+
+msgid "make_active_damage"
+msgstr "Make active damage item L~A-L~A"
+
+msgid "make_active_healing"
+msgstr "Make active healing item L~A-L~A"
+
+msgid "make_chest"
+msgstr "Make chest item L~A-L~A"
+
+msgid "make_feet"
+msgstr "Make feet item L~A-L~A"
+
+msgid "make_fuel_cell"
+msgstr "Make fuel cell"
+
+msgid "make_hands"
+msgstr "Make hands item L~A-L~A"
+
+msgid "make_implant"
+msgstr "Make implant item L~A-L~A"
+
+msgid "make_owned_action"
+msgstr "Make owned by ~A"
+
+msgid "make_owner_action"
+msgstr "Make owner of ~A"
+
+msgid "make_repair_part"
+msgstr "Make repair part"
+
+msgid "map_scroll_down"
+msgstr "Map scroll down"
+
+msgid "map_scroll_left"
+msgstr "Map scroll left"
+
+msgid "map_scroll_right"
+msgstr "Map scroll right"
+
+msgid "map_scroll_up"
+msgstr "Map scroll up"
+
+msgid "master_spec"
+msgstr "Master spec"
+
+msgid "max_3char"
+msgstr "MAX"
+
+msgid "max_stack_size"
+msgstr "Max stack size: ~A"
+
+msgid "max_stock"
+msgstr "Max stock"
+
+msgid "mead"
+msgstr "Mead"
+
+msgid "meat"
+msgstr "Meat"
+
+msgid "meat_node"
+msgstr "Meat node"
+
+msgid "medic"
+msgstr "Medic"
+
+msgid "medic_desc"
+msgstr "Heals the hurting, the diseased, the handicapped."
+
+msgid "medical_analyzer"
+msgstr "Medical analyzer"
+
+msgid "medical_analyzer_desc"
+msgstr "Makes a detailed analysis of any injury or disease."
+
+msgid "medical_workshop"
+msgstr "Medical workshop"
+
+msgid "medical_workshop_desc"
+msgstr "Pharmaceutical production"
+
+msgid "medicine"
+msgstr "Medicine"
+
+msgid "meds_dispenser"
+msgstr "Meds dispenser"
+
+msgid "meds_dispenser_desc"
+msgstr "Stores medical supplies and drugs"
+
+msgid "medus_adjective"
+msgstr "Meductian %s"
+
+msgid "medus_adjective2"
+msgstr "Meductian ~A"
+
+msgid "medus_full"
+msgstr "Meductian Noosphere"
+
+msgid "medus_member"
+msgstr "Meductian"
+
+msgid "medus_name"
+msgstr "Meductians"
+
+msgid "melee_name"
+msgstr "Melee"
+
+msgid "menu"
+msgstr "Menu"
+
+msgid "metal_press"
+msgstr "Metal press"
+
+msgid "metal_press_desc"
+msgstr "Heavy metal production. May contain traces of 80s hair."
+
+msgid "miasma"
+msgstr "Miasma"
+
+msgid "miasma_desc"
+msgstr "A cloud of stink and disease, created by rotting matter. It will give negative feelings and can make anybody nearby sick. Make sure you have a recycler and nearby cleaners ready to remove its origin, like corpses or litter accumulations."
+
+msgid "miasma_touched"
+msgstr "Miasma affected"
+
+msgid "miasma_touched_desc"
+msgstr "Ugh, this smell is disgusting"
+
+msgid "microbiota"
+msgstr "Microbiota"
+
+msgid "microbiota_node"
+msgstr "Microbiota node"
+
+msgid "mind"
+msgstr "Mind"
+
+msgid "mind_combat"
+msgstr "Combat focus"
+
+msgid "mind_combat_desc"
+msgstr "Work and vitals are of no concern"
+
+msgid "mind_crew"
+msgstr "Ship crew"
+
+msgid "mind_crew_desc"
+msgstr "I take my needs very seriously"
+
+msgid "mind_feeling_low"
+msgstr "Out of my mind"
+
+msgid "mind_feeling_low2"
+msgstr "Miserable"
+
+msgid "mind_feeling_low2_desc"
+msgstr "Nothing matters, I do not want to live"
+
+msgid "mind_feeling_low_desc"
+msgstr "I CAN'T TAKE THIS ANYMORE!"
+
+msgid "mind_tip"
+msgstr "Mind: %d"
+
+msgid "mineral_extractor"
+msgstr "Mineral Extractor"
+
+msgid "mineral_extractor_desc"
+msgstr "Extract mineral resources within its area of influence"
+
+msgid "miniservo"
+msgstr "Miniservo"
+
+msgid "miniservo_display"
+msgstr "Miniservo display"
+
+msgid "miniservo_display_desc"
+msgstr "A tiny personal robot for a definitely not tiny price"
+
+msgid "missing_demands"
+msgstr "Missing demands"
+
+msgid "missing_demands_desc"
+msgstr "Some of my demands are not being met"
+
+msgid "mod_outdated"
+msgstr "The selected mod is not compatible with this version of the game"
+
+msgid "mods"
+msgstr "Mods"
+
+msgid "mods_in_steam_workshop"
+msgstr "Discover mods in the Steam Workshop"
+
+msgid "mood_10_of_10"
+msgstr "Euphoric"
+
+msgid "mood_1_of_10"
+msgstr "Angered"
+
+msgid "mood_2_of_10"
+msgstr "Vexed"
+
+msgid "mood_3_of_10"
+msgstr "Unhappy"
+
+msgid "mood_4_of_10"
+msgstr "Apathetic"
+
+msgid "mood_5_of_10"
+msgstr "Ennui"
+
+msgid "mood_6_of_10"
+msgstr "Neutral"
+
+msgid "mood_7_of_10"
+msgstr "Satisfied"
+
+msgid "mood_8_of_10"
+msgstr "Happy"
+
+msgid "mood_9_of_10"
+msgstr "Joyful"
+
+msgid "motel_checkin"
+msgstr "Motel check-in"
+
+msgid "motel_checkin_desc"
+msgstr "I can use motel rooms now"
+
+msgid "motelbed"
+msgstr "Motel bed"
+
+msgid "motelbed_desc"
+msgstr "Cheap bed for not very discerning visitors. Requires a motel check-in desk to be used. Cannot be used by officers."
+
+msgid "motelcheckin"
+msgstr "Motel reception"
+
+msgid "motelcheckin_desc"
+msgstr "Visitors must check-in here and pay before they can use a motel bed."
+
+msgid "music_volume"
+msgstr "Music volume"
+
+msgid "mutosis"
+msgstr "Mutosis"
+
+msgid "mutosis_desc"
+msgstr "That zit got out of hand..."
+
+msgid "mystery_milk"
+msgstr "Mystery milk"
+
+msgid "name"
+msgstr "Name"
+
+msgid "name_too_long"
+msgstr "Name is too long"
+
+msgid "name_too_short"
+msgstr "Name is too short"
+
+msgid "name_used"
+msgstr "Name is already used"
+
+msgid "narcolepsy"
+msgstr "Narcolepsy"
+
+msgid "narcolepsy_desc"
+msgstr "I fall asleep without a reason"
+
+msgid "navigation"
+msgstr "Navigation"
+
+msgid "navigator"
+msgstr "Navigator"
+
+msgid "navigator_desc"
+msgstr "They have seen things you'll never believe, shuttled megatons off the shoulder of Orion. Makes the Kessel Run in actual time units."
+
+msgid "need_booking"
+msgstr "Needs booking"
+
+msgid "need_booking_desc"
+msgstr "I need to book a room to sleep"
+
+msgid "neutral"
+msgstr "Neutral"
+
+msgid "neutral_adjective"
+msgstr "Neutral %s"
+
+msgid "neutral_adjective2"
+msgstr "Neutral ~A"
+
+msgid "neutral_member"
+msgstr "Neutral"
+
+msgid "neutral_name"
+msgstr "Neutrals"
+
+msgid "new_game"
+msgstr "New game"
+
+msgid "new_game_option_events"
+msgstr "Events:"
+
+msgid "new_game_option_events_desc"
+msgstr "Event options can also be changed in-game at any time"
+
+msgid "new_game_option_pick_planet_kind"
+msgstr "Planet kind:"
+
+msgid "new_game_options"
+msgstr "Options"
+
+msgid "new_save_option"
+msgstr "<New save>"
+
+msgid "next"
+msgstr "Next"
+
+msgid "nitrogen"
+msgstr "Nitrogen"
+
+msgid "nitrogen_node"
+msgstr "Nitrogen node"
+
+msgid "no"
+msgstr "No"
+
+msgid "no_ship_desired"
+msgstr "No ship desired"
+
+msgid "no_user_mods"
+msgstr "No user mods have been found. Download mods before trying to enable them."
+
+msgid "no_user_mods_enabled"
+msgstr "No user mods have been enabled."
+
+msgid "nogi_adjective"
+msgstr "Nogi %s"
+
+msgid "nogi_adjective2"
+msgstr "Nogi ~A"
+
+msgid "nogi_member"
+msgstr "Nogi"
+
+msgid "nogi_name"
+msgstr "Nogis"
+
+msgid "nogi_tyrants"
+msgstr "Nogi Tyrants"
+
+msgid "noise"
+msgstr "Noise"
+
+msgid "noise_feeling"
+msgstr "Interrupted by noise"
+
+msgid "noise_interruption_desc"
+msgstr "Room noise is too high, I can't relax"
+
+msgid "noise_room"
+msgstr "Noise: %d"
+
+msgid "non_walkable"
+msgstr "Cannot be walked over"
+
+msgid "normal"
+msgstr "Normal"
+
+msgid "not_bound"
+msgstr "Not bound"
+
+msgid "not_exploring_any_planet"
+msgstr "Not exploring any planet"
+
+msgid "not_exploring_short"
+msgstr "Not exploring"
+
+msgid "not_number"
+msgstr "Not a number"
+
+msgid "not_tutorial_planet"
+msgstr "The planet tutorial only works in the planet named Tutoland in your home system."
+
+msgid "npc_animal01"
+msgstr "Animal remains"
+
+msgid "npc_animal02"
+msgstr "Animal remains"
+
+msgid "npc_animal03"
+msgstr "Animal remains"
+
+msgid "npc_artifact01"
+msgstr "Artifact"
+
+msgid "npc_artifact02"
+msgstr "Artifact"
+
+msgid "npc_artifact03"
+msgstr "Artifact"
+
+msgid "npc_artifact04"
+msgstr "Artifact"
+
+msgid "npc_artifact05"
+msgstr "Artifact"
+
+msgid "npc_augustus"
+msgstr "Augustus"
+
+msgid "npc_bagelhead"
+msgstr "Bagelhead"
+
+msgid "npc_bicho01"
+msgstr "Lazzy moo"
+
+msgid "npc_bicho02"
+msgstr "Lemurian rat"
+
+msgid "npc_bicho03"
+msgstr "Heliominder"
+
+msgid "npc_bicho04"
+msgstr "Tallhammer"
+
+msgid "npc_bicho05"
+msgstr "Emerald roach"
+
+msgid "npc_bicho06"
+msgstr "Pedipole"
+
+msgid "npc_bicho07"
+msgstr "Tweetto"
+
+msgid "npc_bicho08"
+msgstr "Heavyhooves"
+
+msgid "npc_bicho09"
+msgstr "Haloffe"
+
+msgid "npc_bicho10"
+msgstr "Zojamb"
+
+msgid "npc_bicho11"
+msgstr "Bitty"
+
+msgid "npc_bicho12"
+msgstr "Spikedigger"
+
+msgid "npc_bicho13"
+msgstr "Scarhorn"
+
+msgid "npc_blorg01"
+msgstr "Blorg colonist"
+
+msgid "npc_blorg02"
+msgstr "Blorg colonist"
+
+msgid "npc_blorg03"
+msgstr "Blorg colonist"
+
+msgid "npc_blorg_boss"
+msgstr "Blorg boss"
+
+msgid "npc_blorg_crate_pickable"
+msgstr "Blorg valuables"
+
+msgid "npc_blorg_mine"
+msgstr "Mine"
+
+msgid "npc_blorg_visitor01"
+msgstr "Blorg visitor"
+
+msgid "npc_blorg_visitor02"
+msgstr "Blorg visitor"
+
+msgid "npc_blorg_visitor03"
+msgstr "Blorg visitor"
+
+msgid "npc_blorg_visitor04"
+msgstr "Blorg visitor"
+
+msgid "npc_chuchu01"
+msgstr "Chuchu visitor"
+
+msgid "npc_chuchu02"
+msgstr "Chuchu visitor"
+
+msgid "npc_chuchu03"
+msgstr "Chuchu visitor"
+
+msgid "npc_chuchu04"
+msgstr "Chuchu visitor"
+
+msgid "npc_chuchu05"
+msgstr "Chuchu visitor"
+
+msgid "npc_chuchucolony01"
+msgstr "Chuchu warrior"
+
+msgid "npc_chuchucolony02"
+msgstr "Chuchu elite"
+
+msgid "npc_chuchucolony03"
+msgstr "Chuchu heavy"
+
+msgid "npc_chuchucolony04"
+msgstr "Chuchu tinker"
+
+msgid "npc_colonycrusantian01"
+msgstr "Crusantian colonist"
+
+msgid "npc_colonycrusantian02"
+msgstr "Crusantian colonist"
+
+msgid "npc_colonycrusantian03"
+msgstr "Crusantian colonist"
+
+msgid "npc_colonycrusantian04"
+msgstr "Crusantian colonist"
+
+msgid "npc_colonylactian01"
+msgstr "Lactian priest"
+
+msgid "npc_colonylactian02"
+msgstr "Lactian servant"
+
+msgid "npc_colonylactian03"
+msgstr "Lactian soldier"
+
+msgid "npc_colonylactian04"
+msgstr "Lactian tank"
+
+msgid "npc_colonylemurian01"
+msgstr "Lemurian sapper"
+
+msgid "npc_colonylemurian02"
+msgstr "Lemurian forces"
+
+msgid "npc_colonylemurian03"
+msgstr "Lemurian keeper"
+
+msgid "npc_colonynogi01"
+msgstr "Nogi novice"
+
+msgid "npc_colonynogi02"
+msgstr "Nogi mentalist"
+
+msgid "npc_colonynogi03"
+msgstr "Nogi elder"
+
+msgid "npc_container01"
+msgstr "Container"
+
+msgid "npc_container02"
+msgstr "Container"
+
+msgid "npc_container03"
+msgstr "Container"
+
+msgid "npc_container04"
+msgstr "Container"
+
+msgid "npc_container05"
+msgstr "Container"
+
+msgid "npc_container06"
+msgstr "Container"
+
+msgid "npc_crusantian_visitor01"
+msgstr "Crusantian visitor"
+
+msgid "npc_crusantian_visitor02"
+msgstr "Crusantian visitor"
+
+msgid "npc_crusantian_visitor03"
+msgstr "Crusantian visitor"
+
+msgid "npc_crusantian_visitor04"
+msgstr "Crusantian visitor"
+
+msgid "npc_crusantianbox01"
+msgstr "Crusantian cache"
+
+msgid "npc_cucurbian01"
+msgstr "Cucurbian visitor"
+
+msgid "npc_cucurbian02"
+msgstr "Cucurbian visitor"
+
+msgid "npc_cucurbian03"
+msgstr "Cucurbian visitor"
+
+msgid "npc_cucurbian_boss"
+msgstr "Cucurbian boss"
+
+msgid "npc_cucurbian_crate01"
+msgstr "Cucurbian cache"
+
+msgid "npc_droid01"
+msgstr "Robot sentry"
+
+msgid "npc_droid02"
+msgstr "Robot trooper"
+
+msgid "npc_droid03"
+msgstr "Robot slayer"
+
+msgid "npc_droid04"
+msgstr "Robot tank"
+
+msgid "npc_droid05"
+msgstr "Robot speeder"
+
+msgid "npc_human01"
+msgstr "Human colonist"
+
+msgid "npc_human02"
+msgstr "Human colonist"
+
+msgid "npc_human03"
+msgstr "Human colonist"
+
+msgid "npc_human04"
+msgstr "Human colonist"
+
+msgid "npc_human_visitor01"
+msgstr "Human visitor"
+
+msgid "npc_human_visitor02"
+msgstr "Human visitor"
+
+msgid "npc_human_visitor03"
+msgstr "Human visitor"
+
+msgid "npc_human_visitor04"
+msgstr "Human visitor"
+
+msgid "npc_kowka"
+msgstr "Кошка"
+
+msgid "npc_lemurian_visitor01"
+msgstr "Lemurian visitor"
+
+msgid "npc_lemurian_visitor02"
+msgstr "Lemurian visitor"
+
+msgid "npc_lemurian_visitor03"
+msgstr "Lemurian visitor"
+
+msgid "npc_lemurianbox01"
+msgstr "Lemurian cache"
+
+msgid "npc_medus01"
+msgstr "Meductian visitor"
+
+msgid "npc_medus02"
+msgstr "Meductian visitor"
+
+msgid "npc_medus03"
+msgstr "Meductian visitor"
+
+msgid "npc_medus04"
+msgstr "Meductian visitor"
+
+msgid "npc_medus05"
+msgstr "Meductian visitor"
+
+msgid "npc_meduscolony01"
+msgstr "Meductian guard"
+
+msgid "npc_meduscolony02"
+msgstr "Meductian driller"
+
+msgid "npc_meduscolony03"
+msgstr "Meductian rocketer"
+
+msgid "npc_meduscolony04"
+msgstr "Meductian demolisher"
+
+msgid "npc_memorymodule"
+msgstr "Memory module"
+
+msgid "npc_mineral01"
+msgstr "Rock"
+
+msgid "npc_mineral02"
+msgstr "Rock"
+
+msgid "npc_mineral03"
+msgstr "Rock"
+
+msgid "npc_mutant"
+msgstr "Mutant"
+
+msgid "npc_nogi_visitor01"
+msgstr "Nogi visitor"
+
+msgid "npc_nogi_visitor02"
+msgstr "Nogi visitor"
+
+msgid "npc_nogi_visitor03"
+msgstr "Nogi visitor"
+
+msgid "npc_nogi_visitor04"
+msgstr "Nogi visitor"
+
+msgid "npc_nogibox01"
+msgstr "Nogi cache"
+
+msgid "npc_octopus"
+msgstr "Octohorror"
+
+msgid "npc_pioneersbox01"
+msgstr "Human cache"
+
+msgid "npc_pirate01"
+msgstr "Pirate grunt"
+
+msgid "npc_pirate02"
+msgstr "Pirate soldier"
+
+msgid "npc_pirate03"
+msgstr "Pirate courier"
+
+msgid "npc_pirate04"
+msgstr "Pirate brute"
+
+msgid "npc_pirate_boss"
+msgstr "Pirate boss"
+
+msgid "npc_pirates_crap"
+msgstr "Trash"
+
+msgid "npc_pirates_mine"
+msgstr "Mine"
+
+msgid "npc_pirates_unicrate01"
+msgstr "Pirate cache"
+
+msgid "npc_pirates_unicrate02"
+msgstr "Pirate cache"
+
+msgid "npc_piratesbox01"
+msgstr "Pirate cache"
+
+msgid "npc_robotbox01"
+msgstr "Robot cache"
+
+msgid "npc_seeds"
+msgstr "Seeds"
+
+msgid "npc_tribbler01"
+msgstr "Hairy pest"
+
+msgid "npc_tribbler02"
+msgstr "Hairy pest"
+
+msgid "npc_tribbler03"
+msgstr "Hairy pest"
+
+msgid "npc_tribbler_boss"
+msgstr "Big hairy mess"
+
+msgid "npc_veg01"
+msgstr "Vegetation"
+
+msgid "npc_veg02"
+msgstr "Vegetation"
+
+msgid "npc_veg03"
+msgstr "Vegetation"
+
+msgid "npc_visitorcucurbian01"
+msgstr "Cucurbian visitor"
+
+msgid "npc_visitorcucurbian02"
+msgstr "Cucurbian visitor"
+
+msgid "npc_visitorcucurbian03"
+msgstr "Cucurbian visitor"
+
+msgid "npc_visitorcucurbian04"
+msgstr "Cucurbian visitor"
+
+msgid "npc_worm"
+msgstr "Space worm"
+
+msgid "npc_xenomorph"
+msgstr "Xenomorph"
+
+msgid "nuclearkitchen"
+msgstr "Nuclear kitchen"
+
+msgid "nuclearkitchen_desc"
+msgstr "Only the most prepared food scientists can approach this kitchen. Its product is out of this universe."
+
+msgid "obj_alienegg"
+msgstr "Xenomorph egg"
+
+msgid "obj_blorg-arch"
+msgstr "Arch"
+
+msgid "obj_blorg-biojelly"
+msgstr "Bioreactor"
+
+msgid "obj_blorg-crates1"
+msgstr "Crates"
+
+msgid "obj_blorg-crates2"
+msgstr "Crates"
+
+msgid "obj_blorg-crates3"
+msgstr "Crates"
+
+msgid "obj_blorg-house"
+msgstr "House"
+
+msgid "obj_blorg-jelly"
+msgstr "Jelly"
+
+msgid "obj_blorg-robotfactory"
+msgstr "Factory"
+
+msgid "obj_blorg-robotmegabrain"
+msgstr "Brain"
+
+msgid "obj_blorg-ship-house"
+msgstr "Repurposed ship"
+
+msgid "obj_blorg-shuttle"
+msgstr "Shuttle"
+
+msgid "obj_blorg-turret"
+msgstr "Turret"
+
+msgid "obj_blorgbuilding04"
+msgstr "Big house"
+
+msgid "obj_blorgwall"
+msgstr "Wall"
+
+msgid "obj_blorgwallturret"
+msgstr "Turrent"
+
+msgid "obj_build_info"
+msgstr "Click and drag to make an object blueprint and rotate it. You can press Esc while dragging to cancel the blueprint."
+
+msgid "obj_capsule"
+msgstr "Capsule"
+
+msgid "obj_capsule-ok"
+msgstr "Capsule"
+
+msgid "obj_chuchubox01"
+msgstr "Boxes"
+
+msgid "obj_chuchubox02"
+msgstr "Boxes"
+
+msgid "obj_chuchubox03"
+msgstr "Boxes"
+
+msgid "obj_chuchubox04"
+msgstr "Boxes"
+
+msgid "obj_chuchubox05"
+msgstr "Boxes"
+
+msgid "obj_chuchubuilding01"
+msgstr "Grain silo"
+
+msgid "obj_chuchubuilding02"
+msgstr "Big house"
+
+msgid "obj_chuchubuilding03"
+msgstr "House"
+
+msgid "obj_chuchubuilding04"
+msgstr "Surveillance tower"
+
+msgid "obj_chuchudeposit"
+msgstr "Deposit"
+
+msgid "obj_chuchudestillery"
+msgstr "Distillery"
+
+msgid "obj_chuchufield"
+msgstr "Field"
+
+msgid "obj_chuchupress"
+msgstr "Hydraulic press"
+
+msgid "obj_chuchuwall"
+msgstr "Wall"
+
+msgid "obj_chuchuwallturret"
+msgstr "Turret"
+
+msgid "obj_computer-off"
+msgstr "Computer"
+
+msgid "obj_computer-on"
+msgstr "Computer"
+
+msgid "obj_crashed-ship"
+msgstr "Crashed ship"
+
+msgid "obj_crusantianbox01"
+msgstr "Boxes"
+
+msgid "obj_crusantianbox02"
+msgstr "Boxes"
+
+msgid "obj_crusantianbox03"
+msgstr "Boxes"
+
+msgid "obj_crusantianbuilding01"
+msgstr "Tower"
+
+msgid "obj_crusantianbuilding02"
+msgstr "Town hall"
+
+msgid "obj_crusantianbuilding03"
+msgstr "House"
+
+msgid "obj_crusantianbuilding04"
+msgstr "House"
+
+msgid "obj_crusantianfield"
+msgstr "Fields"
+
+msgid "obj_crusantianwall"
+msgstr "Wall"
+
+msgid "obj_crusantianwallturret"
+msgstr "Turret"
+
+msgid "obj_cucu-1"
+msgstr "Condo"
+
+msgid "obj_cucu-2"
+msgstr "House"
+
+msgid "obj_cucu-3"
+msgstr "Condo"
+
+msgid "obj_cucu-airvent"
+msgstr "Air vent"
+
+msgid "obj_cucu-debris-1"
+msgstr "Debris"
+
+msgid "obj_cucu-debris-2"
+msgstr "Debris"
+
+msgid "obj_cucu-elevator"
+msgstr "Elevator"
+
+msgid "obj_cucu-superweapon"
+msgstr "Anti orbital beam"
+
+msgid "obj_cucurbianairvent"
+msgstr "Air vent"
+
+msgid "obj_cucurbianwall"
+msgstr "Wall"
+
+msgid "obj_cucurbianwallturret"
+msgstr "Turret"
+
+msgid "obj_destroyedbuilding01"
+msgstr "Debris"
+
+msgid "obj_destroyedbuilding02"
+msgstr "Debris"
+
+msgid "obj_destroyedbuilding03"
+msgstr "Debris"
+
+msgid "obj_destroyedbuilding04"
+msgstr "Debris"
+
+msgid "obj_destroyedbuilding05"
+msgstr "Debris"
+
+msgid "obj_destroyedbuilding06"
+msgstr "Debris"
+
+msgid "obj_destroyedbuilding07"
+msgstr "Debris"
+
+msgid "obj_destroyedbuilding08"
+msgstr "Debris"
+
+msgid "obj_destroyedbuilding09"
+msgstr "Debris"
+
+msgid "obj_destroyedbuilding10"
+msgstr "Debris"
+
+msgid "obj_embassy-statue"
+msgstr "Statue"
+
+msgid "obj_generator"
+msgstr "Generator"
+
+msgid "obj_generator-off"
+msgstr "Generator"
+
+msgid "obj_generator-on"
+msgstr "Generator"
+
+msgid "obj_group_commercial"
+msgstr "Commercial"
+
+msgid "obj_group_decor"
+msgstr "Decoration"
+
+msgid "obj_group_eating"
+msgstr "Food & drink"
+
+msgid "obj_group_facilities"
+msgstr "Facilities"
+
+msgid "obj_group_factory"
+msgstr "Production"
+
+msgid "obj_group_gardening"
+msgstr "Gardening"
+
+msgid "obj_group_health"
+msgstr "Health"
+
+msgid "obj_group_hygiene"
+msgstr "Hygiene"
+
+msgid "obj_group_misc"
+msgstr "Others"
+
+msgid "obj_group_recreational"
+msgstr "Recreational"
+
+msgid "obj_group_security"
+msgstr "Security"
+
+msgid "obj_group_sleeping"
+msgstr "Resting"
+
+msgid "obj_hive-crystal"
+msgstr "Crystal"
+
+msgid "obj_hive-crystal2"
+msgstr "Crystal"
+
+msgid "obj_hive-crystal3"
+msgstr "Crystal"
+
+msgid "obj_hive-mother"
+msgstr "Crystal"
+
+msgid "obj_hive-nest"
+msgstr "Nest"
+
+msgid "obj_hive-pupa"
+msgstr "Pupa"
+
+msgid "obj_human-boxes1"
+msgstr "Boxes"
+
+msgid "obj_human-boxes2"
+msgstr "Boxes"
+
+msgid "obj_human-boxes3"
+msgstr "Boxes"
+
+msgid "obj_human-plant"
+msgstr "Field"
+
+msgid "obj_human-plant-burnt"
+msgstr "Burnt field"
+
+msgid "obj_human-short"
+msgstr "House"
+
+msgid "obj_human-station-box"
+msgstr "Boxes"
+
+msgid "obj_human-tall"
+msgstr "Condo"
+
+msgid "obj_human-tower"
+msgstr "Tower"
+
+msgid "obj_in_way"
+msgstr "There are objects in the way, erase them first."
+
+msgid "obj_lactianbanner"
+msgstr "Lactian banner"
+
+msgid "obj_lactianidol01"
+msgstr "Lactian idol"
+
+msgid "obj_lactianidol02"
+msgstr "Lactian idol"
+
+msgid "obj_lemurianbox01"
+msgstr "Boxes"
+
+msgid "obj_lemurianbox02"
+msgstr "Boxes"
+
+msgid "obj_lemurianbox03"
+msgstr "Boxes"
+
+msgid "obj_lemurianbuilding01"
+msgstr "Condo"
+
+msgid "obj_lemurianbuilding02"
+msgstr "Big house"
+
+msgid "obj_lemurianbuilding03"
+msgstr "Comm center"
+
+msgid "obj_lemuriancomputer"
+msgstr "Computer"
+
+msgid "obj_lemurianfield"
+msgstr "Field"
+
+msgid "obj_lemurianmill"
+msgstr "Mill"
+
+msgid "obj_lemurianwall"
+msgstr "Wall"
+
+msgid "obj_lemurianwallturret"
+msgstr "Turret"
+
+msgid "obj_medusbomb"
+msgstr "Bomb"
+
+msgid "obj_medusbox01"
+msgstr "Boxes"
+
+msgid "obj_medusbox02"
+msgstr "Boxes"
+
+msgid "obj_medusbox03"
+msgstr "Boxes"
+
+msgid "obj_medusbox04"
+msgstr "Boxes"
+
+msgid "obj_medusbuilding01"
+msgstr "Condo"
+
+msgid "obj_medusbuilding02"
+msgstr "Big house"
+
+msgid "obj_medusbuilding03"
+msgstr "Condo"
+
+msgid "obj_medusbuilding04"
+msgstr "House"
+
+msgid "obj_medusfield"
+msgstr "Field"
+
+msgid "obj_medustree"
+msgstr "Field"
+
+msgid "obj_medusturbine"
+msgstr "Turbine"
+
+msgid "obj_meduswall"
+msgstr "Wall"
+
+msgid "obj_meduswallturret"
+msgstr "Turret"
+
+msgid "obj_nogibox01"
+msgstr "Boxes"
+
+msgid "obj_nogibox03"
+msgstr "Boxes"
+
+msgid "obj_nogibuilding01"
+msgstr "Condo"
+
+msgid "obj_nogibuilding02"
+msgstr "House"
+
+msgid "obj_nogibuilding03"
+msgstr "Condo"
+
+msgid "obj_nogibuilding04"
+msgstr "House"
+
+msgid "obj_nogicondensator"
+msgstr "Capacitor"
+
+msgid "obj_nogiextractor"
+msgstr "Extractor"
+
+msgid "obj_nogigenerator"
+msgstr "Generator"
+
+msgid "obj_nogiwall"
+msgstr "Wall"
+
+msgid "obj_nogiwallturret"
+msgstr "Turret"
+
+msgid "obj_pest-field"
+msgstr "Plagued field"
+
+msgid "obj_pest-house"
+msgstr "Infested house"
+
+msgid "obj_pest-pile"
+msgstr "Pest pile"
+
+msgid "obj_pioneerswall"
+msgstr "Wall"
+
+msgid "obj_pioneerswallturret"
+msgstr "Turret"
+
+msgid "obj_pirate-antenna"
+msgstr "Antenna"
+
+msgid "obj_pirate-building-bikes"
+msgstr "Bikes"
+
+msgid "obj_pirate-building-shuttle"
+msgstr "Shuttle"
+
+msgid "obj_pirate-building-tent"
+msgstr "Tent"
+
+msgid "obj_pirate-building-tower1"
+msgstr "Tower"
+
+msgid "obj_pirate-building-tower2"
+msgstr "Tower"
+
+msgid "obj_pirate-command"
+msgstr "Control center"
+
+msgid "obj_pirate-crate"
+msgstr "Crate"
+
+msgid "obj_pirate-debris-ab1"
+msgstr "Debris"
+
+msgid "obj_pirate-debris-ab2"
+msgstr "Debris"
+
+msgid "obj_pirate-debris-crap"
+msgstr "Trash"
+
+msgid "obj_pirate-debris-crates1"
+msgstr "Crates"
+
+msgid "obj_pirate-debris-crates2"
+msgstr "Crates"
+
+msgid "obj_pirate-mineassembler"
+msgstr "Factory"
+
+msgid "obj_pirate-turret"
+msgstr "Turret"
+
+msgid "obj_pirateswall"
+msgstr "Wall"
+
+msgid "obj_pirateswallturret"
+msgstr "Turret"
+
+msgid "obj_probe"
+msgstr "Probe"
+
+msgid "obj_probe2"
+msgstr "Probe"
+
+msgid "obj_robotbattery01"
+msgstr "Battery"
+
+msgid "obj_robotbattery02"
+msgstr "Battery"
+
+msgid "obj_robotbox01"
+msgstr "Boxes"
+
+msgid "obj_robotbox02"
+msgstr "Boxes"
+
+msgid "obj_robotbox03"
+msgstr "Boxes"
+
+msgid "obj_robotbox04"
+msgstr "Boxes"
+
+msgid "obj_robotbuilding01"
+msgstr "Accelerator"
+
+msgid "obj_robotbuilding02"
+msgstr "Foundry"
+
+msgid "obj_robotbuilding03"
+msgstr "Percolator"
+
+msgid "obj_robotcondensator"
+msgstr "Capacitor"
+
+msgid "obj_robotsensor"
+msgstr "Sensor"
+
+msgid "obj_robotturret"
+msgstr "Turret"
+
+msgid "obj_robotwall"
+msgstr "Wall"
+
+msgid "obj_robotwallturret"
+msgstr "Turret"
+
+msgid "obj_ruinsgreybuilding01"
+msgstr "Ruins"
+
+msgid "obj_ruinsgreybuilding02"
+msgstr "Ruins"
+
+msgid "obj_ruinsgreybuilding03"
+msgstr "Ruins"
+
+msgid "obj_ruinsgreybuilding04"
+msgstr "Ruins"
+
+msgid "obj_ruinsgreybuilding05"
+msgstr "Ruins"
+
+msgid "obj_ruinsgreybuilding06"
+msgstr "Ruins"
+
+msgid "obj_ruinsgreycolumns01"
+msgstr "Columns"
+
+msgid "obj_ruinsgreycolumns02"
+msgstr "Columns"
+
+msgid "obj_ruinsgreycolumns03"
+msgstr "Columns"
+
+msgid "obj_ruinsgreycolumns04"
+msgstr "Columns"
+
+msgid "obj_ruinsgreyrubble01"
+msgstr "Rubble"
+
+msgid "obj_ruinsgreyrubble02"
+msgstr "Rubble"
+
+msgid "obj_ruinsgreyrubble03"
+msgstr "Rubble"
+
+msgid "obj_ruinsgreyrubble04"
+msgstr "Rubble"
+
+msgid "obj_ruinsgreyrubble05"
+msgstr "Rubble"
+
+msgid "obj_ruinsgreyrubble06"
+msgstr "Rubble"
+
+msgid "obj_ruinsgreystatue01"
+msgstr "Statue"
+
+msgid "obj_ruinsgreystatue02"
+msgstr "Statue"
+
+msgid "obj_ruinspyhall01"
+msgstr "Hall"
+
+msgid "obj_ruinspyhall02"
+msgstr "Hall"
+
+msgid "obj_ruinspyhall03"
+msgstr "Hall"
+
+msgid "obj_ruinspyhall04"
+msgstr "Hall"
+
+msgid "obj_ruinspyhall05"
+msgstr "Hall"
+
+msgid "obj_ruinspyhall06"
+msgstr "Hall"
+
+msgid "obj_ruinspyrbuilding01"
+msgstr "Ruins"
+
+msgid "obj_ruinspyrbuilding02"
+msgstr "Ruins"
+
+msgid "obj_ruinspyrbuilding03"
+msgstr "Ruins"
+
+msgid "obj_ruinspyrbuilding04"
+msgstr "Ruins"
+
+msgid "obj_ruinspyrbuilding05"
+msgstr "Ruins"
+
+msgid "obj_ruinspyrpyramid01part0"
+msgstr "Pyramid"
+
+msgid "obj_ruinspyrpyramid01part1"
+msgstr "Pyramid"
+
+msgid "obj_ruinspyrpyramid01part2"
+msgstr "Pyramid"
+
+msgid "obj_ruinspyrpyramid01part3"
+msgstr "Pyramid"
+
+msgid "obj_ruinspyrpyramid01part4"
+msgstr "Pyramid"
+
+msgid "obj_ruinspyrpyramid02part1"
+msgstr "Pyramid"
+
+msgid "obj_ruinspyrpyramid02part2"
+msgstr "Pyramid"
+
+msgid "obj_ruinspyrpyramid02part3"
+msgstr "Pyramid"
+
+msgid "obj_ruinspyrpyramid03"
+msgstr "Pyramid"
+
+msgid "obj_ruinspyrpyramid04"
+msgstr "Pyramid"
+
+msgid "obj_ruinspyrrubble01"
+msgstr "Rubble"
+
+msgid "obj_ruinspyrrubble02"
+msgstr "Rubble"
+
+msgid "obj_ruinspyrrubble03"
+msgstr "Rubble"
+
+msgid "obj_ruinspyrrubble04"
+msgstr "Rubble"
+
+msgid "obj_ruinspyrrubble05"
+msgstr "Rubble"
+
+msgid "obj_ruinspyrrubble06"
+msgstr "Rubble"
+
+msgid "obj_ruinspyrsphinx01"
+msgstr "Sphinx"
+
+msgid "obj_ruinspyrsphinx02"
+msgstr "Sphinx"
+
+msgid "obj_ruinspyrsphinx03"
+msgstr "Sphinx"
+
+msgid "obj_ruinspyrsphinx04"
+msgstr "Sphinx"
+
+msgid "obj_ruinspyrstatue01"
+msgstr "Statue"
+
+msgid "obj_ruinspyrstatue02"
+msgstr "Statue"
+
+msgid "obj_ruinspyrstatue03"
+msgstr "Statue"
+
+msgid "obj_ship-debris-1"
+msgstr "Debris"
+
+msgid "obj_ship-debris-2"
+msgstr "Debris"
+
+msgid "obj_ship-debris-3"
+msgstr "Debris"
+
+msgid "obj_shuttle"
+msgstr "Shuttle"
+
+msgid "obj_silo"
+msgstr "Silo"
+
+msgid "obj_soup"
+msgstr "Soup"
+
+msgid "obj_soy-empty"
+msgstr "Field"
+
+msgid "obj_surprise-crate"
+msgstr "Crate"
+
+msgid "object"
+msgstr "Object"
+
+msgid "object_is_busy"
+msgstr "~A is busy"
+
+msgid "object_power_level"
+msgstr "Power level"
+
+msgid "object_strength"
+msgstr "Strength"
+
+msgid "objects"
+msgstr "Objects"
+
+msgid "obsolete"
+msgstr "Obsolete"
+
+msgid "oceanic_planet"
+msgstr "Oceanic planet"
+
+msgid "off"
+msgstr "Off"
+
+msgid "offcer_can_evolve"
+msgstr "~A is now experienced enough to become a ~A. You can promote this officer in the Staff screen."
+
+msgid "officer"
+msgstr "Officer"
+
+msgid "officer_busy"
+msgstr "Officer is busy elsewhere"
+
+msgid "officer_died"
+msgstr "Officer ~A has died"
+
+msgid "officer_dock"
+msgstr "Officer dock"
+
+msgid "officer_dock_desc"
+msgstr "Station-owned space ships can dock here"
+
+msgid "officer_from"
+msgstr "From ~A (L~A) in ~A"
+
+msgid "officer_in_crew"
+msgstr "Current ship: ~A"
+
+msgid "officer_location_station"
+msgstr "Home station"
+
+msgid "officer_single_navi_speed"
+msgstr "Ship speed contribution: +~0,2F%"
+
+msgid "officer_single_navi_speed_desc"
+msgstr "Note: if the selected officer is not the most experienced navigator in the crew they will only contribute a small fraction of the ship speed"
+
+msgid "oils"
+msgstr "Oils"
+
+msgid "oils_node"
+msgstr "Oils node"
+
+msgid "ok"
+msgstr "OK"
+
+msgid "okay"
+msgstr "Okay"
+
+msgid "on"
+msgstr "On"
+
+msgid "on_patrol_busy"
+msgstr "On patrol"
+
+msgid "on_strike"
+msgstr "On strike"
+
+msgid "on_strike_desc"
+msgstr "Refuses to work, sabotages equipment"
+
+msgid "options"
+msgstr "Options"
+
+msgid "options_menu"
+msgstr "Options"
+
+msgid "options_more_languages"
+msgstr "@ui_icon_30px_lenguage.png More languages"
+
+msgid "options_need_game"
+msgstr "No game has been loaded. Gameplay options are stored per-save. Please start a new game or load a saved game to change gameplay options."
+
+msgid "options_save_desc"
+msgstr "The options in this tab are stored in the save game file, not in the global options. Make sure to save the game after making any changes."
+
+msgid "orion_soda"
+msgstr "Orion Soda"
+
+msgid "output"
+msgstr "Output"
+
+msgid "owned_desc"
+msgstr "This object is owned and can only be used by its owner. Maintenance tasks can still be performed by other officers or robots."
+
+msgid "owner_officer_select"
+msgstr "Change owner"
+
+msgid "owner_propagates_desc"
+msgstr "When this object is owned it will automatically mark every other object located in the same room as owned."
+
+msgid "ownership"
+msgstr "Ownership"
+
+msgid "ownership_area_must_single"
+msgstr "Only one bed with ownership area per room"
+
+msgid "pacifist"
+msgstr "Pacifist"
+
+msgid "paid_salary_amt"
+msgstr "~A/~A times"
+
+msgid "pallet"
+msgstr "Pallet"
+
+msgid "pallet_desc"
+msgstr "Stock one kind of item with control over max and min values, with no restrictions on the kind of resource"
+
+msgid "pallet_info_help"
+msgstr "Any factory in the 3x3 area centered in the pallet can directly source its ingredients from it. It can also directly deposit its products, including the 3x3 area in the front."
+
+msgid "passing_out"
+msgstr "Passing out"
+
+msgid "patient"
+msgstr "Patient"
+
+msgid "pause"
+msgstr "Pause game"
+
+msgid "pending"
+msgstr "Pending"
+
+msgid "pending_upgrade"
+msgstr "Pending upgrade"
+
+msgid "pharmacist"
+msgstr "Pharmacist"
+
+msgid "pharmacist_desc"
+msgstr "Medics need drugs, and pharmacists are masters at making them."
+
+msgid "pharmacy"
+msgstr "Pharmacy"
+
+msgid "photo_frames"
+msgstr "Photo frames"
+
+msgid "photobooth"
+msgstr "Photobooth"
+
+msgid "photobooth_desc"
+msgstr "Take a photo and get a printed frame, like in prehistory."
+
+msgid "pick_resource_pallet"
+msgstr "Select the resource this object must keep in stock"
+
+msgid "pills"
+msgstr "Pills"
+
+msgid "pinball"
+msgstr "Pinball"
+
+msgid "pinball_desc"
+msgstr "The ball is sentient and has feelings. Show some respect."
+
+msgid "pirates_adjective"
+msgstr "Pirate %s"
+
+msgid "pirates_adjective2"
+msgstr "Pirate ~A"
+
+msgid "pirates_ltd"
+msgstr "Pirates Ltd."
+
+msgid "pirates_member"
+msgstr "Pirate"
+
+msgid "pirates_name"
+msgstr "Pirates"
+
+msgid "pizza"
+msgstr "Pizza"
+
+msgid "plain_clothes"
+msgstr "Plain clothes"
+
+msgid "plain_clothes_obj"
+msgstr "Clothes shelves"
+
+msgid "plain_clothes_obj_desc"
+msgstr "Smart casual for everyday wearing"
+
+msgid "planet"
+msgstr "Planet"
+
+msgid "planet_defensive_turret"
+msgstr "Defensive turret"
+
+msgid "planet_defensive_turret_desc"
+msgstr "Protects nearby player built objects from the attacks of enemies"
+
+msgid "planet_embassy"
+msgstr "Embassy"
+
+msgid "planet_embassy_desc"
+msgstr "Slowly increases our reputation towards the local civilization, up to a limit."
+
+msgid "planet_info_friend"
+msgstr "We welcome our friends The Spatials to our humble planet. Please do not steal everything."
+
+msgid "planet_info_hostile"
+msgstr "Invaders detected! Deploy all units for combat!"
+
+msgid "planet_info_neutral"
+msgstr "Hi there! Be careful where you point those guns at, would you?"
+
+msgid "planet_info_no_civ"
+msgstr "No signs of advanced intelligence detected in this planet. That includes trees."
+
+msgid "planet_no_stocks"
+msgstr "No resource stocks are available in this planet, build more extractors or wait for them to start production"
+
+msgid "planet_propaganda"
+msgstr "Ad Media Station"
+
+msgid "planet_propaganda_desc"
+msgstr "Increase the frequency of tourist ships that will visit your station starting from the planet's system."
+
+msgid "planet_recruitment_center"
+msgstr "Recruitment center"
+
+msgid "planet_recruitment_center_desc"
+msgstr "Recruits new officers from this planet, as long as we are friends with their civilization."
+
+msgid "planet_resource_extract_disable"
+msgstr "Disable extraction of this kind of resource. The existing stock will remain until it's loaded into a ship."
+
+msgid "planet_resource_extract_enable"
+msgstr "Enable extraction of this kind of resource"
+
+msgid "planet_ships_with_order"
+msgstr "Autopilot stop for:"
+
+msgid "planet_storage"
+msgstr "Storage"
+
+msgid "planet_storage_current"
+msgstr "~A units stored"
+
+msgid "planet_storage_desc"
+msgstr "Adds 50 to the storage capacity for the extracted resources in this planet"
+
+msgid "planet_storage_max"
+msgstr "~A max units"
+
+msgid "planet_travel"
+msgstr "@ui_icon_30px_fleet2.png Travel"
+
+msgid "planetarium"
+msgstr "Planetarium"
+
+msgid "planetarium_desc_friendly"
+msgstr "But your good standing with ~A allows you to instead pay a tribute to get the same information, without bloodshed or reputation loss."
+
+msgid "planetarium_desc_hostile"
+msgstr "Destroying this building will unlock the following star systems: ~A"
+
+msgid "planetarium_pay"
+msgstr "Pay tribute"
+
+msgid "planetarium_price"
+msgstr "Price: ~A @ui_icon_20px_credits04.png"
+
+msgid "planetarium_warn_rep"
+msgstr "Destroying this building will massively reduce your reputation with ~A."
+
+msgid "platinum"
+msgstr "Platinum"
+
+msgid "platinum_node"
+msgstr "Platinum node"
+
+msgid "player"
+msgstr "Player"
+
+msgid "player_desc"
+msgstr "Attacking will be under player control. This setting only applies as long as the entity is selected or part of a squad"
+
+msgid "pleasure_program"
+msgstr "Pleasure program"
+
+msgid "plus_rep"
+msgstr "+Rep"
+
+msgid "plus_rep_c"
+msgstr "+Rep:"
+
+msgid "plus_soap"
+msgstr "Plus soap"
+
+msgid "power"
+msgstr "Power"
+
+msgid "power_base_absorb"
+msgstr "Absorb base: ~A"
+
+msgid "power_base_control"
+msgstr "Crowd control base: ~A"
+
+msgid "power_base_damage"
+msgstr "Damage base: ~A"
+
+msgid "power_base_healing"
+msgstr "Healing base: ~A"
+
+msgid "power_base_health"
+msgstr "Health base: ~A"
+
+msgid "power_factor_absorb"
+msgstr "Absorb factor: x~A"
+
+msgid "power_factor_control"
+msgstr "Crowd control factor: x~A"
+
+msgid "power_factor_damage"
+msgstr "Damage factor: x~A"
+
+msgid "power_factor_healing"
+msgstr "Healing factor: x~A"
+
+msgid "power_factor_health"
+msgstr "Health factor: x~A"
+
+msgid "power_short"
+msgstr "Power"
+
+msgid "pr"
+msgstr "PR"
+
+msgid "pre_intro"
+msgstr "Tired of your daily routine? Feeling like you haven't found yet your place in the universe? Curious about the outer star systems? If you answered yes to any of those questions don't hesitate and JOIN NOW!"
+
+msgid "press_esc_cancel2"
+msgstr "\nPress Esc or right mouse button to cancel"
+
+msgid "press_new_key"
+msgstr "Press the new key for: "
+
+msgid "pretentious_foods"
+msgstr "Pretentious foods"
+
+msgid "pretentious_foods_desc"
+msgstr "Products so savory they may be illegal in some planets"
+
+msgid "previous"
+msgstr "Previous"
+
+msgid "price"
+msgstr "Price"
+
+msgid "price_bom_row"
+msgstr "Avg BOM:"
+
+msgid "price_row"
+msgstr "Price:"
+
+msgid "price_too_much"
+msgstr "Not enough credits"
+
+msgid "processing"
+msgstr "Processing..."
+
+msgid "prod_current_queue2"
+msgstr "Current queue"
+
+msgid "prod_global"
+msgstr "Global"
+
+msgid "prod_global_desc"
+msgstr "Production orders will be automatically added by setting the desired global stock amount in the Inventory window"
+
+msgid "prod_local"
+msgstr "Local"
+
+msgid "prod_local_desc"
+msgstr "Production orders must be added manually with the Create button"
+
+msgid "prod_production"
+msgstr "Production:"
+
+msgid "prodction_queue_empty"
+msgstr "Empty"
+
+msgid "producing_recipe2"
+msgstr "Producing"
+
+msgid "projectile_direct_desc"
+msgstr "Single target, Projectile"
+
+msgid "projectile_explosive_desc"
+msgstr "Area, Projectile"
+
+msgid "projectile_reactive_desc"
+msgstr "Area over time, Projectile"
+
+msgid "purchases"
+msgstr "Purchases"
+
+msgid "purifier_salts"
+msgstr "Purifier Salts"
+
+msgid "quick_jump"
+msgstr "Quick jump:"
+
+msgid "quit_game"
+msgstr "Quit game"
+
+msgid "random"
+msgstr "Random"
+
+msgid "range_max"
+msgstr "Range: ~A tiles"
+
+msgid "range_min_max"
+msgstr "Range: ~A to ~A tiles"
+
+msgid "rations_luxury"
+msgstr "Luxury rations"
+
+msgid "rations_quality"
+msgstr "Quality rations"
+
+msgid "reactive_area_desc"
+msgstr "Area"
+
+msgid "rebuildable_ruins_build"
+msgstr "Rebuild"
+
+msgid "rebuildable_ruins_desc"
+msgstr "Ruins of an object that can be rebuilt or recycled."
+
+msgid "rebuildable_ruins_recycle"
+msgstr "Recycle"
+
+msgid "recipe_add_queue"
+msgstr "Add to queue"
+
+msgid "recipe_difficulty"
+msgstr "Difficulty: "
+
+msgid "recipe_duration"
+msgstr "Duration: ~As"
+
+msgid "recipe_failed"
+msgstr "~A failed"
+
+msgid "recipe_job_name"
+msgstr "Required job: ~A"
+
+msgid "recipe_mini"
+msgstr "Recipe:"
+
+msgid "recipe_order_amount"
+msgstr "How many times to produce the recipe, or -1 for infinite times."
+
+msgid "recipe_order_amount_tip"
+msgstr "How many times to produce the recipe"
+
+msgid "recipe_order_create"
+msgstr "Create order"
+
+msgid "recipe_order_delete"
+msgstr "Delete order"
+
+msgid "recipes"
+msgstr "Recipes"
+
+msgid "recreational_tier_1"
+msgstr "Library I"
+
+msgid "recreational_tier_2"
+msgstr "Tavern I"
+
+msgid "recreational_tier_3"
+msgstr "Tavern II / Library II"
+
+msgid "recreational_tier_4"
+msgstr "Arcade I"
+
+msgid "recreational_tier_5"
+msgstr "Disco I"
+
+msgid "recreational_tier_6"
+msgstr "Disco II / Arcade II"
+
+msgid "recreational_tier_7"
+msgstr "Casino I"
+
+msgid "recreational_tier_8"
+msgstr "Holodeck I"
+
+msgid "recreational_tier_9"
+msgstr "Holodeck II / Casino II"
+
+msgid "recruit"
+msgstr "Recruit"
+
+msgid "recruit_existing_xp"
+msgstr "Experienced in:"
+
+msgid "recruit_existing_xp_in"
+msgstr "~A: ~A XP\n"
+
+msgid "recruit_hire"
+msgstr "Hire ~A"
+
+msgid "recruit_hire_price"
+msgstr "Hiring bonus: ~A @ui_icon_20px_credits04.png"
+
+msgid "recruit_hire_price_too_much"
+msgstr "Not enough credits"
+
+msgid "recycle_items_level"
+msgstr "Recycle items under level:"
+
+msgid "recycled_something"
+msgstr "Recycled ~A"
+
+msgid "recycler"
+msgstr "Recycler"
+
+msgid "recycling"
+msgstr "Recycling"
+
+msgid "recyler"
+msgstr "Recycler"
+
+msgid "recyler_desc"
+msgstr "Destroy litter and trash"
+
+msgid "red_token"
+msgstr "Red token"
+
+msgid "redshirt"
+msgstr "Redshirt"
+
+msgid "redshirt_desc"
+msgstr "Jack of all trades, master of none. Versatile but expendable, with a lot to learn. Can specialize into everything. Some recipes may be completely out of their reach."
+
+msgid "regenerativechamber"
+msgstr "Bionanites chamber"
+
+msgid "regenerativechamber_desc"
+msgstr "The most advanced medical care system in the galaxy."
+
+msgid "remains"
+msgstr "Remains"
+
+msgid "remains_desc"
+msgstr "Remains can be recycled in a recycler"
+
+msgid "remains_of"
+msgstr "Remains of ~A"
+
+msgid "removed_floor"
+msgstr "Removed floor"
+
+msgid "removed_wall"
+msgstr "Removed wall"
+
+msgid "rep_allied"
+msgstr "Allied"
+
+msgid "rep_at_war"
+msgstr "At war"
+
+msgid "rep_at_war_desc"
+msgstr "At War civs won't buy your bulk production and will try to raid your station and invade your allies. They will be hostile if you land on their planets."
+
+msgid "rep_friendly"
+msgstr "Friendly"
+
+msgid "rep_hostile"
+msgstr "Hostile"
+
+msgid "rep_hostile_desc"
+msgstr "Hostile civs don't like you, but they will buy your bulk products. This will increase your reputation with them. They will be hostile if you land on their planets."
+
+msgid "rep_neutral"
+msgstr "Neutral"
+
+msgid "rep_neutral_plus_desc"
+msgstr "This civs likes you enough to come visit your station in peace, and to allow your ships to land on their planets to build resource extractors."
+
+msgid "rep_uncontested"
+msgstr "Uncontested"
+
+msgid "repair"
+msgstr "Repair"
+
+msgid "repair_parts"
+msgstr "Repair parts"
+
+msgid "repair_workplace_action"
+msgstr "Repair ~A"
+
+msgid "replay_introduction"
+msgstr "Replay introduction"
+
+msgid "reputation"
+msgstr "Reputation"
+
+msgid "reputation_gain"
+msgstr "Reputation gain on departing:"
+
+msgid "reputation_hit"
+msgstr "Reputation hit on departing:"
+
+msgid "req_decor"
+msgstr "Any decor"
+
+msgid "req_shower"
+msgstr "Any shower"
+
+msgid "required_points"
+msgstr "Required points: ~A"
+
+msgid "research"
+msgstr "Research"
+
+msgid "research_completed_alert"
+msgstr "Research for <<~A ~A>> has been completed."
+
+msgid "research_points"
+msgstr "Research points: ~A of ~A"
+
+msgid "research_remember"
+msgstr "Remember to build research desks and asign officers the Research job in order to gain research points."
+
+msgid "research_tutorial"
+msgstr "Research tutorial"
+
+msgid "researcher"
+msgstr "Researcher"
+
+msgid "researcher_desc"
+msgstr "Who wants to stand in front of a computer for decades? Researchers. Your technology will advance faster than ever with a team of researchers."
+
+msgid "researchtable"
+msgstr "Research table"
+
+msgid "researchtable_desc"
+msgstr "Officers conduct research here."
+
+msgid "resource"
+msgstr "Resource"
+
+msgid "resource_node_info_reqs"
+msgstr "Requires"
+
+msgid "resource_tag_armor"
+msgstr "Armor"
+
+msgid "resource_tag_bio"
+msgstr "Raw biological"
+
+msgid "resource_tag_consumerist_product"
+msgstr "Consumerist"
+
+msgid "resource_tag_crowdcontrol"
+msgstr "Crowd Control"
+
+msgid "resource_tag_drinkable"
+msgstr "Drinkable"
+
+msgid "resource_tag_edible"
+msgstr "Edible"
+
+msgid "resource_tag_equipment"
+msgstr "Equipment"
+
+msgid "resource_tag_extracted"
+msgstr "Extracted"
+
+msgid "resource_tag_fluid"
+msgstr "Fluid"
+
+msgid "resource_tag_fun"
+msgstr "Fun giving"
+
+msgid "resource_tag_gambling_giving"
+msgstr "Gambling"
+
+msgid "resource_tag_gas"
+msgstr "Gas"
+
+msgid "resource_tag_implant"
+msgstr "Implant"
+
+msgid "resource_tag_inebriation_giving"
+msgstr "Inebriation giving"
+
+msgid "resource_tag_knowledge_giving"
+msgstr "Knowledge giving"
+
+msgid "resource_tag_liquid"
+msgstr "Liquid"
+
+msgid "resource_tag_medical"
+msgstr "Medical"
+
+msgid "resource_tag_meds"
+msgstr "Drug"
+
+msgid "resource_tag_metal"
+msgstr "Metal"
+
+msgid "resource_tag_mineral"
+msgstr "Mineral"
+
+msgid "resource_tag_organic"
+msgstr "Organic"
+
+msgid "resource_tag_power_absorb"
+msgstr "Active absorb"
+
+msgid "resource_tag_power_control"
+msgstr "Active control"
+
+msgid "resource_tag_power_damage"
+msgstr "Active damage"
+
+msgid "resource_tag_power_generic"
+msgstr "Bonus power"
+
+msgid "resource_tag_power_healing"
+msgstr "Active healing"
+
+msgid "resource_tag_power_health"
+msgstr "Bonus health"
+
+msgid "resource_tag_product"
+msgstr "Product"
+
+msgid "resource_tag_readable"
+msgstr "Readable"
+
+msgid "resource_tag_shielding"
+msgstr "Shielding"
+
+msgid "resource_tag_slot_active"
+msgstr "Active"
+
+msgid "resource_tag_slot_chest"
+msgstr "Chest"
+
+msgid "resource_tag_slot_feet"
+msgstr "Feet"
+
+msgid "resource_tag_slot_hands"
+msgstr "Hands"
+
+msgid "resource_tag_slot_implant"
+msgstr "Implant"
+
+msgid "resource_tag_soap"
+msgstr "Soap"
+
+msgid "resource_tag_weapon"
+msgstr "Weapon"
+
+msgid "restock_at"
+msgstr "Restock at"
+
+msgid "restocking"
+msgstr "Restocking"
+
+msgid "right_mouse_button_abbr"
+msgstr "RMB"
+
+msgid "robot_adjective"
+msgstr "Robot %s"
+
+msgid "robot_adjective2"
+msgstr "Robot ~A"
+
+msgid "robot_charger"
+msgstr "Robot charger"
+
+msgid "robot_charger_desc"
+msgstr "Load with fuel cell to charge robot's energy."
+
+msgid "robot_factory"
+msgstr "Robot factory"
+
+msgid "robot_factory_desc"
+msgstr "Manufacture robots that perform some jobs in the station."
+
+msgid "robot_inventory"
+msgstr "Robot inventory"
+
+msgid "robot_inventory_max_robots"
+msgstr "Max allowed: %d"
+
+msgid "robot_inventory_total_robots"
+msgstr "Total: %d"
+
+msgid "robot_member"
+msgstr "Robot"
+
+msgid "robot_name"
+msgstr "Robots"
+
+msgid "robot_union"
+msgstr "Robot Union"
+
+msgid "robots_cannot_build_more"
+msgstr "Cannot build more robots"
+
+msgid "room_10"
+msgstr "Roadhouse style"
+
+msgid "room_11"
+msgstr "Clean cubicle"
+
+msgid "room_12"
+msgstr "Heavy metal"
+
+msgid "room_13"
+msgstr "Neat workshop"
+
+msgid "room_14"
+msgstr "Crystal palace"
+
+msgid "room_15"
+msgstr "The Skydeck"
+
+msgid "room_16"
+msgstr "Plumbing aficionado"
+
+msgid "room_17"
+msgstr "Sterile chamber"
+
+msgid "room_18"
+msgstr "Solid quarters"
+
+msgid "room_19"
+msgstr "Service area"
+
+msgid "room_20"
+msgstr "Premium sewer"
+
+msgid "room_21"
+msgstr "Decadent hall"
+
+msgid "room_22"
+msgstr "Fancy studio"
+
+msgid "room_23"
+msgstr "Drain"
+
+msgid "room_24"
+msgstr "Suite"
+
+msgid "room_25"
+msgstr "Eden garden"
+
+msgid "room_26"
+msgstr "Pristine tiles"
+
+msgid "room_27"
+msgstr "Pink flamingos"
+
+msgid "room_28"
+msgstr "Arcadia"
+
+msgid "room_29"
+msgstr "Book paradise"
+
+msgid "room_30"
+msgstr "Tuxedo"
+
+msgid "room_31"
+msgstr "Technical"
+
+msgid "room_32"
+msgstr "Doomsday prepper"
+
+msgid "room_33"
+msgstr "Marble temple"
+
+msgid "room_34"
+msgstr "Budget ship"
+
+msgid "room_35"
+msgstr "Derelict"
+
+msgid "room_36"
+msgstr "Dystopia I"
+
+msgid "room_37"
+msgstr "Dystopia II"
+
+msgid "room_38"
+msgstr "Vegan Veranda"
+
+msgid "room_39"
+msgstr "Utopia I"
+
+msgid "room_40"
+msgstr "Utopia II"
+
+msgid "room_41"
+msgstr "Tyrell Neon"
+
+msgid "room_42"
+msgstr "Barn nostalgia"
+
+msgid "room_43"
+msgstr "Winnebago"
+
+msgid "room_44"
+msgstr "Clockwork pomelo"
+
+msgid "room_aestehtics_amt"
+msgstr "~A points"
+
+msgid "room_aesthetics"
+msgstr "Room aesthetics"
+
+msgid "room_of_aesthetics"
+msgstr "Room of %d aesthetics"
+
+msgid "room_of_tiles"
+msgstr "Room of %d tiles"
+
+msgid "room_size"
+msgstr "Room size"
+
+msgid "room_size_amt"
+msgstr "~A tiles"
+
+msgid "rooms"
+msgstr "Rooms"
+
+msgid "roulette"
+msgstr "Roulette"
+
+msgid "roulette_desc"
+msgstr "This ball is NOT sentient, we swear. Uses gold tokens."
+
+msgid "ruins"
+msgstr "Ruins"
+
+msgid "salary"
+msgstr "Salary"
+
+msgid "salary_amt"
+msgstr "~A @ui_icon_20px_credits04.png per min."
+
+msgid "sapper"
+msgstr "Sapper"
+
+msgid "sapper_desc"
+msgstr "Knowing how to build things also makes you know how to dismantle things. Fast. Inside a ball of fire."
+
+msgid "sauna"
+msgstr "Sauna"
+
+msgid "sauna_desc"
+msgstr "Millenia old wellness for the most effective care."
+
+msgid "save_game"
+msgstr "Save game"
+
+msgid "saw_corpse"
+msgstr "Saw a corpse"
+
+msgid "saw_corpse_desc"
+msgstr "The horror, the horror..."
+
+msgid "scan_alert"
+msgstr "Intruder detected in the station!"
+
+msgid "scientist"
+msgstr "Scientist"
+
+msgid "scientist_desc"
+msgstr "Adepts at researching and experimenting. Manipulating substances is their day to day."
+
+msgid "scrap_ship"
+msgstr "Scrap ship"
+
+msgid "seaweed_juice"
+msgstr "Seaweed juice"
+
+msgid "secscan"
+msgstr "Security scanner"
+
+msgid "secscan_desc"
+msgstr "Scans visitors to detect impostors"
+
+msgid "security_desc"
+msgstr "Experts in guns and with a sharp eye, security officers protect the station and your galaxy expeditions."
+
+msgid "security_robot"
+msgstr "Security robot"
+
+msgid "security_spec"
+msgstr "Security"
+
+msgid "securitydoor"
+msgstr "Security door"
+
+msgid "securitydoor2"
+msgstr "Force field door"
+
+msgid "securitydoor2_desc"
+msgstr "Almost impenetrable door. Allows to keep away visitors from storage and production rooms."
+
+msgid "securitydoor_desc"
+msgstr "Strong door for controlling access. Allows to keep away visitors from storage and production rooms."
+
+msgid "seeds"
+msgstr "Seeds"
+
+msgid "seeds_node"
+msgstr "Seeds node"
+
+msgid "select"
+msgstr "Select"
+
+msgid "select_load_slot"
+msgstr "Select a slot to load the game"
+
+msgid "select_officer"
+msgstr "Select an officer"
+
+msgid "select_officer_current_location"
+msgstr "Select in current location"
+
+msgid "select_officer_open_fleet"
+msgstr "Open fleet screen"
+
+msgid "select_officer_open_ship"
+msgstr "Open ship bridge"
+
+msgid "select_recipe_order"
+msgstr "Select a recipe:"
+
+msgid "select_save_slot"
+msgstr "Select a slot to save the game"
+
+msgid "select_ship"
+msgstr "Select ship"
+
+msgid "select_ship_design"
+msgstr "Select a ship design:"
+
+msgid "selected"
+msgstr "Selected"
+
+msgid "selected_recipe"
+msgstr "Selected recipe:"
+
+msgid "self_destroy"
+msgstr "Self destroy in a blaze of glory to damage enemies, with a chance to start a fire"
+
+msgid "sell_to"
+msgstr "@ui_icon_30px_sell.png Sell to %s"
+
+msgid "set target to ~A"
+msgstr "Set forced target to ~A"
+
+msgid "set_group_target_cc_label"
+msgstr "Left click or left drag to set the group preferred crowd control target(s)\nHold Shift to also control neutral units"
+
+msgid "set_group_target_damage_label"
+msgstr "Left click or left drag to set the group preferred attack target(s)\nHold Shift to also attack neutral units"
+
+msgid "set_group_target_heal_label"
+msgstr "Left click or left drag to set the group preferred healing target(s)"
+
+msgid "set_group_target_shield_label"
+msgstr "Left click or left drag to set the group preferred shielding target(s)"
+
+msgid "set_rally_point"
+msgstr "Set patrol point"
+
+msgid "set_rally_point_label"
+msgstr "Click to set ~A default patrol point"
+
+msgid "set_target_cc"
+msgstr "Crowd control target(s)"
+
+msgid "set_target_cc_label"
+msgstr "Left click or left drag to set ~A preferred crowd control target(s)\nHold Shift to also control neutral units"
+
+msgid "set_target_damage"
+msgstr "Attack target(s)"
+
+msgid "set_target_damage_label"
+msgstr "Left click or left drag to set ~A preferred attack target(s)\nHold Shift to also attack neutral units"
+
+msgid "set_target_heal"
+msgstr "Heal target(s)"
+
+msgid "set_target_heal_label"
+msgstr "Left click or left drag to set ~A preferred healing target(s)"
+
+msgid "set_target_shield"
+msgstr "Shield target(s)"
+
+msgid "set_target_shield_label"
+msgstr "Left click or left drag to set ~A preferred shielding target(s)"
+
+msgid "shell_autosaving"
+msgstr "Autosaving..."
+
+msgid "shell_saving"
+msgstr "Saving..."
+
+msgid "shield_1_name"
+msgstr "Damage shield"
+
+msgid "shield_2_name"
+msgstr "Super damage shield"
+
+msgid "shield_3_name"
+msgstr "Ultra damage shield"
+
+msgid "shielder_1"
+msgstr "Basic shielder"
+
+msgid "shielder_2"
+msgstr "Enhanced shielder"
+
+msgid "shielder_3"
+msgstr "Advanced shielder"
+
+msgid "shielder_desc"
+msgstr "Creates a large damage shield when detecting an enemy, with a cooldown."
+
+msgid "ship_allowed_cargo"
+msgstr "Allowed resources: %d/%d"
+
+msgid "ship_allowed_desc"
+msgstr "Select the resources this ship will be allowed to pick from planets:"
+
+msgid "ship_allowed_edit"
+msgstr "Change allowed cargo resources"
+
+msgid "ship_approach_progress"
+msgstr "~A% progress"
+
+msgid "ship_arrived_info"
+msgstr "%s is now %s"
+
+msgid "ship_auto_status_run"
+msgstr "Autopiloted"
+
+msgid "ship_auto_status_stop"
+msgstr "Manual piloting"
+
+msgid "ship_build_done"
+msgstr "~A (~A) construction has been finished and is now parked at Home"
+
+msgid "ship_busy_cannot_edit"
+msgstr "Ship is not parked at home"
+
+msgid "ship_cargo_info"
+msgstr "Cargo: ~A used / ~A total"
+
+msgid "ship_construction_is_paused"
+msgstr "Ship construction is paused"
+
+msgid "ship_construction_start"
+msgstr "Start construction"
+
+msgid "ship_distance_to_other"
+msgstr "Distance to %s (L%d): %0.2f parsecs"
+
+msgid "ship_dock_assigned"
+msgstr "Dock assigned in home base"
+
+msgid "ship_final_destination"
+msgstr "Final destination: %s (L%d)"
+
+msgid "ship_kind_authority"
+msgstr "Authority"
+
+msgid "ship_kind_bagelhead"
+msgstr "Bagelhead ship"
+
+msgid "ship_kind_benevolence"
+msgstr "Benevolence"
+
+msgid "ship_kind_blorg"
+msgstr "Blorg ship"
+
+msgid "ship_kind_chuchu"
+msgstr "Chuchu ship"
+
+msgid "ship_kind_crusantian"
+msgstr "Crusantian ship"
+
+msgid "ship_kind_cucurbian"
+msgstr "Cucurbian ship"
+
+msgid "ship_kind_diligence"
+msgstr "Diligence"
+
+msgid "ship_kind_droid"
+msgstr "Robot ship"
+
+msgid "ship_kind_exploration"
+msgstr "Exploration"
+
+msgid "ship_kind_foresight"
+msgstr "Foresight"
+
+msgid "ship_kind_human"
+msgstr "Human ship"
+
+msgid "ship_kind_intervention"
+msgstr "Intervention"
+
+msgid "ship_kind_lactian"
+msgstr "Lactian ship"
+
+msgid "ship_kind_lemurian"
+msgstr "Lemurian ship"
+
+msgid "ship_kind_medus"
+msgstr "Meductian ship"
+
+msgid "ship_kind_nogi"
+msgstr "Nogi ship"
+
+msgid "ship_kind_pirates"
+msgstr "Pirates ship"
+
+msgid "ship_kind_rationality"
+msgstr "Rationality"
+
+msgid "ship_kind_temerity"
+msgstr "Temerity"
+
+msgid "ship_kind_volition"
+msgstr "Volition"
+
+msgid "ship_must_parked_home2"
+msgstr "The ship must be parked in your home station to be available for dismantling. At least one ship must remain in your fleet."
+
+msgid "ship_not_available_empty"
+msgstr "Ship has no crew"
+
+msgid "ship_not_available_empty_only_home"
+msgstr "Ship has no crew and it is only available for traveling back to Home."
+
+msgid "ship_not_available_full_morale"
+msgstr "One or more officers are not at full morale"
+
+msgid "ship_not_available_invalid"
+msgstr "Ship is in an invalid state"
+
+msgid "ship_not_available_some_already_exploring"
+msgstr "A ship is already exploring a planet"
+
+msgid "ship_not_available_this_already_exploring"
+msgstr "Ship is exploring a planet"
+
+msgid "ship_order_item_subtile_home"
+msgstr "Unload cargo, crew disembarks, wait for vitals"
+
+msgid "ship_order_item_subtile_other"
+msgstr "Load cargo"
+
+msgid "ship_order_item_tile"
+msgstr "Travel to %s (L%d) in %s"
+
+msgid "ship_order_item_tile_star"
+msgstr "Travel to %s (L%d)"
+
+msgid "ship_order_wait_time_dialog_label"
+msgstr "Type the wait time in minutes, or 0 for a minimal amount of 10 seconds:"
+
+msgid "ship_orders_delete_order"
+msgstr "Delete selected order"
+
+msgid "ship_orders_drag_icon"
+msgstr "Drag this icon to a planet or star to create a new order"
+
+msgid "ship_orders_go_bridge"
+msgstr "Open bridge view"
+
+msgid "ship_orders_move_down"
+msgstr "Move selected order down"
+
+msgid "ship_orders_move_up"
+msgstr "Move selected order up"
+
+msgid "ship_orders_set_time"
+msgstr "Set selected order wait time"
+
+msgid "ship_orders_show_target"
+msgstr "Zoom into the selected order target"
+
+msgid "ship_orders_start"
+msgstr "Start autopilot"
+
+msgid "ship_orders_stop"
+msgstr "Stop autopilot"
+
+msgid "ship_orders_title"
+msgstr "%s Autopilot"
+
+msgid "ship_planner_cancel"
+msgstr "Cancel construction"
+
+msgid "ship_planner_info"
+msgstr "Ship construction"
+
+msgid "ship_planner_must_single"
+msgstr "Only one ship planner per station"
+
+msgid "ship_planner_needed"
+msgstr "Build a ship planner first"
+
+msgid "ship_planner_pause"
+msgstr "Pause construction"
+
+msgid "ship_planner_resume"
+msgstr "Resume construction"
+
+msgid "ship_scrap_confirm"
+msgstr "Are you sure? The ship will be destroyed and a small amount of resources will be obtained"
+
+msgid "ship_servicing"
+msgstr "The ship is going back home to unload and refresh the crew and may ignore the autopilot orders until it's done"
+
+msgid "ship_servicing_cond"
+msgstr "Fly home: %d%% ready or full hold"
+
+msgid "ship_servicing_depart"
+msgstr "Continues autopilot at %d%% ready"
+
+msgid "ship_skill_healing_wave"
+msgstr "Healing wave"
+
+msgid "ship_skill_insurance"
+msgstr "Death insurance"
+
+msgid "ship_skill_jumpdrive"
+msgstr "Jumpdrive"
+
+msgid "ship_skill_mass_hysteria"
+msgstr "Mass hysteria"
+
+msgid "ship_skill_orbital_cannon"
+msgstr "Orbital bombing"
+
+msgid "ship_skill_orbital_cannon_label"
+msgstr "Click to fire the ship orbital cannon"
+
+msgid "ship_skill_robodrop"
+msgstr "Robodrop"
+
+msgid "ship_skill_robodrop_label"
+msgstr "Click to spawn a combat robot squad"
+
+msgid "ship_skill_shield_dome"
+msgstr "Shield dome"
+
+msgid "ship_skill_shield_dome_label"
+msgstr "Click to spawn a damage shield"
+
+msgid "ship_skill_teleport"
+msgstr "Surface teleport"
+
+msgid "ship_skills_l"
+msgstr "Skills: %s"
+
+msgid "ship_skills_label"
+msgstr "Skills:"
+
+msgid "ship_travel_approach"
+msgstr "Approaching %s (L%d)"
+
+msgid "ship_travel_parked"
+msgstr "Parked at %s (L%d)"
+
+msgid "ship_travel_progress"
+msgstr "~0,2F parsecs / ETA ~As"
+
+msgid "ship_travel_traveling"
+msgstr "Traveling to %s (L%d)"
+
+msgid "ship_travel_unknow"
+msgstr "Unknown"
+
+msgid "ship_user_travel_msg"
+msgstr "New direct travel orders: %s final destination is now %s. Autopilot is now stopped."
+
+msgid "shipplanner"
+msgstr "Ship planner"
+
+msgid "shipplanner_desc"
+msgstr "Selects a ship for construction and monitors its building process. After building this object build one or more ship work desks."
+
+msgid "ships"
+msgstr "Ships"
+
+msgid "shipworktable"
+msgstr "Ship work desk"
+
+msgid "shipworktable_desc"
+msgstr "Used by officers to work on various parts of ship building. Its production queue is controlled by the ship building planner."
+
+msgid "shop_stock"
+msgstr "Shop stock"
+
+msgid "shopping"
+msgstr "Shopping"
+
+msgid "shopping_list_desc"
+msgstr "Shopping list:"
+
+msgid "show_all_ships"
+msgstr "Show all ships"
+
+msgid "show_only_spatials_ships"
+msgstr "Show only Spatials ships"
+
+msgid "sight_range"
+msgstr "Sights: ~A tiles"
+
+msgid "sleep"
+msgstr "Sleep"
+
+msgid "sleep_feeling_high"
+msgstr "Rested"
+
+msgid "sleep_feeling_high_desc"
+msgstr "Full of energy after a good sleep"
+
+msgid "sleep_feeling_low"
+msgstr "Sleepless"
+
+msgid "sleep_feeling_low_desc"
+msgstr "I am very tired and I need to sleep"
+
+msgid "slime"
+msgstr "Slime"
+
+msgid "slime_node"
+msgstr "Slime node"
+
+msgid "slot_active"
+msgstr "Active"
+
+msgid "slot_chest"
+msgstr "Chest"
+
+msgid "slot_feet"
+msgstr "Feet"
+
+msgid "slot_hands"
+msgstr "Hands"
+
+msgid "slot_implant"
+msgstr "Implant"
+
+msgid "slot_machine"
+msgstr "Slot machine"
+
+msgid "slot_machine_desc"
+msgstr "What a better investment for your money than making lights blink? Uses green tokens."
+
+msgid "slot_name"
+msgstr "Slot: ~A"
+
+msgid "slot_need_higher_spec"
+msgstr "Needs a higher spec"
+
+msgid "slowpox"
+msgstr "Slowpox"
+
+msgid "slowpox_desc"
+msgstr "I can't walk any faster than this!"
+
+msgid "slug_pate"
+msgstr "Slug pâté"
+
+msgid "smaller_ui"
+msgstr "Smaller UI"
+
+msgid "sneaker_reveal_alert"
+msgstr "A hidden ~A has infiltrated undetected into your station and has revealed itself!"
+
+msgid "soap_maker"
+msgstr "Soap maker"
+
+msgid "soap_maker_desc"
+msgstr "Manufacture soaps using chemical reactions"
+
+msgid "social"
+msgstr "Social"
+
+msgid "social_feeling_low"
+msgstr "Isolated"
+
+msgid "social_feeling_low_desc"
+msgstr "Nobody talks to me"
+
+msgid "sound_effecs_volume"
+msgstr "Sound effects volume"
+
+msgid "souvenirs"
+msgstr "Souvenirs"
+
+msgid "souvenirs_obj"
+msgstr "Souvenir shop"
+
+msgid "souvenirs_obj_desc"
+msgstr "An authentic mote of dust from the asteroid ground. Amazing."
+
+msgid "spa_tub"
+msgstr "Immersion pool"
+
+msgid "spa_tub_desc"
+msgstr "A relaxing bath"
+
+msgid "space_octopus"
+msgstr "Space octopus"
+
+msgid "space_pest"
+msgstr "Pest critter"
+
+msgid "space_pest_queen"
+msgstr "Pest queen"
+
+msgid "space_worm"
+msgstr "Space worm"
+
+msgid "spatials_adjective"
+msgstr "Spatials %s"
+
+msgid "spatials_adjective2"
+msgstr "Spatials ~A"
+
+msgid "spatials_crew"
+msgstr "The Spatials"
+
+msgid "spatials_member"
+msgstr "Spatial"
+
+msgid "spatials_name"
+msgstr "The Spatials"
+
+msgid "spatials_shuttle"
+msgstr "Spatials landing shuttle"
+
+msgid "spec"
+msgstr "Spec"
+
+msgid "spec_disallows"
+msgstr "Disallows working on: "
+
+msgid "spec_info_demands"
+msgstr "Demands: "
+
+msgid "spec_info_salary"
+msgstr "Salary: %d @ui_icon_20px_credits04.png per min."
+
+msgid "spec_not_ready2"
+msgstr "To promote to %s at least one job must reach its required XP"
+
+msgid "spec_promote_to"
+msgstr "Promote to %s"
+
+msgid "specops_desc"
+msgstr "Security officers specialized in handling weapons with ruthless efficiency."
+
+msgid "specops_spec"
+msgstr "SpecOps"
+
+msgid "speed_label"
+msgstr "Speed:"
+
+msgid "speed_n"
+msgstr "Speed: ~0,2F mParsec/s"
+
+msgid "speed_pause"
+msgstr "Pause game"
+
+msgid "speed_value"
+msgstr "~0,2F mParsec/s"
+
+msgid "spores"
+msgstr "Spores"
+
+msgid "spores_node"
+msgstr "Spores node"
+
+msgid "stack_of"
+msgstr "Stack of %s"
+
+msgid "staff"
+msgstr "Staff"
+
+msgid "staff_gui_basics_panel_demands"
+msgstr "Demands"
+
+msgid "staff_gui_basics_panel_equipment"
+msgstr "Equipment"
+
+msgid "staff_gui_basics_panel_vitals"
+msgstr "Vitals"
+
+msgid "staff_gui_crew_of_none"
+msgstr "No ship assigned"
+
+msgid "staff_screen"
+msgstr "Staff"
+
+msgid "staff_ui_basics"
+msgstr "@ui_icon_20px_stats_01.png Basics"
+
+msgid "staff_ui_jobs_xp"
+msgstr "@ui_icon_20px_jobs_01.png Jobs and XP"
+
+msgid "staff_ui_spec"
+msgstr "@ui_icon_20px_xp2.png Spec"
+
+msgid "staff_view_counter"
+msgstr "Total %d"
+
+msgid "staff_view_counter_filtered"
+msgstr "Total %d / Filtered %d"
+
+msgid "stance_is"
+msgstr "Stance: ~A"
+
+msgid "star"
+msgstr "Star"
+
+msgid "star_map"
+msgstr "Star map"
+
+msgid "start_delivery"
+msgstr "@ui_icon_40px_sell.png Start delivery"
+
+msgid "start_game"
+msgstr "Start game"
+
+msgid "start_research"
+msgstr "Start Research"
+
+msgid "station"
+msgstr "Station"
+
+msgid "station_attrition_warn"
+msgstr "Station objects are suffering damage from being exposed to the planet atmosphere by an incomplete wall or by an unbuilt floor tile. Make sure all station rooms are fully delimited by walls or doors, and that their floors are fully built with room tiles."
+
+msgid "steam_workshop"
+msgstr "Steam Workshop"
+
+msgid "steel"
+msgstr "Steel"
+
+msgid "steel_node"
+msgstr "Steel node"
+
+msgid "steel_wall"
+msgstr "Steel wall"
+
+msgid "stinky_cheese"
+msgstr "Stinky cheese"
+
+msgid "stock"
+msgstr "Stock:"
+
+msgid "stocks_control"
+msgstr "Stocks control"
+
+msgid "storage_area"
+msgstr "Storage area"
+
+msgid "storage_area_desc"
+msgstr "Marks the room around its location as a floor storage area for resources and products. It does not provide precise stock control. Can stock any kind of resource or product."
+
+msgid "storage_area_full"
+msgstr "Storage area is full"
+
+msgid "storage_area_must_single2"
+msgstr "Storage areas cannot share a room with other objects"
+
+msgid "storage_area_no_empty_floor"
+msgstr "No available space for new resource kinds"
+
+msgid "storage_filter_disabled"
+msgstr "This storage area is being used as a drop area and does not allow resource filtering"
+
+msgid "storage_status"
+msgstr "Storage status:"
+
+msgid "stored_group_clear"
+msgstr "Cleared group %s"
+
+msgid "stored_group_selected"
+msgstr "Selected group %s"
+
+msgid "stored_group_set"
+msgstr "Stored group %s"
+
+msgid "stored_scroll"
+msgstr "Stored %d"
+
+msgid "striking_warning"
+msgstr "~A is going on strike for awhile since their demands are not being met. They refuse to work and may sabotage station equipment."
+
+msgid "success"
+msgstr "Success"
+
+msgid "sure_to_delete"
+msgstr "Are you sure you want to delete %s?"
+
+msgid "sure_to_load"
+msgstr "Are you sure you want to load %s? Unsaved progress for the current game will be lost."
+
+msgid "sure_to_replace"
+msgstr "Are you sure you want to replace %s?"
+
+msgid "surgeon"
+msgstr "Surgeon"
+
+msgid "surgeon_desc"
+msgstr "A surgeon has saved hundreds of officers, and can work miracles in a very short time."
+
+msgid "surgeon_table"
+msgstr "Surgery pod"
+
+msgid "surgeon_table_desc"
+msgstr "Enables doctors to do surgery and transplants on gravely ill patients. Requires Synthorgans."
+
+msgid "sushi_roll"
+msgstr "Sushi roll"
+
+msgid "synth_organs"
+msgstr "Synthorgans"
+
+msgid "system_name"
+msgstr "System ~A"
+
+msgid "system_name_level"
+msgstr "System %s (L%d)"
+
+msgid "systems_unlocked"
+msgstr "The following systems can now be explored: ~A"
+
+msgid "table"
+msgstr "Table"
+
+msgid "take_off_tool"
+msgstr "Take off"
+
+msgid "talked_feeling"
+msgstr "Chatted"
+
+msgid "talked_feeling_desc"
+msgstr "Had an interesting conversation"
+
+msgid "tavern_bar"
+msgstr "Tavern bar"
+
+msgid "tavern_bar_desc"
+msgstr "Feel at home here!"
+
+msgid "tavern_table"
+msgstr "Tavern table"
+
+msgid "tavern_table_desc"
+msgstr "Have your drink in a homely atmosphere"
+
+msgid "teleport_group_to_label"
+msgstr "Click to teleport the group to the selected position"
+
+msgid "teleport_to"
+msgstr "Teleport to"
+
+msgid "teleport_to_label"
+msgstr "Click to make ~A teleport to the selected position"
+
+msgid "tending_workplace_action"
+msgstr "Tending ~A"
+
+msgid "terra_planet"
+msgstr "Terra planet"
+
+msgid "thirst"
+msgstr "Thirst"
+
+msgid "thirst_feeling_high"
+msgstr "Sated"
+
+msgid "thirst_feeling_high_desc"
+msgstr "I really needed that drink"
+
+msgid "thirst_feeling_low"
+msgstr "Dehydrated"
+
+msgid "thirst_feeling_low_desc"
+msgstr "I am dizzy and feel like passing out"
+
+msgid "thousand_sep"
+msgstr "%1,%2"
+
+msgid "tier1"
+msgstr "Tier 1"
+
+msgid "tier2"
+msgstr "Tier 2"
+
+msgid "tier3"
+msgstr "Tier 3"
+
+msgid "tier4"
+msgstr "Tier 4"
+
+msgid "tier5"
+msgstr "Tier 5"
+
+msgid "tier6"
+msgstr "Tier 6"
+
+msgid "tier7"
+msgstr "Tier 7"
+
+msgid "tier8"
+msgstr "Tier 8"
+
+msgid "tier9"
+msgstr "Tier 9"
+
+msgid "tile_construction_job"
+msgstr "Floor construction"
+
+msgid "tile_destruction_job"
+msgstr "Floor destruction"
+
+msgid "titanium"
+msgstr "Titanium"
+
+msgid "titanium_node"
+msgstr "Titanium node"
+
+msgid "titanium_wall"
+msgstr "Titanium wall"
+
+msgid "toggle_combatmode"
+msgstr "Toggle combat mode"
+
+msgid "toggle_walls"
+msgstr "Toggle walls"
+
+msgid "tonicx"
+msgstr "Tonic X"
+
+msgid "toogle_global_recipes"
+msgstr "Enable or disable available recipes for global production in this object:"
+
+msgid "total_row"
+msgstr "Total:"
+
+msgid "travel_shop"
+msgstr "Travel section"
+
+msgid "travel_shop_desc"
+msgstr "Maps of the galaxy and translator tablets."
+
+msgid "treatment"
+msgstr "Medical treatment"
+
+msgid "treatment_desc"
+msgstr "The treatment of ~A requires the following steps:"
+
+msgid "try_delivery_action"
+msgstr "Try to deliver %s"
+
+msgid "try_delivery_action_error"
+msgstr "Busy, locked or no room to store"
+
+msgid "turret_1"
+msgstr "Basic turret"
+
+msgid "turret_2"
+msgstr "Enhanced turret"
+
+msgid "turret_3"
+msgstr "Advanced turret"
+
+msgid "turret_4"
+msgstr "Ultra turret"
+
+msgid "turret_desc"
+msgstr "Large, high caliber turret"
+
+msgid "turret_name"
+msgstr "Turret"
+
+msgid "tutorial_civs_basics"
+msgstr "Reputation, imports and exports"
+
+msgid "tutorial_civs_basics_1"
+msgstr "The Civs screen displays all the civilizations you have discovered in the galaxy. Let's check what information and actions are available in this screen. Click the Humans entry in the left column."
+
+msgid "tutorial_civs_basics_2"
+msgstr "Select the Reputation tab."
+
+msgid "tutorial_civs_basics_3"
+msgstr "Reputation is the measure of how much a civ likes you. Less than 15000 points and they will refuse to engage in commerce with you. Their visits to your station won't be peaceful. More than 15000 and you'll be able to engage in commerce and they may come visit as tourists. You can raise your reputation with embassies and taking good care of tourists. Hositle civs accept tributes instead. A high reputation results in lower export prices and higher import prices."
+
+msgid "tutorial_civs_basics_4"
+msgstr "Select the Buy from tab."
+
+msgid "tutorial_civs_basics_5"
+msgstr "Your station can manufacture dozens of products, but all the raw resources are extracted from planets. And most planets are inhabited by a civ. Loading extracted resources from planets will cost you some credits, and the more a civ likes you, the lower the price. Raw resource prices are global for a given civ."
+
+msgid "tutorial_civs_basics_6"
+msgstr "Select the Sell to tab."
+
+msgid "tutorial_civs_basics_7a"
+msgstr "Manufacturing is not just for your internal needs! You can also sell your production excess to tourists in the station, or directly to their planets from the Imports tab. Here you can select a product, a planet with a demand for that product, an idle home-paked ship, and a product amount. Then you can issue a delivery order and the ship will travel to the planet, sell the product and return."
+
+msgid "tutorial_civs_basics_7b"
+msgstr "This will be your main moneymaker until you unlock visitor docks and tourism, some come back here often to sell your excess production. Shop and dispenser product stacks are not considered for importing to make sure you keep some stock for your internal needs."
+
+msgid "tutorial_civs_title"
+msgstr "Civs Tutorial"
+
+msgid "tutorial_ended"
+msgstr "Tutorial is finished"
+
+msgid "tutorial_exit"
+msgstr "@ui_icon_30px_help_02.png"
+
+msgid "tutorial_exit_tooltip"
+msgstr "Exit the current tutorial and go back to the tutorial menu"
+
+msgid "tutorial_galaxy_autopilot"
+msgstr "Autopilot"
+
+msgid "tutorial_galaxy_autopilot_1"
+msgstr "Manually visiting planets to transport cargo would be very boring. For this reason space ships are equipped with an autopilot. Click on the highlighted ship to open its autopilot window."
+
+msgid "tutorial_galaxy_autopilot_2"
+msgstr "This is the space ship autopilot window. You can add orders to its listing, rearrange them, then start and stop the autopilot.\nLet's set up a route to the tutorial planet.\nDrag the highlighted icon to Tutoland. Remember you can move windows around by their title bar if they block your target."
+
+msgid "tutorial_galaxy_autopilot_4"
+msgstr "Now click on the start button to start the route. The ship will travel without your intervention, automatically loading cargo, and visiting all the planets in its order list. Once it's full, or its crew becomes too exhausted, it will automatically travel back home to unload and to wait for its crew to get their morale up."
+
+msgid "tutorial_galaxy_autopilot_5"
+msgstr "That's it! Directly dragging a ship to a planet while it's in autopilot mode will stop the autopilot and put it under your direct manual orders. Remember to restart the autopilot if desired in that case. When you feel ready you can visit other planets in this system to find and extract new resources, then add more orders to the autopilot to visit the planets and recover them."
+
+msgid "tutorial_galaxy_basics"
+msgstr "Basics"
+
+msgid "tutorial_galaxy_basics_1"
+msgstr "Ah, the galaxy. So much to explore. It can be overwhelming! Let's start small.\nThis is the top level galaxy view. You can click on the stars to zoom into their planetary system. For now only your home system is open for travel. Click on it."
+
+msgid "tutorial_galaxy_basics_2"
+msgstr "At this stage, the main focus for the galaxy is to be your source of raw resources for your factories and kitchens. The Resources overlay will display the available resources in a planet, so you can plan your exploration and monitor their production."
+
+msgid "tutorial_galaxy_basics_3"
+msgstr "Let's travel to the tutorial planet. To issue a direct travel order, drag and drop the highlighted ship on to the Tutoland planet. Remember you can move windows around by their title bar if they block your target."
+
+msgid "tutorial_galaxy_basics_4"
+msgstr "Wait for the ship to approach and park in orbit around the planet."
+
+msgid "tutorial_galaxy_basics_5"
+msgstr "Let's explore this planet! Click on Tutoland."
+
+msgid "tutorial_galaxy_basics_6"
+msgstr "To explore the planet click on the Explore button. You will switch to the planet screen and you can start the basic planet tutorials there."
+
+msgid "tutorial_galaxy_basics_7"
+msgstr "That's it for the basics. Make sure you follow the Extraction tutorial on the planet, then try the Autopilot tutorial here. Click Menu now."
+
+msgid "tutorial_galaxy_title"
+msgstr "Galaxy Tutorial"
+
+msgid "tutorial_menu_goals_hint"
+msgstr "Tip: If you are done with tutorials check the Goals in the top toolbar."
+
+msgid "tutorial_planet_basics_1"
+msgstr "So you've landed on the tutorial planet!\nPlanets are your main source of resources, so they are vital for your survival. Visit new planets to find all kinds of resources."
+
+msgid "tutorial_planet_basics_2"
+msgstr "Like in the station, you can scroll around anytime by using the WASD keys. Zoom in and out using the mouse wheel."
+
+msgid "tutorial_planet_basics_3"
+msgstr "To give orders to your officers, you can select them with the info tool, then use the orders panel in the bottom of the screen to teleport them or use their active items. Let's try it. Select any officer with the info tool."
+
+msgid "tutorial_planet_basics_4"
+msgstr "The action bar is displayed when the selected entity allows direct orders from you. For an officer the most direct order is to walk to some point, which is always bound to the right mouse button. Other actions may show up in a context menu when using the right mouse button, like direct work orders."
+
+msgid "tutorial_planet_basics_5"
+msgstr "If you want your officers to reach a difficult spot, you can always use the teleporter tool. Notice how this and other actions advertise a keybind in their tooltip (by default it's T for Teleport). Make use of keyboard bindings to quickly issue orders."
+
+msgid "tutorial_planet_basics_6b"
+msgstr "Multiselection is useful to give orders to more than one officer at the same time. You can select multiple officers by dragging the left mouse button to draw a rectangle over an area on the map. Walking orders, the global teleport and target orders remain usable when selecting multiple officers."
+
+msgid "tutorial_planet_basics_7b"
+msgstr "All your officers are armed and ready, and in full auto mode. They will engage enemies or heal friendlies that are in range without your input. You can also hint your currently selected officer(s) to attack or heal a different target by using the manual target actions in the action bar."
+
+msgid "tutorial_planet_basics_8b"
+msgstr "Finally it's also possible to set the keys 1 to 6 (in the default keybind) as a quick group selection. Make an officer selection then press Ctrl-1 to set the first quick group to the current selection. From that point just pressing 1 will select that same group. The game automatically sets group 1 to be the entire landing crew when exploring a planet."
+
+msgid "tutorial_planet_extraction"
+msgstr "Extraction"
+
+msgid "tutorial_planet_extraction_1"
+msgstr "Let's build a resource extractor. These buildings persist on the surface of the planet, and will periodically generate resources ready to be picked up by your space ships. You must build them near one or resource nodes, so the nodes are inside their area of influence. Select the build tool."
+
+msgid "tutorial_planet_extraction_2"
+msgstr "Now click on the highlighted object: the extractor."
+
+msgid "tutorial_planet_extraction_3"
+msgstr "This building is used to extract resources from the planet. The highligthed tile is near some vegetable and fruit nodes, click it to build the extractor. At least one node must fall inside the circle of its area of influence. Remember you can select your squad [1] then teleport [T) them nearby."
+
+msgid "tutorial_planet_extraction_4"
+msgstr "The object must now be built by your officers. Let's wait for them to finish the job. Remember you can use the teleport tool if they landed far from the object under construction."
+
+msgid "tutorial_planet_extraction_5"
+msgstr "That's it! This extractor will now generate fruits and they will get stored locally. Park on this planet to load them into a space ship, and use the autopilot feature in the galaxy to automate the delivery to your station. Exporting resources from inhabited planets costs credits and they become cheaper with higher reputation. Check the Civs screen for the export price rates."
+
+msgid "tutorial_planet_extraction_6_dev"
+msgstr "[DEV] I recommend to take off now and take the autopilot tutorial in the galaxy."
+
+msgid "tutorial_planet_planetarium"
+msgstr "Opening new systems"
+
+msgid "tutorial_planet_planetarium_1"
+msgstr "At some point the starter level 1 system with the asteroid you call Home will become too small. You'll need new resources and more visitors to keep your station going. The way to open new systems is by visiting a planetarium. Every inhabited planet has one. Click next to see this planet planetarium."
+
+msgid "tutorial_planet_planetarium_2"
+msgstr "Planetariums contain the local galactic knowledge. As its info panel says, it's your choice to obtain that knowledge by force or by paying up. Beware the consequences! After obtaining it, all linked systems from the planet system will be open for travel."
+
+msgid "tutorial_planet_squad"
+msgstr "Basics and actions"
+
+msgid "tutorial_planet_title"
+msgstr "Planet Tutorial"
+
+msgid "tutorial_research_basics"
+msgstr "Research"
+
+msgid "tutorial_research_basics_1"
+msgstr "This is the Research screen. There's many technologies in the galaxy, but not all of them are available to you at the start. You must research them, and this screen allows you to manage that research."
+
+msgid "tutorial_research_basics_2"
+msgstr "Research is divided into technology groups. Let's see the Food & drink group by clicking on its button."
+
+msgid "tutorial_research_basics_3"
+msgstr "We can see the tiers for food & drink technology. Reaching each tier can unlock new recipes and/or objects to build in the station. Let's click on Start Research to declare that tier as the current research tier."
+
+msgid "tutorial_research_basics_4"
+msgstr "The tier is now the focus of the research in your station. But this is just the management screen for your research projects. You also need to build up research infrastructure in your station and assign officers to research."
+
+msgid "tutorial_research_basics_5"
+msgstr "Make sure you build plenty of research tables and enable the research job in your officers using the job matrix to gain research points. When the points counter reaches the required amount the tier will be unlocked."
+
+msgid "tutorial_research_title"
+msgstr "Research Tutorial"
+
+msgid "tutorial_station_basics"
+msgstr "Basics"
+
+msgid "tutorial_station_basics_1"
+msgstr "Welcome to The Spatials: Galactology!\nThis is your station. It's not much right now.\nYour primary mission is to build it up and defend it, so it becomes the home of the Spatials and a hot spot for visitors."
+
+msgid "tutorial_station_basics_2"
+msgstr "Scroll around your station by using the WASD keys. Zoom in and out using the mouse wheel."
+
+msgid "tutorial_station_basics_3_1"
+msgstr "The left toolbar has all the tools you need to build and manage your station. The first tool is the Info tool. You can always select this tool with the Esc key."
+
+msgid "tutorial_station_basics_3_2"
+msgstr "Select the tool and then left click on any officer or item on the station."
+
+msgid "tutorial_station_basics_4"
+msgstr "The Info tool displays information about the selected object. It can also offer additional controls for changing aspects of that object, like setting the recipe in a kitchen.\nIf the item you want to click is behind another item, just click on the same point one or more times, to cycle thru all items in that point."
+
+msgid "tutorial_station_building"
+msgstr "Building"
+
+msgid "tutorial_station_building_1"
+msgstr "Your station is composed of rooms. Rooms must be always be delimited by walls or doors, and their ground must be completely covered in floor tiles. Only when these conditions are met the game will consider such an area as a room, and only then it will be possible to build the majority of station objects.\nSelect the Floor build tool"
+
+msgid "tutorial_station_building_10"
+msgstr "Good! The room is almost ready. We need to close the last tile in the corner, but if we built a wall there it would be impossible to enter or exit. We need a door. Select the Object tool."
+
+msgid "tutorial_station_building_11"
+msgstr "The object tool lists all unlocked objects available for building in the station. First we select the object category. Click on the Security category."
+
+msgid "tutorial_station_building_12"
+msgstr "Now click on the highlighted object: a door."
+
+msgid "tutorial_station_building_13"
+msgstr "Build a door by clicking on the highlighted tile. You can rotate the object before construction using Q and E or by dragging the mouse once you click to build it."
+
+msgid "tutorial_station_building_14"
+msgstr "Just like the floor or wall tool, the object tool only places a blueprint, and the object must be built by your officers. Let's wait for them to finish the job."
+
+msgid "tutorial_station_building_15"
+msgstr "This is now a complete, valid room. The building tools will display its floor area with a green tint to indicate it's a valid floor for indoor objects. If a room loses a floor tile, or a wall is destroyed, and it is exposed to the outside, then its objects will start to receive damage and can break down."
+
+msgid "tutorial_station_building_16"
+msgstr "An valid but empty room is not very useful. The next tutorial shows some basic objects to get started with food production and facilities."
+
+msgid "tutorial_station_building_2"
+msgstr "The build floor tool draws a blueprint of the selected floor on the station when you drag with left mouse button.\nDrag with the left mouse button between the two markers."
+
+msgid "tutorial_station_building_2_b"
+msgstr "Tip: You can press shift to toggle the build floor tool into the floor eraser. You can press Esc while dragging to cancel it."
+
+msgid "tutorial_station_building_3"
+msgstr "The floor tool just draws a blueprint. In order to get the actual floor built a job is created for your officers. Let's wait for them to finish."
+
+msgid "tutorial_station_building_4"
+msgstr "Done! But rooms are not just a floor, they also need walls. Select the wall tool"
+
+msgid "tutorial_station_building_5"
+msgstr "Let's lay down the blueprints for the walls around the floor.\nDrag with the left mouse button between the two markers."
+
+msgid "tutorial_station_building_5_b"
+msgstr "Tip: You can press shift to toggle the build wall tool into the wall eraser. You can press Esc while dragging to cancel it."
+
+msgid "tutorial_station_building_6"
+msgstr "Now another side. Drag with the left mouse button between the two markers."
+
+msgid "tutorial_station_building_7"
+msgstr "One more side. Drag with the left mouse button between the two markers."
+
+msgid "tutorial_station_building_8"
+msgstr "And the final wall segment. We are going to leave one empty tile to build a door later on. Drag with the left mouse button between the two markers."
+
+msgid "tutorial_station_building_9"
+msgstr "Let's wait for the walls to be constructed."
+
+msgid "tutorial_station_object_tool"
+msgstr "Facilities"
+
+msgid "tutorial_station_object_tool_1"
+msgstr "Rooms alone are not enough to serve your officers and visitors. Let's build some objects now.\nSelect the Build object tool."
+
+msgid "tutorial_station_object_tool_2"
+msgstr "The object tool lists all unlocked objects available for building in the station. First we select the object category. Click on the food & drink category."
+
+msgid "tutorial_station_object_tool_3"
+msgstr "Now click on the highlighted object: the basic kitchen."
+
+msgid "tutorial_station_object_tool_4"
+msgstr "This is a basic kitchen, and it can be used to cook cheap and simple food. To build one, click on a built floor tile. You can rotate the object before construction using Q and E or by dragging the mouse once you click to build it.\nBuild a kitchen in the highlighted tile."
+
+msgid "tutorial_station_object_tool_5"
+msgstr "Just like the floor tool, the object tool only places a blueprint, and the object must be built by your officers. Let's wait for them to finish the job."
+
+msgid "tutorial_station_object_tool_6"
+msgstr "But officers and visitors will refuse to eat and drink from the floor. You must also build a table for them to enjoy their meals. Select the canteen table and build it on the highlighted tile."
+
+msgid "tutorial_station_object_tool_7"
+msgstr "And now we have very basic facilities for food and drinks. But we still have to give production orders to our kitchen, and introduce the concept of stocking. Read more in the stocks and production tutorial."
+
+msgid "tutorial_station_object_tool_7b"
+msgstr "About noise: While this tiny combination of a kitchen and a table is fine for a starter station, putting two kitchens or more in the same room will annoy officers trying to have a quiet lunch. Consider building a separate kitchen room when you grow your station."
+
+msgid "tutorial_station_production"
+msgstr "Production"
+
+msgid "tutorial_station_production_1"
+msgstr "Many raw resources must be processed before they can be used by your officers. Like most other tasks in the station, your officers must have the proper job enabled to work the kitchen. Click on the job matrix tool."
+
+msgid "tutorial_station_production_2"
+msgstr "Here you can see your officers listed on the left, with a row of columns on the right, one cell for every officer and job combination. Make sure at least one officer has Cooking enabled and click Next."
+
+msgid "tutorial_station_production_3_1"
+msgstr "Now let's set up our kitchen to cook some food. Select it with the info tool."
+
+msgid "tutorial_station_production_3_2"
+msgstr "Tip: Press Esc anytime in the station to enable the info tool, then click on any station object to see its properties."
+
+msgid "tutorial_station_production_4"
+msgstr "This is the info panel for a basic kitchen. It contains some common information, like the vitals tab, and some specific information, like the factory tab.\nClick the factory tab to continue."
+
+msgid "tutorial_station_production_5"
+msgstr "The factory tab allows to add new production orders to the selected kitchen. By default its production queue has no orders and the kitchen is disabled. Let's create a new order. Click the Create order button."
+
+msgid "tutorial_station_production_5_2"
+msgstr "The factory info panel has changed to the order creation view. First select a recipe, let's cook some rations. Click the Basic Rations recipe to select it."
+
+msgid "tutorial_station_production_5_3"
+msgstr "Now we need to set the amount of times we ran to make this recipe. Click the number label and enter 3 when prompted."
+
+msgid "tutorial_station_production_5_4"
+msgstr "Our order is now configured and ready to be created. Click Add to queue to create the order and add it to the kitchen production queue."
+
+msgid "tutorial_station_production_6"
+msgstr "Your officers will now start cooking rations, as long as they have the required resources, they have the cooking job enabled, and the production queue still has orders to complete.\nLet's wait for them to finish one ration."
+
+msgid "tutorial_station_production_7"
+msgstr "Here it is! The first ration cooked in this asteroid, ever. But pilling food on the floor doesn't look like a good idea. Continue with the stock tutorial to learn about objects that can keep stocks of resources."
+
+msgid "tutorial_station_stocks"
+msgstr "Stocks"
+
+msgid "tutorial_station_stocks_1"
+msgstr "Keeping piles of resources on the floor works, but it's not a very controllable situation. For this reason there are objects that keep an internal stock of resources. Some of them may even require such stock to work.\nLet's build a food vendor. Select the object tool."
+
+msgid "tutorial_station_stocks_10"
+msgstr "Now select the facilities category."
+
+msgid "tutorial_station_stocks_11"
+msgstr "The highlighted object is a pallet. Pallets are stock controlling objects for a single kind of resource, like a shop, but they can be used for logistics. For example, if you build a pallet next to a factory, it will automatically make its stock available to it. Use pallets when you want precise stock control of a single resource stack."
+
+msgid "tutorial_station_stocks_12"
+msgstr "The highlighted object is a storage area. When you build one inside the room, it makes the floor of that room a valid dumping area for items and resources. You can also decide which kind of resources can be dumped in its area, but there's no stock control. Use storage areas for storing bulk cargo and production."
+
+msgid "tutorial_station_stocks_12b"
+msgstr "You can also deliver and sell your products directly to other planets in the galaxy. Check the Imports tab in the Civs screen."
+
+msgid "tutorial_station_stocks_13b"
+msgstr "There are the basics of building, production and logistics for your station. But your success also depends on extracting resources and advancing research. Check out now the tutorials for the galaxy and the research screens by opening them using their buttons in the top left toolbar."
+
+msgid "tutorial_station_stocks_2"
+msgstr "Click on the food & drink category."
+
+msgid "tutorial_station_stocks_3"
+msgstr "Now click on the highlighted object: Canteen food."
+
+msgid "tutorial_station_stocks_4"
+msgstr "Click on the highlighted tile to build it."
+
+msgid "tutorial_station_stocks_5"
+msgstr "Wait for it to be constructed."
+
+msgid "tutorial_station_stocks_6_1"
+msgstr "Now Switch to the info tool and select the food vendor."
+
+msgid "tutorial_station_stocks_6_2"
+msgstr "Tip: Press Esc anytime in the station to enable the info tool, then click on any station object to see its properties."
+
+msgid "tutorial_station_stocks_7"
+msgstr "Select the stocks panel."
+
+msgid "tutorial_station_stocks_8"
+msgstr "In this panel you can adjust the parameters for the stock keeping system in this food vendor. It's already set to stock rations by default, but you can change its resource if you wish so."
+
+msgid "tutorial_station_stocks_9"
+msgstr "This food shop will now start stocking rations. Your officers will deliver rations to it up to the configured max amount. When located far from your production centers, stock keeping objects help with the efficient distribution of your products and resources. They also enable the sale of products to visitors once you allow them in your station.\nLet's look at two more of them.\nSelect the Build object tool."
+
+msgid "tutorial_station_title"
+msgstr "Station tutorial"
+
+msgid "tutorial_station_vitals"
+msgstr "Vitals"
+
+msgid "tutorial_station_vitals_1"
+msgstr "The main function of the station is to keep your officers alive and well. They will work here and come back here after exploring the galaxy, and they will need to satisfy their vitals. Let's take a look at them. Select the Info tool, then click on any officer (click more than once if something is in front of them)."
+
+msgid "tutorial_station_vitals_2"
+msgstr "Select the Vitals panel if it's not selected already.\nThis panel displays all the vitals of the selected officer. By making available food, drinks, leisure time areas, and other systems, you allow your officers to fill the bars when they get too low. Don't let them get too low, otherwise it could affect their Mind or even damage their body."
+
+msgid "tutorial_station_vitals_4"
+msgstr "The Mind of an officer can be influenced by many kinds of things. For example, being hungry can not only hurt your officer, it will also cause them a negative feeling. You can see those feelings listed under the bar. If your officer Mind bar goes too low, they may loose the will to live, or become violent.\nContinue with the next tutorial to start building a kitchen to take care of your officers."
+
+msgid "tutorial_waiting"
+msgstr "Waiting..."
+
+msgid "type_new_max_stock"
+msgstr "Maximum stock amount to keep in this object"
+
+msgid "type_officer_name"
+msgstr "Type the officer name:"
+
+msgid "type_restock_at_stock"
+msgstr "Restocking tasks will start when the stock amount is equal or lower to this value, until it reaches the max stock amount."
+
+msgid "type_ship_name"
+msgstr "Type the ship name:"
+
+msgid "ugc_but_create"
+msgstr "Create"
+
+msgid "ugc_but_update"
+msgstr "Update"
+
+msgid "ugc_change_desc"
+msgstr "Update changelog (you can paste from a real text editor)"
+
+msgid "ugc_changelog"
+msgstr "Update changelog:"
+
+msgid "ugc_create_new_mod"
+msgstr "Create new mod"
+
+msgid "ugc_desc"
+msgstr "Description:"
+
+msgid "ugc_entry_desc_req"
+msgstr "Description is required"
+
+msgid "ugc_entry_desc_too_log"
+msgstr "Description is too long"
+
+msgid "ugc_entry_title_req"
+msgstr "Title is required"
+
+msgid "ugc_entry_title_too_log"
+msgstr "Title is too long"
+
+msgid "ugc_error_conn"
+msgstr "Error while connecting with Steamworks"
+
+msgid "ugc_error_logged"
+msgstr "Must be logged into Steam to perform this action"
+
+msgid "ugc_error_priv"
+msgstr "Not enough privileges with the current user account in Steam"
+
+msgid "ugc_error_timeout"
+msgstr "Timeout while connecting with Steam"
+
+msgid "ugc_folder"
+msgstr "Content folder:"
+
+msgid "ugc_folder_desc"
+msgstr "Select mod content folder to upload"
+
+msgid "ugc_image"
+msgstr "Image:"
+
+msgid "ugc_mod_desc"
+msgstr "Mod description (you can paste from a real text editor)"
+
+msgid "ugc_mod_title"
+msgstr "Mod title"
+
+msgid "ugc_my_workshop"
+msgstr "My Workshop"
+
+msgid "ugc_tag_translation"
+msgstr "Translation"
+
+msgid "ugc_tags"
+msgstr "Tags:"
+
+msgid "ugc_title"
+msgstr "Title:"
+
+msgid "ugc_user_warning"
+msgstr "This is a tool for mod developers. To install and activate mods for your games use the Mods panel in the New Game window."
+
+msgid "ugc_valid_desc_req"
+msgstr "Description is required"
+
+msgid "ugc_valid_desc_too_long"
+msgstr "Description is too long"
+
+msgid "ugc_valid_folder_req"
+msgstr "A content folder is required"
+
+msgid "ugc_valid_image_req"
+msgstr "An image file is required"
+
+msgid "ugc_valid_title_req"
+msgstr "Title is required"
+
+msgid "ugc_valid_title_too_long"
+msgstr "Title is too long"
+
+msgid "ugc_vis"
+msgstr "Visibility:"
+
+msgid "ugc_vis_friends"
+msgstr "Friends"
+
+msgid "ugc_vis_private"
+msgstr "Private"
+
+msgid "ugc_vis_public"
+msgstr "Public"
+
+msgid "ugc_warn_already"
+msgstr "A Mod is still being created and/or updated, please wait"
+
+msgid "ui_color"
+msgstr "UI color"
+
+msgid "ui_scale"
+msgstr "UI Scale"
+
+msgid "unassigned"
+msgstr "Unassigned"
+
+msgid "unavailable"
+msgstr "Unavailable"
+
+msgid "uncompensated"
+msgstr "Uncompensated"
+
+msgid "universal_printer"
+msgstr "Universal printer"
+
+msgid "universal_printer_desc"
+msgstr "Prints everything required by recreational facilities"
+
+msgid "unlocked"
+msgstr "Unlocked"
+
+msgid "unowned"
+msgstr "Unowned"
+
+msgid "unowned_desc"
+msgstr "This object has no owner and can be used by anybody."
+
+msgid "unowned_keep"
+msgstr "Make this object available to anybody"
+
+msgid "v_xp"
+msgstr "%d XP"
+
+msgid "vaccine"
+msgstr "Vaccine"
+
+msgid "valid_sources"
+msgstr "Valid sources:"
+
+msgid "value_higher_min"
+msgstr "Value must be higher than min amount"
+
+msgid "value_lower_max"
+msgstr "Value must be lower than max amount"
+
+msgid "value_not_number"
+msgstr "Value is not a number"
+
+msgid "value_too_high"
+msgstr "Value too high"
+
+msgid "value_too_high_res"
+msgstr "Max stack size for %s is %d"
+
+msgid "value_too_low"
+msgstr "Value too low"
+
+msgid "vegan_feast"
+msgstr "Vegan Feast"
+
+msgid "video"
+msgstr "Video"
+
+msgid "video_restart"
+msgstr "The Spatials needs to be restarted for any video changes to take effect."
+
+msgid "visit_thespatials_com"
+msgstr "Visit thespatials.com"
+
+msgid "visitor_bored"
+msgstr "Bored"
+
+msgid "visitor_bored_desc"
+msgstr "Where's the fun?"
+
+msgid "visitor_departing_feeling"
+msgstr "Departing"
+
+msgid "visitor_departing_feeling_desc"
+msgstr "Going home"
+
+msgid "visitor_dock"
+msgstr "Visitor dock"
+
+msgid "visitor_dock_desc"
+msgstr "Visitor space ships can dock here"
+
+msgid "visitor_docking_disabled"
+msgstr "Do not allow visitor ships to dock here"
+
+msgid "visitor_docking_enabled"
+msgstr "Allow visitor ships to dock here"
+
+msgid "visitor_gambler"
+msgstr "Gambler"
+
+msgid "visitor_gambler_desc"
+msgstr "One. More. Round. Until I need to sleep... I think I need a strong drink."
+
+msgid "visitor_gourmet"
+msgstr "Gourmet"
+
+msgid "visitor_gourmet_desc"
+msgstr "I'm interested in the meals and drinks this station can offer"
+
+msgid "visitor_holiday"
+msgstr "On holiday break"
+
+msgid "visitor_holiday_desc"
+msgstr "I hope I have enough time to do everything!"
+
+msgid "visitor_mallrat"
+msgstr "Mall rat"
+
+msgid "visitor_mallrat_desc"
+msgstr "I wish I could live here!"
+
+msgid "visitor_opinion_vital"
+msgstr "Opinion"
+
+msgid "visitor_party"
+msgstr "Party animal"
+
+msgid "visitor_party_desc"
+msgstr "PAAAAAARTY OOOH YEAH!!!"
+
+msgid "visitor_researcher"
+msgstr "Researcher"
+
+msgid "visitor_researcher_desc"
+msgstr "Seeking knowledge"
+
+msgid "visitor_shopper"
+msgstr "Shopper"
+
+msgid "visitor_shopper_desc"
+msgstr "Looking for the best deals"
+
+msgid "visitor_sick"
+msgstr "Sick"
+
+msgid "visitor_sick_desc"
+msgstr "In need of medical care"
+
+msgid "visitor_timer_feeling"
+msgstr "Visitor"
+
+msgid "visitor_timer_feeling_desc"
+msgstr "Here just temporarily"
+
+msgid "visitor_tired"
+msgstr "Tired"
+
+msgid "visitor_tired_desc"
+msgstr "Just need to rest and take care of myself"
+
+msgid "visitor_usage"
+msgstr "Visitor usage"
+
+msgid "visitor_wasted"
+msgstr "Wasted"
+
+msgid "visitor_wasted_desc"
+msgstr "To the nearest tavern or bar, never look back..."
+
+msgid "vital_factors"
+msgstr "Vital factors:"
+
+msgid "vital_satisfy_desc"
+msgstr "Satisfying ~A"
+
+msgid "vitals"
+msgstr "Vitals"
+
+msgid "vitamin_water"
+msgstr "Vitamin water"
+
+msgid "volcanic_planet"
+msgstr "Volcanic planet"
+
+msgid "vomit_from"
+msgstr "Vomit from ~A"
+
+msgid "vsync"
+msgstr "VSync"
+
+msgid "vsync_default"
+msgstr "Default"
+
+msgid "vsync_late"
+msgstr "Late"
+
+msgid "vsync_off"
+msgstr "Off"
+
+msgid "vsync_on"
+msgstr "On"
+
+msgid "walk_group_to_label"
+msgstr "Click to make the group walk to the selected position"
+
+msgid "walk_here"
+msgstr "Walk here"
+
+msgid "walk_order_desc"
+msgstr "Walk order"
+
+msgid "walk_to"
+msgstr "Walk to"
+
+msgid "walk_to_label"
+msgstr "Click to make ~A walk to the selected position"
+
+msgid "walkable"
+msgstr "Walkable"
+
+msgid "wall_construction_job"
+msgstr "Wall construction"
+
+msgid "wall_destruction_job"
+msgstr "Wall destruction"
+
+msgid "wallet"
+msgstr "Wallet"
+
+msgid "walls_build_info"
+msgstr "Click and drag a line to draw a wall blueprint, or click to paint tile by tile. You can press Esc while dragging to cancel the line."
+
+msgid "walls_tool"
+msgstr "Build walls"
+
+msgid "warn_autopilot_no_need_home"
+msgstr "There's no need to add autopilot orders to go back home, the autopilot will automatically head back when the cargo hold is full or when the crew needs it. Forced home orders will always wait for crew rest, even when there's little need, and will slow down the autopilot schedule."
+
+msgid "warn_no_officer_dock"
+msgstr "One of your ships arrived at Home but it has no assigned officer dock, so it has teleported its crew and cargo to the edge of the map. Build an officer dock and assign it to the ship to avoid this."
+
+msgid "warn_no_shop"
+msgstr "Not in a shop, picked for free"
+
+msgid "water"
+msgstr "Water"
+
+msgid "water_leak"
+msgstr "Water leak"
+
+msgid "water_node"
+msgstr "Water node"
+
+msgid "welcome_emp"
+msgstr "Welcome!"
+
+msgid "window"
+msgstr "Window"
+
+msgid "window_size"
+msgstr "Window size"
+
+msgid "work_on_action"
+msgstr "Work on ~A"
+
+msgid "working"
+msgstr "Working"
+
+msgid "working_label"
+msgstr "Working: ~A"
+
+msgid "world_enlargement"
+msgstr "World Enlargement"
+
+msgid "world_enlargement_desc"
+msgstr "Everything is huge!"
+
+msgid "xeno_egg"
+msgstr "Xenomorph egg"
+
+msgid "xeno_egg_desc"
+msgstr "Destroy this egg before the event timer reaches 0 to avoid spawning a xenomorph"
+
+msgid "xenomorph"
+msgstr "Xenomorph"
+
+msgid "xray"
+msgstr "XRay"
+
+msgid "xray_desc"
+msgstr "Creates internal images of a patient body, to help with medical diagnose."
+
+msgid "yes"
+msgstr "Yes"
+
+msgid "zoom_in"
+msgstr "Zoom in"
+
+msgid "zoom_out"
+msgstr "Zoom out"
+
