@@ -8173,3 +8173,120 @@ msgstr "Zoom+"
 msgid "zoom_out"
 msgstr "Zoom-"
 
+msgid "available"
+msgstr "Available"
+
+msgid "cant_build_needs_outside"
+msgstr "Requires outdoor area"
+
+msgid "cargo_label"
+msgstr "Cargo:"
+
+msgid "cargo_value"
+msgstr "%d units"
+
+msgid "ceilingshield_1"
+msgstr "Ceiling shielder"
+
+msgid "ceilingshield_desc"
+msgstr "Creates a small damage shield when detecting an enemy, with a cooldown."
+
+msgid "ceilingturret_1"
+msgstr "Basic ceiling turret"
+
+msgid "ceilingturret_2"
+msgstr "Enhanced ceiling turret"
+
+msgid "ceilingturret_3"
+msgstr "Advanced ceiling turret"
+
+msgid "crew_label"
+msgstr "Crew:"
+
+msgid "crew_value"
+msgstr "%d slots"
+
+msgid "dock_needs_space"
+msgstr "Objects too close"
+
+msgid "enable_critical_speed"
+msgstr "Set game speed to 1x on critical alerts"
+
+msgid "event_lactian_spam_warn"
+msgstr "The Church of Lactus, a new galaxy cult who worship a mysterious milk entity, are proselytizing in your station. For now they appear to only carry leaflets (or do they?). Deal with them as you wish, or just wait until they are gone."
+
+msgid "event_raid_alert"
+msgstr "A raiding party has arrived! ~A are attacking our station!"
+
+msgid "event_raid_retaliate_warn"
+msgstr "%s are retaliating against us! A raiding party from %s is approaching our station. Be prepared!"
+
+msgid "event_raid_warn4c"
+msgstr "We have received reports of a %s raiding party from %s approaching our station. Be prepared!"
+
+msgid "facilities_tier_9b"
+msgstr "Robotic security"
+
+msgid "filter_ship_named"
+msgstr "Ship: %s"
+
+msgid "group_facilities2"
+msgstr "Facilities"
+
+msgid "in_progress_p"
+msgstr "In progress: %d/%d"
+
+msgid "lactian_leaflets"
+msgstr "Lactian leaflets"
+
+msgid "lactian_leaflets_desc"
+msgstr "All praise Lactus, our sacred milk. Can be recycled."
+
+msgid "object_power_level"
+msgstr "Power level"
+
+msgid "securitydoor2"
+msgstr "Force field door"
+
+msgid "securitydoor2_desc"
+msgstr "Almost impenetrable door. Allows to keep away visitors from storage and production rooms."
+
+msgid "shielder_1"
+msgstr "Basic shielder"
+
+msgid "shielder_2"
+msgstr "Enhanced shielder"
+
+msgid "shielder_3"
+msgstr "Advanced shielder"
+
+msgid "shielder_desc"
+msgstr "Creates a large damage shield when detecting an enemy, with a cooldown."
+
+msgid "ship_skills_label"
+msgstr "Skills:"
+
+msgid "speed_label"
+msgstr "Speed:"
+
+msgid "speed_value"
+msgstr "~0,2F mParsec/s"
+
+msgid "turret_1"
+msgstr "Basic turret"
+
+msgid "turret_2"
+msgstr "Enhanced turret"
+
+msgid "turret_3"
+msgstr "Advanced turret"
+
+msgid "turret_4"
+msgstr "Ultra turret"
+
+msgid "turret_desc"
+msgstr "Large, high caliber turret"
+
+msgid "tutorial_station_object_tool_7b"
+msgstr "About noise: While this tiny combination of a kitchen and a table is fine for a starter station, putting two kitchens or more in the same room will annoy officers trying to have a quiet lunch. Consider building a separate kitchen room when you grow your station."
+
