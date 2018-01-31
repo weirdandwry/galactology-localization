@@ -8173,3 +8173,120 @@ msgstr "Zoom+"
 msgid "zoom_out"
 msgstr "Zoom-"
 
+msgid "available"
+msgstr ""
+
+msgid "cant_build_needs_outside"
+msgstr ""
+
+msgid "cargo_label"
+msgstr ""
+
+msgid "cargo_value"
+msgstr ""
+
+msgid "ceilingshield_1"
+msgstr ""
+
+msgid "ceilingshield_desc"
+msgstr ""
+
+msgid "ceilingturret_1"
+msgstr ""
+
+msgid "ceilingturret_2"
+msgstr ""
+
+msgid "ceilingturret_3"
+msgstr ""
+
+msgid "crew_label"
+msgstr ""
+
+msgid "crew_value"
+msgstr ""
+
+msgid "dock_needs_space"
+msgstr ""
+
+msgid "enable_critical_speed"
+msgstr ""
+
+msgid "event_lactian_spam_warn"
+msgstr ""
+
+msgid "event_raid_alert"
+msgstr ""
+
+msgid "event_raid_retaliate_warn"
+msgstr ""
+
+msgid "event_raid_warn4c"
+msgstr ""
+
+msgid "facilities_tier_9b"
+msgstr ""
+
+msgid "filter_ship_named"
+msgstr ""
+
+msgid "group_facilities2"
+msgstr ""
+
+msgid "in_progress_p"
+msgstr ""
+
+msgid "lactian_leaflets"
+msgstr ""
+
+msgid "lactian_leaflets_desc"
+msgstr ""
+
+msgid "object_power_level"
+msgstr ""
+
+msgid "securitydoor2"
+msgstr ""
+
+msgid "securitydoor2_desc"
+msgstr ""
+
+msgid "shielder_1"
+msgstr ""
+
+msgid "shielder_2"
+msgstr ""
+
+msgid "shielder_3"
+msgstr ""
+
+msgid "shielder_desc"
+msgstr ""
+
+msgid "ship_skills_label"
+msgstr ""
+
+msgid "speed_label"
+msgstr ""
+
+msgid "speed_value"
+msgstr ""
+
+msgid "turret_1"
+msgstr ""
+
+msgid "turret_2"
+msgstr ""
+
+msgid "turret_3"
+msgstr ""
+
+msgid "turret_4"
+msgstr ""
+
+msgid "turret_desc"
+msgstr ""
+
+msgid "tutorial_station_object_tool_7b"
+msgstr ""
+
