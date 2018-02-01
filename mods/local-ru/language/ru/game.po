@@ -1,0 +1,7650 @@
+msgid "Luxury_kitchen_desc"
+msgstr "Самая лучшая кухня во Вселенной"
+
+msgid "PR_desc"
+msgstr "Очаровательны и веселы. Они очень успешны в убеждении потенциальных клиентов о том, как все здорово."
+
+msgid "absorbtion"
+msgstr "Поглощение"
+
+msgid "absorbtion_short"
+msgstr "Пглщ"
+
+msgid "accept"
+msgstr "Принять"
+
+msgid "action_cooldown"
+msgstr "[~A] в откате"
+
+msgid "active_absorb"
+msgstr "~A поглощение"
+
+msgid "active_absorb_item"
+msgstr "Активно: поглощение"
+
+msgid "active_control"
+msgstr "Cдерживание толпы"
+
+msgid "active_control_item"
+msgstr "Активно: управление"
+
+msgid "active_damage"
+msgstr "~A-~A повреждение"
+
+msgid "active_damage_item"
+msgstr "Активно: повреждение"
+
+msgid "active_healing"
+msgstr "~A-~A лечение"
+
+msgid "active_healing_item"
+msgstr "Активно: лечение"
+
+msgid "advanced_kitchen"
+msgstr "Расширенная кухня"
+
+msgid "advanced_kitchen_desc"
+msgstr "Готовит действительно вкусную еду и напитки"
+
+msgid "advanced_ship_engines_parts"
+msgstr "Двигатель улучшенного корабля"
+
+msgid "advanced_ship_hull_parts"
+msgstr "Каркас улучшенного корабля"
+
+msgid "advanced_ship_lifesupport_parts"
+msgstr "Жизнеобеспечение улучшенного корабля"
+
+msgid "advanced_ship_structure_parts"
+msgstr "Детали улучшенного корабля"
+
+msgid "advanced_soap"
+msgstr "Улучшенное мыло"
+
+msgid "aesthetic_room"
+msgstr "Эстетика: %d"
+
+msgid "aesthetics"
+msgstr "Эстетика"
+
+msgid "aesthetics_feeling_high"
+msgstr "Довольный"
+
+msgid "aesthetics_feeling_high_desc"
+msgstr "Такая причудливая космическая станция. Мне это нравится."
+
+msgid "aesthetics_feeling_low"
+msgstr "Не впечатлен"
+
+msgid "aesthetics_feeling_low_desc"
+msgstr "Это все уродливое место"
+
+msgid "aesthetics_feeling_very_high"
+msgstr "Восхищенный"
+
+msgid "aesthetics_feeling_very_high_desc"
+msgstr "Я окружен красотой"
+
+msgid "aesthetics_feeling_very_low"
+msgstr "Чувствующий отвращение"
+
+msgid "aesthetics_feeling_very_low_desc"
+msgstr "Мое окружение ужасно"
+
+msgid "ale"
+msgstr "Пиво"
+
+msgid "alert_delete"
+msgstr "Удалить"
+
+msgid "alert_minimize"
+msgstr "Скрыть"
+
+msgid "alert_reports"
+msgstr "Предупреждения и сообщения"
+
+msgid "algae"
+msgstr "Морские водоросли"
+
+msgid "algae_node"
+msgstr "Нода морских водорослей"
+
+msgid "all"
+msgstr "Все"
+
+msgid "all_officers"
+msgstr "Все офицеры"
+
+msgid "all_resources"
+msgstr "Все ресурсы"
+
+msgid "alphabetically"
+msgstr "Алфавитный"
+
+msgid "aluminium"
+msgstr "Алюминий"
+
+msgid "aluminium_node"
+msgstr "Нода алюминия"
+
+msgid "aluminium_wall"
+msgstr "Алюминиевая стена"
+
+msgid "amount"
+msgstr "Количество"
+
+msgid "antagonist_desc"
+msgstr "Эта раса является антагонистом и поэтому не заинтересова в какой-либо торговле или дипломатии с Вами, никогда от слова совсем."
+
+msgid "antimatter_cleaner"
+msgstr "Очиститель антивещества"
+
+msgid "any_power"
+msgstr "Любая сила"
+
+msgid "any_slot"
+msgstr "Любой слот"
+
+msgid "arcade cabinet"
+msgstr "Игровой автомат"
+
+msgid "arcade_desc"
+msgstr "Игровая классика"
+
+msgid "argyria"
+msgstr "Аргироз"
+
+msgid "argyria_desc"
+msgstr "Я ем слишком много серебра"
+
+msgid "arid_planet"
+msgstr "Засушливая планета"
+
+msgid "armory_locker_desc"
+msgstr "Хранилище брони, имплантов и оружия"
+
+msgid "armory_pallet"
+msgstr "Оружейный поддон"
+
+msgid "armory_stored_something"
+msgstr "Хранится ~A"
+
+msgid "ascending"
+msgstr "Восходящий"
+
+msgid "asteroid"
+msgstr "Астероид"
+
+msgid "attack"
+msgstr "Атаковать"
+
+msgid "attack_label"
+msgstr "Щелкнуть чтобы использовать ~A"
+
+msgid "attacked"
+msgstr "Напали"
+
+msgid "attacked_desc"
+msgstr "На меня напали!"
+
+msgid "attacking_desc"
+msgstr "Атакующий враг"
+
+msgid "attributes_c"
+msgstr "Атрибуты:"
+
+msgid "attrition_destroyed_object"
+msgstr "~A был разрушен врагами в ~A"
+
+msgid "audio"
+msgstr "Аудио"
+
+msgid "augustus"
+msgstr "Огастес"
+
+msgid "augustus_desc"
+msgstr "Знаменитый в галактике повар. У него есть спецификация шеф-повара на мастер-уровень и производит вдвое больше пищи."
+
+msgid "auto"
+msgstr "Авто"
+
+msgid "auto_combat_false"
+msgstr "~A теперь управляется Вами, до тех пор, пока выбран или назначен в группу"
+
+msgid "auto_combat_true"
+msgstr "~A теперь офицер управляется автоматически"
+
+msgid "auto_desc"
+msgstr "Атаки будут происходить автоматически"
+
+msgid "auto_label"
+msgstr "АВТО"
+
+msgid "auto_owner_change"
+msgstr "Новый владелец: ~A"
+
+msgid "auto_translator"
+msgstr "Автоматический переводчик"
+
+msgid "autopilot_disabled"
+msgstr "Автопилот выключен"
+
+msgid "autopilot_enabled"
+msgstr "Автопилот включен"
+
+msgid "back"
+msgstr "Назад"
+
+msgid "bad_sleep"
+msgstr "Плохой сон"
+
+msgid "bad_sleep_desc"
+msgstr "Недавно я спал не в кровати"
+
+msgid "base_price_a"
+msgstr "Базовая цена: @ui_icon_20px_credits04.png ~A"
+
+msgid "base_spec"
+msgstr "Базовая спецификация"
+
+msgid "basic_kitchen"
+msgstr "Базовая кухня"
+
+msgid "basic_kitchen_desc"
+msgstr "Готовит дешевую еду"
+
+msgid "basic_rations"
+msgstr "Основные рационы"
+
+msgid "basic_ship_engines_parts"
+msgstr "Двигатель стандартного корабля"
+
+msgid "basic_ship_hull_parts"
+msgstr "Каркас стандартного корабля"
+
+msgid "basic_ship_lifesupport_parts"
+msgstr "Жизнеобеспечение стандартного корабля"
+
+msgid "basic_ship_structure_parts"
+msgstr "Детали стандартного корабля"
+
+msgid "basic_soap"
+msgstr "Мыло"
+
+msgid "beam_desc"
+msgstr "Лучевое по одиночной цели"
+
+msgid "bed_plain2"
+msgstr "Базовая кровать"
+
+msgid "bed_plain_desc"
+msgstr "Восстанавливает сон. Может использоваться любым сотрудником. Не может быть использован для посетителей."
+
+msgid "bedofficer"
+msgstr "Офиц. кровать"
+
+msgid "bedofficer_desc"
+msgstr "Удобная кровать для твоих офицеров. Отмечает комнату в качестве области собственности, для назначенного владельца. Не может быть использован для посетителей."
+
+msgid "bernice"
+msgstr "Бернис"
+
+msgid "bernice_desc"
+msgstr "Сам зам. главнокомандующего здесь, чтобы оценить Ваш прогресс."
+
+msgid "best"
+msgstr "Лучший"
+
+msgid "bigger_ui"
+msgstr "Больше UI"
+
+msgid "billiard"
+msgstr "Бильярд"
+
+msgid "billiard_desc"
+msgstr "Ударяют палкой по шарам на зеленой скатерти. Это восстанавливает веселье."
+
+msgid "bio_extractor"
+msgstr "Биоэкстрактор"
+
+msgid "bio_extractor_desc"
+msgstr "Извлекает биологические ресурсы в пределах своей зоны влияния"
+
+msgid "bionanites"
+msgstr "Бионаниты"
+
+msgid "bistro_drinks"
+msgstr "Бистро напитки"
+
+msgid "bistro_drinks_desc"
+msgstr "Презентация для модных премиальных напитков"
+
+msgid "bistro_food"
+msgstr "Бистро еда"
+
+msgid "bistro_food_desc"
+msgstr "Изысканный способ подачи пищи"
+
+msgid "bistro_table"
+msgstr "Бистро стол"
+
+msgid "bistro_table_desc"
+msgstr "Роскошные сидения, чтобы наслаждаться обильным обедом"
+
+msgid "black_hole"
+msgstr "Черная дыра"
+
+msgid "blackjack"
+msgstr "Стол блекджека"
+
+msgid "blackjack_desc"
+msgstr "Размешать, не взбалтывать. Использует красные токены."
+
+msgid "blood_from"
+msgstr "Кровь из ~A"
+
+msgid "blorg_adjective"
+msgstr "Блорг %s"
+
+msgid "blorg_adjective2"
+msgstr "Блорг ~A"
+
+msgid "blorg_member"
+msgstr "Блорг"
+
+msgid "blorg_name"
+msgstr "Блорги"
+
+msgid "blorg_plutocracy"
+msgstr "Блорг плутократия"
+
+msgid "body_level_in"
+msgstr "%s (L%d) в %s"
+
+msgid "bonbons"
+msgstr "Шоколад"
+
+msgid "bonus_amt_health"
+msgstr "Бонус: ~A жизни"
+
+msgid "bonus_amt_power"
+msgstr "Бонус: ~A энергии"
+
+msgid "bonus_health"
+msgstr "Бонус жизни"
+
+msgid "bonus_health_short"
+msgstr "+Жизнь"
+
+msgid "bonus_power"
+msgstr "Бонус энергии"
+
+msgid "bonus_power_short"
+msgstr "+Энергия"
+
+msgid "booking_room"
+msgstr "Бронирование отеля"
+
+msgid "brewery"
+msgstr "Пивоваренный завод"
+
+msgid "brewery_desc"
+msgstr "Дистиллирование сброженных напитков"
+
+msgid "broken"
+msgstr "Сломанный"
+
+msgid "bugs"
+msgstr "Жуки"
+
+msgid "bugs_node"
+msgstr "Нода жуков"
+
+msgid "build_advanced_ship_engines"
+msgstr "Построить двигатель улучшенного корабля"
+
+msgid "build_advanced_ship_hull"
+msgstr "Построить каркас улучшенного корабля"
+
+msgid "build_advanced_ship_lifesupport"
+msgstr "Построить жизнеобеспечение улучшенного корабля"
+
+msgid "build_advanced_ship_structure"
+msgstr "Построить детали улучшенного корабля"
+
+msgid "build_alert_attrition"
+msgstr "Эта планета принадлежит враждебной расе. Здания будут получать повреждения с течением времени, пока не будут уничтожены. Захватите эту планету, чтобы Ваши постройки не разрушались после Вашего ухода."
+
+msgid "build_basic_ship_engines"
+msgstr "Построить двигатель стандартного корабля"
+
+msgid "build_basic_ship_hull"
+msgstr "Построить каркас стандартного корабля"
+
+msgid "build_basic_ship_lifesupport"
+msgstr "Построить жизнеобеспечение стандартного корабля"
+
+msgid "build_basic_ship_structure"
+msgstr "Построить детали стандартного корабля"
+
+msgid "build_builder_robot"
+msgstr "Сборка строительного робота"
+
+msgid "build_cargo_robot"
+msgstr "Сборка грузового робота"
+
+msgid "build_cleaner_robot"
+msgstr "Сборка робот-пылесоса"
+
+msgid "build_collector"
+msgstr "Построить коллектор поблизости, чтобы извлекать этот ресурс"
+
+msgid "build_color"
+msgstr "Цвет комнаты:"
+
+msgid "build_corridor_desc"
+msgstr "Подключенные комнаты"
+
+msgid "build_firefighter_robot"
+msgstr "Сборка пожарного робота"
+
+msgid "build_floor"
+msgstr "Построить этаж"
+
+msgid "build_floors_label"
+msgstr "Стили комнат:"
+
+msgid "build_groups"
+msgstr "Категории объектов:"
+
+msgid "build_info_stocks"
+msgstr "Хранилище"
+
+msgid "build_info_treatment_for"
+msgstr "Лечение"
+
+msgid "build_intermediate_ship_engines"
+msgstr "Создание промежуточных деталей двигателя"
+
+msgid "build_intermediate_ship_hull"
+msgstr "Создание промежуточных частей каркаса"
+
+msgid "build_intermediate_ship_lifesupport"
+msgstr "Создание промежуточных частей жизнеобеспечения"
+
+msgid "build_intermediate_ship_structure"
+msgstr "Создание промежуточных частей конструкции"
+
+msgid "build_job_warn_invalid_room"
+msgstr "Недопустимое место для объекта"
+
+msgid "build_maintenance_robot"
+msgstr "Сборка робота техобслуживания"
+
+msgid "build_object"
+msgstr "Объект построен"
+
+msgid "build_objects_label"
+msgstr "Объекты:"
+
+msgid "build_out_of_bounds"
+msgstr "За пределами площади застройки"
+
+msgid "build_security_robot"
+msgstr "Сборка робота безопасности"
+
+msgid "build_tool"
+msgstr "Построить объекты"
+
+msgid "build_walls"
+msgstr "Строить стены"
+
+msgid "builder_robot"
+msgstr "Строительный робот"
+
+msgid "building"
+msgstr "Строительство"
+
+msgid "building_info_shop"
+msgstr "Магазин: позволяет оплатить товары или использовать для расчета с посетителями"
+
+msgid "building_resources"
+msgstr "Необходимые ресурсы:"
+
+msgid "built_floor"
+msgstr "Построить этаж"
+
+msgid "built_object"
+msgstr "Построить объект"
+
+msgid "built_wall"
+msgstr "Построить стену"
+
+msgid "busy"
+msgstr "Занятый"
+
+msgid "buy_from"
+msgstr "@ui_icon_30px_buy.png Купить у расы %s"
+
+msgid "by_age"
+msgstr "Возраст"
+
+msgid "by_gear_level"
+msgstr "Ухудшение оснащения"
+
+msgid "by_mind"
+msgstr "Разумом"
+
+msgid "by_spec"
+msgstr "Специализация"
+
+msgid "calmed_feeling"
+msgstr "Успокоенный"
+
+msgid "calmed_feeling_desc"
+msgstr "Это было ужасно, но теперь я чувствую себя лучше"
+
+msgid "cancel"
+msgstr "Отмена"
+
+msgid "cancel_construction"
+msgstr "Отмена строительства"
+
+msgid "cancel_destruction"
+msgstr "Отмена разрушения"
+
+msgid "cancel_dismantling"
+msgstr "Отменить демонтаж"
+
+msgid "cancel_rally_point"
+msgstr "Отменить точку патрулирования"
+
+msgid "cancel_research"
+msgstr "Отменить исследование"
+
+msgid "cant_build_blocked"
+msgstr "Плитка блокируется с четырех сторон"
+
+msgid "cant_build_exists_construction"
+msgstr "Объект уже присутствует в этой зоне"
+
+msgid "cant_build_has_singleton"
+msgstr "Объект в этой комнате запрещает любую другую конструкцию"
+
+msgid "cant_build_invalid_floor"
+msgstr "Этаж не является действительным для выбранного объекта"
+
+msgid "cant_build_invalid_ground"
+msgstr "Основание не позволяет строить"
+
+msgid "cant_build_limited_to_one"
+msgstr "Разрешается только один объект такого рода"
+
+msgid "cant_build_needs_room"
+msgstr "Требуется полностью построенная комната, ограниченная стенами / дверьми"
+
+msgid "cant_build_too_close_enemy"
+msgstr "Вражеские объекты находятся слишком близко, чтобы строить здесь"
+
+msgid "cant_build_too_far_friendly_town"
+msgstr "Объект должен быть построен рядом с нейтральным или дружественным городом"
+
+msgid "cant_build_too_far_town"
+msgstr "Объект должен быть построен недалеко от города"
+
+msgid "cant_build_too_many"
+msgstr "Слишком много объектов такого рода"
+
+msgid "cant_build_wrong_civ_allies"
+msgstr "Может быть построен только на планетах людей или крузантов"
+
+msgid "canteen_drinks"
+msgstr "Столовые напитки"
+
+msgid "canteen_drinks_desc"
+msgstr "Делает напитки доступными для потребления, без каких-либо дополнительных излишеств."
+
+msgid "canteen_food"
+msgstr "Столовая еда"
+
+msgid "canteen_food_desc"
+msgstr "Делает пищу доступной для потребления, без каких-либо дополнительных излишеств."
+
+msgid "canteen_table"
+msgstr "Столовый стол"
+
+msgid "canteen_table_desc"
+msgstr "Простой и утилитарный. Вы сидите, вы едите."
+
+msgid "cargo_hold"
+msgstr "Грузовой отсек"
+
+msgid "cargo_n"
+msgstr "Груз: ~A единиц"
+
+msgid "cargo_robot"
+msgstr "Грузовой робот"
+
+msgid "ceilingcam"
+msgstr "Потолочная камера"
+
+msgid "ceilingcam_desc"
+msgstr "Смотрит за скрытными правонарушителями"
+
+msgid "ceilingturret"
+msgstr "Потолочная турель"
+
+msgid "ceilingturret_desc"
+msgstr "Маленькая, маломощная турель"
+
+msgid "center_view"
+msgstr "Центральный вид"
+
+msgid "chance_of_success"
+msgstr "Шанс удачи"
+
+msgid "change_machine"
+msgstr "Обменный автомат"
+
+msgid "change_machine_desc"
+msgstr "Меняет игорные фишки на реальные деньги"
+
+msgid "chaotic_adjective"
+msgstr "Хаотичный %s"
+
+msgid "chaotic_adjective2"
+msgstr "Хаотичный ~A"
+
+msgid "chaotic_enemy"
+msgstr "Хаотичный враг"
+
+msgid "chaotic_member"
+msgstr "Хаотичный"
+
+msgid "chaotics"
+msgstr "Хаотичные"
+
+msgid "chef"
+msgstr "Шеф"
+
+msgid "chef_desc"
+msgstr "Может приготовить самые сложные блюда. Любая развитая станция нуждается в поварах, чтобы создавать самую экстравагантную еду и напитки."
+
+msgid "chemist"
+msgstr "Химик"
+
+msgid "chemist_desc"
+msgstr "Пузырит жидкости и измеряет их реакции изо дня в день."
+
+msgid "chemistry"
+msgstr "Химия"
+
+msgid "chest_01"
+msgstr "БезоБронь"
+
+msgid "chest_02"
+msgstr "Нанокуртка"
+
+msgid "chest_03"
+msgstr "Легкая броня"
+
+msgid "chest_04"
+msgstr "Утепленная куртка"
+
+msgid "chest_05"
+msgstr "Жилет для пилота"
+
+msgid "chest_06"
+msgstr "Ударная сетка"
+
+msgid "chest_07"
+msgstr "Тяжелый чехол"
+
+msgid "chest_08"
+msgstr "Охлаждающая рубашка"
+
+msgid "chest_09"
+msgstr "УдарнаяАБС MkII"
+
+msgid "chest_10"
+msgstr "Модная рубашка"
+
+msgid "chest_11"
+msgstr "Костюм"
+
+msgid "chest_12"
+msgstr "Жесткий нагрудник"
+
+msgid "chest_13"
+msgstr "Бронежилет"
+
+msgid "chest_14"
+msgstr "Свадебное платье"
+
+msgid "chest_15"
+msgstr "Чешуйчатый протектор"
+
+msgid "chest_16"
+msgstr "Королевская туника"
+
+msgid "chest_17"
+msgstr "Энергетическая броня"
+
+msgid "chest_18"
+msgstr "Абляционная броня"
+
+msgid "chest_19"
+msgstr "Дождевик"
+
+msgid "chest_20"
+msgstr "Кибер V80"
+
+msgid "chest_item"
+msgstr "Броня"
+
+msgid "chuchu_adjective"
+msgstr "Чучу %s"
+
+msgid "chuchu_adjective2"
+msgstr "Чучу ~A"
+
+msgid "chuchu_full"
+msgstr "Стая Чучу"
+
+msgid "chuchu_member"
+msgstr "Чучу"
+
+msgid "chuchu_name"
+msgstr "Чучу"
+
+msgid "church_of_lactus"
+msgstr "Церковь Лактуса"
+
+msgid "civ_colony"
+msgstr "Колония"
+
+msgid "civ_encountered"
+msgstr "Открыта первая звездная система %s! Теперь вы сможете увидеть эту колонию на экране расы."
+
+msgid "civ_uninhabited"
+msgstr "Необитаемая"
+
+msgid "civs"
+msgstr "Раса"
+
+msgid "civs_points"
+msgstr "%d / %d очков"
+
+msgid "civs_tutorial"
+msgstr "Учебное пособие"
+
+msgid "claim_reward"
+msgstr "Получить вознаграждение"
+
+msgid "cleaner_robot"
+msgstr "Робот-пылесос"
+
+msgid "cleaning"
+msgstr "Уборка"
+
+msgid "click_info"
+msgstr "Щелкните, чтобы выбрать любой объект в игре и показать его свойства"
+
+msgid "click_pick_officer"
+msgstr "Щелкните, чтобы выбрать офицера"
+
+msgid "clone_chamber"
+msgstr "Страховой клонер"
+
+msgid "clone_chamber_desc"
+msgstr "Автоматически создает клон назначенного офицера когда он умирает, даже на другом конце галактики. Этот объект уничтожается после создания клона. Очень хрупкий!"
+
+msgid "cocktail"
+msgstr "Коктейл"
+
+msgid "combat"
+msgstr "Сражение"
+
+msgid "combat_busy_desc"
+msgstr "Только боевой режим"
+
+msgid "combat_mode_disabled"
+msgstr "Боевой режим отключен"
+
+msgid "combat_mode_enabled"
+msgstr "Боевой режим включен"
+
+msgid "combat_robot"
+msgstr "Боевой робот"
+
+msgid "comics"
+msgstr "Полки с комиксами"
+
+msgid "comics_desc"
+msgstr "Продает старомодные комиксы"
+
+msgid "commercial_tier_1"
+msgstr "Сырьевые товары I"
+
+msgid "commercial_tier_2"
+msgstr "Сырьевые товары II"
+
+msgid "commercial_tier_3"
+msgstr "Сырьевые товары III"
+
+msgid "commercial_tier_4"
+msgstr "Промежуточные товары I"
+
+msgid "commercial_tier_5"
+msgstr "Промежуточные товары II"
+
+msgid "commercial_tier_6"
+msgstr "Дополнительные товары I"
+
+msgid "commercial_tier_7"
+msgstr "Дополнительные товары II"
+
+msgid "complete"
+msgstr "Завершено"
+
+msgid "confirm_cancel_research"
+msgstr "Вы уверены? Если отменить это исследование, вы потеряете текущие очки исследований."
+
+msgid "confirm_cancel_ship_construction"
+msgstr "Ты уверен? Если отменить не законченную работу, то все ресурсы будут потеряны."
+
+msgid "confirm_evolve_officer"
+msgstr "Обновление ~A в ~A не может быть отменено! Это сделает ~A неспособным выполнять предыдущую работу, однако сможет выполнять более сложную работу. Вы точно уверены?"
+
+msgid "confirm_fire_officer"
+msgstr "Увольнение ~A невозможно отменить, офицер исчезнет навсегда! Вы точно уверены?"
+
+msgid "construction"
+msgstr "Строительство"
+
+msgid "contemplated"
+msgstr "Рассматривание"
+
+msgid "contemplated_desc"
+msgstr "Какие красивые объекты!"
+
+msgid "contemplation"
+msgstr "Созерцание"
+
+msgid "continue"
+msgstr "Продолжить"
+
+msgid "contract_bonus_chance"
+msgstr "Бонусный шанс при выборе:"
+
+msgid "contract_completed"
+msgstr "%s в %s (L%d) был выполнен"
+
+msgid "contract_extra_xp_desc"
+msgstr "Экстра опыт эквивалентен %d%% от всех уровней %d опыта для каждого офицера (%s опыта)"
+
+msgid "contract_name_diff_place_level"
+msgstr "%s сложность в %s (L%d)"
+
+msgid "contract_price"
+msgstr "%s цена контракта"
+
+msgid "contract_resource_reward"
+msgstr "%s %s (в стоке: %s)"
+
+msgid "contract_rewards"
+msgstr "Награда:"
+
+msgid "contract_xp_officer"
+msgstr "Опыта на каждого офицера (%s XP @L%d)"
+
+msgid "controlled_stock"
+msgstr "Контролируемый запас"
+
+msgid "controls"
+msgstr "Управление"
+
+msgid "cooking"
+msgstr "Готовка"
+
+msgid "cooldown_amt"
+msgstr "~0,1Fs перезарядка"
+
+msgid "corpse"
+msgstr "Труп"
+
+msgid "corpse_desc"
+msgstr "Этот труп может быть переработан в утилизаторе. На вкус получается как курятина."
+
+msgid "corpse_of"
+msgstr "Труп ~A"
+
+msgid "corridor"
+msgstr "Коридор"
+
+msgid "corridor_build_info"
+msgstr "Нажмите и переместите курсор, чтобы нарисовать коридор или нажмите, чтобы покрасить плитку. Вы можете нажать клавишу Esc во время перетаскивания, чтобы отменить действие."
+
+msgid "corridor_desc"
+msgstr "Для подключения различных комнат"
+
+msgid "crafts_table"
+msgstr "Сборочный стол"
+
+msgid "crafts_table_desc"
+msgstr "Производит одежду и небольшие продукты"
+
+msgid "crew"
+msgstr "Экипаж"
+
+msgid "crew_bridge_selector"
+msgstr "Выберите свой экипаж для этого корабля, кликнув в слоты"
+
+msgid "crew_n"
+msgstr "Экипаж: ~A слот"
+
+msgid "crew_n2"
+msgstr "Экипаж: ~A мест(о), ~A% готов(ы)"
+
+msgid "crowd_control"
+msgstr "Сдерживание толпы"
+
+msgid "crowd_control_short"
+msgstr "СТ"
+
+msgid "crusantian_adjective"
+msgstr "Крузантиан %s"
+
+msgid "crusantian_adjective2"
+msgstr "Крузантиан ~A"
+
+msgid "crusantian_bunch"
+msgstr "Группа крузантианов"
+
+msgid "crusantian_member"
+msgstr "Крусантиан"
+
+msgid "crusantian_name"
+msgstr "Крузантианы"
+
+msgid "cryopod"
+msgstr "Криокамера"
+
+msgid "cryopod_desc"
+msgstr "Даёт вашим сотрудникам получать полноценный отдых за нескольких секунд. Кровать принадлежит сотруднику. Она не пригодна для использования посетителями."
+
+msgid "cucurbian_adjective"
+msgstr "Кукурбиан %s"
+
+msgid "cucurbian_adjective2"
+msgstr "Кукурбиан ~A"
+
+msgid "cucurbian_crop"
+msgstr "Кукурбианская культура"
+
+msgid "cucurbian_member"
+msgstr "Кукурбиан"
+
+msgid "cucurbian_name"
+msgstr "Кукурбианы"
+
+msgid "current_demands"
+msgstr "Требования:"
+
+msgid "current_game"
+msgstr "Текущая игра"
+
+msgid "current_ownership"
+msgstr "Принадлежат обеъкты:"
+
+msgid "current_research"
+msgstr "Текущие исследования: ~A ~A"
+
+msgid "current_research_none"
+msgstr "Ни одно исследование не выполняется. Выберите группу и нажмите на кнопку Начать исследование."
+
+msgid "dance_floor"
+msgstr "Танцпол"
+
+msgid "dance_floor_desc"
+msgstr "Доступно только жизненным формам основанным на материи."
+
+msgid "dancing"
+msgstr "Танцы"
+
+msgid "dead"
+msgstr "Мертв"
+
+msgid "decor_adscreen"
+msgstr "Экран объявлений"
+
+msgid "decor_balloons"
+msgstr "Шары"
+
+msgid "decor_bannerspatials"
+msgstr "Рекламный щит"
+
+msgid "decor_bust"
+msgstr "Бюст"
+
+msgid "decor_cabinets"
+msgstr "Шкафчики"
+
+msgid "decor_classydivisor"
+msgstr "Шикарный делитель"
+
+msgid "decor_colorbox"
+msgstr "Цветные кубики"
+
+msgid "decor_darktech01"
+msgstr "Тотем отчаяния"
+
+msgid "decor_darktech02"
+msgstr "Икона горя"
+
+msgid "decor_energycolumn"
+msgstr "Маяк"
+
+msgid "decor_galaxyball"
+msgstr "Реальная карта галактики"
+
+msgid "decor_glassdivisor"
+msgstr "Стеклянный делитель"
+
+msgid "decor_holoprojector"
+msgstr "Голопроектор"
+
+msgid "decor_holoscreen"
+msgstr "Голоэкран"
+
+msgid "decor_homelydivisor"
+msgstr "Делитель"
+
+msgid "decor_lamp01"
+msgstr "Лампа"
+
+msgid "decor_lamp02"
+msgstr "Лампа"
+
+msgid "decor_lamp03"
+msgstr "Лампа"
+
+msgid "decor_lightcube"
+msgstr "Куб света"
+
+msgid "decor_majesticcolumn"
+msgstr "Шикарная колонна"
+
+msgid "decor_mannequin01"
+msgstr "Манекен"
+
+msgid "decor_mannequin02"
+msgstr "Манекен"
+
+msgid "decor_mannequin03"
+msgstr "Манекен"
+
+msgid "decor_map"
+msgstr "Карта станции"
+
+msgid "decor_organicsamples"
+msgstr "Витрина органики"
+
+msgid "decor_rocket"
+msgstr "Модель ракеты"
+
+msgid "decor_rugancient"
+msgstr "Древний ковер"
+
+msgid "decor_rugdiplomacy"
+msgstr "Ковер дипломатический"
+
+msgid "decor_rugengineering"
+msgstr "Ковер инженерский"
+
+msgid "decor_ruglodge"
+msgstr "Домашний ковер"
+
+msgid "decor_rugmedicine"
+msgstr "Ковер докторский"
+
+msgid "decor_rugredshirt"
+msgstr "Дешевый ковер"
+
+msgid "decor_rugscience"
+msgstr "Ковер ученый"
+
+msgid "decor_rugsmall01"
+msgstr "Циновка"
+
+msgid "decor_rugsmall02"
+msgstr "Циновка"
+
+msgid "decor_rugsmall03"
+msgstr "Циновка"
+
+msgid "decor_rugspacecow"
+msgstr "Ковер космической коровы"
+
+msgid "decor_rugstrategist"
+msgstr "Ковер солдатский"
+
+msgid "decor_screens"
+msgstr "Экраны"
+
+msgid "decor_shipmodel"
+msgstr "Детальная модель корабля"
+
+msgid "decor_skeleton"
+msgstr "Человеческий скелет"
+
+msgid "decor_statueman"
+msgstr "Статуя"
+
+msgid "decor_statuewoman"
+msgstr "Статуя"
+
+msgid "decor_table&lamp"
+msgstr "Стол с лампой"
+
+msgid "decor_table&lamp02"
+msgstr "Стол с лампой"
+
+msgid "decor_table&lamp03"
+msgstr "Стол с лампой"
+
+msgid "decor_towels"
+msgstr "Полотенца"
+
+msgid "decor_tvcolumn"
+msgstr "Видео колонна"
+
+msgid "decor_wardrobe"
+msgstr "Гардероб"
+
+msgid "decor_wardrobe02"
+msgstr "Гардероб"
+
+msgid "decor_wardrobe03"
+msgstr "Гардероб"
+
+msgid "decor_weaponsrack2"
+msgstr "Военные трофеи"
+
+msgid "decoration"
+msgstr "Декорации"
+
+msgid "delete"
+msgstr "Удалить"
+
+msgid "delicatessen_expositor"
+msgstr "Экспонент деликатессов"
+
+msgid "delicatessen_expositor_desc"
+msgstr "Отображает сладкие и вкусные творения"
+
+msgid "delicatessen_kitchen"
+msgstr "Студия деликатессов"
+
+msgid "delicatessen_kitchen_desc"
+msgstr "Сладкие. Вкусные. Высокое качество изготовления."
+
+msgid "deliver_from_action"
+msgstr "Доставка из ~A"
+
+msgid "deliver_from_ground"
+msgstr "Земля"
+
+msgid "deliver_from_ground_no"
+msgstr "Самосвалы позволят избежать предоставление ресурсов для этого объекта, когда источник лежит на земле или в области хранения"
+
+msgid "deliver_from_ground_yes"
+msgstr "Самосвалы будут поставлять ресурсы для этого объекта из штабелей ресурсов, лежащих на земле или в области хранения"
+
+msgid "deliver_from_source"
+msgstr "Эксклюзивный источник"
+
+msgid "deliver_from_source_at"
+msgstr "Источник: ~A"
+
+msgid "deliver_from_source_cancel"
+msgstr "Отменить эксклюзивный источник"
+
+msgid "deliver_from_source_desc"
+msgstr "Щелкните правой кнопкой мыши на любой поддон или область хранения контроллера, чтобы установить этот объект в качестве единственного источника для доставки ресурсов этого объекта."
+
+msgid "deliver_from_storage"
+msgstr "Поддоны"
+
+msgid "deliver_from_storage_no"
+msgstr "Самосвалы позволят избежать предоставление ресурсов для этого объекта, когда источником является поддон"
+
+msgid "deliver_from_storage_yes"
+msgstr "Самосвалы будут поставлять ресурсы для этого объекта между поддонами"
+
+msgid "delivery_select_ship"
+msgstr "Выберите корабль для доставки"
+
+msgid "demand_current"
+msgstr "Текущее"
+
+msgid "demand_one_of"
+msgstr "Один из"
+
+msgid "demand_value"
+msgstr "Значение"
+
+msgid "demand_wanted"
+msgstr "Требуется"
+
+msgid "deposited_scroll"
+msgstr "Депозит %d"
+
+msgid "descending"
+msgstr "Нисходящий"
+
+msgid "description"
+msgstr "Описание"
+
+msgid "desperate_critical"
+msgstr "~A теперь стал отчаянным! Он бесцельно бьёт всё и всех на своем пути."
+
+msgid "desperate_critical_violent"
+msgstr "~A теперь стал отчаянным и использует свое оружие на своих друзьях!"
+
+msgid "desperate_warning"
+msgstr "~A чувствует себя очень плохо и рискует впасть в отчаянние"
+
+msgid "dessert"
+msgstr "Десерт"
+
+msgid "developer"
+msgstr "Разработчик"
+
+msgid "developer_console"
+msgstr "Консоль разработчика"
+
+msgid "diner_table"
+msgstr "Обеденный стол"
+
+msgid "diner_table_desc"
+msgstr "Очаровательно и ретроспективно"
+
+msgid "diplomat"
+msgstr "Дипломат"
+
+msgid "diplomat_desc"
+msgstr "Дипломаты являются экспертами в области социальных соглашений, ведения переговоров, знания галактики и время от времени, небольшого обмана."
+
+msgid "direct_desc"
+msgstr "Одиночная цель"
+
+msgid "dirt"
+msgstr "Мусор"
+
+msgid "dirt_desc"
+msgstr "Уборщики могут убрать этот мусор"
+
+msgid "disable"
+msgstr "Выключить"
+
+msgid "disabled"
+msgstr "Выключенный"
+
+msgid "disco_bar"
+msgstr "Диско бар"
+
+msgid "disco_bar_desc"
+msgstr "Подает сложные напитки"
+
+msgid "disco_table"
+msgstr "Диско стол"
+
+msgid "disco_table_desc2"
+msgstr "Выпейте необыкновенный напиток"
+
+msgid "disease_cured"
+msgstr "Болезнь вылечили: ~A"
+
+msgid "dismantle"
+msgstr "Демонтировать"
+
+msgid "dismantled_object"
+msgstr "Демонтированный объект"
+
+msgid "display"
+msgstr "Экран"
+
+msgid "dizzy_sick"
+msgstr "Дизилепсия"
+
+msgid "dizzy_sick_desc"
+msgstr "У меня кружится голова"
+
+msgid "dock_officer_info_label"
+msgstr "Выберите служебный корабль здесь в доке. Груз будет выгружен вокруг этого дока и сотрудники будут высаживаться здесь."
+
+msgid "dock_officer_select"
+msgstr "Выбрать корабль"
+
+msgid "docking"
+msgstr "Стыковка:"
+
+msgid "doctordesk"
+msgstr "Кабинет врача"
+
+msgid "doctordesk_desk"
+msgstr "Врачи ждут пациентов за этим столом и дают им контрольный список лечения."
+
+msgid "done"
+msgstr "Готово"
+
+msgid "door"
+msgstr "Дверь"
+
+msgid "door_allowed"
+msgstr "Уполномоченные"
+
+msgid "door_allowed_desc"
+msgstr "Это эквивалентно записке, прикрепленной к двери; насильственные захватчики проигнорируют это"
+
+msgid "door_desc"
+msgstr "Контролирует доступ к зонам станции"
+
+msgid "door_lock"
+msgstr "Закрыть"
+
+msgid "door_lock_title"
+msgstr "Полностью закрыто"
+
+msgid "door_lock_title_desc"
+msgstr "Наглухо закрывает дверь; насильственные захватчики должны будут уничтожить его."
+
+msgid "door_officers"
+msgstr "Офицеры"
+
+msgid "door_robots"
+msgstr "Роботы"
+
+msgid "door_tourists"
+msgstr "Посетители"
+
+msgid "dps_label"
+msgstr "Повреждений в секунду"
+
+msgid "dps_label_short"
+msgstr "DPS"
+
+msgid "drink_shop"
+msgstr "Обеденные напитки"
+
+msgid "drink_shop_desc"
+msgstr "Напитки подаются здесь"
+
+msgid "drunk"
+msgstr "Пьяный"
+
+msgid "drunk_desc"
+msgstr "Эээ... шоо... Всё хорошо, я норм, ик"
+
+msgid "electronics_workshop"
+msgstr "Мастерская электроники"
+
+msgid "electronics_workshop_desc"
+msgstr "Производит бытовую технику и электронику"
+
+msgid "electropet"
+msgstr "Электропет"
+
+msgid "electropet_display"
+msgstr "Дисплей электропета"
+
+msgid "electropet_display_desc"
+msgstr "Ваш новый высокотехнологический питомец. Умеренная цена и низкие эксплуатационные расходы ждут Вас!"
+
+msgid "embassies"
+msgstr "Посольства"
+
+msgid "empty"
+msgstr "Пусто"
+
+msgid "empty_slot"
+msgstr "Пустой слот"
+
+msgid "enable"
+msgstr "Включить"
+
+msgid "enable_alert_popups"
+msgstr "Включить всплывающие окна"
+
+msgid "enable_music"
+msgstr "Включить музыку"
+
+msgid "enable_sound_effects"
+msgstr "Включить звуковые эффекты"
+
+msgid "enable_station_events"
+msgstr "Включить события на базе"
+
+msgid "enable_station_violent_events"
+msgstr "Включить события, связанные с насилием"
+
+msgid "enable_storage"
+msgstr "Включить хранение:"
+
+msgid "enabled"
+msgstr "Включено"
+
+msgid "enabled_user_mods"
+msgstr "Включено пользовательских модов"
+
+msgid "enemy"
+msgstr "Враг"
+
+msgid "enemy_adjective"
+msgstr "Враг %s"
+
+msgid "enemy_adjective2"
+msgstr "Враг ~A"
+
+msgid "enemy_member"
+msgstr "Враг"
+
+msgid "enemy_name"
+msgstr "Враги"
+
+msgid "energy"
+msgstr "Энергия"
+
+msgid "engineer"
+msgstr "Инженер"
+
+msgid "engineer_desc"
+msgstr "Если есть металл, оставте его для инженеров. Создание роботов и космических кораблей являются для них наиболее ценными возможностями."
+
+msgid "engineering"
+msgstr "Инженерия"
+
+msgid "entrance_fee"
+msgstr "Плата за вход"
+
+msgid "equip_item_must_station"
+msgstr "%s должно быть в домашней станции"
+
+msgid "equip_item_no_reqs"
+msgstr "~А не может оснащать ~A"
+
+msgid "equip_item_replace"
+msgstr "Уничтожить ~A и заменить его ~A?"
+
+msgid "equip_item_rmb"
+msgstr "Использовать ~A"
+
+msgid "equip_item_slot_disabled"
+msgstr "~A нуждается в более высокой спецификации для оснащения ~A"
+
+msgid "equip_matrix"
+msgstr "Окно экипировки"
+
+msgid "equip_officer_slot_current"
+msgstr "Одето %s"
+
+msgid "equip_officer_slot_equip"
+msgstr "Одеть"
+
+msgid "equip_officer_slot_no_selection"
+msgstr "Выберите предмет"
+
+msgid "equip_officer_slot_none"
+msgstr "Отсутствует"
+
+msgid "equip_officer_slot_selected"
+msgstr "Выбранный"
+
+msgid "equip_officer_slot_stored"
+msgstr "Сохранено на станции"
+
+msgid "equip_officer_slot_title"
+msgstr "Одеть %s для %s"
+
+msgid "equipmatrix_available"
+msgstr "Доступный"
+
+msgid "equipmatrix_too_low_cell"
+msgstr "Слабоват"
+
+msgid "erase_floor_tool"
+msgstr "Удалить этаж"
+
+msgid "erase_objects_tool"
+msgstr "Удалить объекты"
+
+msgid "erase_walls_tool"
+msgstr "Удалить стены"
+
+msgid "eraser_hint"
+msgstr "Удерживайте Shift для режима ластика"
+
+msgid "error_bad_save"
+msgstr "Ошибка загрузки игры: Невозможно прочитать файл сохранения или он поврежден."
+
+msgid "error_deleting"
+msgstr "Ошибка удаления игры"
+
+msgid "error_missing_mods_1"
+msgstr "Этот файл сохранения использует следующие моды, которые не подписаны и/или не установлены:\n"
+
+msgid "error_missing_mods_2"
+msgstr "Игра может сломаться или выдавать сообщения об ошибках, если Вы продолжите загружать сохранение. Загрузить его в любом случае?"
+
+msgid "error_saving_game"
+msgstr "Ошибка при сохранении игры"
+
+msgid "event_augustus_warn"
+msgstr "Огастес здесь, чтобы помочь вам с этими кухнями! Он будет заниматься приготовлением пищи, пока находится на станции."
+
+msgid "event_bernice_fail"
+msgstr "Время закончилось, и работа не была завершена, поэтому вознаграждение не было предоставлено. Я надеюсь, что станция будет работать лучше в следующем обзоре."
+
+msgid "event_bernice_goal_build"
+msgstr "Бернис установил необходимость в большем кол-ве объектов. Постройте %d объектов за две минуты. Получите вознаграждение в размере %d."
+
+msgid "event_bernice_goal_floor"
+msgstr "Бернис определил, что требуется большая станция. Постройте %d напольных(-е) плиток(-ки) за две минуты. Получите вознаграждение в размере %d."
+
+msgid "event_bernice_goal_produce"
+msgstr "Бернис установил необходимость в более высокой скорости производства. Производите %d продуктов за две минуты. Получите вознаграждение в размере %d."
+
+msgid "event_bernice_succ"
+msgstr "Цель достигнута! Вознаграждение в размере %d кредитов было внесено на счет станции. Хорошая работа и увидимся в следующем обзоре!"
+
+msgid "event_bernice_warn"
+msgstr "Это время осмотра! Бернис находится на станции, проверяя ваши возможности и запасы."
+
+msgid "event_breakage_warn"
+msgstr "Некоторые фабрики на вашей станции сломались!"
+
+msgid "event_explodefire_warn"
+msgstr "%s взорвался(-лось) и начался пожар!"
+
+msgid "event_finished"
+msgstr "Событие завершено"
+
+msgid "event_foodpoisoning_warn"
+msgstr "Некоторые жители станции отравлены пищевыми продуктами!"
+
+msgid "event_invaderbomb_out_of_time"
+msgstr "У вас вышло время! Бомба взорвалась!"
+
+msgid "event_invaderbomb_warn"
+msgstr "Скрытый вражеский сапер был найден! Посмотрите рядом на тикающий таймер бомбы и уничтожьте ее, прежде чем она взорвется!"
+
+msgid "event_invaders_alert"
+msgstr "Группа диверсантов прибила! ~A они атакуют твою станцию!"
+
+msgid "event_invaders_retaliate_warn"
+msgstr "%s хотят отомстить! Команда нападения из %s направляется на Вашу станцию. Приготовьтесь!"
+
+msgid "event_invaders_warn4c"
+msgstr "Мы получили сообщения о том, что %s рейдерская сторона из %s приближается к нашей станции. Приготовьтесь!"
+
+msgid "event_kowka_warn"
+msgstr "Кошка - любопытная кошка, и она здесь, чтобы проверить прогресс её друга. Вы всё ещё её друг? Её робот-армия будет помогать на станции, пока она здесь."
+
+msgid "event_liberty_warn"
+msgstr "Либерти здесь! Её присутствие сделает всех вокруг счастливыми."
+
+msgid "event_manysick_fail"
+msgstr "Некоторые посетители %s не излечиваются, награда не предоставляется."
+
+msgid "event_manysick_succ"
+msgstr "Все посетители %s вылечены! Наслаждайтесь бонусом %d кредитов и %d репутации."
+
+msgid "event_manysick_warn"
+msgstr "У %s есть экстренные больные граждане (%d ед.) и они были телепортированы на вашу станцию! Вылечите их до того, как таймер достигнет 0. Получите бонус в %d кредитов и %d репутации."
+
+msgid "event_meteors_end"
+msgstr "Метеорный дождь закончился"
+
+msgid "event_meteors_start"
+msgstr "Метеорный дождь начался!"
+
+msgid "event_meteors_warn"
+msgstr "Идёт метеорный дождь! Целевая область будет под ударом в течение одной минуты."
+
+msgid "event_miasmacloud_ended"
+msgstr "Миазное облако больше не распространяется"
+
+msgid "event_miasmacloud_warn"
+msgstr "Объект сломался и распространяет токсичное облако миазмы. Восстановите или уничтожьте объект, чтобы остановить облако."
+
+msgid "event_octopus_warn"
+msgstr "Ваше высокомерие пробудило страшного зверя из глубокого космоса. Космический осьминог атакует вашу станцию!"
+
+msgid "event_ongoing"
+msgstr "Текущее"
+
+msgid "event_pest_spawn_queen"
+msgstr "Королева вредителей теперь скрывается!"
+
+msgid "event_pest_warn"
+msgstr "Вредители наводнили вашу станцию! Устраните достаточное количество вредителей, чтобы заставить их королеву скрыться."
+
+msgid "event_pirates_reveal"
+msgstr "Пираты появились впервые! Ваш успех привлек их внимание. Им может понадобиться часть Вашей прибыли. И они меняют состояние из «враждебное» в «враждебное поглощение»."
+
+msgid "event_progress"
+msgstr "Прогресс события: %s"
+
+msgid "event_robots_reveal"
+msgstr "Роботы впервые показали себя! Являются ли Ваши условия труда для роботов удовлетворительными? Они обязательно проведут проверку. И им это не понравится, конечно."
+
+msgid "event_timer"
+msgstr "Оставшееся время: %s"
+
+msgid "event_waterleak_warn"
+msgstr "%s сломалось и затопило всё вокруг!"
+
+msgid "event_worm_warn"
+msgstr "Ваша высокомерие пробудило страшного зверя из глубокого космоса. Космический червь атакует вашу станцию!"
+
+msgid "event_xenos_spawned"
+msgstr "Появились ксеноморфы!"
+
+msgid "event_xenos_warn"
+msgstr "Яйца ксеноморфов были найдены на вашей станции! Устраните их до того, как они вылупятся."
+
+msgid "excessive_machine"
+msgstr "Избыточная машина"
+
+msgid "excessive_machine_desc"
+msgstr "Он заботится о Ваших самых интимных потребностях. Не ломайте!"
+
+msgid "exclude"
+msgstr "Не допускать"
+
+msgid "exhausted"
+msgstr "Измученный"
+
+msgid "exotic_infusion"
+msgstr "Экзотическая настойка"
+
+msgid "expectations_high"
+msgstr "Высокие ожидания"
+
+msgid "expectations_huge"
+msgstr "Огромные ожидания"
+
+msgid "expectations_low"
+msgstr "Низкие ожидания"
+
+msgid "expectations_meet"
+msgstr "~A (~A% достигнуто)"
+
+msgid "expectations_normal"
+msgstr "Нормальные ожидания"
+
+msgid "expectations_very_high"
+msgstr "Очень высокие ожидания"
+
+msgid "exploration"
+msgstr "Исследование"
+
+msgid "explore"
+msgstr "Исследовать"
+
+msgid "explore_warn_already_exploring_other"
+msgstr "Одновременно можно исследовать только одну планету."
+
+msgid "explore_warn_no_ship"
+msgstr "На орбите планеты нет корабля. Перетащите корабль на эту планету, чтобы установить ручной порядок перемещения, и когда он прибудет, вы сможете высадиться на поверхность."
+
+msgid "explore_warn_no_weapons"
+msgstr "Никто в экипажt корабля не оснащен оружием. Вы уверены, что хотите исследовать планету?"
+
+msgid "exploring"
+msgstr "Разведывать"
+
+msgid "export_current_rate"
+msgstr "Экспортная цена"
+
+msgid "extractor_info"
+msgstr "Можно извлечь:"
+
+msgid "eyedropper_hint"
+msgstr "Alt + клик, чтобы скопировать существующие"
+
+msgid "facilities_tier_1"
+msgstr "Базовая станция"
+
+msgid "facilities_tier_10"
+msgstr "Уровень оборудования 21-25"
+
+msgid "facilities_tier_11"
+msgstr "Уровень оборудования 26-30"
+
+msgid "facilities_tier_12"
+msgstr "Уровень оборудования 31-35"
+
+msgid "facilities_tier_13"
+msgstr "Уровень оборудования 36-40"
+
+msgid "facilities_tier_2"
+msgstr "Уровень оборудования 1-5"
+
+msgid "facilities_tier_3"
+msgstr "Основная робототехника"
+
+msgid "facilities_tier_3b"
+msgstr "Доки для посетителей"
+
+msgid "facilities_tier_4"
+msgstr "Уровень оборудования 6-10"
+
+msgid "facilities_tier_5"
+msgstr "Базовая безопасность"
+
+msgid "facilities_tier_6"
+msgstr "Логистика"
+
+msgid "facilities_tier_7"
+msgstr "Уровень оборудования 11-15"
+
+msgid "facilities_tier_8"
+msgstr "Уровень оборудования 16-20"
+
+msgid "facilities_tier_9"
+msgstr "Расширенная безопасность"
+
+msgid "factory"
+msgstr "Завод"
+
+msgid "factory_info_no_recipes"
+msgstr "Нет доступных рецептов для этого завода. Разблокируйте рецепты, производя больше исследований."
+
+msgid "failure"
+msgstr "Ошибка"
+
+msgid "fake_relic"
+msgstr "Фальшивая реликвия"
+
+msgid "fancy_clothes"
+msgstr "Необычная одежда"
+
+msgid "feet_01"
+msgstr "Сапоги сварщика"
+
+msgid "feet_02"
+msgstr "Сапоги для костюмов EVA"
+
+msgid "feet_03"
+msgstr "Ботинки для дождевика"
+
+msgid "feet_04"
+msgstr "Сапоги для нагрудного доспеха"
+
+msgid "feet_05"
+msgstr "Ботинки для пилота"
+
+msgid "feet_06"
+msgstr "Кибер V81"
+
+msgid "feet_07"
+msgstr "Энергетические сапоги"
+
+msgid "feet_08"
+msgstr "Абляционные сапоги"
+
+msgid "feet_09"
+msgstr "Тяжелые сапоги"
+
+msgid "feet_10"
+msgstr "Ударные сапоги 1.1"
+
+msgid "feet_item"
+msgstr "Вещь на ноги"
+
+msgid "fibers"
+msgstr "Волокна"
+
+msgid "fibers_node"
+msgstr "Нода Волокна"
+
+msgid "fiction_program"
+msgstr "Беллетристика"
+
+msgid "field_medic"
+msgstr "Полевой медик"
+
+msgid "field_medic_desc"
+msgstr "В разгар битвы, между жизнью и смертью, стоят только полевые медики."
+
+msgid "file_manager"
+msgstr "Файловый менеджер"
+
+msgid "filter_ship_assigned"
+msgstr "Назначеный корабль"
+
+msgid "filter_ship_not_assigned"
+msgstr "Корабль не назначен"
+
+msgid "filtered_water"
+msgstr "Фильтрованная вода"
+
+msgid "fine_grape_must"
+msgstr "Прекрасное виноградное сусло"
+
+msgid "fine_soup"
+msgstr "Отличный суп"
+
+msgid "finish_other_research"
+msgstr "Завершить или отменить текущее исследование, чтобы начать это"
+
+msgid "fire"
+msgstr "Огонь"
+
+msgid "fire_desc"
+msgstr "Пучок вещества испытывает быстрое катастрофическое окисление, с некоторой тенденцией к расширению. Это будет одинаково отпугивать и роботов и органических живых существ. Убедитесь, что ваши пожарники находятся рядом и имеют доступ к стеку с элементами воды."
+
+msgid "firefighter"
+msgstr "Пожарный"
+
+msgid "firefighter_robot"
+msgstr "Пожарный робот"
+
+msgid "flag_broken"
+msgstr "Флаг для восстановления, заставляет офицеров ремонтировать объект"
+
+msgid "flee_desc"
+msgstr "Убегает в панике"
+
+msgid "flee_short_desc"
+msgstr "Предотвращение опасности"
+
+msgid "fleet"
+msgstr "Флот"
+
+msgid "fleet_too_many"
+msgstr "Ваша вместимость флота на пределе, и вы не сможете строить больше кораблей"
+
+msgid "floor_build_info"
+msgstr "Нажмите и перетащите, чтобы нарисовать прямоугольную комнату, или щелкните, чтобы покрасить плитку кафелем. Вы можете нажать клавишу Esc во время перетаскивания, чтобы отменить действие."
+
+msgid "floor_color_black"
+msgstr "Черный"
+
+msgid "floor_color_cyan"
+msgstr "Голубой"
+
+msgid "floor_color_dark_blue"
+msgstr "Темно синий"
+
+msgid "floor_color_dark_green"
+msgstr "темно зеленый"
+
+msgid "floor_color_grey"
+msgstr "Серый"
+
+msgid "floor_color_light_blue"
+msgstr "Светло синий"
+
+msgid "floor_color_light_green"
+msgstr "Светло зеленый"
+
+msgid "floor_color_lilac"
+msgstr "Сиреневый"
+
+msgid "floor_color_none"
+msgstr "Нет"
+
+msgid "floor_color_orange"
+msgstr "Оранж"
+
+msgid "floor_color_pink"
+msgstr "Розовый"
+
+msgid "floor_color_red"
+msgstr "Красный"
+
+msgid "floor_color_torquoise"
+msgstr "Бирюзовый"
+
+msgid "floor_color_violet"
+msgstr "Фиолетовый"
+
+msgid "floor_color_white"
+msgstr "Белый"
+
+msgid "floor_color_yellow"
+msgstr "Желтый"
+
+msgid "floor_tool"
+msgstr "Построить этаж"
+
+msgid "fluid_extractor"
+msgstr "Экстрактор жидкости"
+
+msgid "fluid_extractor_desc"
+msgstr "Извлечение жидких и газообразных ресурсов в пределах своей зоны влияния"
+
+msgid "freaking_out"
+msgstr "Бесконтрольно"
+
+msgid "frozen_planet"
+msgstr "Замороженная планета"
+
+msgid "fruits"
+msgstr "Фрукты"
+
+msgid "fruits_node"
+msgstr "Нода фруктов"
+
+msgid "fs_delete_file"
+msgstr "Удалить файл"
+
+msgid "fs_load_file"
+msgstr "Загрузить файл"
+
+msgid "fs_new_file"
+msgstr "Создать файл"
+
+msgid "fs_new_file_name"
+msgstr "Введите имя для нового файла сохранения"
+
+msgid "fs_new_file_name_too_long"
+msgstr "Имя слишком длинное"
+
+msgid "fs_new_file_name_too_short"
+msgstr "Имя слишком короткое"
+
+msgid "fs_overwrite_file"
+msgstr "Перезаписать файл"
+
+msgid "fs_prompt_select"
+msgstr "Выберите файл"
+
+msgid "fuel_cell"
+msgstr "Топливная ячейка"
+
+msgid "fullscreen"
+msgstr "Полный экран"
+
+msgid "fullscreen_exclusive"
+msgstr "Пользовательский"
+
+msgid "fun"
+msgstr "Веселье"
+
+msgid "fun_feeling_high"
+msgstr "В восторге"
+
+msgid "fun_feeling_high_desc"
+msgstr "ОГО!!!"
+
+msgid "fun_feeling_low"
+msgstr "Скучающий"
+
+msgid "fun_feeling_low_desc"
+msgstr "Жизнь здесь очень скучная"
+
+msgid "gaia_planet"
+msgstr "Планета Гея"
+
+msgid "galaxy"
+msgstr "Галактика"
+
+msgid "galaxy_filter_cargo"
+msgstr "Экспорт на планеты"
+
+msgid "galaxy_filter_cvis"
+msgstr "Показать расы"
+
+msgid "galaxy_filter_imports"
+msgstr "Импорт с планет"
+
+msgid "galaxy_filter_imports2"
+msgstr "Импортируемые продукты: %s"
+
+msgid "galaxy_filter_none"
+msgstr "Просто галактика"
+
+msgid "galaxy_filter_none_show"
+msgstr "Показать только галактические метки"
+
+msgid "galaxy_filter_reps"
+msgstr "Расы"
+
+msgid "galaxy_filter_resources2"
+msgstr "Экспортируемые ресурсы: %s"
+
+msgid "galaxy_filter_show_civ_ships"
+msgstr "Переключение на рассовые корабли"
+
+msgid "galaxy_name"
+msgstr "Галактика %s"
+
+msgid "gambling"
+msgstr "Азартная игра"
+
+msgid "game_coins"
+msgstr "Игровые монеты"
+
+msgid "game_guide"
+msgstr "Руководство по игре"
+
+msgid "game_speed_1x"
+msgstr "Скорость игры 1х"
+
+msgid "game_speed_3x"
+msgstr "Скорость игры 3х"
+
+msgid "game_speed_6x"
+msgstr "Скорость игры 6х"
+
+msgid "garden_bamboopot"
+msgstr "Бамбук"
+
+msgid "garden_bush01"
+msgstr "Кустарник"
+
+msgid "garden_bush02"
+msgstr "Кустарник"
+
+msgid "garden_flowerpot"
+msgstr "Цветочный горшок"
+
+msgid "garden_plantpot01"
+msgstr "Горшок с растением"
+
+msgid "garden_plantpot02"
+msgstr "Горшок с растением"
+
+msgid "garden_plantpot03"
+msgstr "Горшок с растением"
+
+msgid "garden_plantpot04"
+msgstr "Горшок с растением"
+
+msgid "garden_plantpot05"
+msgstr "Горшок с растением"
+
+msgid "garden_plantpot06"
+msgstr "Горшок с растением"
+
+msgid "garden_plantpot07"
+msgstr "Горшок с растением"
+
+msgid "garden_plantpot08"
+msgstr "Горшок с растением"
+
+msgid "garden_pond"
+msgstr "Водоем"
+
+msgid "garden_tree01"
+msgstr "Дерево"
+
+msgid "garden_tree02"
+msgstr "Дерево"
+
+msgid "garden_tree03"
+msgstr "Дерево"
+
+msgid "garden_tree04"
+msgstr "Дерево"
+
+msgid "garden_tree05"
+msgstr "Дерево"
+
+msgid "garden_tree06"
+msgstr "Дерево"
+
+msgid "garden_tree07"
+msgstr "Дерево"
+
+msgid "garden_tree08"
+msgstr "Дерево"
+
+msgid "garden_tree09"
+msgstr "Дерево"
+
+msgid "garden_tree10"
+msgstr "Дерево"
+
+msgid "garden_zengarden"
+msgstr "Дзен-сад"
+
+msgid "gardening"
+msgstr "Садоводство"
+
+msgid "gas_planet"
+msgstr "Газовая планета"
+
+msgid "gastrodisaster"
+msgstr "Отравление"
+
+msgid "gastrodisaster_desc"
+msgstr "Мой живот урчит и болит"
+
+msgid "gems"
+msgstr "Драгоценные камни"
+
+msgid "gems_node"
+msgstr "Нода драгоценных камней"
+
+msgid "generic_extractor"
+msgstr "Универсальный экстрактор"
+
+msgid "generic_extractor_desc"
+msgstr "Извлечение ресурсов в пределах своей зоны влияния"
+
+msgid "gigantism"
+msgstr "Гигантизм"
+
+msgid "gigantism_desc"
+msgstr "Смогу ли я пройти через двери?"
+
+msgid "global_max_export_amount_desc"
+msgstr "Суда, экспортирующие ресурсы из планет, будут пропускать этот ресурс, когда запас станции достигнет этого кол-ва"
+
+msgid "global_max_import_amount"
+msgstr "Макс. Запас"
+
+msgid "global_min_stock_amount"
+msgstr "Мин запас"
+
+msgid "global_min_stock_amount_desc"
+msgstr "Старается сохранить это количество в запасе, давая заказы на заводы, установленные в глобальную очередь"
+
+msgid "global_recipes_inv_hint"
+msgstr "Установите значения глобальных минимальных запасов в окне инвентаря"
+
+msgid "goal_bartender1_desc"
+msgstr "Ваши бармены способны обслужить 42-мя напитками в баре. Но на самом деле, напитки и наркотики не являются ответом у вселенной."
+
+msgid "goal_bartender1_title"
+msgstr "Обслужить 42 напитка в баре"
+
+msgid "goal_buildany1_desc"
+msgstr "Построить 15 объектов и 135 этажных плиток."
+
+msgid "goal_buildany1_title"
+msgstr "Приступить к строительству своей станции"
+
+msgid "goal_buildany2_desc"
+msgstr "Построить 75 объектов и 675 этажных плиток."
+
+msgid "goal_buildany2_title"
+msgstr "Построить среднюю станцию"
+
+msgid "goal_buildany3_desc"
+msgstr "Построить 200 объектов и 1800 этажных плиток."
+
+msgid "goal_buildany3_title"
+msgstr "Построить большую станцию"
+
+msgid "goal_buildbar1_desc"
+msgstr "Построить бар, 3 барные стойки и 2 танцпола."
+
+msgid "goal_buildbar1_title"
+msgstr "Построить танцевальный клуб"
+
+msgid "goal_builddecorations1_desc"
+msgstr "Построить 10 украшений."
+
+msgid "goal_builddecorations1_title"
+msgstr "Построить 10 украшений."
+
+msgid "goal_buildfactory1_desc"
+msgstr "Постройте мылозавод, металлический пресс и медицинскую мастерскую."
+
+msgid "goal_buildfactory1_title"
+msgstr "Построить область с базовыми мастерскими"
+
+msgid "goal_buildhospital1_desc"
+msgstr "Построить больничную кровать, аптеку и сделать 10 таблеток."
+
+msgid "goal_buildhospital1_title"
+msgstr "Построить больницу"
+
+msgid "goal_buildliving1_desc"
+msgstr "Построить 3 простые кровати и один Гигиенизатор 3000."
+
+msgid "goal_buildliving1_title"
+msgstr "Построить базовое жизненное пространство"
+
+msgid "goal_buildlogistics1_desc"
+msgstr "Построить одну область хранения, один поддон и один утилизатор"
+
+msgid "goal_buildlogistics1_title"
+msgstr "Построить основные объекты логистики"
+
+msgid "goal_buildplanet1_desc"
+msgstr "Построить посольство на поверхности планеты."
+
+msgid "goal_buildplanet1_title"
+msgstr "Построить посольство на планете"
+
+msgid "goal_buildplanet2_desc"
+msgstr "Построить центр вербовки на поверхности планеты."
+
+msgid "goal_buildplanet2_title"
+msgstr "Построить центр вербовки на планете"
+
+msgid "goal_buildplanet3_desc"
+msgstr "Построить 3 экстрактора ресурса на поверхности одной или нескольких планет."
+
+msgid "goal_buildplanet3_title"
+msgstr "Построить 3 экстрактора на планетах"
+
+msgid "goal_buildsecurity1_desc"
+msgstr "Построить одну камеру наблюдения и одну безопастную дверь."
+
+msgid "goal_buildsecurity1_title"
+msgstr "Построение базовых систем безопасности"
+
+msgid "goal_cargo1_desc"
+msgstr "Один или несколько из ваших кораблей, должны разгрузить 60 единиц любого вида груза на вашей станции."
+
+msgid "goal_cargo1_title"
+msgstr "Выгрузить 60 единиц груза"
+
+msgid "goal_cargo2_desc"
+msgstr "Один или несколько из ваших кораблей, должны разгрузить 800 единиц любого вида груза на вашей станции."
+
+msgid "goal_cargo2_title"
+msgstr "Выгрузить 800 единиц груза"
+
+msgid "goal_cargo3_desc"
+msgstr "Один или несколько из ваших кораблей, должны разгрузить 12000 единиц любого вида груза на вашей станции."
+
+msgid "goal_cargo3_title"
+msgstr "Выгрузить 12000 единиц груза"
+
+msgid "goal_clean1_desc"
+msgstr "Очистить 100 загрязнений. Убедитесь, что работа очистки включена для некоторых из ваших сотрудников."
+
+msgid "goal_clean1_title"
+msgstr "Очистить 100 загрязнений"
+
+msgid "goal_completed_alert"
+msgstr "Цель <<~A>> была выполнена. Получите награду в окне целей."
+
+msgid "goal_consumerism1_desc"
+msgstr "Продать 100 вещей посетителям, используя только товары в магазинах. Засчитываются только потребительские товары. Жизненно важные элементы, такие как продукты питания, не учитываются для этой цели."
+
+msgid "goal_consumerism1_title"
+msgstr "Продать 100 вещей посетителям"
+
+msgid "goal_cook1_desc"
+msgstr "Ваши сотрудники должны использовать кухню, чтобы приготовить 10 блюд любого вида."
+
+msgid "goal_cook1_title"
+msgstr "Приготовить 10 блюд"
+
+msgid "goal_cook2_desc"
+msgstr "Ваши сотрудники должны использовать кухню, чтобы приготовить 150 блюд любого вида."
+
+msgid "goal_cook2_title"
+msgstr "Приготовить 150 блюд"
+
+msgid "goal_cook3_desc"
+msgstr "Ваши сотрудники должны использовать кухню, чтобы приготовить 1000 блюд любого вида."
+
+msgid "goal_cook3_title"
+msgstr "Приготовить 1000 блюд"
+
+msgid "goal_crew1_desc"
+msgstr "В просмотре флота, изменить ходовую рубку, одного или нескольких кораблей, по крайней мере 10 раз."
+
+msgid "goal_crew1_title"
+msgstr "Перестроить ходовую рубку"
+
+msgid "goal_dance1_desc"
+msgstr "На этой станции было 200 танцев."
+
+msgid "goal_dance1_title"
+msgstr "Танцевальная лихорадка"
+
+msgid "goal_dock1_desc"
+msgstr "Челночный корабль пристыкован к станции по крайней мере 10 раз"
+
+msgid "goal_dock1_title"
+msgstr "Пристыковать челночные корабли"
+
+msgid "goal_doctor1_desc"
+msgstr "Ваши врачи должны вылечить 10 больных в больничной койке."
+
+msgid "goal_doctor1_title"
+msgstr "Вылечить 10 больных"
+
+msgid "goal_extract1_desc"
+msgstr "Ваших экстракторы должны добыть 100 единиц биоресурсов, 100 единиц полезных ископаемых и 100 единиц жидких ресурсов на одной или нескольких планетах."
+
+msgid "goal_extract1_title"
+msgstr "Извлечь различные ресурсы"
+
+msgid "goal_galaxy1_desc"
+msgstr "Откройте 3 звёздные системы на экране галактики."
+
+msgid "goal_galaxy1_title"
+msgstr "Открыть 3 звездные системы"
+
+msgid "goal_imports1_desc"
+msgstr "Один или нескольких Ваших кораблей должны продать 50 единиц любого продукта на заселенной планете."
+
+msgid "goal_imports1_title"
+msgstr "Импортировать 50 единиц груза"
+
+msgid "goal_imports2_desc"
+msgstr "Один или нескольких Ваших кораблей должны продать 500 единиц любого продукта на заселенной планете."
+
+msgid "goal_imports2_title"
+msgstr "Импортировать 500 единиц груза"
+
+msgid "goal_imports3_desc"
+msgstr "Один или нескольких Ваших кораблей должны продать 5000 единиц любого продукта на заселенной планете."
+
+msgid "goal_imports3_title"
+msgstr "Импортировать 5000 единиц груза"
+
+msgid "goal_itemequip1_desc"
+msgstr "Одеть новые предметы 10 раз на любое количество работников."
+
+msgid "goal_itemequip1_title"
+msgstr "Использовать новые предметы 10 раз"
+
+msgid "goal_itemloot1_desc"
+msgstr "Собрать 5 предметов убивая врагов при исследовании планеты."
+
+msgid "goal_itemloot1_title"
+msgstr "Собрать 5 предметов"
+
+msgid "goal_itemloot2_desc"
+msgstr "Собрать 80 предметов убивая врагов при исследовании планеты."
+
+msgid "goal_itemloot2_title"
+msgstr "Собрать 80 предметов"
+
+msgid "goal_itemloot3_desc"
+msgstr "Собрать 400 предметов убивая врагов при исследовании планеты."
+
+msgid "goal_itemloot3_title"
+msgstr "Собрать 400 предметов"
+
+msgid "goal_itemprod1_desc"
+msgstr "Сделать 15 предметов любого вида и любого уровня."
+
+msgid "goal_itemprod1_title"
+msgstr "Создать 15 предметов"
+
+msgid "goal_itemprod2_desc"
+msgstr "Сделать броню, активный предмет, предмет для рук, предмет для ног и имплантант."
+
+msgid "goal_itemprod2_title"
+msgstr "Создать 5 предметов для различных слотов"
+
+msgid "goal_jobs1_desc"
+msgstr "Используйте план работ, чтобы поменять назначение на должности 10 раз."
+
+msgid "goal_jobs1_title"
+msgstr "Переназначить план работ"
+
+msgid "goal_kill1_desc"
+msgstr "Убейте 20 представителей расы, с которой Вы находитесь в состоянии войны или вражды."
+
+msgid "goal_kill1_title"
+msgstr "Убить 20 врагов"
+
+msgid "goal_kill2_desc"
+msgstr "Убейте 140 представителей расы, с которой Вы находитесь в состоянии войны или вражды."
+
+msgid "goal_kill2_title"
+msgstr "Убить 140 врагов"
+
+msgid "goal_kill3_desc"
+msgstr "Убейте 900 представителей расы, с которой Вы находитесь в состоянии войны или вражды."
+
+msgid "goal_kill3_title"
+msgstr "Убить 900 врагов"
+
+msgid "goal_makedrink1_desc"
+msgstr "Ваши сотрудники должны использовать кухню, чтобы сделать 10 напитков."
+
+msgid "goal_makedrink1_title"
+msgstr "Сделать 10 напитков"
+
+msgid "goal_makedrink2_desc"
+msgstr "Ваши сотрудники должны использовать кухню, чтобы сделать 150 напитков."
+
+msgid "goal_makedrink2_title"
+msgstr "Сделать 150 напитков"
+
+msgid "goal_makedrink3_desc"
+msgstr "Ваши сотрудники должны использовать кухню, чтобы сделать 1000 напитков."
+
+msgid "goal_makedrink3_title"
+msgstr "Сделать 1000 напитков"
+
+msgid "goal_makerobot1_desc"
+msgstr "Ваши сотрудники должны использовать завод роботов чтобы собрать робота."
+
+msgid "goal_makerobot1_title"
+msgstr "Собрать робота"
+
+msgid "goal_planet1_desc"
+msgstr "Приземлиться не менее 3-х раз на планетах, независимо от уровня."
+
+msgid "goal_planet1_title"
+msgstr "Приземлиться 3 раза на планетах"
+
+msgid "goal_planet2_desc"
+msgstr "Приземлиться не менее 3-х раз на планетах уровня 5 или выше."
+
+msgid "goal_planet2_title"
+msgstr "Приземлиться 3 раза на планетах от 5 уровня"
+
+msgid "goal_planet3_desc"
+msgstr "Приземлиться не менее 3-х раз на планетах уровня 10 или выше."
+
+msgid "goal_planet3_title"
+msgstr "Приземлиться 3 раза на планетах от 10 уровня"
+
+msgid "goal_planet4_desc"
+msgstr "Приземлиться не менее 3-х раз на планетах уровня 20 или выше."
+
+msgid "goal_planet4_title"
+msgstr "Приземлиться 3 раза на планетах от 20 уровня"
+
+msgid "goal_progress"
+msgstr "Прогресс: ~A%"
+
+msgid "goal_ready_alert"
+msgstr "Цель <<~A>> теперь доступна."
+
+msgid "goal_recruit1_desc"
+msgstr "наймите 5 новых офицеров на экране Персонала."
+
+msgid "goal_recruit1_title"
+msgstr "Нанять 5 новых сотрудников"
+
+msgid "goal_recycle1_desc"
+msgstr "Переработать 50 кусков помета. Убедитесь, что у Вас есть по крайней мере один утилизатор и что должность уборщика включена для некоторых из Ваших сотрудников."
+
+msgid "goal_recycle1_title"
+msgstr "Переработать 50 кусков помета"
+
+msgid "goal_recycle2_desc"
+msgstr "Переработать 5 трупов. Убедитесь, что у Вас есть по крайней мере один утилизатор и что должность уборщика включена для некоторых из Ваших сотрудников. Угу RIP."
+
+msgid "goal_recycle2_title"
+msgstr "Переработать 5 трупов"
+
+msgid "goal_repair1_desc"
+msgstr "Отремонтировать 20 объектов или роботов, поврежденных в ходе боевых действий или из-за отказа."
+
+msgid "goal_repair1_title"
+msgstr "Отремонтировать 20 объектов или роботов"
+
+msgid "goal_research1_desc"
+msgstr "Завершите работу на первом технологическом уровне любого вида."
+
+msgid "goal_research1_title"
+msgstr "Исследование 1 уровня"
+
+msgid "goal_research2_desc"
+msgstr "Пусть ваши сотрудники произведут 500 научных очков, работая на исследовательских столах."
+
+msgid "goal_research2_title"
+msgstr "Исследовать 500 очков"
+
+msgid "goal_reward"
+msgstr "Награда: @ui_icon_20px_credits04.png ~A"
+
+msgid "goal_shipbuild1_desc"
+msgstr "Построить корабль, используя судостроительный планировщик и стол производства кораблей."
+
+msgid "goal_shipbuild1_title"
+msgstr "Построить корабль"
+
+msgid "goal_shipbuild2_desc"
+msgstr "При строительстве новых кораблей, произвести 100 корабельных запчастей в столе производства кораблей."
+
+msgid "goal_shipbuild2_title"
+msgstr "Произвести 100 корабельных запчастей"
+
+msgid "goal_specs1_desc"
+msgstr "Выберите любого достаточно опытного офицера и модернизируйте его в любую доступную спецификацию."
+
+msgid "goal_specs1_title"
+msgstr "Обновите офицера в любую спецификацию"
+
+msgid "goal_specs2_desc"
+msgstr "Выберите 6 любых достаточно опытных офицеров и модернизируйте их в любую доступную спецификацию."
+
+msgid "goal_specs2_title"
+msgstr "Обновите 6 офицеров в любую спецификацию"
+
+msgid "goal_specs3_desc"
+msgstr "Выберите  любого достаточно опытного офицера и модернизируйте его в какую-либо мастер-спецификацию."
+
+msgid "goal_specs3_title"
+msgstr "Обновите офицера до любой мастер-спецификации"
+
+msgid "goal_specs4_desc"
+msgstr "Выберите 6 любых достаточно опытных офицеров и модернизируйте их в какую-либо мастер-спецификацию."
+
+msgid "goal_specs4_title"
+msgstr "Обновите 6 офицеров до любой мастер-спецификации"
+
+msgid "goal_visitors1_desc"
+msgstr "10 посетителей высадились на вашей станции"
+
+msgid "goal_visitors1_title"
+msgstr "Получите 10 посетителей"
+
+msgid "goal_visitors2_desc"
+msgstr "100 посетителей высадились на вашей станции"
+
+msgid "goal_visitors2_title"
+msgstr "Получите 100 посетителей"
+
+msgid "goal_visitors3_desc"
+msgstr "1000 посетителей высадились на вашей станции"
+
+msgid "goal_visitors3_title"
+msgstr "Получите 1000 посетителей"
+
+msgid "goal_vitals1_desc"
+msgstr "Один или несколько сотрудников спали, обедали, пили и мылись 25 раз или более, для каждого рода деятельности."
+
+msgid "goal_vitals1_title"
+msgstr "Удовлетворить основные жизненные показатели"
+
+msgid "goals"
+msgstr "Задачи"
+
+msgid "goals_why"
+msgstr "Выполнять цели со своей любимой скоростью, чтобы изучить инструменты и системы, находящиеся в Вашем распоряжении. Штаб-квартира вознаградит Вас при их выполнении."
+
+msgid "gogobot"
+msgstr "ГоуГоуБот"
+
+msgid "gogobot_desc"
+msgstr "Совершенные танцевальные движения, вплоть до нанометровой толерантности"
+
+msgid "gold_token"
+msgstr "Золотой токен"
+
+msgid "graduate_spec"
+msgstr "Улуч. спец."
+
+msgid "green_token"
+msgstr "Зеленый токен"
+
+msgid "group_commercial"
+msgstr "Коммерческая"
+
+msgid "group_control"
+msgstr "@ui_icon_30px_lupa.png Контроль доступа"
+
+msgid "group_damage"
+msgstr "@ui_icon_30px_lupa.png Урон"
+
+msgid "group_decor"
+msgstr "Украшение и садоводство"
+
+msgid "group_eating"
+msgstr "Еда и напитки"
+
+msgid "group_facilities"
+msgstr "Услуги и безопасность"
+
+msgid "group_factory"
+msgstr "Производство"
+
+msgid "group_gardening"
+msgstr "Садоводство"
+
+msgid "group_healing"
+msgstr "@ui_icon_30px_lupa.png Лечение"
+
+msgid "group_health"
+msgstr "Здоровье и гигиена"
+
+msgid "group_hygiene"
+msgstr "Гигиена"
+
+msgid "group_misc"
+msgstr "Другое"
+
+msgid "group_recreational"
+msgstr "Развлекательная"
+
+msgid "group_security"
+msgstr "Охрана"
+
+msgid "group_shielding"
+msgstr "@ui_icon_30px_lupa.png Щиты"
+
+msgid "group_ships"
+msgstr "Строительство корабля"
+
+msgid "group_sleeping"
+msgstr "Гостеприимство"
+
+msgid "gun_beamgun_name"
+msgstr "Лучевое оружие"
+
+msgid "gun_blaster_name"
+msgstr "Бластер"
+
+msgid "gun_blorg_name"
+msgstr "Разрушитель Блоргов"
+
+msgid "gun_crus_name"
+msgstr "Крусантианский обычный"
+
+msgid "gun_cucur_name"
+msgstr "Кукурбианский обычный"
+
+msgid "gun_disruptor_name"
+msgstr "Разрушитель"
+
+msgid "gun_laser_name"
+msgstr "Лазерное оружие"
+
+msgid "gun_lemur_name"
+msgstr "Лемурианский обычный"
+
+msgid "gun_medus_name"
+msgstr "Медусовый обычный"
+
+msgid "gun_nogi_name"
+msgstr "Нагусовый обычный"
+
+msgid "gun_phaser_name"
+msgstr "Фазеры"
+
+msgid "gun_pirates_name"
+msgstr "Пиратский обычный"
+
+msgid "gun_pistol_name"
+msgstr "Пистолет"
+
+msgid "gun_raygun_name"
+msgstr "Рентгеновское оружие"
+
+msgid "gun_robots_name"
+msgstr "Роботов обычный"
+
+msgid "gun_zapper_name"
+msgstr "Заппер"
+
+msgid "had_to_flee"
+msgstr "Сбежал в панике"
+
+msgid "had_to_flee_desc"
+msgstr "Что-то испугало меня, и я убежал"
+
+msgid "hands_01"
+msgstr "Тяжелые перчатки"
+
+msgid "hands_02"
+msgstr "Кибер V82"
+
+msgid "hands_03"
+msgstr "Защитные перчатки"
+
+msgid "hands_04"
+msgstr "Перчатки для пилота"
+
+msgid "hands_05"
+msgstr "Перчатки для дождевика"
+
+msgid "hands_06"
+msgstr "Перчатки сварщика"
+
+msgid "hands_07"
+msgstr "Перчатки EVA"
+
+msgid "hands_08"
+msgstr "Энергитические перчатки"
+
+msgid "hands_09"
+msgstr "Абляционные перчатки"
+
+msgid "hands_10"
+msgstr "Ударные перчатки v1.1"
+
+msgid "hands_item"
+msgstr "Предмет для рук"
+
+msgid "hard"
+msgstr "Сложно"
+
+msgid "heal_1"
+msgstr "ПроксХил"
+
+msgid "heal_2"
+msgstr "ПроксХил Плюс"
+
+msgid "heal_3"
+msgstr "ПроксХил Расширенный"
+
+msgid "heal_4"
+msgstr "МедХплодер"
+
+msgid "heal_nearby"
+msgstr "Лечение рядом"
+
+msgid "healing_desc"
+msgstr "Заживляет друзей"
+
+msgid "health"
+msgstr "Здоровье"
+
+msgid "health_feeling_low"
+msgstr "Раненый"
+
+msgid "health_feeling_low_desc"
+msgstr "Мои раны болят"
+
+msgid "health_feeling_very_low"
+msgstr "Тяжело ранен"
+
+msgid "health_feeling_very_low_desc"
+msgstr "Мои раны болят и мне очень плохо"
+
+msgid "health_tier_1"
+msgstr "Базовая медицина"
+
+msgid "health_tier_2"
+msgstr "Передовая медицина"
+
+msgid "health_tier_3"
+msgstr "Расширенная гигиена"
+
+msgid "health_tier_4"
+msgstr "Хирургия"
+
+msgid "health_tier_5"
+msgstr "Тепловая обработка"
+
+msgid "health_tier_6"
+msgstr "Общая регенерация"
+
+msgid "helium"
+msgstr "Гелий"
+
+msgid "helium_node"
+msgstr "Нода гелия"
+
+msgid "historic_program"
+msgstr "Историческая программа"
+
+msgid "holo"
+msgstr "Голография"
+
+msgid "holobooks"
+msgstr "Голокниги"
+
+msgid "holobooks_obj"
+msgstr "Полки голокниг"
+
+msgid "holobooks_obj_desc"
+msgstr "Продает все знания в галактике, в бумажном формате. Это ретро!"
+
+msgid "holocomics"
+msgstr "Голокомиксы"
+
+msgid "holofiction"
+msgstr "Голобеллетристика v19.2"
+
+msgid "holofiction_desc"
+msgstr "Огромное количество удовольствия в 4D"
+
+msgid "holohistorical"
+msgstr "Голоистория v24.8"
+
+msgid "holohistorical_desc"
+msgstr "Возрождает древние времена"
+
+msgid "home"
+msgstr "Дом"
+
+msgid "home_station"
+msgstr "Домашняя станция"
+
+msgid "hospital_bed"
+msgstr "Больничная койка"
+
+msgid "hospital_bed_desc"
+msgstr "Включает в себя все передовые медицинские системы, но требует врача для работы"
+
+msgid "hospitality_job"
+msgstr "Гостеприимство"
+
+msgid "hospitality_tier_1"
+msgstr "Казармы"
+
+msgid "hospitality_tier_2"
+msgstr "Спальни сотрудников"
+
+msgid "hospitality_tier_3"
+msgstr "Мотель"
+
+msgid "hospitality_tier_4"
+msgstr "Роскошный отель"
+
+msgid "hospitality_tier_5"
+msgstr "Криоотдых"
+
+msgid "hostile"
+msgstr "Враждебный"
+
+msgid "hotel_bed_must_single"
+msgstr "Только одна кровать в мотеле или гостинице"
+
+msgid "hotel_checkin"
+msgstr "Регистрация в отеле"
+
+msgid "hotel_checkin_desc"
+msgstr "Я могу использовать гостиничные номера прямо сейчас"
+
+msgid "hotelbed"
+msgstr "Гостиничная кровать"
+
+msgid "hotelbed_desc"
+msgstr "Роскошная кровать для состоятельных посетителей. Требует регистрацию в отеле чтобы использовать. Не может быть использовано сотрудниками."
+
+msgid "hotelcheckin"
+msgstr "Стойка регистрации отеля"
+
+msgid "hotelcheckin_desc"
+msgstr "Посетители должны здесь отметиться и оплатить доступ прежде, чем они смогут использовать кровать в гостинице."
+
+msgid "hps_label"
+msgstr "Заживления в секунду"
+
+msgid "hps_label_short"
+msgstr "ЗВС"
+
+msgid "human_federation"
+msgstr "Раса людей"
+
+msgid "humans_adjective"
+msgstr "Люди %s"
+
+msgid "humans_adjective2"
+msgstr "Люди ~A"
+
+msgid "humans_member"
+msgstr "Люди"
+
+msgid "humans_name"
+msgstr "Люди"
+
+msgid "hunger"
+msgstr "Голод"
+
+msgid "hunger_feeling_high"
+msgstr "Сытость"
+
+msgid "hunger_feeling_high_desc"
+msgstr "Это блюдо было действительно хорошим!"
+
+msgid "hunger_feeling_low"
+msgstr "Голодный"
+
+msgid "hunger_feeling_low_desc"
+msgstr "Я умираю от голода"
+
+msgid "hygiene"
+msgstr "Гигиена"
+
+msgid "hygiene_feeling_high"
+msgstr "Помылся"
+
+msgid "hygiene_feeling_high_desc"
+msgstr "Это очень приятно чувствовать себя чистым"
+
+msgid "hygiene_feeling_low"
+msgstr "Сильно пахнущий"
+
+msgid "hygiene_feeling_low_desc"
+msgstr "Люди избегают меня. Мне нужен душ"
+
+msgid "hygienizer_basic"
+msgstr "Гигиенизатор 3000"
+
+msgid "hygienizer_basic_desc"
+msgstr "Он делает всех чистыми и свежими"
+
+msgid "hygienizer_max"
+msgstr "МегаДуш 5000"
+
+msgid "hygienizer_max_desc"
+msgstr "Он настолько очищает, что Вы не узнаете себя"
+
+msgid "hygienizer_plus"
+msgstr "Душ Делюкс"
+
+msgid "hygienizer_plus_desc"
+msgstr "Он делает всех чистыми и свежими"
+
+msgid "implant_01"
+msgstr "Nerve OC"
+
+msgid "implant_02"
+msgstr "TargetTron++"
+
+msgid "implant_03"
+msgstr "ReflexPlus"
+
+msgid "implant_04"
+msgstr "ReflexPlus Lite"
+
+msgid "implant_05"
+msgstr "ADRNL Bypass"
+
+msgid "implant_06"
+msgstr "uWatch mKill"
+
+msgid "implant_07"
+msgstr "uRun mKill"
+
+msgid "implant_08"
+msgstr "Быстрая перезарядка"
+
+msgid "implant_09"
+msgstr "FocusIN"
+
+msgid "implant_10"
+msgstr "Backup Power"
+
+msgid "implant_11"
+msgstr "Stress Reliever"
+
+msgid "implant_12"
+msgstr "MindExpander"
+
+msgid "implant_13"
+msgstr "Hand Steadier"
+
+msgid "implant_14"
+msgstr "Emergency cells"
+
+msgid "implant_15"
+msgstr "Power Injector"
+
+msgid "implant_16"
+msgstr "Widget 3000P"
+
+msgid "implant_17"
+msgstr "Extra Sight"
+
+msgid "implant_18"
+msgstr "Mass Modulator"
+
+msgid "implant_19"
+msgstr "Meta Modulator"
+
+msgid "implant_20"
+msgstr "Flux Modulator"
+
+msgid "implant_item"
+msgstr "Имплантант"
+
+msgid "import_amount"
+msgstr "Введите кол-во %s для продажи %s"
+
+msgid "import_amount_over_hold"
+msgstr "Объем грузового трюма слишком мал"
+
+msgid "import_amount_over_stock"
+msgstr "На станции недостаточно запасов (вне магазинов)"
+
+msgid "import_changed_stock"
+msgstr "Запасы станции изменились в последнюю секунду и они ниже вашего выбора"
+
+msgid "import_invaded_planet"
+msgstr "Выбранная планета под вторжением и не ведет торговли."
+
+msgid "import_invalid_ship_id"
+msgstr "Выберите корабль"
+
+msgid "import_invalid_ship_not_home"
+msgstr "Корабль должен быть припаркован дома"
+
+msgid "import_too_low_amount"
+msgstr "Выберите кол-во ресурсов для доставки"
+
+msgid "imports_current_reputation"
+msgstr "Текущая репутация: %d/%d"
+
+msgid "imports_donation_bonus"
+msgstr "Бонус к репутации: +%d"
+
+msgid "imports_donation_button"
+msgstr "Донат @ui_icon_20px_credits04.png %d"
+
+msgid "imports_hostile_donation_desc"
+msgstr "Мы не заинтересованы в ваших побрякушках, но пожертвование на наше дело, заставит нас ненавидеть вас с меньшей интенсивностью."
+
+msgid "imports_hostile_limit"
+msgstr "Мы будем терпеть вас, но мы пересмотрим нашу позицию, если Вы снова будете враждебно относится к нам."
+
+msgid "imports_no_planets"
+msgstr "Откройте больше систем, для поиска планет, со спросом на этот продукт."
+
+msgid "in_progress"
+msgstr "В процессе"
+
+msgid "in_stasis"
+msgstr "В стазисе"
+
+msgid "in_storage_area"
+msgstr "В области хранения"
+
+msgid "in_use"
+msgstr "В использовании"
+
+msgid "include"
+msgstr "Включить"
+
+msgid "industrialist"
+msgstr "Промышленник"
+
+msgid "industrialist_desc2"
+msgstr "Промышленники проводят свои дни трудясь на заводах вашей станции с высочайшим мастерством."
+
+msgid "inebriation"
+msgstr "Опьянение"
+
+msgid "infinity"
+msgstr "Бесконечность"
+
+msgid "infinity_short"
+msgstr "Бескон"
+
+msgid "info_tool"
+msgstr "Информация / Масштаб / Панорама"
+
+msgid "ingredient_of"
+msgstr "Ингредиенты:"
+
+msgid "input"
+msgstr "Вход"
+
+msgid "interiorturret"
+msgstr "Большая турель"
+
+msgid "interiorturret_desc"
+msgstr "Большая, высококалиберная турель"
+
+msgid "intermediate_ship_engines_parts"
+msgstr "Промежуточные детали двигателя"
+
+msgid "intermediate_ship_hull_parts"
+msgstr "Промежуточные части каркаса"
+
+msgid "intermediate_ship_lifesupport_parts"
+msgstr "Промежуточные части жизнеобеспечения"
+
+msgid "intermediate_ship_structure_parts"
+msgstr "Промежуточные части конструкции"
+
+msgid "interrupted_by_noise"
+msgstr "Прерван шумом"
+
+msgid "intro_1"
+msgstr "5781г н.э., Штаб-квартира Человеческой Федерации, Земля \n \nПриветствуем офицер. Ваша выдающаяся работа на 5 ранге Бюрократа была замечена начальством. Вас выбрали и назначили руководителем на новую станцию. находящуюся где-то в неизведанном уголке галактики."
+
+msgid "intro_2"
+msgstr "Исследуйте окружающие системы и их планеты, находите там ресурсы, и договаривайтесь о делах с какой-либо расой. За Вашей спиной доверие федерации людей!"
+
+msgid "invaded_by"
+msgstr "Захвачено %s"
+
+msgid "invaded_by_other_desc"
+msgstr "Эта планета захвачена, и с ней невозможно торговать или извлекать ресурсы.  Туристы не будут посещать Вашу станцию из этой системы. Освободите планету, чтобы активировать торговлю и туристов."
+
+msgid "invaded_by_spatials_desc"
+msgstr "Вы захватили эту планету, и она находится под Вашим контролем. Ваши построенные объекты не пострадают."
+
+msgid "invaderbomb"
+msgstr "Тикающая бомба"
+
+msgid "invaderbomb_desc"
+msgstr "Уничтожьте эту бомбу до того, как таймер события достигнет 0, чтобы избежать большого взрыва"
+
+msgid "invasion_happens_alert"
+msgstr "%s вторглись на планету %s, принадлежащую %s. Торговля, добыча и туризм с этой планеты были заблокированы."
+
+msgid "invasion_happens_alert_spatials"
+msgstr "Вы вторглись на планету %s. Репутация с %s уменьшилась на %d."
+
+msgid "invasion_mission_can_invade"
+msgstr "Вы можете захватить эту планету, если уничтожите достаточно вражеских объектов. Когда метка, рядом со мной, достигнет 100%, планета будет захвачена. Это позволит Вам сохранить неиспользуемые экстракторы после взлета."
+
+msgid "invasion_mission_can_liberate"
+msgstr "Враги оккупировали эту планету. Они блокируют всю торговлю и добычу! Уничтожьте их структуры, чтобы освободить её. Проверяйте контрольный счетчик рядом со мной, когда он достигнет 100%, планета будет освобождена."
+
+msgid "invasion_mission_can_liberate_done"
+msgstr "Вы освободили планету! Торговля и добыча возможны снова."
+
+msgid "invasion_mission_none"
+msgstr "Эта планета дружелюбна к нам. Оставьте это неизменным, если у Вас нет других веских причин ..."
+
+msgid "invasion_mission_player_invaded"
+msgstr "Теперь эта планета под вторжением. Наши экстракторы не пострадают от повреждений."
+
+msgid "inventory"
+msgstr "Инвентарь"
+
+msgid "inventory_in_shops"
+msgstr "В магазинах: ~A"
+
+msgid "inventory_locked"
+msgstr "Резерв: ~A"
+
+msgid "inventory_missing_ingredients"
+msgstr "Недостаточно одного или нескольких ингредиентов"
+
+msgid "inventory_on_pallets"
+msgstr "На поддонах: ~A"
+
+msgid "inventory_on_storage_areas"
+msgstr "На складе: ~A"
+
+msgid "inventory_stacks"
+msgstr "Куча: ~A"
+
+msgid "inventory_total"
+msgstr "Всего: ~A"
+
+msgid "inventory_unattended"
+msgstr "Без присмотра: ~A"
+
+msgid "item"
+msgstr "Предмет"
+
+msgid "item_info_amount"
+msgstr "Количество: ~A"
+
+msgid "item_inventory_shortcut"
+msgstr "@ui_icon_30px_cargo.png Статус инвентаря"
+
+msgid "item_level"
+msgstr "Уровень ~A"
+
+msgid "item_power_single"
+msgstr "~A ~A"
+
+msgid "item_prefix_epic"
+msgstr "Эпический"
+
+msgid "item_prefix_legendary"
+msgstr "Легендарный"
+
+msgid "item_prefix_powerful"
+msgstr "Мощный"
+
+msgid "item_prefix_rare"
+msgstr "Редкий"
+
+msgid "item_prefix_strong"
+msgstr "Сильный"
+
+msgid "itemforge"
+msgstr "Кузня предметов"
+
+msgid "itemforge_desc"
+msgstr "Изготовление брони, имплантантов и оружия"
+
+msgid "jewellery"
+msgstr "Украшения"
+
+msgid "job_matrix"
+msgstr "План работ"
+
+msgid "job_matrix_click_officer_name"
+msgstr "Фокус на карте"
+
+msgid "job_matrix_click_officer_portrait"
+msgstr "Фокус на персонале"
+
+msgid "job_matrix_job_tip"
+msgstr "~A\nПриоритет: ~A"
+
+msgid "job_matrix_per_job_prio_disabled"
+msgstr "Использовать приоритет глобального задания для этого сотрудника"
+
+msgid "job_matrix_per_job_prio_enabled"
+msgstr "Установить индивидуальные приоритеты работы для этого сотрудника"
+
+msgid "job_matrix_prompt_officer_prio"
+msgstr "Введите значение приоритета для работы, от 1 до 99, или 0 для его выключения."
+
+msgid "job_speed"
+msgstr "Скорость: ~0,2Fx"
+
+msgid "job_tier_1"
+msgstr "Уровень 1"
+
+msgid "job_tier_2"
+msgstr "Уровень 2"
+
+msgid "job_tier_3"
+msgstr "Уровень 3"
+
+msgid "job_tier_current_xp"
+msgstr "Текущий опыт"
+
+msgid "job_tier_rating"
+msgstr "Рейтинг"
+
+msgid "job_tier_speed"
+msgstr "Скорость"
+
+msgid "job_warn_no_credits"
+msgstr "Не хватает денег."
+
+msgid "job_warn_no_recipe"
+msgstr "Выберите рецепт, чтобы активизировать производство."
+
+msgid "job_warn_no_resources3"
+msgstr "Нет запаса или нет пути к требуемому ~A"
+
+msgid "job_warn_no_resources4"
+msgstr "Нет запаса или нет пути к требуемым ресурсам"
+
+msgid "job_warn_wait_worker"
+msgstr "В ожидании квалифицированного работника."
+
+msgid "job_warning"
+msgstr "Предупреждение"
+
+msgid "jobs"
+msgstr "Работа"
+
+msgid "jobs_enable_manual_prio"
+msgstr "Использовать приоритеты вручную"
+
+msgid "juice"
+msgstr "Сок"
+
+msgid "jukebox"
+msgstr "МьюзикБокс"
+
+msgid "jukebox_desc"
+msgstr "Выберите свою любимую песню и танцуй как никто другой"
+
+msgid "k_thousands"
+msgstr "тыс"
+
+msgid "kb_build_rotate_left"
+msgstr "Строительство: Повернуть влево"
+
+msgid "kb_build_rotate_right"
+msgstr "Строительство: Повернуть вправо"
+
+msgid "kb_combat_mode"
+msgstr "Переключить боевой режим"
+
+msgid "kb_group_1"
+msgstr "Выбор группы 1"
+
+msgid "kb_group_2"
+msgstr "Выбор группы 2"
+
+msgid "kb_group_3"
+msgstr "Выбор группы 3"
+
+msgid "kb_group_4"
+msgstr "Выбор группы 4"
+
+msgid "kb_group_5"
+msgstr "Выбор группы 5"
+
+msgid "kb_group_6"
+msgstr "Выбор группы 6"
+
+msgid "kb_set_attack_target"
+msgstr "Действие: Установить цель(-лы) атаки"
+
+msgid "kb_set_cc_target"
+msgstr "Действие: Установите цель(-ли) управления толпой"
+
+msgid "kb_set_heal_target"
+msgstr "Действие: Установить цель(-ли) лечения"
+
+msgid "kb_set_shield_target"
+msgstr "Действие: Установите цель(-ли) защиты"
+
+msgid "kb_teleport_to"
+msgstr "Действие: Телепорт в"
+
+msgid "keep_slot_empty"
+msgstr "Сохранить выбранный слот или место пустым"
+
+msgid "key_unbind"
+msgstr "Не назначено"
+
+msgid "knowledge"
+msgstr "Знание"
+
+msgid "kowka_desc"
+msgstr "Герой Социалистического Труда. Её отправили в космос умирать, как эксперимент в 20-м веке, но она таинственно выжила в течение 38 веков и теперь собрала вокруг себя роботов."
+
+msgid "kowka_guard"
+msgstr "Охранник кошки"
+
+msgid "kowka_guard_desc"
+msgstr "Персональная армия роботов Кошки помогает Вам на вашей станции."
+
+msgid "lactian_adjective"
+msgstr "Лактианцы %s"
+
+msgid "lactian_adjective2"
+msgstr "Лактианцы ~A"
+
+msgid "lactian_member"
+msgstr "Лактианец"
+
+msgid "lactians_name"
+msgstr "Лактианы"
+
+msgid "landing"
+msgstr "Посадка..."
+
+msgid "landing_start"
+msgstr "@ui_icon_30px_aterrizaje.png Исследовать"
+
+msgid "language"
+msgstr "Язык"
+
+msgid "latest_save"
+msgstr "Последнее сохранение: %s"
+
+msgid "lemurian_adjective"
+msgstr "Лемуриан %s"
+
+msgid "lemurian_adjective2"
+msgstr "Лемуриан ~A"
+
+msgid "lemurian_domain"
+msgstr "Лемурианская область"
+
+msgid "lemurian_member"
+msgstr "Лемуриан"
+
+msgid "lemurian_name"
+msgstr "Лемуриане"
+
+msgid "level_n"
+msgstr "Уровень %d"
+
+msgid "level_n_paren"
+msgstr "(уровень %d)"
+
+msgid "liberation_happens_alert_spatials"
+msgstr "Вы освободили планету %s. Репутация с %s увеличилась на %d, а репутация с %s уменьшилась на %d."
+
+msgid "liberty_desc"
+msgstr "Свобода и мужество. Оставшаеся в живых в течение 38 веков, долгое время экспериментировало с животными. Теперь приносит радость всюду, куда она идет."
+
+msgid "libery_name"
+msgstr "Либерти"
+
+msgid "library_table"
+msgstr "Библиотечный стол"
+
+msgid "library_table_desc"
+msgstr "Спокойное и тихое место для чтения"
+
+msgid "list"
+msgstr "Список"
+
+msgid "litter"
+msgstr "Помет"
+
+msgid "litter_desc"
+msgstr "Уборщики с доступом к переработчику могут удалить этот помет"
+
+msgid "load_game"
+msgstr "Загрузка игры"
+
+msgid "local"
+msgstr "Локал."
+
+msgid "locked"
+msgstr "Заперто"
+
+msgid "lunch_shop"
+msgstr "Обеденная пища"
+
+msgid "lunch_shop_desc"
+msgstr "Здесь подается еда"
+
+msgid "luxury_clothes"
+msgstr "Роскошные одежды"
+
+msgid "luxury_clothes_desc"
+msgstr "Роскошные ткани из биоинженерных вымерших видов"
+
+msgid "luxury_dinner"
+msgstr "Роскошный ужин"
+
+msgid "luxury_display"
+msgstr "Дисплей роскоши"
+
+msgid "luxury_display_desc"
+msgstr "Драгоценные драгоценности и реликвии"
+
+msgid "luxury_kitchen"
+msgstr "Роскошная кухня"
+
+msgid "m_millions"
+msgstr "млн"
+
+msgid "macarons"
+msgstr "Миндальное печенье"
+
+msgid "macosx_experimental"
+msgstr "Эта опция экспериментальная! Не работает с мультимониторами и некоторыми нестандартными разрешениями"
+
+msgid "macosx_retina"
+msgstr "Mac OS X\nRetina Поддержка"
+
+msgid "main_menu"
+msgstr "Главное меню"
+
+msgid "maintenance_robot"
+msgstr "Робот технического обслуживания"
+
+msgid "make_active_absorb"
+msgstr "Создать активный предмет поглощения ур.~A-~A"
+
+msgid "make_active_control"
+msgstr "Создать активный предмет управления ур.~A-~A"
+
+msgid "make_active_damage"
+msgstr "Создать активный предмет повреждения ур.~A-~A"
+
+msgid "make_active_healing"
+msgstr "Создать активный предмет лечения ур.~A-~A"
+
+msgid "make_chest"
+msgstr "Создать броню L~A-L~A"
+
+msgid "make_feet"
+msgstr "Создать предмет для ног L~A-L~A"
+
+msgid "make_fuel_cell"
+msgstr "Сделать топливный элемент"
+
+msgid "make_hands"
+msgstr "Создать предмет для рук L~A-L~A"
+
+msgid "make_implant"
+msgstr "Создать имплантант L~A-L~A"
+
+msgid "make_owned_action"
+msgstr "Изменить владельца на ~A"
+
+msgid "make_owner_action"
+msgstr "Установить владельца на ~A"
+
+msgid "make_repair_part"
+msgstr "Сделать запчасть"
+
+msgid "map_scroll_down"
+msgstr "Карта прокрутка вниз"
+
+msgid "map_scroll_left"
+msgstr "Карта прокрутка влево"
+
+msgid "map_scroll_right"
+msgstr "Карта прокрутка вправо"
+
+msgid "map_scroll_up"
+msgstr "Карта прокрутка вверх"
+
+msgid "master_spec"
+msgstr "Мастер-специлизация"
+
+msgid "max_3char"
+msgstr "Макс"
+
+msgid "max_stack_size"
+msgstr "Максимальный размер стека: ~A"
+
+msgid "max_stock"
+msgstr "Максимальный запас"
+
+msgid "mead"
+msgstr "Мед"
+
+msgid "meat"
+msgstr "Мясо"
+
+msgid "meat_node"
+msgstr "Нода мяса"
+
+msgid "medic"
+msgstr "Медик"
+
+msgid "medic_desc"
+msgstr "Исцеляет ушибы, болезни и переломы"
+
+msgid "medical_analyzer"
+msgstr "Медицинский анализатор"
+
+msgid "medical_analyzer_desc"
+msgstr "Делает детальный анализ любой травмы или болезни."
+
+msgid "medical_workshop"
+msgstr "Медицинская лаборатория"
+
+msgid "medical_workshop_desc"
+msgstr "Фармацевтическая продукция"
+
+msgid "medicine"
+msgstr "Медицина"
+
+msgid "meds_dispenser"
+msgstr "Аптека"
+
+msgid "meds_dispenser_desc"
+msgstr "Хранит предметы медицинского назначения и лекарственные препараты"
+
+msgid "medus_adjective"
+msgstr "Медуктиан %s"
+
+msgid "medus_adjective2"
+msgstr "Медуктиан ~A"
+
+msgid "medus_full"
+msgstr "Медуктианская Ноосфера"
+
+msgid "medus_member"
+msgstr "Медуктиан"
+
+msgid "medus_name"
+msgstr "Медуктианцы"
+
+msgid "melee_name"
+msgstr "Рукопашная"
+
+msgid "menu"
+msgstr "Меню"
+
+msgid "metal_press"
+msgstr "Пресс металла"
+
+msgid "metal_press_desc"
+msgstr "Массовое производство металлов. Может содержать следы волос 80х."
+
+msgid "miasma"
+msgstr "Миазмы"
+
+msgid "miasma_desc"
+msgstr "Облако вони и болезней, созданное гниющей материей. Это дает негативные чувства и может заразить, если находиться поблизости. Убедитесь, что у Вас есть утилизатор, и что близлежащие уборщики готовы приступить к удалению как трупов, так и скоплений мусора."
+
+msgid "miasma_touched"
+msgstr "Повреждены миазмой"
+
+msgid "miasma_touched_desc"
+msgstr "Тьфу, этот запах отвратителен"
+
+msgid "microbiota"
+msgstr "Микробиота"
+
+msgid "microbiota_node"
+msgstr "Нода микробиоты"
+
+msgid "mind"
+msgstr "Разум"
+
+msgid "mind_combat"
+msgstr "Только бой"
+
+msgid "mind_combat_desc"
+msgstr "Не отвлекаются на работу и жизненные показатели"
+
+msgid "mind_crew"
+msgstr "Экипаж"
+
+msgid "mind_crew_desc"
+msgstr "Я очень серьезно отношусь к моим потребностям"
+
+msgid "mind_feeling_low"
+msgstr "Вон из моего разума"
+
+msgid "mind_feeling_low2"
+msgstr "Жалкий"
+
+msgid "mind_feeling_low2_desc"
+msgstr "Никаких вопросов, я не хочу жить"
+
+msgid "mind_feeling_low_desc"
+msgstr "Выносить больше этого не могу Я!"
+
+msgid "mind_tip"
+msgstr "Разум: %d"
+
+msgid "mineral_extractor"
+msgstr "Экстрактор минералов"
+
+msgid "mineral_extractor_desc"
+msgstr "Извлечение полезных ископаемых в пределах своей зоны влияния"
+
+msgid "miniservo"
+msgstr "Минисерво"
+
+msgid "miniservo_display"
+msgstr "Дисплей минисерво"
+
+msgid "miniservo_display_desc"
+msgstr "Крошечный персональный робот определенно не крошечной цены"
+
+msgid "missing_demands"
+msgstr "Недостающие требования"
+
+msgid "missing_demands_desc"
+msgstr "Некоторые из моих требований не удовлетворяются"
+
+msgid "mod_outdated"
+msgstr "Выбранный мод несовместим с этой версией игры"
+
+msgid "mods"
+msgstr "Моды"
+
+msgid "mods_in_steam_workshop"
+msgstr "Найти моды в Steam Workshop"
+
+msgid "mood_10_of_10"
+msgstr "Эйфорический"
+
+msgid "mood_1_of_10"
+msgstr "Возмущенный"
+
+msgid "mood_2_of_10"
+msgstr "Раздосадованный"
+
+msgid "mood_3_of_10"
+msgstr "Несчастный"
+
+msgid "mood_4_of_10"
+msgstr "Апатичный"
+
+msgid "mood_5_of_10"
+msgstr "Беспокойный"
+
+msgid "mood_6_of_10"
+msgstr "Нейтральный"
+
+msgid "mood_7_of_10"
+msgstr "Довольный"
+
+msgid "mood_8_of_10"
+msgstr "Счастливый"
+
+msgid "mood_9_of_10"
+msgstr "Радостный"
+
+msgid "motel_checkin"
+msgstr "Регистрация мотеля"
+
+msgid "motel_checkin_desc"
+msgstr "Я могу использовать мотель номера прямо сейчас"
+
+msgid "motelbed"
+msgstr "Кровать мотеля"
+
+msgid "motelbed_desc"
+msgstr "Дешевая кровать для нетребовательных гостей. Для этого требуется регистрация в мотеле. Не пригодна для использования сотрудниками."
+
+msgid "motelcheckin"
+msgstr "Стойка регистрации мотеля"
+
+msgid "motelcheckin_desc"
+msgstr "Посетители должны отметиться здесь и оплатить услуги прежде, чем они смогут использовать кровать в гостинице."
+
+msgid "music_volume"
+msgstr "Громкость музыки"
+
+msgid "mutosis"
+msgstr "Мутозис"
+
+msgid "mutosis_desc"
+msgstr "То есть из рук ..."
+
+msgid "mystery_milk"
+msgstr "Мистическое молоко"
+
+msgid "name"
+msgstr "Имя"
+
+msgid "name_too_long"
+msgstr "Имя слишком длинное"
+
+msgid "name_too_short"
+msgstr "Имя слишком короткое"
+
+msgid "name_used"
+msgstr "Имя уже используется"
+
+msgid "narcolepsy"
+msgstr "Нарколепсия"
+
+msgid "narcolepsy_desc"
+msgstr "Я засыпаю без причины"
+
+msgid "navigation"
+msgstr "Навигация"
+
+msgid "navigator"
+msgstr "Навигатор"
+
+msgid "navigator_desc"
+msgstr "Они видели то, во что вы никогда не будете верить, перевозили мегатонны из плеча Ориона. Делают дугу Кесселя в реальном времени."
+
+msgid "need_booking"
+msgstr "Требуется бронирование"
+
+msgid "need_booking_desc"
+msgstr "Мне нужно забронировать номер прежде чем спать"
+
+msgid "neutral"
+msgstr "Нейтрал"
+
+msgid "neutral_adjective"
+msgstr "Нейтрал %s"
+
+msgid "neutral_adjective2"
+msgstr "Нейтрал ~A"
+
+msgid "neutral_member"
+msgstr "Нейтральный"
+
+msgid "neutral_name"
+msgstr "Нейтралы"
+
+msgid "new_game"
+msgstr "Новая игра"
+
+msgid "new_game_option_events"
+msgstr "Мероприятия:"
+
+msgid "new_game_option_events_desc"
+msgstr "Варианты событий также могут быть изменены в игре в любое время"
+
+msgid "new_game_option_pick_planet_kind"
+msgstr "Тип планеты:"
+
+msgid "new_game_options"
+msgstr "Настройки"
+
+msgid "new_save_option"
+msgstr "<Новое сохранение>"
+
+msgid "next"
+msgstr "Следующий"
+
+msgid "nitrogen"
+msgstr "Азот"
+
+msgid "nitrogen_node"
+msgstr "Нода азота"
+
+msgid "no"
+msgstr "Нет"
+
+msgid "no_ship_desired"
+msgstr "Не требуется корабль"
+
+msgid "no_user_mods"
+msgstr "Пользовательские моды не были найдены. Сначала загрузите моды, потом включайте их."
+
+msgid "no_user_mods_enabled"
+msgstr "Пользовательские моды не включены."
+
+msgid "nogi_adjective"
+msgstr "Наги %s"
+
+msgid "nogi_adjective2"
+msgstr "Наги ~A"
+
+msgid "nogi_member"
+msgstr "Наги"
+
+msgid "nogi_name"
+msgstr "Наги"
+
+msgid "nogi_tyrants"
+msgstr "Тирания Наги"
+
+msgid "noise"
+msgstr "Шум"
+
+msgid "noise_feeling"
+msgstr "Прерван шумом"
+
+msgid "noise_interruption_desc"
+msgstr "Слишком шумно, я не могу расслабиться"
+
+msgid "noise_room"
+msgstr "Шум: %d"
+
+msgid "non_walkable"
+msgstr "Нельзя пройти"
+
+msgid "normal"
+msgstr "Нормально"
+
+msgid "not_bound"
+msgstr "Не связан"
+
+msgid "not_exploring_any_planet"
+msgstr "Не исследованы любые планеты"
+
+msgid "not_exploring_short"
+msgstr "Не изучать"
+
+msgid "not_number"
+msgstr "Не число"
+
+msgid "not_tutorial_planet"
+msgstr "Учебник по планете работает только на планете под названием Tutoland в вашей домашней системе."
+
+msgid "npc_animal01"
+msgstr "Остатки животных"
+
+msgid "npc_animal02"
+msgstr "Остатки животных"
+
+msgid "npc_animal03"
+msgstr "Остатки животных"
+
+msgid "npc_artifact01"
+msgstr "Артефакт"
+
+msgid "npc_artifact02"
+msgstr "Артефакт"
+
+msgid "npc_artifact03"
+msgstr "Артефакт"
+
+msgid "npc_artifact04"
+msgstr "Артефакт"
+
+msgid "npc_artifact05"
+msgstr "Артефакт"
+
+msgid "npc_augustus"
+msgstr "Огастес"
+
+msgid "npc_bagelhead"
+msgstr "Бубликоголовый"
+
+msgid "npc_bicho01"
+msgstr "Ленивая корова"
+
+msgid "npc_bicho02"
+msgstr "Лемурианская крыса"
+
+msgid "npc_bicho03"
+msgstr "Нянька солнцемера"
+
+msgid "npc_bicho04"
+msgstr "Жирафомолот"
+
+msgid "npc_bicho05"
+msgstr "Изумрудный таракан"
+
+msgid "npc_bicho06"
+msgstr "Тренажер у стенки"
+
+msgid "npc_bicho07"
+msgstr "Твитанутый"
+
+msgid "npc_bicho08"
+msgstr "Копытоногий"
+
+msgid "npc_bicho09"
+msgstr "Затравленный"
+
+msgid "npc_bicho10"
+msgstr "Зоямб"
+
+msgid "npc_bicho11"
+msgstr "Иглошёрстный"
+
+msgid "npc_bicho12"
+msgstr "Землекус"
+
+msgid "npc_bicho13"
+msgstr "Рог шрама"
+
+msgid "npc_blorg01"
+msgstr "Поселенец Блоргов"
+
+msgid "npc_blorg02"
+msgstr "Поселенец Блоргов"
+
+msgid "npc_blorg03"
+msgstr "Поселенец Блоргов"
+
+msgid "npc_blorg_boss"
+msgstr "Босс Блоргов"
+
+msgid "npc_blorg_crate_pickable"
+msgstr "Ценности Блоргов"
+
+msgid "npc_blorg_mine"
+msgstr "Мина"
+
+msgid "npc_blorg_visitor01"
+msgstr "Посетитель Блоргов"
+
+msgid "npc_blorg_visitor02"
+msgstr "Посетитель Блоргов"
+
+msgid "npc_blorg_visitor03"
+msgstr "Посетитель Блоргов"
+
+msgid "npc_blorg_visitor04"
+msgstr "Посетитель Блоргов"
+
+msgid "npc_chuchu01"
+msgstr "Посетитель Чучу"
+
+msgid "npc_chuchu02"
+msgstr "Посетитель Чучу"
+
+msgid "npc_chuchu03"
+msgstr "Посетитель Чучу"
+
+msgid "npc_chuchu04"
+msgstr "Посетитель Чучу"
+
+msgid "npc_chuchu05"
+msgstr "Посетитель Чучу"
+
+msgid "npc_chuchucolony01"
+msgstr "Воин Чучу"
+
+msgid "npc_chuchucolony02"
+msgstr "Элита Чучу"
+
+msgid "npc_chuchucolony03"
+msgstr "Сильный Чучу"
+
+msgid "npc_chuchucolony04"
+msgstr "Инженер Чучу"
+
+msgid "npc_colonycrusantian01"
+msgstr "Поселенец Крусантианов"
+
+msgid "npc_colonycrusantian02"
+msgstr "Поселенец Крусантианов"
+
+msgid "npc_colonycrusantian03"
+msgstr "Поселенец Крусантианов"
+
+msgid "npc_colonycrusantian04"
+msgstr "Поселенец Крусантианов"
+
+msgid "npc_colonylactian01"
+msgstr "Лактианский священник"
+
+msgid "npc_colonylactian02"
+msgstr "Лактианский слуга"
+
+msgid "npc_colonylactian03"
+msgstr "Лактианский солдат"
+
+msgid "npc_colonylactian04"
+msgstr "Лактианский танк"
+
+msgid "npc_colonylemurian01"
+msgstr "Сапер Лемурианцев"
+
+msgid "npc_colonylemurian02"
+msgstr "Силовик Лемурианцев"
+
+msgid "npc_colonylemurian03"
+msgstr "Линчеватель Лемурианцев"
+
+msgid "npc_colonynogi01"
+msgstr "Новичок Наги"
+
+msgid "npc_colonynogi02"
+msgstr "Менталист Наги"
+
+msgid "npc_colonynogi03"
+msgstr "Старейшина Наги"
+
+msgid "npc_container01"
+msgstr "Контейнер"
+
+msgid "npc_container02"
+msgstr "Контейнер"
+
+msgid "npc_container03"
+msgstr "Контейнер"
+
+msgid "npc_container04"
+msgstr "Контейнер"
+
+msgid "npc_container05"
+msgstr "Контейнер"
+
+msgid "npc_container06"
+msgstr "Контейнер"
+
+msgid "npc_crusantian_visitor01"
+msgstr "Посетитель Крусантианцев"
+
+msgid "npc_crusantian_visitor02"
+msgstr "Посетитель Крусантианцев"
+
+msgid "npc_crusantian_visitor03"
+msgstr "Посетитель Крусантианцев"
+
+msgid "npc_crusantian_visitor04"
+msgstr "Посетитель Крусантианцев"
+
+msgid "npc_crusantianbox01"
+msgstr "Ресурсы Крусантиан"
+
+msgid "npc_cucurbian01"
+msgstr "Посетитель Кукурбианцев"
+
+msgid "npc_cucurbian02"
+msgstr "Посетитель Кукурбианцев"
+
+msgid "npc_cucurbian03"
+msgstr "Посетитель Кукурбианцев"
+
+msgid "npc_cucurbian_boss"
+msgstr "Босс Кукурбианцев"
+
+msgid "npc_cucurbian_crate01"
+msgstr "Ресурсы Кукурбиан"
+
+msgid "npc_droid01"
+msgstr "Робот линчеватель"
+
+msgid "npc_droid02"
+msgstr "Робот военный"
+
+msgid "npc_droid03"
+msgstr "Робот уничтожитель"
+
+msgid "npc_droid04"
+msgstr "Робот хранитель"
+
+msgid "npc_droid05"
+msgstr "Робот посыльный"
+
+msgid "npc_human01"
+msgstr "Колонист людей"
+
+msgid "npc_human02"
+msgstr "Колонист людей"
+
+msgid "npc_human03"
+msgstr "Колонист людей"
+
+msgid "npc_human04"
+msgstr "Колонист людей"
+
+msgid "npc_human_visitor01"
+msgstr "Посетитель людей"
+
+msgid "npc_human_visitor02"
+msgstr "Посетитель людей"
+
+msgid "npc_human_visitor03"
+msgstr "Посетитель людей"
+
+msgid "npc_human_visitor04"
+msgstr "Посетитель людей"
+
+msgid "npc_kowka"
+msgstr "Кошка"
+
+msgid "npc_lemurian_visitor01"
+msgstr "Посетитель Лемурианцев"
+
+msgid "npc_lemurian_visitor02"
+msgstr "Посетитель Лемурианцев"
+
+msgid "npc_lemurian_visitor03"
+msgstr "Посетитель Лемурианцев"
+
+msgid "npc_lemurianbox01"
+msgstr "Ресурсы Лемуриан"
+
+msgid "npc_medus01"
+msgstr "Посетитель Медуктианцев"
+
+msgid "npc_medus02"
+msgstr "Посетитель Медуктианцев"
+
+msgid "npc_medus03"
+msgstr "Посетитель Медуктианцев"
+
+msgid "npc_medus04"
+msgstr "Посетитель Медуктианцев"
+
+msgid "npc_medus05"
+msgstr "Посетитель Медуктианцев"
+
+msgid "npc_meduscolony01"
+msgstr "Охранник Медуктианцев"
+
+msgid "npc_meduscolony02"
+msgstr "Бурильщик Медуктианцев"
+
+msgid "npc_meduscolony03"
+msgstr "Метатель Медуктианцев"
+
+msgid "npc_meduscolony04"
+msgstr "Разрушитель Медуктианцев"
+
+msgid "npc_memorymodule"
+msgstr "Модуль памяти"
+
+msgid "npc_mineral01"
+msgstr "Скала"
+
+msgid "npc_mineral02"
+msgstr "Скала"
+
+msgid "npc_mineral03"
+msgstr "Скала"
+
+msgid "npc_mutant"
+msgstr "Мутант"
+
+msgid "npc_nogi_visitor01"
+msgstr "Посетитель Наги"
+
+msgid "npc_nogi_visitor02"
+msgstr "Посетитель Наги"
+
+msgid "npc_nogi_visitor03"
+msgstr "Посетитель Наги"
+
+msgid "npc_nogi_visitor04"
+msgstr "Посетитель Наги"
+
+msgid "npc_nogibox01"
+msgstr "Ресурсы Наги"
+
+msgid "npc_octopus"
+msgstr "Кракен"
+
+msgid "npc_pioneersbox01"
+msgstr "Ресурсы людей"
+
+msgid "npc_pirate01"
+msgstr "Призывник пиратов"
+
+msgid "npc_pirate02"
+msgstr "Солдат пиратов"
+
+msgid "npc_pirate03"
+msgstr "Посыльный пиратов"
+
+msgid "npc_pirate04"
+msgstr "Зверь пиратов"
+
+msgid "npc_pirate_boss"
+msgstr "Босс пиратов"
+
+msgid "npc_pirates_crap"
+msgstr "Мусор"
+
+msgid "npc_pirates_mine"
+msgstr "Мина"
+
+msgid "npc_pirates_unicrate01"
+msgstr "Ресурсы пиратов"
+
+msgid "npc_pirates_unicrate02"
+msgstr "Ресурсы пиратов"
+
+msgid "npc_piratesbox01"
+msgstr "Ресурсы пиратов"
+
+msgid "npc_robotbox01"
+msgstr "Ресурсы роботов"
+
+msgid "npc_seeds"
+msgstr "Семена"
+
+msgid "npc_tribbler01"
+msgstr "Паразит"
+
+msgid "npc_tribbler02"
+msgstr "Паразит"
+
+msgid "npc_tribbler03"
+msgstr "Паразит"
+
+msgid "npc_tribbler_boss"
+msgstr "Королева паразитов"
+
+msgid "npc_veg01"
+msgstr "Растительность"
+
+msgid "npc_veg02"
+msgstr "Растительность"
+
+msgid "npc_veg03"
+msgstr "Растительность"
+
+msgid "npc_visitorcucurbian01"
+msgstr "Посетитель кукурбианцев"
+
+msgid "npc_visitorcucurbian02"
+msgstr "Посетитель кукурбианцев"
+
+msgid "npc_visitorcucurbian03"
+msgstr "Посетитель кукурбианцев"
+
+msgid "npc_visitorcucurbian04"
+msgstr "Посетитель кукурбианцев"
+
+msgid "npc_worm"
+msgstr "Шаи-Хулуд"
+
+msgid "npc_xenomorph"
+msgstr "Ксеноморф"
+
+msgid "nuclearkitchen"
+msgstr "Ядерная кухня"
+
+msgid "nuclearkitchen_desc"
+msgstr "Только самые подготовленные ученые смогут работать на этой кухне. Этот объект не из этой вселенной."
+
+msgid "obj_alienegg"
+msgstr "Яйца ксеноморфа"
+
+msgid "obj_blorg-arch"
+msgstr "Арка"
+
+msgid "obj_blorg-biojelly"
+msgstr "Биореактор"
+
+msgid "obj_blorg-crates1"
+msgstr "Ящик"
+
+msgid "obj_blorg-crates2"
+msgstr "Ящик"
+
+msgid "obj_blorg-crates3"
+msgstr "Ящик"
+
+msgid "obj_blorg-house"
+msgstr "Дом"
+
+msgid "obj_blorg-jelly"
+msgstr "Желе"
+
+msgid "obj_blorg-robotfactory"
+msgstr "Завод"
+
+msgid "obj_blorg-robotmegabrain"
+msgstr "Мозг"
+
+msgid "obj_blorg-ship-house"
+msgstr "Восстановленное судно"
+
+msgid "obj_blorg-shuttle"
+msgstr "Шаттл"
+
+msgid "obj_blorg-turret"
+msgstr "Турель"
+
+msgid "obj_blorgbuilding04"
+msgstr "Большой дом"
+
+msgid "obj_blorgwall"
+msgstr "Стена"
+
+msgid "obj_blorgwallturret"
+msgstr "Настенная турель"
+
+msgid "obj_build_info"
+msgstr "Нажмите и перетащите, чтобы создать объект плана. Вы можете нажать клавишу Esc во время перетаскивания, чтобы отменить план."
+
+msgid "obj_capsule"
+msgstr "Капсула"
+
+msgid "obj_capsule-ok"
+msgstr "Капсула"
+
+msgid "obj_chuchubox01"
+msgstr "Ящик"
+
+msgid "obj_chuchubox02"
+msgstr "Ящик"
+
+msgid "obj_chuchubox03"
+msgstr "Ящик"
+
+msgid "obj_chuchubox04"
+msgstr "Ящик"
+
+msgid "obj_chuchubox05"
+msgstr "Ящик"
+
+msgid "obj_chuchubuilding01"
+msgstr "Зернохранилище"
+
+msgid "obj_chuchubuilding02"
+msgstr "Большой дом"
+
+msgid "obj_chuchubuilding03"
+msgstr "Дом"
+
+msgid "obj_chuchubuilding04"
+msgstr "Смотровая башня"
+
+msgid "obj_chuchudeposit"
+msgstr "Депозит"
+
+msgid "obj_chuchudestillery"
+msgstr "Перегонный завод"
+
+msgid "obj_chuchufield"
+msgstr "Поле"
+
+msgid "obj_chuchupress"
+msgstr "Гидравлический пресс"
+
+msgid "obj_chuchuwall"
+msgstr "Стена"
+
+msgid "obj_chuchuwallturret"
+msgstr "Турель"
+
+msgid "obj_computer-off"
+msgstr "Компьютер"
+
+msgid "obj_computer-on"
+msgstr "Компьютер"
+
+msgid "obj_crashed-ship"
+msgstr "Разбившийся корабль"
+
+msgid "obj_crusantianbox01"
+msgstr "Ящик"
+
+msgid "obj_crusantianbox02"
+msgstr "Ящик"
+
+msgid "obj_crusantianbox03"
+msgstr "Ящик"
+
+msgid "obj_crusantianbuilding01"
+msgstr "Башня"
+
+msgid "obj_crusantianbuilding02"
+msgstr "Ратуша"
+
+msgid "obj_crusantianbuilding03"
+msgstr "Дом"
+
+msgid "obj_crusantianbuilding04"
+msgstr "Дом"
+
+msgid "obj_crusantianfield"
+msgstr "Поля"
+
+msgid "obj_crusantianwall"
+msgstr "Стена"
+
+msgid "obj_crusantianwallturret"
+msgstr "Турель"
+
+msgid "obj_cucu-1"
+msgstr "Общага"
+
+msgid "obj_cucu-2"
+msgstr "Дом"
+
+msgid "obj_cucu-3"
+msgstr "Общага"
+
+msgid "obj_cucu-airvent"
+msgstr "Вентиляция"
+
+msgid "obj_cucu-debris-1"
+msgstr "Развалины"
+
+msgid "obj_cucu-debris-2"
+msgstr "Развалины"
+
+msgid "obj_cucu-elevator"
+msgstr "Лифт"
+
+msgid "obj_cucu-superweapon"
+msgstr "Орбитальная пушка"
+
+msgid "obj_cucurbianairvent"
+msgstr "Вентиляция"
+
+msgid "obj_cucurbianwall"
+msgstr "Стена"
+
+msgid "obj_cucurbianwallturret"
+msgstr "Турель"
+
+msgid "obj_destroyedbuilding01"
+msgstr "Развалины"
+
+msgid "obj_destroyedbuilding02"
+msgstr "Развалины"
+
+msgid "obj_destroyedbuilding03"
+msgstr "Развалины"
+
+msgid "obj_destroyedbuilding04"
+msgstr "Развалины"
+
+msgid "obj_destroyedbuilding05"
+msgstr "Развалины"
+
+msgid "obj_destroyedbuilding06"
+msgstr "Развалины"
+
+msgid "obj_destroyedbuilding07"
+msgstr "Развалины"
+
+msgid "obj_destroyedbuilding08"
+msgstr "Развалины"
+
+msgid "obj_destroyedbuilding09"
+msgstr "Развалины"
+
+msgid "obj_destroyedbuilding10"
+msgstr "Развалины"
+
+msgid "obj_embassy-statue"
+msgstr "Статуя"
+
+msgid "obj_generator"
+msgstr "Генератор"
+
+msgid "obj_generator-off"
+msgstr "Генератор"
+
+msgid "obj_generator-on"
+msgstr "Генератор"
+
+msgid "obj_group_commercial"
+msgstr "Коммерческая"
+
+msgid "obj_group_decor"
+msgstr "Украшение"
+
+msgid "obj_group_eating"
+msgstr "Еда и напитки"
+
+msgid "obj_group_facilities"
+msgstr "Оборудование"
+
+msgid "obj_group_factory"
+msgstr "Производство"
+
+msgid "obj_group_gardening"
+msgstr "Садоводство"
+
+msgid "obj_group_health"
+msgstr "Здоровье"
+
+msgid "obj_group_hygiene"
+msgstr "Гигиена"
+
+msgid "obj_group_misc"
+msgstr "Другое"
+
+msgid "obj_group_recreational"
+msgstr "Развлекательная"
+
+msgid "obj_group_security"
+msgstr "Безопасность"
+
+msgid "obj_group_sleeping"
+msgstr "Отдых"
+
+msgid "obj_hive-crystal"
+msgstr "Минералообразование"
+
+msgid "obj_hive-crystal2"
+msgstr "Минералообразование"
+
+msgid "obj_hive-crystal3"
+msgstr "Минералообразование"
+
+msgid "obj_hive-mother"
+msgstr "Минералообразование"
+
+msgid "obj_hive-nest"
+msgstr "Гнездо"
+
+msgid "obj_hive-pupa"
+msgstr "Куколка"
+
+msgid "obj_human-boxes1"
+msgstr "Ящик"
+
+msgid "obj_human-boxes2"
+msgstr "Ящик"
+
+msgid "obj_human-boxes3"
+msgstr "Ящик"
+
+msgid "obj_human-plant"
+msgstr "Поле"
+
+msgid "obj_human-plant-burnt"
+msgstr "Сгоревшее поле"
+
+msgid "obj_human-short"
+msgstr "Дом"
+
+msgid "obj_human-station-box"
+msgstr "Ящик"
+
+msgid "obj_human-tall"
+msgstr "Общага"
+
+msgid "obj_human-tower"
+msgstr "Башня"
+
+msgid "obj_in_way"
+msgstr "На пути есть объекты, удалите их в первую очередь."
+
+msgid "obj_lactianbanner"
+msgstr "Лактианский баннер"
+
+msgid "obj_lactianidol01"
+msgstr "Идол лактианцев"
+
+msgid "obj_lactianidol02"
+msgstr "Идол лактианцев"
+
+msgid "obj_lemurianbox01"
+msgstr "Ящик"
+
+msgid "obj_lemurianbox02"
+msgstr "Ящик"
+
+msgid "obj_lemurianbox03"
+msgstr "Ящик"
+
+msgid "obj_lemurianbuilding01"
+msgstr "Общага"
+
+msgid "obj_lemurianbuilding02"
+msgstr "Большой дом"
+
+msgid "obj_lemurianbuilding03"
+msgstr "Центр связи"
+
+msgid "obj_lemuriancomputer"
+msgstr "Компьютер"
+
+msgid "obj_lemurianfield"
+msgstr "Поле"
+
+msgid "obj_lemurianmill"
+msgstr "Мельница"
+
+msgid "obj_lemurianwall"
+msgstr "Стена"
+
+msgid "obj_lemurianwallturret"
+msgstr "Турель"
+
+msgid "obj_medusbomb"
+msgstr "Бомба"
+
+msgid "obj_medusbox01"
+msgstr "Ящик"
+
+msgid "obj_medusbox02"
+msgstr "Ящик"
+
+msgid "obj_medusbox03"
+msgstr "Ящик"
+
+msgid "obj_medusbox04"
+msgstr "Ящик"
+
+msgid "obj_medusbuilding01"
+msgstr "Общага"
+
+msgid "obj_medusbuilding02"
+msgstr "Большой дом"
+
+msgid "obj_medusbuilding03"
+msgstr "Общага"
+
+msgid "obj_medusbuilding04"
+msgstr "Дом"
+
+msgid "obj_medusfield"
+msgstr "Поле"
+
+msgid "obj_medustree"
+msgstr "Поле"
+
+msgid "obj_medusturbine"
+msgstr "Турбина"
+
+msgid "obj_meduswall"
+msgstr "Стена"
+
+msgid "obj_meduswallturret"
+msgstr "Турель"
+
+msgid "obj_nogibox01"
+msgstr "Ящик"
+
+msgid "obj_nogibox03"
+msgstr "Ящик"
+
+msgid "obj_nogibuilding01"
+msgstr "общага"
+
+msgid "obj_nogibuilding02"
+msgstr "Дом"
+
+msgid "obj_nogibuilding03"
+msgstr "Общага"
+
+msgid "obj_nogibuilding04"
+msgstr "Дом"
+
+msgid "obj_nogicondensator"
+msgstr "Конденсатор"
+
+msgid "obj_nogiextractor"
+msgstr "Экстрактор"
+
+msgid "obj_nogigenerator"
+msgstr "Генератор"
+
+msgid "obj_nogiwall"
+msgstr "Стена"
+
+msgid "obj_nogiwallturret"
+msgstr "Турель"
+
+msgid "obj_pest-field"
+msgstr "Зачумленное поле"
+
+msgid "obj_pest-house"
+msgstr "Зараженный дом"
+
+msgid "obj_pest-pile"
+msgstr "Куча с вредителями"
+
+msgid "obj_pioneerswall"
+msgstr "Стена"
+
+msgid "obj_pioneerswallturret"
+msgstr "Турель"
+
+msgid "obj_pirate-antenna"
+msgstr "Антенна"
+
+msgid "obj_pirate-building-bikes"
+msgstr "Мотоцикл"
+
+msgid "obj_pirate-building-shuttle"
+msgstr "Шаттл"
+
+msgid "obj_pirate-building-tent"
+msgstr "Палатка"
+
+msgid "obj_pirate-building-tower1"
+msgstr "Башня"
+
+msgid "obj_pirate-building-tower2"
+msgstr "Башня"
+
+msgid "obj_pirate-command"
+msgstr "Центр связи"
+
+msgid "obj_pirate-crate"
+msgstr "Ящик"
+
+msgid "obj_pirate-debris-ab1"
+msgstr "Развалины"
+
+msgid "obj_pirate-debris-ab2"
+msgstr "Развалины"
+
+msgid "obj_pirate-debris-crap"
+msgstr "Мусор"
+
+msgid "obj_pirate-debris-crates1"
+msgstr "Ящик"
+
+msgid "obj_pirate-debris-crates2"
+msgstr "Ящик"
+
+msgid "obj_pirate-mineassembler"
+msgstr "Завод"
+
+msgid "obj_pirate-turret"
+msgstr "Турель"
+
+msgid "obj_pirateswall"
+msgstr "Стена"
+
+msgid "obj_pirateswallturret"
+msgstr "Турель"
+
+msgid "obj_probe"
+msgstr "Зонд"
+
+msgid "obj_probe2"
+msgstr "Зонд"
+
+msgid "obj_robotbattery01"
+msgstr "Аккумулятор"
+
+msgid "obj_robotbattery02"
+msgstr "Аккумулятор"
+
+msgid "obj_robotbox01"
+msgstr "Ящик"
+
+msgid "obj_robotbox02"
+msgstr "Ящик"
+
+msgid "obj_robotbox03"
+msgstr "Ящик"
+
+msgid "obj_robotbox04"
+msgstr "Ящик"
+
+msgid "obj_robotbuilding01"
+msgstr "Ускоритель"
+
+msgid "obj_robotbuilding02"
+msgstr "Литейный завод"
+
+msgid "obj_robotbuilding03"
+msgstr "Перколятор"
+
+msgid "obj_robotcondensator"
+msgstr "Condensador"
+
+msgid "obj_robotsensor"
+msgstr "Сенсор"
+
+msgid "obj_robotturret"
+msgstr "Турель"
+
+msgid "obj_robotwall"
+msgstr "Стена"
+
+msgid "obj_robotwallturret"
+msgstr "Турель"
+
+msgid "obj_ruinsgreybuilding01"
+msgstr "Руины"
+
+msgid "obj_ruinsgreybuilding02"
+msgstr "Руины"
+
+msgid "obj_ruinsgreybuilding03"
+msgstr "Руины"
+
+msgid "obj_ruinsgreybuilding04"
+msgstr "Руины"
+
+msgid "obj_ruinsgreybuilding05"
+msgstr "Руины"
+
+msgid "obj_ruinsgreybuilding06"
+msgstr "Руины"
+
+msgid "obj_ruinsgreycolumns01"
+msgstr "Колонны"
+
+msgid "obj_ruinsgreycolumns02"
+msgstr "Колонны"
+
+msgid "obj_ruinsgreycolumns03"
+msgstr "Колонны"
+
+msgid "obj_ruinsgreycolumns04"
+msgstr "Колонны"
+
+msgid "obj_ruinsgreyrubble01"
+msgstr "Остатки"
+
+msgid "obj_ruinsgreyrubble02"
+msgstr "Остатки"
+
+msgid "obj_ruinsgreyrubble03"
+msgstr "Остатки"
+
+msgid "obj_ruinsgreyrubble04"
+msgstr "Остатки"
+
+msgid "obj_ruinsgreyrubble05"
+msgstr "Остатки"
+
+msgid "obj_ruinsgreyrubble06"
+msgstr "Остатки"
+
+msgid "obj_ruinsgreystatue01"
+msgstr "Статуя"
+
+msgid "obj_ruinsgreystatue02"
+msgstr "Статуя"
+
+msgid "obj_ruinspyhall01"
+msgstr "Зал"
+
+msgid "obj_ruinspyhall02"
+msgstr "Зал"
+
+msgid "obj_ruinspyhall03"
+msgstr "Зал"
+
+msgid "obj_ruinspyhall04"
+msgstr "Зал"
+
+msgid "obj_ruinspyhall05"
+msgstr "Зал"
+
+msgid "obj_ruinspyhall06"
+msgstr "Зал"
+
+msgid "obj_ruinspyrbuilding01"
+msgstr "Руины"
+
+msgid "obj_ruinspyrbuilding02"
+msgstr "Руины"
+
+msgid "obj_ruinspyrbuilding03"
+msgstr "Руины"
+
+msgid "obj_ruinspyrbuilding04"
+msgstr "Руины"
+
+msgid "obj_ruinspyrbuilding05"
+msgstr "Руины"
+
+msgid "obj_ruinspyrpyramid01part0"
+msgstr "Пирамида"
+
+msgid "obj_ruinspyrpyramid01part1"
+msgstr "Пирамида"
+
+msgid "obj_ruinspyrpyramid01part2"
+msgstr "Пирамида"
+
+msgid "obj_ruinspyrpyramid01part3"
+msgstr "Пирамида"
+
+msgid "obj_ruinspyrpyramid01part4"
+msgstr "Пирамида"
+
+msgid "obj_ruinspyrpyramid02part1"
+msgstr "Пирамида"
+
+msgid "obj_ruinspyrpyramid02part2"
+msgstr "Пирамида"
+
+msgid "obj_ruinspyrpyramid02part3"
+msgstr "Пирамида"
+
+msgid "obj_ruinspyrpyramid03"
+msgstr "Пирамида"
+
+msgid "obj_ruinspyrpyramid04"
+msgstr "Пирамида"
+
+msgid "obj_ruinspyrrubble01"
+msgstr "Остатки"
+
+msgid "obj_ruinspyrrubble02"
+msgstr "Остатки"
+
+msgid "obj_ruinspyrrubble03"
+msgstr "Остатки"
+
+msgid "obj_ruinspyrrubble04"
+msgstr "Остатки"
+
+msgid "obj_ruinspyrrubble05"
+msgstr "Остатки"
+
+msgid "obj_ruinspyrrubble06"
+msgstr "Остатки"
+
+msgid "obj_ruinspyrsphinx01"
+msgstr "Сфинкс"
+
+msgid "obj_ruinspyrsphinx02"
+msgstr "Сфинкс"
+
+msgid "obj_ruinspyrsphinx03"
+msgstr "Сфинкс"
+
+msgid "obj_ruinspyrsphinx04"
+msgstr "Сфинкс"
+
+msgid "obj_ruinspyrstatue01"
+msgstr "Статуя"
+
+msgid "obj_ruinspyrstatue02"
+msgstr "Статуя"
+
+msgid "obj_ruinspyrstatue03"
+msgstr "Статуя"
+
+msgid "obj_ship-debris-1"
+msgstr "Остатки"
+
+msgid "obj_ship-debris-2"
+msgstr "Остатки"
+
+msgid "obj_ship-debris-3"
+msgstr "Остатки"
+
+msgid "obj_shuttle"
+msgstr "Шаттл"
+
+msgid "obj_silo"
+msgstr "Силос"
+
+msgid "obj_soup"
+msgstr "Суп"
+
+msgid "obj_soy-empty"
+msgstr "Поле"
+
+msgid "obj_surprise-crate"
+msgstr "Ящик"
+
+msgid "object"
+msgstr "Объект"
+
+msgid "object_is_busy"
+msgstr "~A занято"
+
+msgid "object_strength"
+msgstr "Прочность"
+
+msgid "objects"
+msgstr "Объекты"
+
+msgid "obsolete"
+msgstr "Устарелый"
+
+msgid "oceanic_planet"
+msgstr "Океаническая планета"
+
+msgid "off"
+msgstr "Выкл"
+
+msgid "offcer_can_evolve"
+msgstr "~A теперь достаточно опытный чтобы стать ~A. Вы можете его назначить этого офицера на экране персонала."
+
+msgid "officer"
+msgstr "Сотрудник"
+
+msgid "officer_busy"
+msgstr "Офицер занят в другом месте"
+
+msgid "officer_died"
+msgstr "Сотрудник ~A умер"
+
+msgid "officer_dock"
+msgstr "Служебный док"
+
+msgid "officer_dock_desc"
+msgstr "Станция владения, космические корабли могут стыковаться здесь"
+
+msgid "officer_from"
+msgstr "Из ~A (L~A) в ~A"
+
+msgid "officer_in_crew"
+msgstr "Текущий корабль: ~A"
+
+msgid "officer_location_station"
+msgstr "Главная станция"
+
+msgid "officer_single_navi_speed"
+msgstr "Прибавка к корабельной скорости: +~0,2F%"
+
+msgid "officer_single_navi_speed_desc"
+msgstr "Примечание: если назначенный офицер не самый опытный штурман экипажа, то он будет давать лишь небольшую часть к скорости судна"
+
+msgid "oils"
+msgstr "Масло"
+
+msgid "oils_node"
+msgstr "Нода масла"
+
+msgid "ok"
+msgstr "Хорошо"
+
+msgid "okay"
+msgstr "ОК"
+
+msgid "on"
+msgstr "Вкл"
+
+msgid "on_patrol_busy"
+msgstr "В дозоре"
+
+msgid "on_strike"
+msgstr "На забастовке"
+
+msgid "on_strike_desc"
+msgstr "Отказывается работать, саботирует оборудование"
+
+msgid "options"
+msgstr "Настройки"
+
+msgid "options_menu"
+msgstr "Опции"
+
+msgid "options_more_languages"
+msgstr "@ui_icon_30px_lenguage.png Другие языки"
+
+msgid "options_need_game"
+msgstr "Игра не загружена. Игровые параметры сохраняются при каждом сохранении. Пожалуйста, начните новую игру или загрузите сохранение, чтобы изменить параметры."
+
+msgid "options_save_desc"
+msgstr "Параметры этой вкладки сохраняются в файле сохранения, а не в глобальных параметрах. Обязательно сохраните игру после внесения любых изменений."
+
+msgid "orion_soda"
+msgstr "Шипучка Ориона"
+
+msgid "output"
+msgstr "Вывод"
+
+msgid "owned_desc"
+msgstr "Этот объект является собственностью и может быть использован только его владельцем. Работы по техническому обслуживанию могут по-прежнему выполняться другими сотрудниками или роботами."
+
+msgid "owner_officer_select"
+msgstr "Изменить владельца"
+
+msgid "owner_propagates_desc"
+msgstr "Когда этот объект сменит владельца, он будет автоматически изменять принадлежность любых другух объектов, находящиеся в той же комнате."
+
+msgid "ownership"
+msgstr "Собственность"
+
+msgid "ownership_area_must_single"
+msgstr "Только одна кровать с зоной собственности на комнату"
+
+msgid "pacifist"
+msgstr "Пацифист"
+
+msgid "paid_salary_amt"
+msgstr "~A/~A раз"
+
+msgid "pallet"
+msgstr "Поддон"
+
+msgid "pallet_desc"
+msgstr "Запасает один вид элемента, позволяет контролировать максимальное и минимальное значение"
+
+msgid "pallet_info_help"
+msgstr "Любой завод, в области 3х3 вокруг поддона, может получить ресурсы напрямую"
+
+msgid "passing_out"
+msgstr "Проход наружу"
+
+msgid "patient"
+msgstr "Пациент"
+
+msgid "pause"
+msgstr "Пауза"
+
+msgid "pending"
+msgstr "В ожидании"
+
+msgid "pending_upgrade"
+msgstr "В ожидании обновления"
+
+msgid "pharmacist"
+msgstr "Фармацевт"
+
+msgid "pharmacist_desc"
+msgstr "Медикам нужны наркотики, и фармацевты являются мастерами в их изготовлении."
+
+msgid "pharmacy"
+msgstr "Фармацевт"
+
+msgid "photo_frames"
+msgstr "Рамка для фотографий"
+
+msgid "photobooth"
+msgstr "Фотобудка"
+
+msgid "photobooth_desc"
+msgstr "Сфотографируйтесь и получите печатную рамку, как в доисторические времена."
+
+msgid "pick_resource_pallet"
+msgstr "Выберите ресурс, этот объект должен быть в запасе"
+
+msgid "pills"
+msgstr "Таблетки"
+
+msgid "pinball"
+msgstr "Пинболл"
+
+msgid "pinball_desc"
+msgstr "Мяч разумен и имеет чувства. Проявите некоторое уважение."
+
+msgid "pirates_adjective"
+msgstr "Пираты %s"
+
+msgid "pirates_adjective2"
+msgstr "Пираты ~A"
+
+msgid "pirates_ltd"
+msgstr "Пираты Ltd."
+
+msgid "pirates_member"
+msgstr "Пират"
+
+msgid "pirates_name"
+msgstr "Пираты"
+
+msgid "pizza"
+msgstr "Пицца"
+
+msgid "plain_clothes"
+msgstr "Простая одежда"
+
+msgid "plain_clothes_obj"
+msgstr "Полки одежды"
+
+msgid "plain_clothes_obj_desc"
+msgstr "Элегантные для повседневного ношения"
+
+msgid "planet"
+msgstr "Планета"
+
+msgid "planet_defensive_turret"
+msgstr "Оборонительная турель"
+
+msgid "planet_defensive_turret_desc"
+msgstr "Защищает постройки от нападения врагов"
+
+msgid "planet_embassy"
+msgstr "Посольство"
+
+msgid "planet_embassy_desc"
+msgstr "Медленно увеличивает нашу репутацию в положительную сторону у местной цивилизации."
+
+msgid "planet_info_friend"
+msgstr "Мы приветствуем наших друзей Спатиалов, на нашей скромной планете. Пожалуйста, не кради все."
+
+msgid "planet_info_hostile"
+msgstr "Захватчики обнаружены! Разверните все юниты для боя!"
+
+msgid "planet_info_neutral"
+msgstr "Всем привет! Будьте наготове, и зарядите эти Ваши пушки"
+
+msgid "planet_info_no_civ"
+msgstr "На этой планете не был обнаружен продвинутый интеллект. В том числе и у деревьев."
+
+msgid "planet_no_stocks"
+msgstr "Нет доступных запасов ресурсов на этой планете. Построите больше экстракторов или ждите пока производство отработает."
+
+msgid "planet_propaganda"
+msgstr "Станция пропаганды"
+
+msgid "planet_propaganda_desc"
+msgstr "Увеличивает частоту, с которой они посещают вашу станцию, из системы этой планеты"
+
+msgid "planet_recruitment_center"
+msgstr "Центр вербовки"
+
+msgid "planet_recruitment_center_desc"
+msgstr "Вербует новых сотрудников с этой планеты, до тех пор, пока мы друзья с их цивилизацией."
+
+msgid "planet_resource_extract_disable"
+msgstr "Отключить добывание этого вида ресурса. Существующий запас будет хранится до тех пор, пока не будет загружен в корабль."
+
+msgid "planet_resource_extract_enable"
+msgstr "Включить добывание этого вида ресурса"
+
+msgid "planet_ships_with_order"
+msgstr "Автопилот останавливается для:"
+
+msgid "planet_storage"
+msgstr "Место хранения"
+
+msgid "planet_storage_current"
+msgstr "~A единиц хранится"
+
+msgid "planet_storage_desc"
+msgstr "Добавляет 50 единиц к емкости для добываемых ресурсов на этой планете"
+
+msgid "planet_storage_max"
+msgstr "~A макс единиц"
+
+msgid "planet_travel"
+msgstr "@ui_icon_30px_fleet2.png Путешествие"
+
+msgid "planetarium"
+msgstr "Планетарий"
+
+msgid "planetarium_desc_friendly"
+msgstr "Но ваша хорошая репутация с ~A позволяет вместо этого заплатить дань, чтобы, без кровопролития или потери репутации, получить ту же информацию."
+
+msgid "planetarium_desc_hostile"
+msgstr "Уничтожение этого здания откроет следующие звездные системы: ~A"
+
+msgid "planetarium_pay"
+msgstr "Заплатить дань"
+
+msgid "planetarium_price"
+msgstr "Цена: ~A @ui_icon_20px_credits04.png"
+
+msgid "planetarium_warn_rep"
+msgstr "Уничтожение этого здания значительно уменьшит вашу репутацию с ~A"
+
+msgid "platinum"
+msgstr "Платина"
+
+msgid "platinum_node"
+msgstr "Нода платины"
+
+msgid "player"
+msgstr "Игрок"
+
+msgid "player_desc"
+msgstr "Атакуя, будет находиться под контролем игрока. Этот параметр применяется только до тех пор, пока выбран или является частью команды"
+
+msgid "pleasure_program"
+msgstr "Программа удовольствия"
+
+msgid "plus_rep"
+msgstr "+Реп"
+
+msgid "plus_rep_c"
+msgstr "+Реп:"
+
+msgid "plus_soap"
+msgstr "МылоПлюс"
+
+msgid "power"
+msgstr "Мощность"
+
+msgid "power_base_absorb"
+msgstr "Поглощение база: ~A"
+
+msgid "power_base_control"
+msgstr "База контроля толпы: ~A"
+
+msgid "power_base_damage"
+msgstr "База повреждения: ~A"
+
+msgid "power_base_healing"
+msgstr "База лечения: ~A"
+
+msgid "power_base_health"
+msgstr "База здоровья: ~A"
+
+msgid "power_factor_absorb"
+msgstr "Поглощение множитель: x~A"
+
+msgid "power_factor_control"
+msgstr "Множитель контроля толпы: x~A"
+
+msgid "power_factor_damage"
+msgstr "Множитель повреждения: x~A"
+
+msgid "power_factor_healing"
+msgstr "Множитель лечения: x~A"
+
+msgid "power_factor_health"
+msgstr "Множитель жизни: x~A"
+
+msgid "power_short"
+msgstr "Мощность"
+
+msgid "pr"
+msgstr "Релайтер"
+
+msgid "pre_intro"
+msgstr "Устали от Вашей повседневной жизни? Чувствуете, что не нашли еще свое место во Вселенной? Интересуетесь о внешних звездных системах? Если ответили да на любой из этих вопросов, не стесняйтесь и присоединяйтесь!"
+
+msgid "press_esc_cancel2"
+msgstr "\nНажать Esc или правую кнопку мышки для отмены"
+
+msgid "press_new_key"
+msgstr "Нажмите новую клавишу для:"
+
+msgid "pretentious_foods"
+msgstr "Претенциозные продукты"
+
+msgid "pretentious_foods_desc"
+msgstr "Настолько вкусные продукты, что являются незаконными в некоторых планетах"
+
+msgid "previous"
+msgstr "Предыдущий"
+
+msgid "price"
+msgstr "Цена"
+
+msgid "price_bom_row"
+msgstr "Средняя стоимость:"
+
+msgid "price_row"
+msgstr "Цена:"
+
+msgid "price_too_much"
+msgstr "Не достаточно кредитов"
+
+msgid "processing"
+msgstr "Выполняется..."
+
+msgid "prod_current_queue2"
+msgstr "Текущая очередь"
+
+msgid "prod_global"
+msgstr "Глобал."
+
+msgid "prod_global_desc"
+msgstr "Производственные приказы будут автоматически добавлены, путем установки желаемого количества в окне инвентаризации глобального фонда"
+
+msgid "prod_local"
+msgstr "Локал."
+
+msgid "prod_local_desc"
+msgstr "Производственные заказы должны будут добавлены вручную с помощью кнопки Создать"
+
+msgid "prod_production"
+msgstr "Производство:"
+
+msgid "prodction_queue_empty"
+msgstr "Пусто"
+
+msgid "producing_recipe2"
+msgstr "Производство"
+
+msgid "projectile_direct_desc"
+msgstr "Ударный, одиночная цель"
+
+msgid "projectile_explosive_desc"
+msgstr "Ударный, область"
+
+msgid "projectile_reactive_desc"
+msgstr "Область по времени. Метательный"
+
+msgid "purchases"
+msgstr "Покупки"
+
+msgid "purifier_salts"
+msgstr "Очистительные соли"
+
+msgid "quick_jump"
+msgstr "Быстрый переход:"
+
+msgid "quit_game"
+msgstr "Выход"
+
+msgid "random"
+msgstr "Случайно"
+
+msgid "range_max"
+msgstr "Диапазон: ~A плиток"
+
+msgid "range_min_max"
+msgstr "Диапазон: от ~A до ~A плиток"
+
+msgid "rations_luxury"
+msgstr "Роскошные рационы"
+
+msgid "rations_quality"
+msgstr "Качественный рационы"
+
+msgid "reactive_area_desc"
+msgstr "Область"
+
+msgid "rebuildable_ruins_build"
+msgstr "Реконструировать"
+
+msgid "rebuildable_ruins_desc"
+msgstr "Развалины объекта, которые можно перестроить или переработать."
+
+msgid "rebuildable_ruins_recycle"
+msgstr "Переработать"
+
+msgid "recipe_add_queue"
+msgstr "Добавить в очередь"
+
+msgid "recipe_difficulty"
+msgstr "Сложность:"
+
+msgid "recipe_duration"
+msgstr "Продолжительность: ~As"
+
+msgid "recipe_failed"
+msgstr "~A ошибся"
+
+msgid "recipe_job_name"
+msgstr "Требуется работник: ~A"
+
+msgid "recipe_mini"
+msgstr "Рецепт:"
+
+msgid "recipe_order_amount"
+msgstr "Сколько раз произвести рецепт, или -1 для бесконечного количества."
+
+msgid "recipe_order_amount_tip"
+msgstr "Сколько раз произвести рецепт"
+
+msgid "recipe_order_create"
+msgstr "Создание заказа"
+
+msgid "recipe_order_delete"
+msgstr "Удалить заказ"
+
+msgid "recipes"
+msgstr "Рецепты"
+
+msgid "recreational_tier_1"
+msgstr "Библиотека I"
+
+msgid "recreational_tier_2"
+msgstr "Таверна I"
+
+msgid "recreational_tier_3"
+msgstr "Таверна II / Библиотека II"
+
+msgid "recreational_tier_4"
+msgstr "Игры I"
+
+msgid "recreational_tier_5"
+msgstr "Диско I"
+
+msgid "recreational_tier_6"
+msgstr "Диско II / игры II"
+
+msgid "recreational_tier_7"
+msgstr "Казино I"
+
+msgid "recreational_tier_8"
+msgstr "Голопалуба I"
+
+msgid "recreational_tier_9"
+msgstr "Голопалуба II / Казино II"
+
+msgid "recruit"
+msgstr "Нанять"
+
+msgid "recruit_existing_xp"
+msgstr "Опыт в:"
+
+msgid "recruit_existing_xp_in"
+msgstr "~A: ~A очков\n"
+
+msgid "recruit_hire"
+msgstr "Нанять ~A"
+
+msgid "recruit_hire_price"
+msgstr "Бонус наёма: ~A @ui_icon_20px_credits04.png"
+
+msgid "recruit_hire_price_too_much"
+msgstr "Не достаточно кредитов"
+
+msgid "recycle_items_level"
+msgstr "Утилизировать детали ниже уровня:"
+
+msgid "recycled_something"
+msgstr "Утилизация ~A"
+
+msgid "recycler"
+msgstr "Утилизатор"
+
+msgid "recycling"
+msgstr "Переработка"
+
+msgid "recyler"
+msgstr "Утилизатор"
+
+msgid "recyler_desc"
+msgstr "Уничтожает помет и мусор"
+
+msgid "red_token"
+msgstr "Красный токен"
+
+msgid "redshirt"
+msgstr "Редширт"
+
+msgid "redshirt_desc"
+msgstr "Мастер на все руки, да путем ничего и не умеет. Универсальный, но невосстановимый, с большим потенциалом к обучению. Может специализироваться во все профы. Некоторые рецепты могут быть полностью вне их досягаемости."
+
+msgid "regenerativechamber"
+msgstr "Камера бионанитов"
+
+msgid "regenerativechamber_desc"
+msgstr "Самая совершенная система медицинской помощи в галактике."
+
+msgid "remains"
+msgstr "Останки"
+
+msgid "remains_desc"
+msgstr "Остатки могут быть переработаны в утилизаторе"
+
+msgid "remains_of"
+msgstr "Останки от ~A"
+
+msgid "removed_floor"
+msgstr "Удаленный этаж"
+
+msgid "removed_wall"
+msgstr "Убрать стену"
+
+msgid "rep_allied"
+msgstr "Союзный"
+
+msgid "rep_at_war"
+msgstr "Воинственный"
+
+msgid "rep_at_war_desc"
+msgstr "Агрессивные расы не будут покупать Ваши товары и попытаются напасть на станцию Вашу и ваших союзников. Они будут агрессивны, если Вы приземлитесь на их планеты."
+
+msgid "rep_friendly"
+msgstr "Дружественный"
+
+msgid "rep_hostile"
+msgstr "Враждебный"
+
+msgid "rep_hostile_desc"
+msgstr "Враждебным расам Вы не нравитесь, но они будут покупать Ваши товары. Это поднимет репутацию с ними. Они будут агрессивны, если Вы приземлитесь на их планеты."
+
+msgid "rep_neutral"
+msgstr "Нейтральный"
+
+msgid "rep_neutral_plus_desc"
+msgstr "Этот раса относится к Вам достаточно хорошо и Ваши корабли могут приземляться на их планетах, чтобы строить экстракторы ресурсов."
+
+msgid "rep_uncontested"
+msgstr "Неоспоримый"
+
+msgid "repair"
+msgstr "Ремонт"
+
+msgid "repair_parts"
+msgstr "Запчасти"
+
+msgid "repair_workplace_action"
+msgstr "Ремонтирует ~A"
+
+msgid "replay_introduction"
+msgstr "Повторить вступление"
+
+msgid "reputation"
+msgstr "Репутация"
+
+msgid "reputation_gain"
+msgstr "Полученно репутации от уезжающих:"
+
+msgid "reputation_hit"
+msgstr "Потерянно репутации от уезжающих:"
+
+msgid "req_decor"
+msgstr "Любой декор"
+
+msgid "req_shower"
+msgstr "Любой душ"
+
+msgid "required_points"
+msgstr "Требуемые очки: ~A"
+
+msgid "required_tokens"
+msgstr "Требуемые жетоны: ~A"
+
+msgid "research"
+msgstr "Исследование"
+
+msgid "research_completed_alert"
+msgstr "Исследование для <<~A ~A>> было завершено."
+
+msgid "research_points"
+msgstr "Исследовательские очки: ~A из ~A"
+
+msgid "research_remember"
+msgstr "Не забывайте строить исследовательские столы и назначать сотрудников на работу исследователя, чтобы получать очки исследований."
+
+msgid "research_tutorial"
+msgstr "Учебник по исследованиям"
+
+msgid "researcher"
+msgstr "Исследователь"
+
+msgid "researcher_desc"
+msgstr "Кто хочет стоять перед компьютером в течение десятилетий? Исследователи. С командой исследователей Ваша технология будет изучаться быстрее чем когда-либо."
+
+msgid "researchtable"
+msgstr "Исследовательский стол"
+
+msgid "researchtable_desc"
+msgstr "Сотрудники проводят исследования здесь."
+
+msgid "resource"
+msgstr "Ресурс"
+
+msgid "resource_node_info_reqs"
+msgstr "Требуется"
+
+msgid "resource_tag_armor"
+msgstr "Броня"
+
+msgid "resource_tag_bio"
+msgstr "Биологическое сырье"
+
+msgid "resource_tag_consumerist_product"
+msgstr "Защитник интересов потребителя"
+
+msgid "resource_tag_crowdcontrol"
+msgstr "Сдерживание толпы"
+
+msgid "resource_tag_drinkable"
+msgstr "Годный для питья"
+
+msgid "resource_tag_edible"
+msgstr "Съедобный"
+
+msgid "resource_tag_equipment"
+msgstr "Экипировка"
+
+msgid "resource_tag_extracted"
+msgstr "Извлеченный"
+
+msgid "resource_tag_fluid"
+msgstr "Газообразная среда"
+
+msgid "resource_tag_fun"
+msgstr "Дает веселье"
+
+msgid "resource_tag_gambling_giving"
+msgstr "Азартная игра"
+
+msgid "resource_tag_gas"
+msgstr "Газ"
+
+msgid "resource_tag_implant"
+msgstr "Имплантат"
+
+msgid "resource_tag_inebriation_giving"
+msgstr "Даёт опьянение"
+
+msgid "resource_tag_knowledge_giving"
+msgstr "даёт знания"
+
+msgid "resource_tag_liquid"
+msgstr "Жидкость"
+
+msgid "resource_tag_medical"
+msgstr "Медицинский"
+
+msgid "resource_tag_meds"
+msgstr "Лекарство"
+
+msgid "resource_tag_metal"
+msgstr "Металл"
+
+msgid "resource_tag_mineral"
+msgstr "Минерал"
+
+msgid "resource_tag_organic"
+msgstr "Органика"
+
+msgid "resource_tag_power_absorb"
+msgstr "Активное поглощение"
+
+msgid "resource_tag_power_control"
+msgstr "Активное управление"
+
+msgid "resource_tag_power_damage"
+msgstr "Активное повреждение"
+
+msgid "resource_tag_power_generic"
+msgstr "Бонус энергии"
+
+msgid "resource_tag_power_healing"
+msgstr "Активное лечение"
+
+msgid "resource_tag_power_health"
+msgstr "Бонус жизни"
+
+msgid "resource_tag_product"
+msgstr "Плоды"
+
+msgid "resource_tag_readable"
+msgstr "Удобочитаемый"
+
+msgid "resource_tag_shielding"
+msgstr "Экранирование"
+
+msgid "resource_tag_slot_active"
+msgstr "Активный"
+
+msgid "resource_tag_slot_chest"
+msgstr "Грудь"
+
+msgid "resource_tag_slot_feet"
+msgstr "Ноги"
+
+msgid "resource_tag_slot_hands"
+msgstr "Руки"
+
+msgid "resource_tag_slot_implant"
+msgstr "Имплантат"
+
+msgid "resource_tag_soap"
+msgstr "Мыло"
+
+msgid "resource_tag_weapon"
+msgstr "Оружие"
+
+msgid "restock_at"
+msgstr "Восполнить в"
+
+msgid "restocking"
+msgstr "Грузчик"
+
+msgid "right_mouse_button_abbr"
+msgstr "ПКМ"
+
+msgid "robot_adjective"
+msgstr "Робот %s"
+
+msgid "robot_adjective2"
+msgstr "Робот ~A"
+
+msgid "robot_charger"
+msgstr "Зарядное устройство для роботов"
+
+msgid "robot_charger_desc"
+msgstr "Загружено топливными элементами, чтобы зарядить энергией робота."
+
+msgid "robot_factory"
+msgstr "Завод по сборке роботов"
+
+msgid "robot_factory_desc"
+msgstr "Собирает роботов, которые выполняют некоторую работу на станции."
+
+msgid "robot_inventory"
+msgstr "Инвентарь робота"
+
+msgid "robot_inventory_max_robots"
+msgstr "Макс. вместимость: %d"
+
+msgid "robot_inventory_total_robots"
+msgstr "Всего: %d"
+
+msgid "robot_member"
+msgstr "Робот"
+
+msgid "robot_name"
+msgstr "Роботы"
+
+msgid "robot_union"
+msgstr "Союз роботов"
+
+msgid "robots_cannot_build_more"
+msgstr "Нельзя больше построить роботов"
+
+msgid "room_10"
+msgstr "Придорожная закусочная"
+
+msgid "room_11"
+msgstr "Больничная палата"
+
+msgid "room_12"
+msgstr "Хэви-металл"
+
+msgid "room_13"
+msgstr "Чистая мастерская"
+
+msgid "room_14"
+msgstr "Хрустальный дворец"
+
+msgid "room_15"
+msgstr "Небесная палуба"
+
+msgid "room_16"
+msgstr "Поклонник водопровода"
+
+msgid "room_17"
+msgstr "Стерильная камера"
+
+msgid "room_18"
+msgstr "Солидная квартира"
+
+msgid "room_19"
+msgstr "Зона обслуживания"
+
+msgid "room_20"
+msgstr "Премиум сточная труба"
+
+msgid "room_21"
+msgstr "Декадентский зал"
+
+msgid "room_22"
+msgstr "Обана студия"
+
+msgid "room_23"
+msgstr "Водосток"
+
+msgid "room_24"
+msgstr "Сюита"
+
+msgid "room_25"
+msgstr "Райский сад"
+
+msgid "room_26"
+msgstr "Древний кафель"
+
+msgid "room_27"
+msgstr "Розовый фламинго"
+
+msgid "room_28"
+msgstr "Аркадия"
+
+msgid "room_29"
+msgstr "Книжный рай"
+
+msgid "room_30"
+msgstr "Смокинг"
+
+msgid "room_31"
+msgstr "Технический"
+
+msgid "room_32"
+msgstr "Апокалипсис"
+
+msgid "room_33"
+msgstr "Мраморный храм"
+
+msgid "room_34"
+msgstr "Дешевый корабль"
+
+msgid "room_35"
+msgstr "Бесхозный"
+
+msgid "room_36"
+msgstr "Антиутопия I"
+
+msgid "room_37"
+msgstr "Антиутопия II"
+
+msgid "room_38"
+msgstr "Вегетарианской веранды"
+
+msgid "room_39"
+msgstr "Утопия I"
+
+msgid "room_40"
+msgstr "Утопия II"
+
+msgid "room_41"
+msgstr "Неона Тирелла"
+
+msgid "room_42"
+msgstr "Ностальгия по коровнику"
+
+msgid "room_43"
+msgstr "Виннебаго"
+
+msgid "room_44"
+msgstr "Заводной грейпфрут"
+
+msgid "room_aestehtics_amt"
+msgstr "~A очков"
+
+msgid "room_aesthetics"
+msgstr "Эстетика"
+
+msgid "room_of_aesthetics"
+msgstr "Комната на %d эстетики"
+
+msgid "room_of_tiles"
+msgstr "Комната на %d плиток"
+
+msgid "room_size"
+msgstr "Пл. комнаты"
+
+msgid "room_size_amt"
+msgstr "~A плиток"
+
+msgid "rooms"
+msgstr "Комнаты"
+
+msgid "roulette"
+msgstr "Рулетка"
+
+msgid "roulette_desc"
+msgstr "Этот шар не умный, мы ругаемся. Используйте золотые токены."
+
+msgid "ruins"
+msgstr "Руины"
+
+msgid "salary"
+msgstr "Зарплата"
+
+msgid "salary_amt"
+msgstr "~A @ui_icon_20px_credits04.png в мин."
+
+msgid "sapper"
+msgstr "Сапер"
+
+msgid "sapper_desc"
+msgstr "Зная как устроены вещи, вы понимаете как их разбирать. Быстр. Внутри огненный шар."
+
+msgid "sauna"
+msgstr "Сауна"
+
+msgid "sauna_desc"
+msgstr "Тысячелетний оздоровительный центр для наиболее эффективного ухода за кожей."
+
+msgid "save_game"
+msgstr "Сохранить игру"
+
+msgid "saw_corpse"
+msgstr "Видел труп"
+
+msgid "saw_corpse_desc"
+msgstr "Ужас, ужас ..."
+
+msgid "scan_alert"
+msgstr "Незванный гость обнаружен на станции!"
+
+msgid "scientist"
+msgstr "Ученый"
+
+msgid "scientist_desc"
+msgstr "Эксперты в исследованиях и экспериментированиях. Изо дня в день манипулируют веществом."
+
+msgid "scrap_ship"
+msgstr "Уничтожить корабль"
+
+msgid "seaweed_juice"
+msgstr "Сок водорослей"
+
+msgid "secscan"
+msgstr "Сканер безопасности"
+
+msgid "secscan_desc"
+msgstr "Сканирует посетителей для выявления самозванцев"
+
+msgid "security_desc"
+msgstr "Сотрудники службы безопасности, эксперты по оружию и с острым глазом, защищают станцию и ваши галактические экспедиции."
+
+msgid "security_robot"
+msgstr "Робот безопасности"
+
+msgid "security_spec"
+msgstr "Охрана"
+
+msgid "securitydoor"
+msgstr "Дверь усиленная"
+
+msgid "securitydoor_desc"
+msgstr "Усиленная дверь для контроля доступа"
+
+msgid "seeds"
+msgstr "Семена"
+
+msgid "seeds_node"
+msgstr "Нода семян"
+
+msgid "select"
+msgstr "Выбрать"
+
+msgid "select_load_slot"
+msgstr "Выбрать слот для загрузки"
+
+msgid "select_officer"
+msgstr "Выбрать сотрудника"
+
+msgid "select_officer_current_location"
+msgstr "Выбрать в текущей локации"
+
+msgid "select_officer_open_fleet"
+msgstr "Открыть экран флота"
+
+msgid "select_officer_open_ship"
+msgstr "Открытый мостик корабля"
+
+msgid "select_recipe_order"
+msgstr "Выберите рецепт:"
+
+msgid "select_save_slot"
+msgstr "Выбрать слот для сохранения"
+
+msgid "select_ship"
+msgstr "Выбрать корабль"
+
+msgid "select_ship_design"
+msgstr "Выберите дизайн корабля:"
+
+msgid "selected"
+msgstr "Выбранные"
+
+msgid "selected_recipe"
+msgstr "Выбранный рецепт:"
+
+msgid "self_destroy"
+msgstr "Самоуничтожить в блеске славы, чтобы повредить врагов, с шансом вызвать пожар"
+
+msgid "sell_to"
+msgstr "@ui_icon_30px_sell.png Продать расе %s"
+
+msgid "set target to ~A"
+msgstr "Установить принудительно цель на ~A"
+
+msgid "set_group_target_cc_label"
+msgstr "Щелкните левой кнопкой мыши или перетащите, чтобы выбрать цели для управления\nУдерживайте Shift, чтобы также управлять нейтральными"
+
+msgid "set_group_target_damage_label"
+msgstr "Щелкните левой кнопкой мыши или перетащите, чтобы выбрать цели для атаки\nУдерживайте Shift, чтобы атаковать нейтральных"
+
+msgid "set_group_target_heal_label"
+msgstr "Щелкните левой кнопкой мыши или перетащите, чтобы выбрать цели для лечения"
+
+msgid "set_group_target_shield_label"
+msgstr "Щелкните левой кнопкой мыши или перетащите, чтобы выбрать цели для защиты"
+
+msgid "set_rally_point"
+msgstr "Установить точку патруля"
+
+msgid "set_rally_point_label"
+msgstr "Кликнуть чтобы установить ~A точку патруля"
+
+msgid "set_target_cc"
+msgstr "Цели управления"
+
+msgid "set_target_cc_label"
+msgstr "Щелкните левой кнопкой мыши или перетащите, чтобы выбрать цели ~A для управления\nУдерживайте Shift, чтобы также контролировать нейтральных"
+
+msgid "set_target_damage"
+msgstr "Атаковать цель(-ли)"
+
+msgid "set_target_damage_label"
+msgstr "Щелкните левой кнопкой мыши или перетащите, чтобы выбрать ~A предпочитаемой целью\nУдерживайте Shift, чтобы атаковать нейтральных"
+
+msgid "set_target_heal"
+msgstr "Вылечить цель(-ли)"
+
+msgid "set_target_heal_label"
+msgstr "Щелкните левой кнопкой мыши или перетащите, чтобы выбрать ~A целью(-ми) исцеления"
+
+msgid "set_target_shield"
+msgstr "Цель щита"
+
+msgid "set_target_shield_label"
+msgstr "Щелкните левой кнопкой мыши или перетащите, чтобы выбрать ~A целью(-ми) защиты"
+
+msgid "shell_autosaving"
+msgstr "Автосохранение..."
+
+msgid "shell_saving"
+msgstr "Сохранение..."
+
+msgid "shield_1_name"
+msgstr "Щит повреждений"
+
+msgid "shield_2_name"
+msgstr "Супер щит повреждений"
+
+msgid "shield_3_name"
+msgstr "Ультра щит повреждений"
+
+msgid "ship_allowed_cargo"
+msgstr "Разрешенные ресурсы: %d/%d"
+
+msgid "ship_allowed_desc"
+msgstr "Выберите ресурсы планеты, разрешенные для этого корабля:"
+
+msgid "ship_allowed_edit"
+msgstr "Изменение разрешенных ресурсов"
+
+msgid "ship_approach_progress"
+msgstr "~A% прогресс"
+
+msgid "ship_arrived_info"
+msgstr "%s теперь %s"
+
+msgid "ship_auto_status_run"
+msgstr "Автопилот"
+
+msgid "ship_auto_status_stop"
+msgstr "Ручное управление"
+
+msgid "ship_build_done"
+msgstr "~A (~A) строительство было закончено и теперь зашвартован у домашней станции"
+
+msgid "ship_busy_cannot_edit"
+msgstr "Корабль не зашвартован у домашней станции"
+
+msgid "ship_cargo_info"
+msgstr "Грузы: ~A использовано / ~A всего"
+
+msgid "ship_construction_is_paused"
+msgstr "Строительство корабля приостановлено"
+
+msgid "ship_construction_start"
+msgstr "Начать строительство"
+
+msgid "ship_distance_to_other"
+msgstr "Расстояние до %s (L%d): %0.2f парсеков"
+
+msgid "ship_dock_assigned"
+msgstr "Док, назначенный на домашней базе"
+
+msgid "ship_final_destination"
+msgstr "Пункт назначения: %s (L%d)"
+
+msgid "ship_kind_authority"
+msgstr "Власть"
+
+msgid "ship_kind_bagelhead"
+msgstr "Корабль Бубликоголовых"
+
+msgid "ship_kind_benevolence"
+msgstr "Благожелательность"
+
+msgid "ship_kind_blorg"
+msgstr "Корабль Блоргов"
+
+msgid "ship_kind_chuchu"
+msgstr "Корабль Чучу"
+
+msgid "ship_kind_crusantian"
+msgstr "Корабль Крузантиан"
+
+msgid "ship_kind_cucurbian"
+msgstr "Корабль Кукурбиан"
+
+msgid "ship_kind_diligence"
+msgstr "Усердие"
+
+msgid "ship_kind_droid"
+msgstr "Корабль Роботов"
+
+msgid "ship_kind_exploration"
+msgstr "Исследование"
+
+msgid "ship_kind_foresight"
+msgstr "Предвидение"
+
+msgid "ship_kind_human"
+msgstr "Корабль людей"
+
+msgid "ship_kind_intervention"
+msgstr "Вмешательство"
+
+msgid "ship_kind_lactian"
+msgstr "Корабль Лактианов"
+
+msgid "ship_kind_lemurian"
+msgstr "Корабль Лемурианов"
+
+msgid "ship_kind_medus"
+msgstr "Корабль Медуктианцев"
+
+msgid "ship_kind_nogi"
+msgstr "Корабль Нагов"
+
+msgid "ship_kind_pirates"
+msgstr "Корабль Пиратов"
+
+msgid "ship_kind_rationality"
+msgstr "Рациональность"
+
+msgid "ship_kind_temerity"
+msgstr "Безрассудство"
+
+msgid "ship_kind_volition"
+msgstr "Воля"
+
+msgid "ship_must_parked_home2"
+msgstr "Корабль должен быть припаркован на Вашей домашней станции, чтобы быть доступным для демонтажа. По крайней мере, один корабль должен оставаться в вашем флоте."
+
+msgid "ship_not_available_empty"
+msgstr "На корабле отсутствует экипаж"
+
+msgid "ship_not_available_empty_only_home"
+msgstr "На корабле отсутствует экипаж и он может только вернуться домой"
+
+msgid "ship_not_available_full_morale"
+msgstr "один или больше офицеров не имеют достаточно боевого духа"
+
+msgid "ship_not_available_invalid"
+msgstr "Корабль находится в недопустимом состоянии"
+
+msgid "ship_not_available_some_already_exploring"
+msgstr "Корабль уже изучает планету"
+
+msgid "ship_not_available_this_already_exploring"
+msgstr "Корабль изучает планету"
+
+msgid "ship_order_item_subtile_home"
+msgstr "Выгрузить груз, высадить экипаж, ожидание поставок"
+
+msgid "ship_order_item_subtile_other"
+msgstr "Загрузите товар"
+
+msgid "ship_order_item_tile"
+msgstr "Летит из %s (L%d) в %s"
+
+msgid "ship_order_item_tile_star"
+msgstr "Летит из %s (L%d)"
+
+msgid "ship_order_wait_time_dialog_label"
+msgstr "Введите время ожидания в минутах, или 0 для по умолчанию (10 секунд):"
+
+msgid "ship_orders_delete_order"
+msgstr "Удалить выбранный заказ"
+
+msgid "ship_orders_drag_icon"
+msgstr "Перетащите эту иконку планеты или звезды, чтобы создать новый приказ"
+
+msgid "ship_orders_go_bridge"
+msgstr "Открыть ходовую рубку"
+
+msgid "ship_orders_move_down"
+msgstr "Переместить выбранный заказ вниз"
+
+msgid "ship_orders_move_up"
+msgstr "Переместить выбранный заказ вверх"
+
+msgid "ship_orders_set_time"
+msgstr "Установить выбранный заказ на паузу"
+
+msgid "ship_orders_show_target"
+msgstr "Нажмите на выбранную цель заказа"
+
+msgid "ship_orders_start"
+msgstr "Запустить автопилот"
+
+msgid "ship_orders_stop"
+msgstr "Остановить автопилот"
+
+msgid "ship_orders_title"
+msgstr "%s Автопилот"
+
+msgid "ship_planner_cancel"
+msgstr "Отменить строительство"
+
+msgid "ship_planner_info"
+msgstr "Строительство корабля"
+
+msgid "ship_planner_must_single"
+msgstr "Только один планировщик корабля на станцию"
+
+msgid "ship_planner_needed"
+msgstr "Сначала построите планировщик корабля"
+
+msgid "ship_planner_pause"
+msgstr "Приостановить строительство"
+
+msgid "ship_planner_resume"
+msgstr "Продолжить строительство"
+
+msgid "ship_scrap_confirm"
+msgstr "Ты уверен? Корабль будет уничтожен и будет получено небольшое количество ресурсов"
+
+msgid "ship_servicing"
+msgstr "Корабль возвращается на станцию для разгрузки и отдыха экипажа. Будете игнорировать автопилот, пока не будет готов."
+
+msgid "ship_servicing_cond"
+msgstr "Летит домой: %d%% загруженности или полностью загружено"
+
+msgid "ship_servicing_depart"
+msgstr "Автопилот включится с %d%% загруженности"
+
+msgid "ship_skill_healing_wave"
+msgstr "Исцеляющая волна"
+
+msgid "ship_skill_insurance"
+msgstr "Страхование жизни"
+
+msgid "ship_skill_jumpdrive"
+msgstr "Гипердрайв"
+
+msgid "ship_skill_mass_hysteria"
+msgstr "Массовая истерия"
+
+msgid "ship_skill_orbital_cannon"
+msgstr "Орбитальная бомбардировка"
+
+msgid "ship_skill_orbital_cannon_label"
+msgstr "Нажмите, чтобы стрелять из орбитальной пушки корабля"
+
+msgid "ship_skill_robodrop"
+msgstr "Робосброс"
+
+msgid "ship_skill_robodrop_label"
+msgstr "Нажмите, чтобы телепортировать взвод роботов"
+
+msgid "ship_skill_shield_dome"
+msgstr "Массивный щит"
+
+msgid "ship_skill_shield_dome_label"
+msgstr "Нажмите, чтобы создать массивный щит"
+
+msgid "ship_skill_teleport"
+msgstr "Телепорт по поверхности"
+
+msgid "ship_skills_l"
+msgstr "Навыки: %s"
+
+msgid "ship_travel_approach"
+msgstr "Приближается к %s (L%d)"
+
+msgid "ship_travel_parked"
+msgstr "Причален у %s (L%d)"
+
+msgid "ship_travel_progress"
+msgstr "~0,2F парсек / ETA ~As"
+
+msgid "ship_travel_traveling"
+msgstr "Летит к %s (L%d)"
+
+msgid "ship_travel_unknow"
+msgstr "Неизвестно"
+
+msgid "ship_user_travel_msg"
+msgstr "Новые приказы для путешествия: %s конечный пункт назначения теперь %s. Автопилот теперь отключен."
+
+msgid "shipplanner"
+msgstr "Планировщик кораблей"
+
+msgid "shipplanner_desc"
+msgstr "Выбирает корабль для строительства и осуществляет мониторинг процесса строительства. После строительства этого объекта создает один или несколько корабельных рабочих столов."
+
+msgid "ships"
+msgstr "Корабли"
+
+msgid "shipworktable"
+msgstr "Корабельный рабочий стол"
+
+msgid "shipworktable_desc"
+msgstr "Используется сотрудниками для работы над различными строящемися частями кораблей. Очередь производства контролируется судостроительным планировщиком."
+
+msgid "shop_stock"
+msgstr "Магазинный запас"
+
+msgid "shopping"
+msgstr "Делает покупки"
+
+msgid "shopping_list_desc"
+msgstr "Список пожеланий:"
+
+msgid "show_all_ships"
+msgstr "Показать все корабли"
+
+msgid "show_only_spatials_ships"
+msgstr "Показать только корабли Спатиалсов"
+
+msgid "sight_range"
+msgstr "Дальность: ~A плиток"
+
+msgid "sleep"
+msgstr "Сон"
+
+msgid "sleep_feeling_high"
+msgstr "Отдохнувший"
+
+msgid "sleep_feeling_high_desc"
+msgstr "Полон энергии после хорошего сна"
+
+msgid "sleep_feeling_low"
+msgstr "Сонливый"
+
+msgid "sleep_feeling_low_desc"
+msgstr "Я очень устал, и мне нужно поспать"
+
+msgid "slime"
+msgstr "Слизь"
+
+msgid "slime_node"
+msgstr "Нода слизи"
+
+msgid "slot_active"
+msgstr "Активный"
+
+msgid "slot_chest"
+msgstr "Грудь"
+
+msgid "slot_feet"
+msgstr "Ноги"
+
+msgid "slot_hands"
+msgstr "Руки"
+
+msgid "slot_implant"
+msgstr "Имплант"
+
+msgid "slot_machine"
+msgstr "Игровой автомат"
+
+msgid "slot_machine_desc"
+msgstr "Лучшая инвестиция Ваших денег, заставить лампочки и огни мигать. Использует зеленые токены."
+
+msgid "slot_name"
+msgstr "Слот: ~A"
+
+msgid "slot_need_higher_spec"
+msgstr "Требует более высокую спецификацию"
+
+msgid "slowpox"
+msgstr "Тугодум"
+
+msgid "slowpox_desc"
+msgstr "Я не могу ходить быстрее!"
+
+msgid "slug_pate"
+msgstr "Паштет из улиток"
+
+msgid "smaller_ui"
+msgstr "Меньше UI"
+
+msgid "sneaker_reveal_alert"
+msgstr "Скрытый ~A проник незамеченным на Вашу станцию и проявил себя!"
+
+msgid "soap_maker"
+msgstr "Мылозавод"
+
+msgid "soap_maker_desc"
+msgstr "Производит мыло с помощью простых химических реакций"
+
+msgid "social"
+msgstr "Социальный"
+
+msgid "social_feeling_low"
+msgstr "Изолированный"
+
+msgid "social_feeling_low_desc"
+msgstr "Никто не говорит со мной"
+
+msgid "sound_effecs_volume"
+msgstr "Громкость звуковых эффектов"
+
+msgid "souvenirs"
+msgstr "Сувениры"
+
+msgid "souvenirs_obj"
+msgstr "Магазин сувениров"
+
+msgid "souvenirs_obj_desc"
+msgstr "Подлинные пылинки из астероида. Невероятно."
+
+msgid "spa_tub"
+msgstr "Бассейн"
+
+msgid "spa_tub_desc"
+msgstr "Расслабляющая ванна"
+
+msgid "space_octopus"
+msgstr "Космо-кракен"
+
+msgid "space_pest"
+msgstr "Паразит"
+
+msgid "space_pest_queen"
+msgstr "Королева паразитов"
+
+msgid "space_worm"
+msgstr "Шаи-Хулуд"
+
+msgid "spatials_adjective"
+msgstr "Спатиалс %s"
+
+msgid "spatials_adjective2"
+msgstr "Спатиалс ~A"
+
+msgid "spatials_crew"
+msgstr "Спатиалс"
+
+msgid "spatials_member"
+msgstr "Спатиалс"
+
+msgid "spatials_name"
+msgstr "Спатиалс"
+
+msgid "spatials_shuttle"
+msgstr "Посадочный шаттл"
+
+msgid "spec"
+msgstr "Специализация"
+
+msgid "spec_disallows"
+msgstr "Перестанет работать на:"
+
+msgid "spec_info_demands"
+msgstr "Требования:"
+
+msgid "spec_info_salary"
+msgstr "Зарплата: %d @ui_icon_20px_credits04.png за мин."
+
+msgid "spec_not_ready2"
+msgstr "Чтобы повысить до %s, по крайней мере одно значение должно достигнуть требуемого опыта"
+
+msgid "spec_promote_to"
+msgstr "Повысить до %s"
+
+msgid "specops_desc"
+msgstr "Сотрудники службы безопасности, специализируются на работе с оружием с безжалостной эффективностью."
+
+msgid "specops_spec"
+msgstr "Спецназ"
+
+msgid "speed_n"
+msgstr "Скорость: ~0,2F Парсек/с"
+
+msgid "speed_pause"
+msgstr "Пауза"
+
+msgid "spores"
+msgstr "Споры"
+
+msgid "spores_node"
+msgstr "Нода спор"
+
+msgid "stack_of"
+msgstr "Стэк из %s"
+
+msgid "staff"
+msgstr "Сотрудники"
+
+msgid "staff_gui_basics_panel_demands"
+msgstr "Требования"
+
+msgid "staff_gui_basics_panel_equipment"
+msgstr "Снаряжение"
+
+msgid "staff_gui_basics_panel_vitals"
+msgstr "Наиболее важные части"
+
+msgid "staff_gui_crew_of_none"
+msgstr "Нет назначеного корабля"
+
+msgid "staff_screen"
+msgstr "Сотрудники"
+
+msgid "staff_ui_basics"
+msgstr "@ui_icon_20px_stats_01.png Основы"
+
+msgid "staff_ui_jobs_xp"
+msgstr "@ui_icon_20px_jobs_01.png Работа и Опыт"
+
+msgid "staff_ui_spec"
+msgstr "@ui_icon_20px_xp2.png Специализация"
+
+msgid "staff_view_counter"
+msgstr "Итого %d"
+
+msgid "staff_view_counter_filtered"
+msgstr "Итого %d / Отфильтровано %d"
+
+msgid "stance_is"
+msgstr "Стойка: ~A"
+
+msgid "star"
+msgstr "Звезда"
+
+msgid "star_map"
+msgstr "Звездные карты"
+
+msgid "start_delivery"
+msgstr "@ui_icon_40px_sell.png Доставить"
+
+msgid "start_game"
+msgstr "Начать игру"
+
+msgid "start_research"
+msgstr "Начать исследование"
+
+msgid "station"
+msgstr "Станция"
+
+msgid "station_attrition_warn"
+msgstr "Объекты станции, незавершенные стены или незастроенные напольные плитки, получают повреждения от воздействия атмосферы планеты. Удостоверьтесь, что все комнаты станции полностью разделены стенами или дверями, и что их полы полностью построены с использованием плиток."
+
+msgid "steam_workshop"
+msgstr "Steam Workshop"
+
+msgid "steel"
+msgstr "Сталь"
+
+msgid "steel_node"
+msgstr "Нода стали"
+
+msgid "steel_wall"
+msgstr "Стальная стена"
+
+msgid "stinky_cheese"
+msgstr "Пахучий сыр"
+
+msgid "stock"
+msgstr "Запас:"
+
+msgid "stocks_control"
+msgstr "Контроль запасов"
+
+msgid "storage_area"
+msgstr "Зона хранения"
+
+msgid "storage_area_desc"
+msgstr "Отметьте пол вокруг Вашего местоположения в качестве зоны для хранения различных типов элементов. Он не обеспечивает точный контроль за состоянием запасов."
+
+msgid "storage_area_full"
+msgstr "Область хранения заполнена"
+
+msgid "storage_area_must_single2"
+msgstr "Места хранения не могут делить комнату с другими объектами"
+
+msgid "storage_area_no_empty_floor"
+msgstr "Нет доступных мест для новых видов ресурсов"
+
+msgid "storage_filter_disabled"
+msgstr "Эта область хранения используется в качестве области сбрасывания и не допускает фильтрацию ресурсов"
+
+msgid "storage_status"
+msgstr "Статус хранения:"
+
+msgid "stored_group_clear"
+msgstr "Группа %s удалена"
+
+msgid "stored_group_selected"
+msgstr "Группа %s выбрана"
+
+msgid "stored_group_set"
+msgstr "Сохранено %s"
+
+msgid "stored_scroll"
+msgstr "Сохранено %d"
+
+msgid "striking_warning"
+msgstr "~A бастует на некоторое время, так как их требования к спецификации в настоящее время не выполняются. Они отказываются работать и могут саботировать оборудование станции."
+
+msgid "success"
+msgstr "Удачно"
+
+msgid "sure_to_delete"
+msgstr "Вы уверенны что хотите удалить это %s?"
+
+msgid "sure_to_load"
+msgstr "Вы уверенны что хотите загрузить это %s? Несохранненый прогресс текущей игры будет потерян."
+
+msgid "sure_to_replace"
+msgstr "Вы уверены что хотите заменить это %s?"
+
+msgid "surgeon"
+msgstr "Хирург"
+
+msgid "surgeon_desc"
+msgstr "Хирург спас жизни сотни офицеров, и может творить чудеса в очень короткое время."
+
+msgid "surgeon_table"
+msgstr "Хирургическая капсула"
+
+msgid "surgeon_table_desc"
+msgstr "Позволяет врачам делать операции по пересадке на тяжело больных пациентах. Требует синтетические органы."
+
+msgid "sushi_roll"
+msgstr "Суши и роллы"
+
+msgid "synth_organs"
+msgstr "Синтетические органы"
+
+msgid "system_name"
+msgstr "Система ~A"
+
+msgid "system_name_level"
+msgstr "Система %s (L%d)"
+
+msgid "systems_unlocked"
+msgstr "Теперь можно изучить следующие системы: ~A"
+
+msgid "table"
+msgstr "Таблица"
+
+msgid "take_off_tool"
+msgstr "Снимать"
+
+msgid "talked_feeling"
+msgstr "Поболтал"
+
+msgid "talked_feeling_desc"
+msgstr "Имел интересный разговор"
+
+msgid "tavern_bar"
+msgstr "Бар таверны"
+
+msgid "tavern_bar_desc"
+msgstr "Почувствуйте себя как дома!"
+
+msgid "tavern_table"
+msgstr "Стол таверны"
+
+msgid "tavern_table_desc"
+msgstr "Употребите напиток в семейной атмосфере"
+
+msgid "teleport_group_to_label"
+msgstr "Нажмите, чтобы телепортировать группу в выбранную позицию"
+
+msgid "teleport_to"
+msgstr "Телепорт в"
+
+msgid "teleport_to_label"
+msgstr "Щелкните ~A для телепортации в выбранную позицию"
+
+msgid "tending_workplace_action"
+msgstr "Обслуживается ~A"
+
+msgid "terra_planet"
+msgstr "Земная планета"
+
+msgid "thirst"
+msgstr "Жажда"
+
+msgid "thirst_feeling_high"
+msgstr "Удовлетворенный"
+
+msgid "thirst_feeling_high_desc"
+msgstr "Мне действительно был нужен этот напиток"
+
+msgid "thirst_feeling_low"
+msgstr "Обезвоженный"
+
+msgid "thirst_feeling_low_desc"
+msgstr "Я чувствую головокружение и кажется падаю в обморок"
+
+msgid "thousand_sep"
+msgstr "%1,%2"
+
+msgid "tier1"
+msgstr "Уровень 1"
+
+msgid "tier2"
+msgstr "Уровень 2"
+
+msgid "tier3"
+msgstr "Уровень 3"
+
+msgid "tier4"
+msgstr "Уровень 4"
+
+msgid "tier5"
+msgstr "Уровень 5"
+
+msgid "tier6"
+msgstr "Уровень 6"
+
+msgid "tier7"
+msgstr "Уровень 7"
+
+msgid "tier8"
+msgstr "Уровень 8"
+
+msgid "tier9"
+msgstr "Уровень 9"
+
+msgid "tile_construction_job"
+msgstr "Строительство этажа"
+
+msgid "tile_destruction_job"
+msgstr "Удаление этажа"
+
+msgid "titanium"
+msgstr "Титан"
+
+msgid "titanium_node"
+msgstr "Нода Титана"
+
+msgid "titanium_wall"
+msgstr "Титановая стена"
+
+msgid "toggle_combatmode"
+msgstr "Переключение боевого режима"
+
+msgid "toggle_walls"
+msgstr "Переключение стен"
+
+msgid "tonicx"
+msgstr "ТоникХ"
+
+msgid "toogle_global_recipes"
+msgstr "Включает или выключает доступные рецепты для глобального производства в этом объекте:"
+
+msgid "total_row"
+msgstr "Всего:"
+
+msgid "travel_shop"
+msgstr "Отдел путешествий"
+
+msgid "travel_shop_desc"
+msgstr "Карты галактики и таблетки-переводчики"
+
+msgid "treatment"
+msgstr "Медицинское лечение"
+
+msgid "treatment_desc"
+msgstr "Лечение ~A требует следующих шагов:"
+
+msgid "try_delivery_action"
+msgstr "Попробуйте доставить %s"
+
+msgid "try_delivery_action_error"
+msgstr "Занято, заблокировано или нет места для хранения"
+
+msgid "turret_name"
+msgstr "Турель"
+
+msgid "tutorial_civs_basics"
+msgstr "Репутация, импорт и экспорт"
+
+msgid "tutorial_civs_basics_1"
+msgstr "На экране Расы отображаются все цивилизации, которые вы обнаружили в галактике. Давайте посмотрим, какая информация и действия доступны на этом экране. Щелкните запись Люди в левом столбце."
+
+msgid "tutorial_civs_basics_2"
+msgstr "Выберите вкладку Репутация"
+
+msgid "tutorial_civs_basics_3"
+msgstr "Репутация - это показатель того, насколько Вы симпатичны расе. Меньше 15000 пунктов, и они откажутся заниматься коммерцией с вами. Их посещение Вашей станции не будет мирным. Больше 15000, и Вы сможете заниматься коммерцией, так же они смогут посещать Вас как туристы. Вы можете повысить свою репутацию в посольствах и заботясь о нуждах туристов. Враждебные расы, вместо этого, принимают дань. Высокая репутация приводит к снижению экспортных цен и повышению импортных цен."
+
+msgid "tutorial_civs_basics_4"
+msgstr "Выберите вкладку Экспорт."
+
+msgid "tutorial_civs_basics_5"
+msgstr "Ваша станция может производить десятки продуктов, но все сырьевые ресурсы извлекаются из планет. Большинство планет занято расами. Загрузка извлеченных ресурсов с планет, обойдется Вам в несколько кредитов, и чем больше Ваша репутация, тем ниже цена. Цены на сырьевые ресурсы являются глобальными для данного региона."
+
+msgid "tutorial_civs_basics_6"
+msgstr "Перейдите на вкладку Импорт."
+
+msgid "tutorial_civs_basics_7a"
+msgstr "Производство - это не только Ваши внутренние потребности! Вы также можете продать свой избыток продукции туристам на станции или прямо на планеты, из вкладки Импорт. Здесь вы можете выбрать продукт, планету с требованием к этому продукту, свободный корабль и количество продукта. Затем вы можете оформить заказ на доставку, и корабль отправится на планету, продаст продукт и вернется."
+
+msgid "tutorial_civs_basics_7b"
+msgstr "Это будет основной способ получения кредитов, пока вы не откроете туристические доки и туризм, чаще возвращайтесь на этот экран, чтобы продавать свои излишки. Запасы магазинов и складов не считаются действительным запасом для Вашего внутреннего использования."
+
+msgid "tutorial_civs_title"
+msgstr "Учебное пособие по Расам"
+
+msgid "tutorial_ended"
+msgstr "Учебник закончен"
+
+msgid "tutorial_exit"
+msgstr "@ui_icon_30px_help_02.png"
+
+msgid "tutorial_exit_tooltip"
+msgstr "Выход из текущего урока и вернуться к меню учебника"
+
+msgid "tutorial_galaxy_autopilot"
+msgstr "Автопилот"
+
+msgid "tutorial_galaxy_autopilot_1"
+msgstr "Вручную, посещать планеты для перевозки грузов, было бы очень скучно. По этой причине, космические корабли оснащены автопилотом. Щелкните на подсвеченном корабле, чтобы открыть окно автопилота."
+
+msgid "tutorial_galaxy_autopilot_2"
+msgstr "Это окно автопилота космического корабля. Вы можете добавлять приказы в список, менять их местами, установить длительность парковки, а затем запустить и остановить автопилот.\nДавайте создадим маршрут между обучающей стартовой планетой и Вашей домашней станцией.\nПеретащите подсвеченную иконку Дом."
+
+msgid "tutorial_galaxy_autopilot_4"
+msgstr "Теперь нажмите на кнопку Пуск, чтобы начать маршрут. Корабль будет путешествовать без вмешательства пользователя, автоматически загружая груз и разгружая его, когда он посещает Дом."
+
+msgid "tutorial_galaxy_autopilot_5"
+msgstr "Вот оно! Вы можете изучить другие варианты. Это может быть хорошей идеей, чтобы увеличить время ожидания, в то время как они находятся на станции. Выберите строчку приказа Дом и нажмите на кнопку песочных часов. Это даст больше времени вашим офицерам на отдых."
+
+msgid "tutorial_galaxy_basics"
+msgstr "Основы"
+
+msgid "tutorial_galaxy_basics_1"
+msgstr "Ах, галактика. Так разнообразна для исследования. Это может быть потрясающе! Давайте начнем с малого.\nЭто это вид галактики сверху. Вы можете нажать на звезды, чтобы приблизить эту планетарную систему. На данный момент, только Ваша домашняя система открыта для путешествий. Нажмите здесь."
+
+msgid "tutorial_galaxy_basics_2"
+msgstr "На данном этапе, главная цель в галактике, искать источники сырьевых ресурсов, для Ваших заводов и кухонь. Оверлей ресурсов будет отображать имеющиеся ресурсы планеты, так что Вы сможете запланировать свое исследование и контролировать свое производство."
+
+msgid "tutorial_galaxy_basics_3"
+msgstr "Давайте пройдем учебник по планете. Для того, чтобы оформить заказ прямого путешествия, перетащите выделенный корабль на планету Tutoland. Помните, что вы можете перемещать окна перетаскивая их заголовок, если они блокируют вашу цель."
+
+msgid "tutorial_galaxy_basics_4"
+msgstr "Дождитесь пока корабль заходит на посадку и пришвартуется на орбите вокруг планеты."
+
+msgid "tutorial_galaxy_basics_5"
+msgstr "Давайте исследуем эту планету! Нажмите на Tutoland."
+
+msgid "tutorial_galaxy_basics_6"
+msgstr "Чтобы исследовать планету, нажмите на кнопку Изучить. Вы будете переключены на экран планеты, и cможете начать основной учебник по планете."
+
+msgid "tutorial_galaxy_basics_7"
+msgstr "Все это основа. Убедитесь, что Вы перейдете в раздел Извлечение учебника на планете, а затем попробуйте учебник по автопилоту здесь. Нажмите Меню сейчас."
+
+msgid "tutorial_galaxy_title"
+msgstr "Учебник по галактике"
+
+msgid "tutorial_menu_goals_hint"
+msgstr "Совет: Если Вы выполнили задания учебника, проверьте цели в верхней панели."
+
+msgid "tutorial_planet_basics_1"
+msgstr "Итак, Вы остановились на планете учебник!\nПланеты являются Вашим основным источником ресурсов, поэтому они имеют жизненно важное значение для выживания. Посетите новые планеты, чтобы найти все виды ресурсов\n[DEV]В ПЛАНАХ также упомянуть: расы, туризм, технические маркеры."
+
+msgid "tutorial_planet_basics_2"
+msgstr "Как и на станции, Вы можете прокручивать карту в любое время с помощью клавиш WASD. Увеличение и уменьшение масштаба с помощью колеса мыши."
+
+msgid "tutorial_planet_basics_3"
+msgstr "Для того, чтобы отдавать приказы своим офицерам, Вы можете выбрать их с помощью информационного инструмента, а затем использовать панель заказов в нижней части экрана, чтобы телепортировать их или использовать их активные элементы. Давайте попробуем. Выберите любого офицера с информационной панели."
+
+msgid "tutorial_planet_basics_4"
+msgstr "Панель действий отображается, когда выбранный объект может получать прямые приказы от вас. Для офицера большинство прямых приказов, это дойти до какой-то точки, которая получается от клика правой кнопкой мыши. Другие действия могут отображаться в контекстном меню при использовании правой кнопки мыши, как прямые приказы для выполнения."
+
+msgid "tutorial_planet_basics_5"
+msgstr "Если вы хотите, чтобы ваши сотрудники, могли пройти через непроходимые места, вы всегда можете использовать инструмент телепортации. Обратите внимание на то, что это и другие действия, афишируют назначенные клавиши в подсказке (по умолчанию это T для Телепортации). Используйте клавиатуру чтобы быстро отдавать приказы."
+
+msgid "tutorial_planet_basics_6b"
+msgstr "Мультивыбор полезен для одновременного предоставления заказов нескольким офицерам. Вы можете выбрать нескольких офицеров, перетащив левой кнопкой мыши и нарисовав прямоугольник в области карты. Приказ следовать, телепорт и боевые приказы действительны для избранной группы офицеров."
+
+msgid "tutorial_planet_basics_7b"
+msgstr "Все ваши офицеры вооружены и готовы в автоматическом режиме. Они будут атаковать врагов или исцелять друзей, не ожидая, чтобы им приказали. Но если Вы хотите вручную выбрать свои цели, Вы можете использовать боевые команды в нижней панели действий."
+
+msgid "tutorial_planet_basics_8b"
+msgstr "Наконец, ключи от 1 до 6 (по умолчанию) могут использоваться для сохранения выбранных групп. Выбрав выделение, нажмите, например, Ctrl+1, чтобы сохранить выделение на клавише 1. С этого момента при нажатии клавиши 1 выбор изменяется на то, что Вы сохранили. Когда Вы посещаете планету, Вы сохраняете в группе 1 выбор со всей командой."
+
+msgid "tutorial_planet_extraction"
+msgstr "Добыча"
+
+msgid "tutorial_planet_extraction_1"
+msgstr "Давайте построим экстрактор ресурсов. Эти здания располагаются на поверхности планеты, и будут периодически генерировать ресурсы, которые смогут подобрать Ваши космические корабли. Вы должны строить их вблизи одного или нескольких ресурсных нодов, так чтобы ноды находились внутри зоны влияния экстакторов. Выберите инструмент строительства."
+
+msgid "tutorial_planet_extraction_2"
+msgstr "Теперь нажмите на подсвеченном объекте: Универсальный экстрактор."
+
+msgid "tutorial_planet_extraction_3"
+msgstr "Это здание используется для извлечения ресурсов с планеты. Подсветите название некоторых нодов овощей и фруктов, и щелкните чтобы построить экстрактор. По крайней мере одна нода должна попасть внутрь круга его зоны влияния. Помните, что вы можете выбрать отряд [Tab по умолчанию], а затем телепортировать [T по умолчанию] их рядом для постройки."
+
+msgid "tutorial_planet_extraction_4"
+msgstr "Теперь объект должен быть построен вашими сотрудниками. Давайте подождем, когда они закончат работу. Помните, что Вы можете использовать инструмент телепорта, если они приземлились далеко от объекта незавершенного строительства."
+
+msgid "tutorial_planet_extraction_5"
+msgstr "Отлично! Этот экстрактор теперь будет генерировать фрукты, и они будут храниться локально. Пришвартовав на этой планете космический корабль, он погрузит их в трюм. Используйте, в галактике, функцию автопилота, чтобы автоматизировать доставку до Вашей станции."
+
+msgid "tutorial_planet_extraction_6_dev"
+msgstr "[DEV] Я рекомендую сейчас закончить и перейти к учебнику по автопилоту в экране галактики."
+
+msgid "tutorial_planet_planetarium"
+msgstr "Открытие новых систем"
+
+msgid "tutorial_planet_planetarium_1"
+msgstr "В какой-то момент,  астероид, который вы называете Домом, станет слишком маленьким. Вам понадобятся новые ресурсы и больше посетителей, чтобы ваша станция работала. Способ открытия новых систем - посещение планетария. У каждой обитаемой планеты есть одна. Нажмите рядом, чтобы увидеть планетарий этой планеты."
+
+msgid "tutorial_planet_planetarium_2"
+msgstr "Планетарии содержат местные галактические знания. Как сообщает информационная панель, ваш выбор - получить эти знания. Силой или заплатить. Остерегайтесь последствий! После его открытия, все связанные системы, из системы планет, будут открыты для путешествий."
+
+msgid "tutorial_planet_squad"
+msgstr "Основы и управление группой"
+
+msgid "tutorial_planet_title"
+msgstr "Учебник по планете"
+
+msgid "tutorial_research_basics"
+msgstr "Исследование"
+
+msgid "tutorial_research_basics_1"
+msgstr "Это экран исследований. Очень много технологий в галактике, но не все из них доступны для Вас в самом начале. Вы должны исследовать их, и этот экран позволяет управлять этими исследованиями."
+
+msgid "tutorial_research_basics_2"
+msgstr "Исследование делится на технологические группы. Давайте посмотрим на группу продуктов питания и напитков, нажав на соответствующую кнопку."
+
+msgid "tutorial_research_basics_3"
+msgstr "Мы можем увидеть уровни технологии, для продуктов питания и напитков. Достижение каждого уровня может разблокировать новые рецепты и/или объекты для строительства на станции. Давайте нажмите на кнопку Начать исследование,  чтобы приступить к изучению уровня в качестве текущего исследовательского уровня."
+
+msgid "tutorial_research_basics_4"
+msgstr "Исследование уровня в настоящее время сфокусировано в окне исследований Вашей станции. Но это только экран управления для научно-исследовательских проектов. Кроме того, необходимо создать научно-исследовательскую инфраструктуру на Вашей станции и назначить сотрудников на исследования."
+
+msgid "tutorial_research_basics_5"
+msgstr "Убедитесь, что Вы построили достаточное количество исследовательских столов и включили исследовательскую работу для своих сотрудников с помощью план работ, чтобы получать очки исследований. Когда счетчик очков достигнет требуемого количества, второй уровень будет разблокирован."
+
+msgid "tutorial_research_title"
+msgstr "Учебник по исследованиям"
+
+msgid "tutorial_station_basics"
+msgstr "Основы"
+
+msgid "tutorial_station_basics_1"
+msgstr "Добро пожаловать в The Spatials: Galactology!\nЭто Ваша космическая станция. Точнее это просто начальная аварийная телепортационная комната.\nВаша основная миссия состоит в том, чтобы построить полнофункциональную станцию и защищать её, так чтобы она стала домом для Спатиалсов и туристической меккой для посетителей."
+
+msgid "tutorial_station_basics_2"
+msgstr "Осмотритесь вокруг вашей космической станции с помощью клавиш WASD. Увеличение и уменьшение масштаба с помощью колеса мыши."
+
+msgid "tutorial_station_basics_3_1"
+msgstr "Левая панель имеет инструменты, необходимые для создания объектов и управлением Вашей станции. Первый инструмент является инструментом Информации. Вы всегда можете выбрать этот инструмент, с помощью клавиши Esc."
+
+msgid "tutorial_station_basics_3_2"
+msgstr "Выберите инструмент, а затем кликните левой кнопкой мыши, на любого сотрудника или предмет на станции."
+
+msgid "tutorial_station_basics_4"
+msgstr "Инструмент Информация отображает информацию о выбранном объекте. Он также может предложить дополнительные элементы управления, для изменения аспектов этого объекта, например, как поменять рецепт на кухне.\nЕсли нужный предмет позади другого элемента, то просто нажмите на той же точке один или несколько раз, чтобы цикл выбора прошел через все пункты в этой точке."
+
+msgid "tutorial_station_building"
+msgstr "Строительство станции"
+
+msgid "tutorial_station_building_1"
+msgstr "Станция состоит из комнат. Они всегда должны быть окружены стенами или дверями, и их пол должен быть полностью вымощен. Только когда эти условия соблюдены, игра считает, что это действительная комната, и только тогда будет возможно построить большую часть объектов внутри нее.\nВыберите инструмент для пола"
+
+msgid "tutorial_station_building_10"
+msgstr "Ну! Комната почти готова. Вы должны закрыть последнюю плитку в углу, но если Вы построите стену, невозможно будет войти или выйти. Нужна дверь. Выберите инструмент объекта."
+
+msgid "tutorial_station_building_11"
+msgstr "Инструмент объекта отображает все доступные объекты для сборки. Сначала выберите категорию. Нажмите на категорию безопасности."
+
+msgid "tutorial_station_building_12"
+msgstr "Теперь щелкните по выделенному объекту: дверь."
+
+msgid "tutorial_station_building_13"
+msgstr "Постройте дверь, нажав на отмеченную плитку. Вы можете повернуть дверь с помощью клавиш Q или E, или зажать и перетаскивать мышь, когда Вы нажмёте для создания объекта."
+
+msgid "tutorial_station_building_14"
+msgstr "Точно так же, как настенные или напольные инструменты, инструмент объекта только рисует плоскость, и объект должен быть построен вашими офицерами. Подождем, пока они закончат."
+
+msgid "tutorial_station_building_15"
+msgstr "Комната является закрытой и функциональной. Инструменты покажут это, покрасив пол в зеленый оттенок.  Если комната теряет напольную плитку, или стена разрушена, и она находится снаружи, тогда её объекты начнут получать повреждения и могут сломаться."
+
+msgid "tutorial_station_building_16"
+msgstr "Пустая комната не очень полезна. В следующем учебном пособии описаны некоторые основные объекты и способы создания продуктов."
+
+msgid "tutorial_station_building_2"
+msgstr "Инструмент «Пол» рисует плоскость с выбранной землей при перетаскивании левой кнопкой мыши.\nПеретащите левую кнопку мыши между двумя маркерами."
+
+msgid "tutorial_station_building_2_b"
+msgstr "Подсказка: вы можете нажать Shift, чтобы активировать ластик. И нажмите Esc во время перетаскивания мыши, чтобы отменить операцию."
+
+msgid "tutorial_station_building_3"
+msgstr "Инструмент пола просто рисует план. Для того, чтобы получить фактический этаж, для ваших офицеров создается работа. Подождем их завершения."
+
+msgid "tutorial_station_building_4"
+msgstr "Готово! Но комната не просто пол, им также нужны стены. Выберите настенный инструмент"
+
+msgid "tutorial_station_building_5"
+msgstr "Давайте сделаем чертеж для стен вокруг пола.\nНажмите левой кнопкой мыши между двумя маркерами."
+
+msgid "tutorial_station_building_5_b"
+msgstr "Подсказка: вы можете нажать Shift, чтобы активировать ластик. И нажмите Esc во время перетаскивания мыши, чтобы отменить операцию."
+
+msgid "tutorial_station_building_6"
+msgstr "Теперь другая сторона. Перетащите левую кнопку мыши между двумя маркерами."
+
+msgid "tutorial_station_building_7"
+msgstr "Еще одна сторона. Перетащите левую кнопку мыши между двумя маркерами."
+
+msgid "tutorial_station_building_8"
+msgstr "И последний сегмент стены. Мы собираемся оставить одну пустую черепицу, чтобы потом построить дверь. Перетащите левую кнопку мыши между двумя маркерами."
+
+msgid "tutorial_station_building_9"
+msgstr "Подождем, пока стены будут построены."
+
+msgid "tutorial_station_object_tool"
+msgstr "Инструмент объектов"
+
+msgid "tutorial_station_object_tool_1"
+msgstr "Только комнат не достаточно, чтобы обслуживать сотрудников и посетителей. Давайте построим некоторые объекты прямо сейчас.\nВыберите инструмент Построить объекты."
+
+msgid "tutorial_station_object_tool_2"
+msgstr "Инструмент объектов показывает все разблокированные объекты, которые доступны для строительства на станции. Сначала надо выбрать категорию объекта. Нажмите на категории Еда и напитки."
+
+msgid "tutorial_station_object_tool_3"
+msgstr "Теперь нажмите на подсвеченном объекте: Базовая кухня."
+
+msgid "tutorial_station_object_tool_4"
+msgstr "Это Базовая кухня, и она может быть использована для приготовления дешевой и простой пищи. Чтобы построить, щелкните на выделенной клетки этажа. Вы можете вращать объект, перед постройкой конструкции, клавишами [Q] и [E] или с помощью мыши, как только Вы нажмете и удержите левую кнопку, и передвигая мышь в разные стороны.\nПостройте кухню в подсвеченной зоне."
+
+msgid "tutorial_station_object_tool_5"
+msgstr "Так же, как и инструмент этажа, инструмент объекта только ставит план, и объект, должен быть построен Вашими сотрудниками. Давайте подождем, когда они закончат."
+
+msgid "tutorial_station_object_tool_6"
+msgstr "Но сотрудники и посетители не будут употреблять еду и напитки на полу. Для этого необходимо построить стол, чтобы они могли насладиться едой. Выберите Столовый стол и постройте его на подсвеченной зоне. Давайте подождем, когда они закончат."
+
+msgid "tutorial_station_object_tool_7"
+msgstr "И теперь у нас есть начальные базовые условия для еды и напитков. Но мы все равно должны настроить производственные приказы на нашей кухне, и ввести понятие запаса. Подробнее рассмотривается в учебнике по производству."
+
+msgid "tutorial_station_production"
+msgstr "Производство"
+
+msgid "tutorial_station_production_1"
+msgstr "Многие сырьевые ресурсы должны быть обработаны, прежде чем они смогут быть использованы Вашими сотрудниками. Как и большинство других задач на станции, Ваши сотрудники должны иметь надлежащую работу и возможность работать на кухне. Нажмите на инструмент План работ."
+
+msgid "tutorial_station_production_2"
+msgstr "Здесь вы можете увидеть ваших сотрудников, перечисленные списком на левой стороне, со строкой столбцов справа, одной ячейкой для каждого сотрудника и комбинации работ. Убедитесь, что по крайней мере у одного сотрудника включено Готовка и нажмите кнопку Далее."
+
+msgid "tutorial_station_production_3_1"
+msgstr "Теперь давайте настроим нашу кухню, чтобы приготовить еду. Выделите ее инструментом Информации."
+
+msgid "tutorial_station_production_3_2"
+msgstr "Подсказка: Нажмите Esc в любое время на станции, чтобы включить информационный инструмент, а затем нажмите на любой объект станции, чтобы увидеть его свойства."
+
+msgid "tutorial_station_production_4"
+msgstr "Это панель информации для Базовой кухни. Она содержит некоторую общую информацию, как на вкладке Наиболее важные части, и конкретную информацию, как на вкладке Завод.\nПерейдите на вкладку Завод, чтобы продолжить."
+
+msgid "tutorial_station_production_5"
+msgstr "Вкладка Завод позволяет добавлять новые производственные заказы для выбранной кухни. По умолчанию, очередь производства не имеет заказов, и кухня отключена. Давайте создадим новый заказ. Нажмите на кнопку Создание заказа."
+
+msgid "tutorial_station_production_5_2"
+msgstr "Панель информации завода изменилась на создание заказа. Сначала выберите рецепт, который необходимо произвести. Для этого нажмите кнопку под Выберите рецепт и назначьте рецепт Основные рационы."
+
+msgid "tutorial_station_production_5_3"
+msgstr "Теперь нам нужно установить количество, сколько раз делать этот рецепт. Кликните на метку номера и введите 3 в ответ на запрос."
+
+msgid "tutorial_station_production_5_4"
+msgstr "Наш заказ теперь настроен и готов для создания. Нажмите кнопку Добавить в очередь, чтобы создать заказ и добавить его в очередь производства кухни."
+
+msgid "tutorial_station_production_6"
+msgstr "Ваши сотрудники теперь начнут готовить рационы, до тех пор, как у них есть все необходимые ресурсы, или у них выбрана профессия приготовления пищи, или очередь производства имеет заказы.\nДавайте подождем, когда закончат производить одну порцию."
+
+msgid "tutorial_station_production_7"
+msgstr "Вот! Это первый рацион приготовленный на этом астероиде когда-либо. Но заставлять пол пищей не годиться. Продолжим с учебником по запасам, чтобы узнать об объектах, которые могут хранить запасы ресурсов."
+
+msgid "tutorial_station_stocks"
+msgstr "Запасы"
+
+msgid "tutorial_station_stocks_1"
+msgstr "Хранить груды ресурсов на полу конечно удобно, но это помешает настроить логистику. По этой причине есть объекты, которые хранят определенный запас ресурсов. Некоторые из них могут даже затребовать такие запасы для работы.\nДавайте построим торговца едой.\nВыберите инструмент Построить объекты."
+
+msgid "tutorial_station_stocks_10"
+msgstr "Теперь выберите категорию Оборудование."
+
+msgid "tutorial_station_stocks_11"
+msgstr "Подсвеченный объект является поддоном. Поддоны управляют запасами для одного вида ресурса, так же как и магазины, но они могут быть использованы для логистики. Например, если построить поддон рядом с заводом, он автоматически сделает запасы доступными для него. Используйте поддоны, если Вы хотите четкого контроля запасов ресурса."
+
+msgid "tutorial_station_stocks_12"
+msgstr "Подсвеченный объект представляет собой область хранения. Когда вы строите один в комнате, он превращает пол этой комнаты в область для элементов и ресурсов. Вы также можете решить, какой вид ресурсов может быть сохранен в этой области, но без указания количества запасов. Используйте эти зоны для хранения основной массы ресурсов."
+
+msgid "tutorial_station_stocks_12b"
+msgstr "Вы также можете поставлять и продавать свою продукцию непосредственно на другие планеты в галактике. Проверьте вкладку Импорт на экране Расы."
+
+msgid "tutorial_station_stocks_13b"
+msgstr "Это основные этапы строительства, производства и логистики. Но ваш успех также зависит от извлечения ресурсов и продвижения исследований. Ознакомьтесь с учебными пособиями для галактики и экранами исследований, открыв их, используя кнопки на верхней левой панели инструментов."
+
+msgid "tutorial_station_stocks_2"
+msgstr "Выберите категорию Еда и напитки."
+
+msgid "tutorial_station_stocks_3"
+msgstr "Теперь щелкните на подсвеченном объекте: Столовая еда."
+
+msgid "tutorial_station_stocks_4"
+msgstr "Кликните на подсвеченной зоне, чтобы построить."
+
+msgid "tutorial_station_stocks_5"
+msgstr "Подождите, пока он будет построен."
+
+msgid "tutorial_station_stocks_6_1"
+msgstr "Теперь переключитесь на инструмент Информация и выберите торговца едой."
+
+msgid "tutorial_station_stocks_6_2"
+msgstr "Подсказка: Нажмите Esc в любое время на станции, чтобы включить инструмент Информация, а затем нажмите на любой объект станции, чтобы увидеть его свойства."
+
+msgid "tutorial_station_stocks_7"
+msgstr "Выберите панель Контроль запасов."
+
+msgid "tutorial_station_stocks_8"
+msgstr "На этой панели можно настроить параметры для системы учета запасов у этого продавца пищи. Он уже установлен на запас рационов по умолчанию, но вы можете изменить это, если Вы желаете."
+
+msgid "tutorial_station_stocks_9"
+msgstr "Этот продовольственный магазин теперь начнет запасась рационы. Ваши офицеры будут доставлять пайки до установленной максимальной суммы. Когда Вы располагаетесь далеко от своих производственных центров, объекты складирования помогают эффективно распределять ваши товары и ресурсы. Они также позволяют продавать продукты посетителям, как только Вы разрешаете их на своей станции.\nДавайте посмотрим на еще два из них.\nВыберите инструмент «Объект сборки»."
+
+msgid "tutorial_station_title"
+msgstr "Учебник по станции"
+
+msgid "tutorial_station_vitals"
+msgstr "Наиболее важные части"
+
+msgid "tutorial_station_vitals_1"
+msgstr "Основная задача станции поддерживать Ваших сотрудников живыми и здоровыми. Они будут работать здесь и вернуться сюда после исследования галактики. Они должны удовлетворять свои жизненно важные функции. Давайте посмотрим на них. Выберите инструмент Информация, затем щелкните на имя сотрудника (нажмите несколько раз, если что-то перед ними)."
+
+msgid "tutorial_station_vitals_2"
+msgstr "Выберите панель Наиболее важные части, если она еще не выбрана.\nЭто панель отображает все жизненно важные функции выбранного сотрудника. Когда доступны пища, напитки, зоны отдыха и досуга, и другие системы, Вы позволяете Вашим сотрудникам, пополнять и устранять нужды, отображенные полосками. Не позволяйте им быть слишком низкими, иначе это повлияет на их разум или даже вызовет повреждение тела."
+
+msgid "tutorial_station_vitals_4"
+msgstr "Мышление сотрудника может быть под влиянием многих видов вещей. Например быть голодным, может не только причинить Вашему сотруднику боль, но и вызовет отрицательное чувство. Вы видите все ощущения, перечисленные под полосками. Если полоска мышления Вашего сотрудника станет слишком низкой, то он может потерять волю к жизни, или стать агрессивным.\nПерейдите к следующему учебнику, который обучит строительству кухни, чтобы заботиться о Ваших сотрудниках."
+
+msgid "tutorial_waiting"
+msgstr "Ожидание..."
+
+msgid "type_new_max_stock"
+msgstr "Максимальное количество запасов для хранения в этом объекте"
+
+msgid "type_officer_name"
+msgstr "Введите имя сотрудника:"
+
+msgid "type_restock_at_stock"
+msgstr "Пополнение запасов начнется, когда количество запасов будет равной или ниже этого значения, до заполнения."
+
+msgid "type_ship_name"
+msgstr "Введите название судна:"
+
+msgid "ugc_but_create"
+msgstr "Создать"
+
+msgid "ugc_but_update"
+msgstr "Обновить"
+
+msgid "ugc_change_desc"
+msgstr "Список изменений (вы можете скопировать и вставить из внешнего редактора)"
+
+msgid "ugc_changelog"
+msgstr "Обновление списка изменений:"
+
+msgid "ugc_create_new_mod"
+msgstr "Создать новый мод"
+
+msgid "ugc_desc"
+msgstr "Описание:"
+
+msgid "ugc_entry_desc_req"
+msgstr "Требуется описание"
+
+msgid "ugc_entry_desc_too_log"
+msgstr "Описание слишком длинное"
+
+msgid "ugc_entry_title_req"
+msgstr "Необходимо указать название"
+
+msgid "ugc_entry_title_too_log"
+msgstr "Название слишком длинное"
+
+msgid "ugc_error_conn"
+msgstr "Ошибка при подключении к Steamworks"
+
+msgid "ugc_error_logged"
+msgstr "Должен быть зарегистрирован в Steam, чтобы выполнить это действие"
+
+msgid "ugc_error_priv"
+msgstr "Не хватает привилегий текущей учетной записи пользователя в Steam"
+
+msgid "ugc_error_timeout"
+msgstr "Тайм-аут при соединении с Steamworks"
+
+msgid "ugc_folder"
+msgstr "Текущая папка:"
+
+msgid "ugc_folder_desc"
+msgstr "Выберите папку, содержащую файлы мода"
+
+msgid "ugc_image"
+msgstr "Картинка:"
+
+msgid "ugc_mod_desc"
+msgstr "Описание мода (Вы можете скопировать и вставить из внешнего редактора)"
+
+msgid "ugc_mod_title"
+msgstr "Название мода"
+
+msgid "ugc_my_workshop"
+msgstr "Мой Workshop"
+
+msgid "ugc_tag_translation"
+msgstr "Перевод"
+
+msgid "ugc_tags"
+msgstr "Ключевые слова:"
+
+msgid "ugc_title"
+msgstr "Заглавие:"
+
+msgid "ugc_user_warning"
+msgstr "Это инструмент для разработчиков модов. Чтобы установить и активировать моды для ваших игр с помощью панели Моды в окне Новая игра."
+
+msgid "ugc_valid_desc_req"
+msgstr "Требуется описание"
+
+msgid "ugc_valid_desc_too_long"
+msgstr "Описание слишком длинное"
+
+msgid "ugc_valid_folder_req"
+msgstr "Папка является обязательной"
+
+msgid "ugc_valid_image_req"
+msgstr "Картинка является обязательной"
+
+msgid "ugc_valid_title_req"
+msgstr "Требуется название"
+
+msgid "ugc_valid_title_too_long"
+msgstr "Название слишком длинное"
+
+msgid "ugc_vis"
+msgstr "Видимость:"
+
+msgid "ugc_vis_friends"
+msgstr "Друзья"
+
+msgid "ugc_vis_private"
+msgstr "Частное"
+
+msgid "ugc_vis_public"
+msgstr "Публичное"
+
+msgid "ugc_warn_already"
+msgstr "Вы создаете или загружаете мод, пожалуйста, подождите"
+
+msgid "ui_color"
+msgstr "Цвет UI"
+
+msgid "ui_scale"
+msgstr "Размер UI"
+
+msgid "unassigned"
+msgstr "Неназначенно"
+
+msgid "unavailable"
+msgstr "Недоступен"
+
+msgid "uncompensated"
+msgstr "Некомпенсированный"
+
+msgid "universal_printer"
+msgstr "Универсальный принтер"
+
+msgid "universal_printer_desc"
+msgstr "Печатает все, что требуется для отдыха и развлечений"
+
+msgid "unlocked"
+msgstr "Разблокировано"
+
+msgid "unowned"
+msgstr "Бесхозный"
+
+msgid "unowned_desc"
+msgstr "Этот объект не имеет владельца и может быть использован всеми."
+
+msgid "unowned_keep"
+msgstr "Сделать этот объект доступным всем"
+
+msgid "v_xp"
+msgstr "%d опыта"
+
+msgid "vaccine"
+msgstr "Вакцина"
+
+msgid "valid_sources"
+msgstr "Допустимые источники:"
+
+msgid "value_higher_min"
+msgstr "Значение должно быть выше, чем минимальное количество"
+
+msgid "value_lower_max"
+msgstr "Значение должно быть меньше, чем максимальное количество"
+
+msgid "value_not_number"
+msgstr "Значение не число"
+
+msgid "value_too_high"
+msgstr "Значение слишком большое"
+
+msgid "value_too_high_res"
+msgstr "Максимальный размер стека для %s равен %d"
+
+msgid "value_too_low"
+msgstr "Значение слишком низкое"
+
+msgid "vegan_feast"
+msgstr "Вегетарианское пиршерство"
+
+msgid "video"
+msgstr "Графика"
+
+msgid "video_restart"
+msgstr "The Spatials необходимо перезапустить, чтобы изменения вступили в силу."
+
+msgid "visit_thespatials_com"
+msgstr "Посетить thespatials.com"
+
+msgid "visitor_bored"
+msgstr "Скучающий"
+
+msgid "visitor_bored_desc"
+msgstr "Где развлечения?"
+
+msgid "visitor_departing_feeling"
+msgstr "Отбывает"
+
+msgid "visitor_departing_feeling_desc"
+msgstr "Ухожу домой"
+
+msgid "visitor_dock"
+msgstr "Док-станция для посетителей"
+
+msgid "visitor_dock_desc"
+msgstr "Космические корабли посетителей могут стыковаться здесь"
+
+msgid "visitor_docking_disabled"
+msgstr "Не позволяет стыковаться здесь кораблям посетителям"
+
+msgid "visitor_docking_enabled"
+msgstr "Разрешает стыковаться здесь кораблям посетителям"
+
+msgid "visitor_gambler"
+msgstr "Азартный игрок"
+
+msgid "visitor_gambler_desc"
+msgstr "Один. Больше. По кругу. Пока мне не нужно спать... Я думаю, что мне нужен крепкий напиток."
+
+msgid "visitor_gourmet"
+msgstr "Гурман"
+
+msgid "visitor_gourmet_desc"
+msgstr "Я заинтересован в еде и напитках предложенными этой станцией"
+
+msgid "visitor_holiday"
+msgstr "Отпуск"
+
+msgid "visitor_holiday_desc"
+msgstr "Я надеюсь, что у меня есть достаточно времени, чтобы всё успеть!"
+
+msgid "visitor_mallrat"
+msgstr "Блошиный рынок"
+
+msgid "visitor_mallrat_desc"
+msgstr "Я хотел бы здесь жить!"
+
+msgid "visitor_opinion_vital"
+msgstr "Мнение"
+
+msgid "visitor_party"
+msgstr "Тусовщик"
+
+msgid "visitor_party_desc"
+msgstr "ФИЕЕЕЕЕЕСТАААААА!!!"
+
+msgid "visitor_researcher"
+msgstr "Исследователь"
+
+msgid "visitor_researcher_desc"
+msgstr "Ищет знания"
+
+msgid "visitor_shopper"
+msgstr "Покупатель"
+
+msgid "visitor_shopper_desc"
+msgstr "Я ищу лучшие продукты по лучшей цене"
+
+msgid "visitor_sick"
+msgstr "Больной"
+
+msgid "visitor_sick_desc"
+msgstr "Нуждается в оказании медицинской помощи"
+
+msgid "visitor_timer_feeling"
+msgstr "Поситители"
+
+msgid "visitor_timer_feeling_desc"
+msgstr "Вот только временно"
+
+msgid "visitor_tired"
+msgstr "Уставший"
+
+msgid "visitor_tired_desc"
+msgstr "Просто нужно отдохнуть и позаботиться о себе"
+
+msgid "visitor_usage"
+msgstr "Используется посетителями"
+
+msgid "visitor_wasted"
+msgstr "Зависимый"
+
+msgid "visitor_wasted_desc"
+msgstr "До ближайшего кабака или бара, никогда не оглядываться назад..."
+
+msgid "vital_factors"
+msgstr "Жизненно важные факторы:"
+
+msgid "vital_satisfy_desc"
+msgstr "Удовлетворяя ~A"
+
+msgid "vitals"
+msgstr "Наиболее важные части"
+
+msgid "vitamin_water"
+msgstr "Минеральная вода"
+
+msgid "volcanic_planet"
+msgstr "Вулканическая планета"
+
+msgid "vomit_from"
+msgstr "Рвотная масса от ~A"
+
+msgid "vsync"
+msgstr "VSync"
+
+msgid "vsync_default"
+msgstr "По умолчанию"
+
+msgid "vsync_late"
+msgstr "Late"
+
+msgid "vsync_off"
+msgstr "Выкл"
+
+msgid "vsync_on"
+msgstr "Вкл"
+
+msgid "walk_group_to_label"
+msgstr "Нажмите, чтобы группа переместилась в выбранную позицию"
+
+msgid "walk_here"
+msgstr "Идти сюда"
+
+msgid "walk_order_desc"
+msgstr "Приказ идти"
+
+msgid "walk_to"
+msgstr "Идти к"
+
+msgid "walk_to_label"
+msgstr "Щелкнуть ~A чтобы идти к выбранной позиции"
+
+msgid "walkable"
+msgstr "Проходная"
+
+msgid "wall_construction_job"
+msgstr "Строительство стен"
+
+msgid "wall_destruction_job"
+msgstr "Уничтожение стен"
+
+msgid "wallet"
+msgstr "Бумажник"
+
+msgid "walls_build_info"
+msgstr "Нажмите и перетащите линию, чтобы нарисовать чертеж стены, или нажмите, чтобы нарисовать плитку пола. Вы можете нажать Esc во время перетаскивания, чтобы отменить линию."
+
+msgid "walls_tool"
+msgstr "Строительство стен"
+
+msgid "warn_autopilot_no_need_home"
+msgstr "Нет необходимости добавлять заказы на автопилот, чтобы вернуться на базу, он автоматически вернется, когда корабль будет заполнен или когда экипаж нуждается в нем. Принудительные приказы вернуться на станцию всегда будут ждать, пока экипаж остановится, и они могут замедлить работу автопилота."
+
+msgid "warn_no_officer_dock"
+msgstr "Один из ваших кораблей вернулся на базу, но не имеет назначенного док-станции, и поэтому телепортировал свою команду и груз к краю карты. Создайте и назначьте док, чтобы избежать этого."
+
+msgid "warn_no_shop"
+msgstr "Не для магазина, полученние бесплатно"
+
+msgid "water"
+msgstr "Вода"
+
+msgid "water_leak"
+msgstr "Разлитая вода"
+
+msgid "water_node"
+msgstr "Нода воды"
+
+msgid "welcome_emp"
+msgstr "Добро пожаловать!"
+
+msgid "window"
+msgstr "Окно"
+
+msgid "window_size"
+msgstr "Размер окна"
+
+msgid "work_on_action"
+msgstr "Работает над ~A"
+
+msgid "working"
+msgstr "За работой"
+
+msgid "working_label"
+msgstr "Работает: ~A"
+
+msgid "world_enlargement"
+msgstr "Мировое расширение"
+
+msgid "world_enlargement_desc"
+msgstr "Все огромное!"
+
+msgid "xeno_egg"
+msgstr "Яйца ксеноморфа"
+
+msgid "xeno_egg_desc"
+msgstr "Уничтожьте это яйцо до того, как таймер события достигнет 0, чтобы избежать размножения ксеноморфов"
+
+msgid "xenomorph"
+msgstr "Ксеноморф"
+
+msgid "xray"
+msgstr "Рентгенография"
+
+msgid "xray_desc"
+msgstr "Создает внутренние образы тела пациента, чтобы помочь с медицинским диагнозом."
+
+msgid "yes"
+msgstr "Да"
+
+msgid "zoom_in"
+msgstr "Приблизить"
+
+msgid "zoom_out"
+msgstr "Отдалить"
+
