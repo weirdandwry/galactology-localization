@@ -1,5 +1,5 @@
 return {
-    name = "Español",
+    name = "Español [Built-in]",
     description = "Traducción al Español.",
     api_version = 4,
     -- please use ISO 639-1 plus country code if required

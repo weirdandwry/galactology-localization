@@ -1,5 +1,5 @@
 return {
-    name = "Türkçe",
+    name = "Türkçe [Built-in]",
     description = "Türkçe çeviri.",
     api_version = 4,
     -- incomplete

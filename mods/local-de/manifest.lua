@@ -1,5 +1,5 @@
 return {
-    name = "Deutsch",
+    name = "Deutsch [Built-in]",
     description = "Deutsche Übersetzung.",
     api_version = 4,
     -- incomplete
