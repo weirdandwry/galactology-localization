@@ -34,3 +34,105 @@ msgstr "The Spatials are back with Galactology! Design, build and protect your c
 
 msgid "web_workshop_1"
 msgstr "Browse and subscribe to mods created by the community for The Spatials: Galactology."
+
+msgid "com.weirdandwry.galactology.achievement.chef_name"
+msgstr "Chef"
+
+msgid "com.weirdandwry.galactology.achievement.brewer_name"
+msgstr "Brewer"
+
+msgid "com.weirdandwry.galactology.achievement.builder_name"
+msgstr "Builder"
+
+msgid "com.weirdandwry.galactology.achievement.nothingwasted_name"
+msgstr "Nothing wasted"
+
+msgid "com.weirdandwry.galactology.achievement.disco_name"
+msgstr "Disco"
+
+msgid "com.weirdandwry.galactology.achievement.popular_name"
+msgstr "Popular"
+
+msgid "com.weirdandwry.galactology.achievement.wedeliver_name"
+msgstr "We deliver"
+
+msgid "com.weirdandwry.galactology.achievement.provider_name"
+msgstr "Provider"
+
+msgid "com.weirdandwry.galactology.achievement.er_name"
+msgstr "ER"
+
+msgid "com.weirdandwry.galactology.achievement.wateringhole_name"
+msgstr "Watering hole"
+
+msgid "com.weirdandwry.galactology.achievement.farandwide_name"
+msgstr "Far and wide"
+
+msgid "com.weirdandwry.galactology.achievement.bestdefense_name"
+msgstr "Best defense"
+
+msgid "com.weirdandwry.galactology.achievement.capitalism_name"
+msgstr "Capitalism"
+
+msgid "com.weirdandwry.galactology.achievement.starfleet_name"
+msgstr "Starfleet"
+
+msgid "com.weirdandwry.galactology.achievement.masters_name"
+msgstr "Masters"
+
+msgid "com.weirdandwry.galactology.achievement.pretaporter_name"
+msgstr "Prêt-à-porter"
+
+msgid "com.weirdandwry.galactology.achievement.plundering_name"
+msgstr "Plundering"
+
+msgid "com.weirdandwry.galactology.achievement.chef_desc"
+msgstr "Work those kitchens, hard!"
+
+msgid "com.weirdandwry.galactology.achievement.brewer_desc"
+msgstr "Nothing micro about this brewery"
+
+msgid "com.weirdandwry.galactology.achievement.builder_desc"
+msgstr "If you build it, they will come"
+
+msgid "com.weirdandwry.galactology.achievement.nothingwasted_desc"
+msgstr "Tastes like chicken"
+
+msgid "com.weirdandwry.galactology.achievement.disco_desc"
+msgstr "The good kind of fever"
+
+msgid "com.weirdandwry.galactology.achievement.popular_desc"
+msgstr "It was cool before all those tourists showed up"
+
+msgid "com.weirdandwry.galactology.achievement.wedeliver_desc"
+msgstr "Got to keep those stocks healthy"
+
+msgid "com.weirdandwry.galactology.achievement.provider_desc"
+msgstr "The galaxy is addicted to your products"
+
+msgid "com.weirdandwry.galactology.achievement.er_desc"
+msgstr "Scrubs are not allowed here"
+
+msgid "com.weirdandwry.galactology.achievement.wateringhole_desc"
+msgstr "Let's drink until sunrise"
+
+msgid "com.weirdandwry.galactology.achievement.farandwide_desc"
+msgstr "On the farthest reaches of the galaxy"
+
+msgid "com.weirdandwry.galactology.achievement.bestdefense_desc"
+msgstr "Is offense."
+
+msgid "com.weirdandwry.galactology.achievement.capitalism_desc"
+msgstr "Selling you what you didn't know you didn't need"
+
+msgid "com.weirdandwry.galactology.achievement.starfleet_desc"
+msgstr "To boldly use not once but twice this quote in the game"
+
+msgid "com.weirdandwry.galactology.achievement.masters_desc"
+msgstr "Got an A!"
+
+msgid "com.weirdandwry.galactology.achievement.pretaporter_desc"
+msgstr "Best dressed crew in the galaxy"
+
+msgid "com.weirdandwry.galactology.achievement.plundering_desc"
+msgstr "The spoils of war are yours"
