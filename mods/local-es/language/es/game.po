@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-09 18:08+0000\n"
-"PO-Revision-Date: 2018-02-09 18:08+0000\n"
-"Last-Translator: Carlos <info@weirdandwry.com>\n"
+"PO-Revision-Date: 2018-02-09 18:59+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: Spanish "
 "<http://translate.weirdandwry.com/projects/galactology/game/es/>\n"
 "Language: es\n"
@@ -7678,3 +7678,190 @@ msgstr "%d uni."
 
 msgid "ceilingshield_1"
 msgstr "Techo escudo"
+
+msgid "ceilingshield_desc"
+msgstr "Crea un pequeño escudo al detectar un enemigo, con tiempo de espera."
+
+msgid "ceilingturret_1"
+msgstr "Torreta básica de techo"
+
+msgid "ceilingturret_2"
+msgstr "Torreta mejorada de techo"
+
+msgid "ceilingturret_3"
+msgstr "Torreta avanzada de techo"
+
+msgid "civ_ui_resources"
+msgstr "@ui_icon_30px_buy.png Recursos"
+
+msgid "crew_label"
+msgstr "Tripulación:"
+
+msgid "crew_value"
+msgstr "%d slots"
+
+msgid "dock_needs_space"
+msgstr "Objetos demasiado cercanos"
+
+msgid "enable_critical_speed"
+msgstr "Alertas críticas cambian la velocidad de juego a 1x"
+
+msgid "event_lactian_spam_warn"
+msgstr ""
+"La Iglesia de Lactus, una nueva secta galáctica que adora una misteriosa "
+"entidad láctea, están proselitizando en tu estación. De momento solo parecen "
+"traer octavillas (realmente?). Haz lo que quieras con ellos, o espera a que "
+"se cansen."
+
+msgid "event_raid_alert"
+msgstr "¡Un grupo de invasores ha llegado! ~A está atacando nuestra estación!"
+
+msgid "event_raid_retaliate_warn"
+msgstr ""
+"%s se quieren vengar! Un comando de asalto de %s se dirige a la estación. "
+"Prepárate!"
+
+msgid "event_raid_warn4c"
+msgstr ""
+"Hemos detectado un comando %s aproximándose desde %s a la estación. "
+"Prepárate!"
+
+msgid "export_rates_desc"
+msgstr ""
+"Estos son los precios que vas a pagar por extraer recursos de los planetas "
+"de la civ."
+
+msgid "facilities_tier_9b"
+msgstr "Seguridad robótica"
+
+msgid "filter_ship_named"
+msgstr "Nave: %s"
+
+msgid "fire_officer"
+msgstr "Despedir oficial"
+
+msgid "goal_bartender2_desc"
+msgstr ""
+"Tus barman han de servir 420 bebidas en el bar. Pero realmente las drogas no "
+"son la respuesta al universo."
+
+msgid "goal_bartender2_title"
+msgstr "Sirve 420 bebidas en el bar"
+
+msgid "goal_consumerism2_desc"
+msgstr ""
+"Vende 500 unidades a visitantes, utilizando objetos tienda. Solo los "
+"productos de consumismo cuentan, otros vitales como la comida no cuentan."
+
+msgid "goal_consumerism2_title"
+msgstr "Vende 500 productos a visitantes"
+
+msgid "goal_consumerism3_desc"
+msgstr ""
+"Vende 3000 cosas a visitantes usando los objetos de tienda. Sólo los "
+"productos de consumo cuentan, los productos vitales como la comida no "
+"contarán."
+
+msgid "goal_consumerism3_title"
+msgstr "Vende 3000 cosas a los visitantes"
+
+msgid "goal_doctor2_desc"
+msgstr "Tus médicos deben cuidar a 200 pacientes en la cama del hospital"
+
+msgid "goal_doctor2_title"
+msgstr "Cura a 200 pacientes"
+
+msgid "goal_itemprod3_desc"
+msgstr "Construye 200 ítems de cualquier tipo y nivel."
+
+msgid "goal_itemprod3_title"
+msgstr "Crea 200 ítems"
+
+msgid "goal_planet5_desc"
+msgstr "Aterriza al menos 3 veces en planetas de nivel 30 o superior."
+
+msgid "goal_planet5_title"
+msgstr "Aterriza 3 veces en planetas de nivel 30"
+
+msgid "goal_recycle3_desc"
+msgstr ""
+"Recicla 150 cadáveres. Asegúrate de que tienes al menos una recicladora y "
+"que el trabajo de limpieza está habilitado para algunos de tus oficiales. RIP"
+
+msgid "goal_recycle3_title"
+msgstr "Recicla 150 cadáveres"
+
+msgid "goal_shipbuild3_desc"
+msgstr ""
+"Construye 8 naves usando el planificador de naves y los bancos de trabajo de "
+"nave."
+
+msgid "goal_shipbuild3_title"
+msgstr "Construye 8 naves"
+
+msgid "group_facilities2"
+msgstr "Instalaciones"
+
+msgid "in_progress_p"
+msgstr "En progreso: %d/%d"
+
+msgid "lactian_leaflets"
+msgstr "Octavillas lactianas"
+
+msgid "lactian_leaflets_desc"
+msgstr "Todos rezamos a Lactus, nuestra leche sagrada. Puede reciclarse."
+
+msgid "object_power_level"
+msgstr "Nivel de poder"
+
+msgid "securitydoor2"
+msgstr "Campo de fuerza"
+
+msgid "securitydoor2_desc"
+msgstr ""
+"Puerta prácticamente impenetrable para controlar el acceso. Permite mantener "
+"a los turistas alejados de las zonas de producción."
+
+msgid "shielder_1"
+msgstr "Escudo básico"
+
+msgid "shielder_2"
+msgstr "Escudo mejorado"
+
+msgid "shielder_3"
+msgstr "Escudo avanzado"
+
+msgid "shielder_desc"
+msgstr "Crea un gran escudo cuando detecta un enemigo, con un tiempo de espera."
+
+msgid "ship_skills_label"
+msgstr "Habilidades:"
+
+msgid "speed_label"
+msgstr "Velocidad:"
+
+msgid "speed_value"
+msgstr "~0,2F mParsec/s"
+
+msgid "turret_1"
+msgstr "Torreta básica"
+
+msgid "turret_2"
+msgstr "Torreta mejorada"
+
+msgid "turret_3"
+msgstr "Torreta avanzada"
+
+msgid "turret_4"
+msgstr "Ultra torreta"
+
+msgid "turret_desc"
+msgstr "Torreta de gran calibre"
+
+msgid "tutorial_station_object_tool_7b"
+msgstr ""
+"Acerca del ruido: aunque esta pequeña combinación de cocina y mesa es "
+"apropiada para una estación inicial, dos cocinas o más en la misma "
+"habitación que una mesa molestará a los oficiales que quieren comer en paz. "
+"Piensa en construir una habitación separada para las cocinas conforme tu "
+"estación crezca."
