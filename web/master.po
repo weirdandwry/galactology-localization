@@ -120,7 +120,7 @@ msgid "com.weirdandwry.galactology.achievement.farandwide_desc"
 msgstr "On the farthest reaches of the galaxy"
 
 msgid "com.weirdandwry.galactology.achievement.bestdefense_desc"
-msgstr "Is offense."
+msgstr "Is offense"
 
 msgid "com.weirdandwry.galactology.achievement.capitalism_desc"
 msgstr "Selling you what you didn't know you didn't need"

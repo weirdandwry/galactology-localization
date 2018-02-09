@@ -1,0 +1,7650 @@
+msgid "Luxury_kitchen_desc"
+msgstr "全宇宙最美味的食物将在这里制作"
+
+msgid "PR_desc"
+msgstr "迷人且有趣的你们，成功地让潜在的客户相信一切都是多么的美好。"
+
+msgid "absorbtion"
+msgstr "吸收"
+
+msgid "absorbtion_short"
+msgstr "吸收"
+
+msgid "accept"
+msgstr "确定"
+
+msgid "action_cooldown"
+msgstr "[~A] 正在等待"
+
+msgid "active_absorb"
+msgstr "~A 吸收"
+
+msgid "active_absorb_item"
+msgstr "启动：吸收"
+
+msgid "active_control"
+msgstr "~A 操控质量"
+
+msgid "active_control_item"
+msgstr "启动：操控"
+
+msgid "active_damage"
+msgstr "~A-~A 伤害"
+
+msgid "active_damage_item"
+msgstr "启动：伤害"
+
+msgid "active_healing"
+msgstr "~A-~A 恢复"
+
+msgid "active_healing_item"
+msgstr "启动：恢复"
+
+msgid "advanced_kitchen"
+msgstr "高级烹饪"
+
+msgid "advanced_kitchen_desc"
+msgstr "准备一些很好的食品及饮品"
+
+msgid "advanced_ship_engines_parts"
+msgstr "高级引擎零件"
+
+msgid "advanced_ship_hull_parts"
+msgstr "高级盔甲零件"
+
+msgid "advanced_ship_lifesupport_parts"
+msgstr "高级活力补充零件"
+
+msgid "advanced_ship_structure_parts"
+msgstr "高级建造零件"
+
+msgid "advanced_soap"
+msgstr "高级香皂"
+
+msgid "aesthetic_room"
+msgstr "美化: %d"
+
+msgid "aesthetics"
+msgstr "美化"
+
+msgid "aesthetics_feeling_high"
+msgstr "满意"
+
+msgid "aesthetics_feeling_high_desc"
+msgstr "多么漂亮的空间站，我喜欢"
+
+msgid "aesthetics_feeling_low"
+msgstr "反应一般"
+
+msgid "aesthetics_feeling_low_desc"
+msgstr "这地方真难看"
+
+msgid "aesthetics_feeling_very_high"
+msgstr "吃惊的"
+
+msgid "aesthetics_feeling_very_high_desc"
+msgstr "我天生丽质"
+
+msgid "aesthetics_feeling_very_low"
+msgstr "恶心的"
+
+msgid "aesthetics_feeling_very_low_desc"
+msgstr "我周围环境太恐怖了"
+
+msgid "ale"
+msgstr "啤酒"
+
+msgid "alert_delete"
+msgstr "清除"
+
+msgid "alert_minimize"
+msgstr "隐藏"
+
+msgid "alert_reports"
+msgstr "通知及警报"
+
+msgid "algae"
+msgstr "海藻"
+
+msgid "algae_node"
+msgstr "海藻堆"
+
+msgid "all"
+msgstr "所有"
+
+msgid "all_officers"
+msgstr "所有"
+
+msgid "all_resources"
+msgstr "所有"
+
+msgid "alphabetically"
+msgstr "字母的"
+
+msgid "aluminium"
+msgstr "铝金属"
+
+msgid "aluminium_node"
+msgstr "铝金属堆"
+
+msgid "aluminium_wall"
+msgstr "铝制墙壁"
+
+msgid "amount"
+msgstr "数量"
+
+msgid "antagonist_desc"
+msgstr "这是一个属于敌对势力的文明因此，他们对和你进行商业或外加往来一点都不感兴趣。"
+
+msgid "antimatter_cleaner"
+msgstr "反物质清洁器"
+
+msgid "any_power"
+msgstr "能力 (所有)"
+
+msgid "any_slot"
+msgstr "衣饰 (所有)"
+
+msgid "arcade cabinet"
+msgstr "娱乐性的"
+
+msgid "arcade_desc"
+msgstr "经典游戏"
+
+msgid "argyria"
+msgstr "欢乐"
+
+msgid "argyria_desc"
+msgstr "我成迷于收集银子"
+
+msgid "arid_planet"
+msgstr "荒芜的行星"
+
+msgid "armory_locker_desc"
+msgstr "存储衣饰，装置以及武器"
+
+msgid "armory_pallet"
+msgstr "武器商店"
+
+msgid "armory_stored_something"
+msgstr "正在存储 ~A"
+
+msgid "ascending"
+msgstr "上升"
+
+msgid "asteroid"
+msgstr "小行星"
+
+msgid "attack"
+msgstr "攻击"
+
+msgid "attack_label"
+msgstr "点击使用 ~A"
+
+msgid "attacked"
+msgstr "被攻击"
+
+msgid "attacked_desc"
+msgstr "我被攻击了！"
+
+msgid "attacking_desc"
+msgstr "正在共计敌人"
+
+msgid "attributes_c"
+msgstr "属性："
+
+msgid "attrition_destroyed_object"
+msgstr "~A 被敌人在 ~A 消灭了"
+
+msgid "audio"
+msgstr "音频"
+
+msgid "augustus"
+msgstr "Augustus"
+
+msgid "augustus_desc"
+msgstr "臭名昭著于整个星系的厨师。他是一个大厨同时能够进行双倍生产。 "
+
+msgid "auto"
+msgstr "自动"
+
+msgid "auto_combat_false"
+msgstr "操纵 ~A，仅仅当它的主人被选中或者是队伍中的一员。 "
+
+msgid "auto_combat_true"
+msgstr "~A 将被职员自动地控制"
+
+msgid "auto_desc"
+msgstr "战斗将自动进行"
+
+msgid "auto_label"
+msgstr "自动"
+
+msgid "auto_owner_change"
+msgstr "新的主人： ~A"
+
+msgid "auto_translator"
+msgstr "自动翻译"
+
+msgid "autopilot_disabled"
+msgstr "未启用自动驾驶模式"
+
+msgid "autopilot_enabled"
+msgstr "启用自动驾驶模式"
+
+msgid "back"
+msgstr "返回"
+
+msgid "bad_sleep"
+msgstr "噩梦"
+
+msgid "bad_sleep_desc"
+msgstr "我最近没有在床上睡觉"
+
+msgid "base_price_a"
+msgstr "基底价格： @ui_icon_20px_credits04.png ~A"
+
+msgid "base_spec"
+msgstr "Spec 基地"
+
+msgid "basic_kitchen"
+msgstr "基础烹饪"
+
+msgid "basic_kitchen_desc"
+msgstr "准备廉价的食物"
+
+msgid "basic_rations"
+msgstr "基本分量"
+
+msgid "basic_ship_engines_parts"
+msgstr "基础引擎零件"
+
+msgid "basic_ship_hull_parts"
+msgstr "基础盔甲零件"
+
+msgid "basic_ship_lifesupport_parts"
+msgstr "基础活力补充零件"
+
+msgid "basic_ship_structure_parts"
+msgstr "基础建造零件"
+
+msgid "basic_soap"
+msgstr "基础香皂"
+
+msgid "beam_desc"
+msgstr "发现目标，发射"
+
+msgid "bed_plain2"
+msgstr "基础床铺"
+
+msgid "bed_plain_desc"
+msgstr "加载睡眠。可供任意职员使用。游客无法使用。"
+
+msgid "bedofficer"
+msgstr "高级职员用床"
+
+msgid "bedofficer_desc"
+msgstr "高级职员用床。将装配该床的房间标记为高级职员所属。游客无法使用。"
+
+msgid "bernice"
+msgstr "Bernice"
+
+msgid "bernice_desc"
+msgstr "总基地的管理人员正在评估你的进展。"
+
+msgid "best"
+msgstr "更好"
+
+msgid "bigger_ui"
+msgstr "大号 UI"
+
+msgid "billiard"
+msgstr "桌球"
+
+msgid "billiard_desc"
+msgstr "在一个铺设绿布的桌面上用球杆撞击球。提供娱乐活动。"
+
+msgid "bio_extractor"
+msgstr "生物采集器"
+
+msgid "bio_extractor_desc"
+msgstr "在它的影响范围内采集生物资源"
+
+msgid "bionanites"
+msgstr "纳米生物"
+
+msgid "bistro_drinks"
+msgstr "酒馆的饮料"
+
+msgid "bistro_drinks_desc"
+msgstr "为优质饮品提供的最华丽的介绍"
+
+msgid "bistro_food"
+msgstr "酒馆的食物"
+
+msgid "bistro_food_desc"
+msgstr "一种新奇的提供食物的方式"
+
+msgid "bistro_table"
+msgstr "酒馆的餐桌"
+
+msgid "bistro_table_desc"
+msgstr "一个用来享受丰盛酒宴的豪华座位"
+
+msgid "black_hole"
+msgstr "黑洞"
+
+msgid "blackjack"
+msgstr "黑杰克桌"
+
+msgid "blackjack_desc"
+msgstr "已经摇动完成，还未翻开。使用红色的筹码"
+
+msgid "blood_from"
+msgstr " ~A 的血"
+
+msgid "blorg_adjective"
+msgstr "博克人 %s"
+
+msgid "blorg_adjective2"
+msgstr "博克人 ~A"
+
+msgid "blorg_member"
+msgstr "博克人"
+
+msgid "blorg_name"
+msgstr "博克人"
+
+msgid "blorg_plutocracy"
+msgstr "博克人富豪"
+
+msgid "body_level_in"
+msgstr "%s (L%d) 在%s"
+
+msgid "bonbons"
+msgstr "夹心巧克力"
+
+msgid "bonus_amt_health"
+msgstr "奖励： ~A 生命"
+
+msgid "bonus_amt_power"
+msgstr "奖励： ~A 能力"
+
+msgid "bonus_health"
+msgstr "奖励：生命"
+
+msgid "bonus_health_short"
+msgstr "+ 生命"
+
+msgid "bonus_power"
+msgstr "能力的奖励"
+
+msgid "bonus_power_short"
+msgstr "+ 能力"
+
+msgid "booking_room"
+msgstr "预定房间"
+
+msgid "brewery"
+msgstr "酒厂"
+
+msgid "brewery_desc"
+msgstr "蒸馏发酵饮料"
+
+msgid "broken"
+msgstr "发狂的"
+
+msgid "bugs"
+msgstr "虫子"
+
+msgid "bugs_node"
+msgstr "虫子堆"
+
+msgid "build_advanced_ship_engines"
+msgstr "建造高级引擎零件"
+
+msgid "build_advanced_ship_hull"
+msgstr "建造高级盔甲零件"
+
+msgid "build_advanced_ship_lifesupport"
+msgstr "建造高级活力补充零件"
+
+msgid "build_advanced_ship_structure"
+msgstr "建造高级建造零件"
+
+msgid "build_alert_attrition"
+msgstr "控制这个星球的文明是属于敌方的。你展开的物品将持续受到损伤，直到它被摧毁。 占领这个星球来确保你能够在这里正常的使用所有的物品。"
+
+msgid "build_basic_ship_engines"
+msgstr "建造基础引擎零件"
+
+msgid "build_basic_ship_hull"
+msgstr "建造基础盔甲零件"
+
+msgid "build_basic_ship_lifesupport"
+msgstr "建造基础活力补充零件"
+
+msgid "build_basic_ship_structure"
+msgstr "建造基础建造零件"
+
+msgid "build_builder_robot"
+msgstr "生产建造机器人"
+
+msgid "build_cargo_robot"
+msgstr "生产装载机器人"
+
+msgid "build_cleaner_robot"
+msgstr "生产清洁机器人"
+
+msgid "build_collector"
+msgstr "在附近建造一个收集器来开采资源"
+
+msgid "build_color"
+msgstr "房间的颜色"
+
+msgid "build_corridor_desc"
+msgstr "连接房间"
+
+msgid "build_firefighter_robot"
+msgstr "生产消防机器人"
+
+msgid "build_floor"
+msgstr "铺设地面"
+
+msgid "build_floors_label"
+msgstr "地面的类型:"
+
+msgid "build_groups"
+msgstr "物品的分类："
+
+msgid "build_info_stocks"
+msgstr "库存"
+
+msgid "build_info_treatment_for"
+msgstr "疗法"
+
+msgid "build_intermediate_ship_engines"
+msgstr "建造中级引擎零件"
+
+msgid "build_intermediate_ship_hull"
+msgstr "建造中级盔甲零件"
+
+msgid "build_intermediate_ship_lifesupport"
+msgstr "建造中级活力补充零件"
+
+msgid "build_intermediate_ship_structure"
+msgstr "建造中级建造零件"
+
+msgid "build_job_warn_invalid_room"
+msgstr "该对象无法使用的房间"
+
+msgid "build_maintenance_robot"
+msgstr "生产维护机器人"
+
+msgid "build_object"
+msgstr "生产物品"
+
+msgid "build_objects_label"
+msgstr "物品："
+
+msgid "build_out_of_bounds"
+msgstr "在有效区域之外"
+
+msgid "build_security_robot"
+msgstr "生产安全机器人"
+
+msgid "build_tool"
+msgstr "生产物品"
+
+msgid "build_walls"
+msgstr "建造墙壁"
+
+msgid "builder_robot"
+msgstr "建造机器人"
+
+msgid "building"
+msgstr "正在建造"
+
+msgid "building_info_shop"
+msgstr "商店：可以使用库存的物品或为游客提供的服务来进行支付"
+
+msgid "building_resources"
+msgstr "需要的资源："
+
+msgid "built_floor"
+msgstr "建造的地面"
+
+msgid "built_object"
+msgstr "建造的物品"
+
+msgid "built_wall"
+msgstr "被建造的墙面"
+
+msgid "busy"
+msgstr "被占据"
+
+msgid "buy_from"
+msgstr "@ui_icon_30px_buy.png 购买 %s"
+
+msgid "by_age"
+msgstr "年份"
+
+msgid "by_gear_level"
+msgstr "糟糕的装备"
+
+msgid "by_mind"
+msgstr "情绪"
+
+msgid "by_spec"
+msgstr "每Spec"
+
+msgid "calmed_feeling"
+msgstr "平静的"
+
+msgid "calmed_feeling_desc"
+msgstr "这是十分糟糕的，但我现在感觉好多了"
+
+msgid "cancel"
+msgstr "取消"
+
+msgid "cancel_construction"
+msgstr "取消建造"
+
+msgid "cancel_destruction"
+msgstr "取消摧毁"
+
+msgid "cancel_dismantling"
+msgstr "取消拆除"
+
+msgid "cancel_rally_point"
+msgstr "取消巡逻点"
+
+msgid "cancel_research"
+msgstr "取消研究"
+
+msgid "cant_build_blocked"
+msgstr "空缺的四面都被封闭了"
+
+msgid "cant_build_exists_construction"
+msgstr "在这个位置有一个物品"
+
+msgid "cant_build_has_singleton"
+msgstr "在这个房间里有一个物体，它使你无法进行任何其他的建造"
+
+msgid "cant_build_invalid_floor"
+msgstr "这个地面不适用于你选择的物体"
+
+msgid "cant_build_invalid_ground"
+msgstr "你不能在这块地上进行任何建造"
+
+msgid "cant_build_limited_to_one"
+msgstr "仅仅允许一个这类的物品"
+
+msgid "cant_build_needs_room"
+msgstr "需要一间建设完整的房间，四面必须都由墙体或门窗围合。"
+
+msgid "cant_build_too_close_enemy"
+msgstr "你在这里的建造将会过于靠近敌方的建筑"
+
+msgid "cant_build_too_far_friendly_town"
+msgstr "需要在中立或友方的城市附近建造这个物体"
+
+msgid "cant_build_too_far_town"
+msgstr "需要在城市附近建造这个物体"
+
+msgid "cant_build_too_many"
+msgstr "太多这类的物品"
+
+msgid "cant_build_wrong_civ_allies"
+msgstr "仅仅在人类或可颂人星球上"
+
+msgid "canteen_drinks"
+msgstr "餐厅的饮料"
+
+msgid "canteen_drinks_desc"
+msgstr "没有任何添加物且可食用的饮品"
+
+msgid "canteen_food"
+msgstr "餐厅的食物"
+
+msgid "canteen_food_desc"
+msgstr "没有任何添加物且可食用的食物"
+
+msgid "canteen_table"
+msgstr "餐厅的餐桌"
+
+msgid "canteen_table_desc"
+msgstr "简单且实用。你坐下就可以就餐了"
+
+msgid "cargo_hold"
+msgstr "仓储室"
+
+msgid "cargo_n"
+msgstr "加载： ~A 个"
+
+msgid "cargo_robot"
+msgstr "装载机器人"
+
+msgid "ceilingcam"
+msgstr "屋顶摄像头"
+
+msgid "ceilingcam_desc"
+msgstr "搜索隐藏的入侵者"
+
+msgid "ceilingturret"
+msgstr "屋顶炮塔"
+
+msgid "ceilingturret_desc"
+msgstr "炮塔，火力差"
+
+msgid "center_view"
+msgstr "集中视野"
+
+msgid "chance_of_success"
+msgstr "成功概率"
+
+msgid "change_machine"
+msgstr "替换调度员"
+
+msgid "change_machine_desc"
+msgstr "把游戏筹码换成真钱"
+
+msgid "chaotic_adjective"
+msgstr "混乱的 %s"
+
+msgid "chaotic_adjective2"
+msgstr "混乱的 ~A"
+
+msgid "chaotic_enemy"
+msgstr "混乱的敌人"
+
+msgid "chaotic_member"
+msgstr "混乱的"
+
+msgid "chaotics"
+msgstr "混乱的"
+
+msgid "chef"
+msgstr "主厨"
+
+msgid "chef_desc"
+msgstr "能够烹饪最复杂的食物。任何高等级的空间站都需要一个主厨来准备美味可口的各式饮品及食物。"
+
+msgid "chemist"
+msgstr "化学的"
+
+msgid "chemist_desc"
+msgstr "他每天接触的就是那些漂浮的气泡和各类化学反应"
+
+msgid "chemistry"
+msgstr "化学"
+
+msgid "chest_01"
+msgstr "SecuVest"
+
+msgid "chest_02"
+msgstr "纳米带"
+
+msgid "chest_03"
+msgstr "轻型护甲"
+
+msgid "chest_04"
+msgstr "InteriCalid"
+
+msgid "chest_05"
+msgstr "驾驶员背心"
+
+msgid "chest_06"
+msgstr "防冲击长袜"
+
+msgid "chest_07"
+msgstr "重型护甲"
+
+msgid "chest_08"
+msgstr "烦人的T恤"
+
+msgid "chest_09"
+msgstr "ShockABS MkII"
+
+msgid "chest_10"
+msgstr "帅气的T恤"
+
+msgid "chest_11"
+msgstr "EVA套装护甲"
+
+msgid "chest_12"
+msgstr "硬胸甲"
+
+msgid "chest_13"
+msgstr "躯干护甲"
+
+msgid "chest_14"
+msgstr "士兵护甲"
+
+msgid "chest_15"
+msgstr "鳞状护甲"
+
+msgid "chest_16"
+msgstr "皇室护甲"
+
+msgid "chest_17"
+msgstr "能量护甲"
+
+msgid "chest_18"
+msgstr "精煅护甲"
+
+msgid "chest_19"
+msgstr "军队夹克"
+
+msgid "chest_20"
+msgstr "Cyber V80"
+
+msgid "chest_item"
+msgstr "护胸用具"
+
+msgid "chuchu_adjective"
+msgstr "丘巴人"
+
+msgid "chuchu_adjective2"
+msgstr "丘巴人 ~A"
+
+msgid "chuchu_full"
+msgstr "丘巴人的吻"
+
+msgid "chuchu_member"
+msgstr "丘巴人"
+
+msgid "chuchu_name"
+msgstr "丘巴人"
+
+msgid "church_of_lactus"
+msgstr "拉克杜斯教堂"
+
+msgid "civ_colony"
+msgstr "殖民地"
+
+msgid "civ_encountered"
+msgstr "已经找到了第一个星系 %s ! 你可以在文明界面查看这个文明的信息。"
+
+msgid "civ_uninhabited"
+msgstr "空出"
+
+msgid "civs"
+msgstr "文明"
+
+msgid "civs_points"
+msgstr "%d / %d 点"
+
+msgid "civs_tutorial"
+msgstr "文明教程"
+
+msgid "claim_reward"
+msgstr "获取奖励"
+
+msgid "cleaner_robot"
+msgstr "清洁机器人"
+
+msgid "cleaning"
+msgstr "正在清理"
+
+msgid "click_info"
+msgstr "点击选择各种游戏中的物品来查看他们的特性"
+
+msgid "click_pick_officer"
+msgstr "点击选择一个职员"
+
+msgid "clone_chamber"
+msgstr "安全的克隆人"
+
+msgid "clone_chamber_desc"
+msgstr "指定一个职员在他死后自动制作一个他的克隆体，甚至可以是在银河系的另一端。 这个物品将在制造一个克隆体后自动摧毁。它是易碎品！"
+
+msgid "cocktail"
+msgstr "鸡尾酒"
+
+msgid "combat"
+msgstr "战斗"
+
+msgid "combat_busy_desc"
+msgstr "仅仅战斗"
+
+msgid "combat_mode_disabled"
+msgstr "未启用战斗模式"
+
+msgid "combat_mode_enabled"
+msgstr "启用战斗模式"
+
+msgid "combat_robot"
+msgstr "战斗机器人"
+
+msgid "comics"
+msgstr "全息漫画的书架"
+
+msgid "comics_desc"
+msgstr "出售陈旧的娱乐品"
+
+msgid "commercial_tier_1"
+msgstr "基础物品 I"
+
+msgid "commercial_tier_2"
+msgstr "基础物品 II"
+
+msgid "commercial_tier_3"
+msgstr "基础物品 III"
+
+msgid "commercial_tier_4"
+msgstr "中级物品 I"
+
+msgid "commercial_tier_5"
+msgstr "中级物品 II"
+
+msgid "commercial_tier_6"
+msgstr "高级物品 I"
+
+msgid "commercial_tier_7"
+msgstr "高级物品 II"
+
+msgid "complete"
+msgstr "完成"
+
+msgid "confirm_cancel_research"
+msgstr "你确定么？如果取消本次研究，那么你获得的研究点数将清零"
+
+msgid "confirm_cancel_ship_construction"
+msgstr "你确定么？如果你选择同意那么以及完成的工作都将消失。"
+
+msgid "confirm_evolve_officer"
+msgstr "向 ~A 提升 ~A 该操作无法退回！ 在优化时，将会引发 ~A 无法进行某些工作。你确定么？"
+
+msgid "confirm_fire_officer"
+msgstr "开火 ~A 无法被摧毁， 职员将会不停地进行！ 你确定么？"
+
+msgid "construction"
+msgstr "建造"
+
+msgid "contemplated"
+msgstr "完成"
+
+msgid "contemplated_desc"
+msgstr "多么漂亮的物品啊！"
+
+msgid "contemplation"
+msgstr "欣赏"
+
+msgid "continue"
+msgstr "继续"
+
+msgid "contract_bonus_chance"
+msgstr "当你选择时提供奖励的概率："
+
+msgid "contract_completed"
+msgstr "%s en %s (L%d) 已经被完成"
+
+msgid "contract_extra_xp_desc"
+msgstr "给每位职员 (%s XP) ，等同于等级 %d 的全部XP的 %d%% 的额外XP"
+
+msgid "contract_name_diff_place_level"
+msgstr "%s 制造困难 %s (L%d)"
+
+msgid "contract_price"
+msgstr "%s 成交价格"
+
+msgid "contract_resource_reward"
+msgstr "%s %s (库存： %s)"
+
+msgid "contract_rewards"
+msgstr "奖励："
+
+msgid "contract_xp_officer"
+msgstr "授予每位职员的 XP(%s XP @L%d)"
+
+msgid "controlled_stock"
+msgstr "被控制的库存"
+
+msgid "controls"
+msgstr "操作"
+
+msgid "cooking"
+msgstr "正在烹饪"
+
+msgid "cooldown_amt"
+msgstr "~0,1Fs 等待"
+
+msgid "corpse"
+msgstr "尸体"
+
+msgid "corpse_desc"
+msgstr "这个尸体可以通过回收装置回收再利用。他有点鸡肉的味道"
+
+msgid "corpse_of"
+msgstr "~A 的尸体"
+
+msgid "corridor"
+msgstr "过道"
+
+msgid "corridor_build_info"
+msgstr "点击并拖拽来绘制一个走廊，或者点击绘制单个图块。拖拽过程中可以点击Esc 来取消操作。"
+
+msgid "corridor_desc"
+msgstr "连接不同的房间"
+
+msgid "crafts_table"
+msgstr "手工作坊"
+
+msgid "crafts_table_desc"
+msgstr "生产衣饰和小物件"
+
+msgid "crew"
+msgstr "机组成员"
+
+msgid "crew_bridge_selector"
+msgstr "点击空位来选择搭乘飞行器的机组人员"
+
+msgid "crew_n"
+msgstr "机组成员： ~A 座位"
+
+msgid "crew_n2"
+msgstr "机组成员： ~A 插槽， ~A% 准备就绪"
+
+msgid "crowd_control"
+msgstr "操控质量"
+
+msgid "crowd_control_short"
+msgstr "CM"
+
+msgid "crusantian_adjective"
+msgstr "可颂人 %s"
+
+msgid "crusantian_adjective2"
+msgstr "可颂人 ~A"
+
+msgid "crusantian_bunch"
+msgstr "可颂人群"
+
+msgid "crusantian_member"
+msgstr "可颂人"
+
+msgid "crusantian_name"
+msgstr "可颂人"
+
+msgid "cryopod"
+msgstr "Cryo pod"
+
+msgid "cryopod_desc"
+msgstr "允许你的职员使用几秒来休整一下。将使用高级职员的床位。游客无法使用。"
+
+msgid "cucurbian_adjective"
+msgstr "南瓜人 %s"
+
+msgid "cucurbian_adjective2"
+msgstr "南瓜人 ~A"
+
+msgid "cucurbian_crop"
+msgstr "南瓜人的土地"
+
+msgid "cucurbian_member"
+msgstr "南瓜人"
+
+msgid "cucurbian_name"
+msgstr "南瓜人"
+
+msgid "current_demands"
+msgstr "需求："
+
+msgid "current_game"
+msgstr "目前的游戏"
+
+msgid "current_ownership"
+msgstr "物品的主人："
+
+msgid "current_research"
+msgstr "进行中的研究： ~A ~A"
+
+msgid "current_research_none"
+msgstr "并未进行任何研究项目。选择一个小组点击开始一项研究。"
+
+msgid "dance_floor"
+msgstr "跳舞场"
+
+msgid "dance_floor_desc"
+msgstr "仅可用于以物质组成的生命体"
+
+msgid "dancing"
+msgstr "跳舞"
+
+msgid "dead"
+msgstr "死亡"
+
+msgid "decor_adscreen"
+msgstr "广告"
+
+msgid "decor_balloons"
+msgstr "气球"
+
+msgid "decor_bannerspatials"
+msgstr "空间站旗帜"
+
+msgid "decor_bust"
+msgstr "躯干"
+
+msgid "decor_cabinets"
+msgstr "售票处"
+
+msgid "decor_classydivisor"
+msgstr "时尚的分割"
+
+msgid "decor_colorbox"
+msgstr "炫彩的方块"
+
+msgid "decor_darktech01"
+msgstr "绝望的图腾"
+
+msgid "decor_darktech02"
+msgstr "殉教的图标"
+
+msgid "decor_energycolumn"
+msgstr "光柱"
+
+msgid "decor_galaxyball"
+msgstr "银河系地图"
+
+msgid "decor_glassdivisor"
+msgstr "玻璃分割"
+
+msgid "decor_holoprojector"
+msgstr "全息投影"
+
+msgid "decor_holoscreen"
+msgstr "全息屏幕"
+
+msgid "decor_homelydivisor"
+msgstr "分隔"
+
+msgid "decor_lamp01"
+msgstr "灯"
+
+msgid "decor_lamp02"
+msgstr "灯"
+
+msgid "decor_lamp03"
+msgstr "灯"
+
+msgid "decor_lightcube"
+msgstr "炫光方块"
+
+msgid "decor_majesticcolumn"
+msgstr "时尚的柱子"
+
+msgid "decor_mannequin01"
+msgstr "模特"
+
+msgid "decor_mannequin02"
+msgstr "模特"
+
+msgid "decor_mannequin03"
+msgstr "模特"
+
+msgid "decor_map"
+msgstr "空间站地图"
+
+msgid "decor_organicsamples"
+msgstr "有机物展示台"
+
+msgid "decor_rocket"
+msgstr "迷你火箭"
+
+msgid "decor_rugancient"
+msgstr "古老的地毯"
+
+msgid "decor_rugdiplomacy"
+msgstr "外交官地毯"
+
+msgid "decor_rugengineering"
+msgstr "工程师地毯"
+
+msgid "decor_ruglodge"
+msgstr "逻辑地毯"
+
+msgid "decor_rugmedicine"
+msgstr "医师地毯"
+
+msgid "decor_rugredshirt"
+msgstr "廉价的地毯"
+
+msgid "decor_rugscience"
+msgstr "科学家地毯"
+
+msgid "decor_rugsmall01"
+msgstr "小地毯"
+
+msgid "decor_rugsmall02"
+msgstr "小地毯"
+
+msgid "decor_rugsmall03"
+msgstr "小地毯"
+
+msgid "decor_rugspacecow"
+msgstr "特殊的牛图案地毯"
+
+msgid "decor_rugstrategist"
+msgstr "军士地毯"
+
+msgid "decor_screens"
+msgstr "屏幕"
+
+msgid "decor_shipmodel"
+msgstr "迷你飞行器"
+
+msgid "decor_skeleton"
+msgstr "人体骨架"
+
+msgid "decor_statueman"
+msgstr "雕塑"
+
+msgid "decor_statuewoman"
+msgstr "雕塑"
+
+msgid "decor_table&lamp"
+msgstr "桌子和灯"
+
+msgid "decor_table&lamp02"
+msgstr "桌子和灯"
+
+msgid "decor_table&lamp03"
+msgstr "桌子和灯"
+
+msgid "decor_towels"
+msgstr "毛巾"
+
+msgid "decor_tvcolumn"
+msgstr "视频柱"
+
+msgid "decor_wardrobe"
+msgstr "衣柜"
+
+msgid "decor_wardrobe02"
+msgstr "衣柜"
+
+msgid "decor_wardrobe03"
+msgstr "衣柜"
+
+msgid "decor_weaponsrack2"
+msgstr "战争奖杯"
+
+msgid "decoration"
+msgstr "装饰品"
+
+msgid "delete"
+msgstr "删除"
+
+msgid "delicatessen_expositor"
+msgstr "熟食店展示台"
+
+msgid "delicatessen_expositor_desc"
+msgstr "展示甜品和美味的食物"
+
+msgid "delicatessen_kitchen"
+msgstr "熟食店工作室"
+
+msgid "delicatessen_kitchen_desc"
+msgstr "甜品制作，美味且优质"
+
+msgid "deliver_from_action"
+msgstr "从 ~A 起交付"
+
+msgid "deliver_from_ground"
+msgstr "已建造地面"
+
+msgid "deliver_from_ground_no"
+msgstr "当来源设定在地面或者在一个仓库内时，送货员将会避免将这些资源送至这个物品 "
+
+msgid "deliver_from_ground_yes"
+msgstr "当物品的来源是储存柱或者库存区内时，送货员将会将资源送至这个物品"
+
+msgid "deliver_from_source"
+msgstr "唯一来源"
+
+msgid "deliver_from_source_at"
+msgstr "来源： ~A"
+
+msgid "deliver_from_source_cancel"
+msgstr "取消唯一来源"
+
+msgid "deliver_from_source_desc"
+msgstr "在任何的货盘或库存区上点击右键来将该物品设置为该类物品的唯一来源。"
+
+msgid "deliver_from_storage"
+msgstr "货盘"
+
+msgid "deliver_from_storage_no"
+msgstr "当来源设定在一个货盘时，送货员将会避免将这些资源送至这个物品 "
+
+msgid "deliver_from_storage_yes"
+msgstr "送货员会将资源从货盘内的资源柱内送至这个物品"
+
+msgid "delivery_select_ship"
+msgstr "选择配送飞行器"
+
+msgid "demand_current"
+msgstr "目前的"
+
+msgid "demand_one_of"
+msgstr "一个"
+
+msgid "demand_value"
+msgstr "价值"
+
+msgid "demand_wanted"
+msgstr "需要"
+
+msgid "deposited_scroll"
+msgstr "被存放 %d"
+
+msgid "descending"
+msgstr "后代"
+
+msgid "description"
+msgstr "描述"
+
+msgid "desperate_critical"
+msgstr "~A 发疯了！"
+
+msgid "desperate_critical_violent"
+msgstr "~A 很绝望并使用他的武器对付朋友们！"
+
+msgid "desperate_warning"
+msgstr "~A 感觉很不适，他都快疯了！"
+
+msgid "dessert"
+msgstr "甜品"
+
+msgid "developer"
+msgstr "开发"
+
+msgid "developer_console"
+msgstr "开发操纵台"
+
+msgid "diner_table"
+msgstr "咖啡厅桌子"
+
+msgid "diner_table_desc"
+msgstr "可爱又复古"
+
+msgid "diplomat"
+msgstr "外交官"
+
+msgid "diplomat_desc"
+msgstr "外交官是社会交流，谈判，银河系知识以及偶尔撒谎的专家。"
+
+msgid "direct_desc"
+msgstr "一个目标"
+
+msgid "dirt"
+msgstr "垃圾"
+
+msgid "dirt_desc"
+msgstr "清洁器可以清理这个垃圾"
+
+msgid "disable"
+msgstr "解除"
+
+msgid "disabled"
+msgstr "未启用"
+
+msgid "disco_bar"
+msgstr "迪斯科酒吧"
+
+msgid "disco_bar_desc"
+msgstr "供应精致的饮料"
+
+msgid "disco_table"
+msgstr "迪斯科酒吧的桌子"
+
+msgid "disco_table_desc2"
+msgstr "喝上一杯精致的鸡尾酒"
+
+msgid "disease_cured"
+msgstr "疾病治愈： ~A"
+
+msgid "dismantle"
+msgstr "拆卸"
+
+msgid "dismantled_object"
+msgstr "被摧毁的物体"
+
+msgid "display"
+msgstr "展示"
+
+msgid "dizzy_sick"
+msgstr "眩晕"
+
+msgid "dizzy_sick_desc"
+msgstr "我感觉头晕"
+
+msgid "dock_officer_info_label"
+msgstr "选择一个飞行器来攻击这里。机载货物将在这这个码头附近卸载，机组人员也将在此登陆。"
+
+msgid "dock_officer_select"
+msgstr "选择飞行器"
+
+msgid "docking"
+msgstr "正在攻击："
+
+msgid "doctordesk"
+msgstr "医生的办公室"
+
+msgid "doctordesk_desk"
+msgstr "医生将在这里等待他的患者并向他们提供一份疗程清单"
+
+msgid "done"
+msgstr "完成"
+
+msgid "door"
+msgstr "门"
+
+msgid "door_allowed"
+msgstr "被授权的"
+
+msgid "door_allowed_desc"
+msgstr "等同于一个贴在门上的标签纸；粗鲁的侵略者或无视它们"
+
+msgid "door_desc"
+msgstr "控制空间站的多处不同的出口。可以保证游客们远离生产区域。"
+
+msgid "door_lock"
+msgstr "关闭"
+
+msgid "door_lock_title"
+msgstr "完全封闭"
+
+msgid "door_lock_title_desc"
+msgstr "牢固地将大门关上；侵略者们需要摧毁它们。 "
+
+msgid "door_officers"
+msgstr "职员"
+
+msgid "door_robots"
+msgstr "机器人"
+
+msgid "door_tourists"
+msgstr "游客"
+
+msgid "dps_label"
+msgstr "每秒伤害"
+
+msgid "dps_label_short"
+msgstr "DPS"
+
+msgid "drink_shop"
+msgstr "含咖啡因的饮料"
+
+msgid "drink_shop_desc"
+msgstr "这里提供饮料"
+
+msgid "drunk"
+msgstr "喝醉的"
+
+msgid "drunk_desc"
+msgstr "SISH 感觉很好，我很棒。。。"
+
+msgid "electronics_workshop"
+msgstr "电子作坊"
+
+msgid "electronics_workshop_desc"
+msgstr "消费电子产品制造"
+
+msgid "electropet"
+msgstr "电子宠物"
+
+msgid "electropet_display"
+msgstr "电子宠物的展示台"
+
+msgid "electropet_display_desc"
+msgstr "你新的高科技宠物，合理的价格并且无需太多的维护！"
+
+msgid "embassies"
+msgstr "大使馆"
+
+msgid "empty"
+msgstr "空的"
+
+msgid "empty_slot"
+msgstr "空的插槽"
+
+msgid "enable"
+msgstr "启动"
+
+msgid "enable_alert_popups"
+msgstr "允许用于消息提示的小窗口"
+
+msgid "enable_music"
+msgstr "开启音乐"
+
+msgid "enable_sound_effects"
+msgstr "开启声音特效"
+
+msgid "enable_station_events"
+msgstr "开启空间站事件"
+
+msgid "enable_station_violent_events"
+msgstr "开启空间站暴力事件"
+
+msgid "enable_storage"
+msgstr "允许存储："
+
+msgid "enabled"
+msgstr "启动"
+
+msgid "enabled_user_mods"
+msgstr "启动中的mods："
+
+msgid "enemy"
+msgstr "敌人"
+
+msgid "enemy_adjective"
+msgstr "敌人 %s"
+
+msgid "enemy_adjective2"
+msgstr "敌人 ~A"
+
+msgid "enemy_member"
+msgstr "敌人"
+
+msgid "enemy_name"
+msgstr "敌人"
+
+msgid "energy"
+msgstr "能量"
+
+msgid "engineer"
+msgstr "工程师"
+
+msgid "engineer_desc"
+msgstr "如果是金属的，那么将它们交给那些工程师。制作太空机器人和飞行器是他们的专长。"
+
+msgid "engineering"
+msgstr "工程"
+
+msgid "entrance_fee"
+msgstr "进场费"
+
+msgid "equip_item_must_station"
+msgstr "%s 必须在空间站"
+
+msgid "equip_item_no_reqs"
+msgstr "~A 不能装备 ~A"
+
+msgid "equip_item_replace"
+msgstr "摧毁 ~A 并使用 ~A 来替代？"
+
+msgid "equip_item_rmb"
+msgstr "装备 ~A"
+
+msgid "equip_item_slot_disabled"
+msgstr "~A 需要更多的一项 spec 的点数来装备 ~A"
+
+msgid "equip_matrix"
+msgstr "物品矩阵"
+
+msgid "equip_officer_slot_current"
+msgstr "已装备 %s"
+
+msgid "equip_officer_slot_equip"
+msgstr "装备"
+
+msgid "equip_officer_slot_no_selection"
+msgstr "选择一个物品"
+
+msgid "equip_officer_slot_none"
+msgstr "不装备"
+
+msgid "equip_officer_slot_selected"
+msgstr "被选择的"
+
+msgid "equip_officer_slot_stored"
+msgstr "存储在空间站"
+
+msgid "equip_officer_slot_title"
+msgstr "装备 %s 来 %s"
+
+msgid "equipmatrix_available"
+msgstr "空闲的"
+
+msgid "equipmatrix_too_low_cell"
+msgstr "不足的"
+
+msgid "erase_floor_tool"
+msgstr "清除地面"
+
+msgid "erase_objects_tool"
+msgstr "清除物品"
+
+msgid "erase_walls_tool"
+msgstr "清除墙面"
+
+msgid "eraser_hint"
+msgstr "按住 Shift 键来启用试用模式"
+
+msgid "error_bad_save"
+msgstr "游戏载入错误：无法读取游戏或者游戏文件损坏 "
+
+msgid "error_deleting"
+msgstr "游戏删除错误"
+
+msgid "error_missing_mods_1"
+msgstr "本次游戏需要使用以下 mods 中的内容，您未购买或未安装上述的内容：\n"
+
+msgid "error_missing_mods_2"
+msgstr "如果载入改存档可能造成游戏终结或者出现运行错误。是否继续？"
+
+msgid "error_saving_game"
+msgstr "游戏保存失败"
+
+msgid "event_augustus_warn"
+msgstr "Augustus 前来帮助你进行料理烹饪！他将在你在空间站时帮助你。 "
+
+msgid "event_bernice_fail"
+msgstr "未能在时间截止前完成你的工作，因此你将无法获得任何奖励。希望空间站能够加强对工作进度的审查。"
+
+msgid "event_bernice_goal_build"
+msgstr "Bernice 决定需要更多的装备。在两分钟内建造 %d 物品来获得 %d 点积分的奖励。"
+
+msgid "event_bernice_goal_floor"
+msgstr "Bernice 决定需要一个更大的空间站。在两分钟内建造 %d 个地面块来获得 %d 点的积分奖励。"
+
+msgid "event_bernice_goal_produce"
+msgstr "Bernice 决定需要更快的速度。在两分钟内制作 %d 个产品来获得  %d 点的积分奖励。"
+
+msgid "event_bernice_succ"
+msgstr "完成游戏成就！%d 点的积分奖励已经存入了你的空间站账户。干得好，我们在下次审查时再见！ "
+
+msgid "event_bernice_warn"
+msgstr "到了空间站审查的日子了！ Bernice 正在查看装备和库存。"
+
+msgid "event_breakage_warn"
+msgstr "有些生产设备损坏了！"
+
+msgid "event_explodefire_warn"
+msgstr "%s 爆炸了并引发了火灾！"
+
+msgid "event_finished"
+msgstr "项目结束"
+
+msgid "event_foodpoisoning_warn"
+msgstr "空间站的一些居民中毒了！"
+
+msgid "event_invaderbomb_out_of_time"
+msgstr "时间到了，炸弹爆炸了！"
+
+msgid "event_invaderbomb_warn"
+msgstr "一个伪装着的敌人工兵被发现了！在他的附近寻找埋下的炸弹并在它爆炸前将其摧毁！炸弹是一个中立的敌人，配合 Shift键使用攻击指令来标记目标。"
+
+msgid "event_invaders_alert"
+msgstr "一组侵略者抵达了！ ~A 正在共计我们的空间站！"
+
+msgid "event_invaders_retaliate_warn"
+msgstr "%s 想要来报仇！敌人对空间站下达了一个 %s 的突击指令。准备战斗吧！"
+
+msgid "event_invaders_warn4c"
+msgstr "我们侦察到了一个 %s 指令从 %s 不断靠近空间站。准备好吧！"
+
+msgid "event_kowka_warn"
+msgstr "Кошка 是一个充满好奇心的猫咪，她想看你的进度。你还保存着和她间的友谊么？当你在空间站时她的机器人军队可以为你提供帮助。"
+
+msgid "event_liberty_warn"
+msgstr "自由来临了！它的出现将使周围所有的生物感到愉悦。"
+
+msgid "event_manysick_fail"
+msgstr "一些游客 %s 尚未被治愈，你将无法获得奖励。 "
+
+msgid "event_manysick_succ"
+msgstr "所有的游客 %s 都已经被治愈！你将获得 %d 点的积分和 %d 点的声望作为奖励。 "
+
+msgid "event_manysick_warn"
+msgstr " %s 将 %d 位生病的市民传送到了空间站！如果你能及时的治愈他们将获得 %d 点的积分和 %d 点的声望作为奖励。"
+
+msgid "event_meteors_end"
+msgstr "流星雨结束了！"
+
+msgid "event_meteors_start"
+msgstr "流星雨开始了！"
+
+msgid "event_meteors_warn"
+msgstr "即将来临一场流星雨！对被标记的地区而言这将是一次持续一分钟的毁灭性灾难。"
+
+msgid "event_miasmacloud_ended"
+msgstr "麦斯玛星云将不再扩大"
+
+msgid "event_miasmacloud_warn"
+msgstr "一个物品被摧毁了，它正在释放着大量的都云。你可以尝试着修复它或者将它摧毁来停止毒气的污染。"
+
+msgid "event_octopus_warn"
+msgstr "你的傲慢已经从深空唤醒了一个被遗忘的野兽。 一个太空章鱼袭击车站！"
+
+msgid "event_ongoing"
+msgstr "进行中"
+
+msgid "event_pest_spawn_queen"
+msgstr "瘟疫的女王已经出现了！"
+
+msgid "event_pest_warn"
+msgstr "瘟疫正在这个空间站传播！ 消除足够的寄生虫来找到它们的女王。 瘟疫是一个中立的敌人，使用Shift键配合攻击命令将其标记为目标。"
+
+msgid "event_pirates_reveal"
+msgstr "海盗们第一次出现！你的获得的成功引起了他们的注意力。或许他们也想分享一部分胜利的果实。他们明白敌人的敌人就是战友的道理。"
+
+msgid "event_progress"
+msgstr "进程： %s"
+
+msgid "event_robots_reveal"
+msgstr "机器人工会第一次出现了！你的工作环境时候符合他们的标准呢？他们一定会来检查的。并且一定不会对你满意。"
+
+msgid "event_timer"
+msgstr "剩余时间：%s"
+
+msgid "event_waterleak_warn"
+msgstr "%s 坏了，它充满了周围的每一寸空间。"
+
+msgid "event_worm_warn"
+msgstr "你的傲慢已经从深空唤醒了一个被遗忘的野兽。 一个太空蠕虫袭击车站！"
+
+msgid "event_xenos_spawned"
+msgstr "异形已经爆炸了！"
+
+msgid "event_xenos_warn"
+msgstr "异形的蛋已经在空间站被发现！ 在孵化之前消灭它们，或者对孵化物进行攻击。 这些蛋是一个中立的敌人，使用Shift键配合攻击命令将其标记为目标。"
+
+msgid "excessive_machine"
+msgstr "太多的机器"
+
+msgid "excessive_machine_desc"
+msgstr "它将满足你最私密的需求。别弄坏它！"
+
+msgid "exclude"
+msgstr "排除"
+
+msgid "exhausted"
+msgstr "耗尽"
+
+msgid "exotic_infusion"
+msgstr "奇特的茶"
+
+msgid "expectations_high"
+msgstr "高期望"
+
+msgid "expectations_huge"
+msgstr "巨大的期望"
+
+msgid "expectations_low"
+msgstr "低期望"
+
+msgid "expectations_meet"
+msgstr "~A ( 获得 ~A% )"
+
+msgid "expectations_normal"
+msgstr "中等期望"
+
+msgid "expectations_very_high"
+msgstr "很高的期望"
+
+msgid "exploration"
+msgstr "开发"
+
+msgid "explore"
+msgstr "开发"
+
+msgid "explore_warn_already_exploring_other"
+msgstr "每次仅能对一个行星进行开发。"
+
+msgid "explore_warn_no_ship"
+msgstr "没有任何环绕该行星的飞行器。通过拖拽并释放一个飞行器对它下达飞行命令。在你收到飞行器抵达的通知后，就可以对行星的表面进行探索。"
+
+msgid "explore_warn_no_weapons"
+msgstr "所有的机组成员均未配备任何的武器。你确定要前往探访该行星么？ "
+
+msgid "exploring"
+msgstr "探测中"
+
+msgid "export_current_rate"
+msgstr "出口值"
+
+msgid "extractor_info"
+msgstr "可以挖采出："
+
+msgid "eyedropper_hint"
+msgstr "配合Alt 键点击需要复制的物品"
+
+msgid "facilities_tier_1"
+msgstr "基础空间站"
+
+msgid "facilities_tier_10"
+msgstr "物品 21-25"
+
+msgid "facilities_tier_11"
+msgstr "物品 26-30"
+
+msgid "facilities_tier_12"
+msgstr "物品 31-35"
+
+msgid "facilities_tier_13"
+msgstr "物品 36-40"
+
+msgid "facilities_tier_2"
+msgstr "物品 1-5"
+
+msgid "facilities_tier_3"
+msgstr "基础机器人"
+
+msgid "facilities_tier_3b"
+msgstr "访问者港口"
+
+msgid "facilities_tier_4"
+msgstr "物品 6-10"
+
+msgid "facilities_tier_5"
+msgstr "基本安全"
+
+msgid "facilities_tier_6"
+msgstr "物流"
+
+msgid "facilities_tier_7"
+msgstr "物品 11-15"
+
+msgid "facilities_tier_8"
+msgstr "物品 16-20"
+
+msgid "facilities_tier_9"
+msgstr "高级安全"
+
+msgid "factory"
+msgstr "生产设备"
+
+msgid "factory_info_no_recipes"
+msgstr "没有可供此次生产的配方信息。通过进行研究来解锁这一配方。"
+
+msgid "failure"
+msgstr "错误"
+
+msgid "fake_relic"
+msgstr "假遗物"
+
+msgid "fancy_clothes"
+msgstr "精致的服饰"
+
+msgid "feet_01"
+msgstr "军士皮靴"
+
+msgid "feet_02"
+msgstr "EVA 套装的靴子"
+
+msgid "feet_03"
+msgstr "军队皮靴"
+
+msgid "feet_04"
+msgstr "守卫靴子"
+
+msgid "feet_05"
+msgstr "驾驶员靴子"
+
+msgid "feet_06"
+msgstr "Cyber V81"
+
+msgid "feet_07"
+msgstr "能量靴子"
+
+msgid "feet_08"
+msgstr "精锻靴子"
+
+msgid "feet_09"
+msgstr "坚硬靴子"
+
+msgid "feet_10"
+msgstr "BotasShock 1.1"
+
+msgid "feet_item"
+msgstr "脚部用物品"
+
+msgid "fibers"
+msgstr "纤维"
+
+msgid "fibers_node"
+msgstr "纤维堆"
+
+msgid "fiction_program"
+msgstr "虚构节目"
+
+msgid "field_medic"
+msgstr "营地医生"
+
+msgid "field_medic_desc"
+msgstr "在最残酷的战场上只有经验丰富的营地医生才能在生与死之间工作着。"
+
+msgid "file_manager"
+msgstr "游戏存档文件"
+
+msgid "filter_ship_assigned"
+msgstr "指定的飞行器"
+
+msgid "filter_ship_not_assigned"
+msgstr "未指定的飞行器"
+
+msgid "filtered_water"
+msgstr "过滤的水"
+
+msgid "fine_grape_must"
+msgstr "鲜葡萄汁"
+
+msgid "fine_soup"
+msgstr "精致的肉汤"
+
+msgid "finish_other_research"
+msgstr "结束或者取消正在进行的研究项目来开始新的研究"
+
+msgid "fire"
+msgstr "开火"
+
+msgid "fire_desc"
+msgstr "一小撮正在经历着快速和灾难性的氧化反应的物质，拥有着一定扩散的趋势。它会吓到机器人和各类的生物体。把你的消防员安置在它的附近并确保他们能够有足够的灭火资源。"
+
+msgid "firefighter"
+msgstr "消防员"
+
+msgid "firefighter_robot"
+msgstr "消防机器人"
+
+msgid "flag_broken"
+msgstr "标记为损坏的来强制进行维修"
+
+msgid "flee_desc"
+msgstr "受惊逃跑"
+
+msgid "flee_short_desc"
+msgstr "防止危险"
+
+msgid "fleet"
+msgstr "舰队"
+
+msgid "fleet_too_many"
+msgstr "你的舰队已经满员，无法再制造更多的飞行器。"
+
+msgid "floor_build_info"
+msgstr "点击并拖拽来绘制一个长方形的大厅，或者通过点击来一块一块的绘制地砖。你可以在拖拽的同时点击Esc键来取消绘制。"
+
+msgid "floor_color_black"
+msgstr "黑色"
+
+msgid "floor_color_cyan"
+msgstr "青色"
+
+msgid "floor_color_dark_blue"
+msgstr "深蓝色"
+
+msgid "floor_color_dark_green"
+msgstr "深绿色"
+
+msgid "floor_color_grey"
+msgstr "灰色"
+
+msgid "floor_color_light_blue"
+msgstr "天蓝色"
+
+msgid "floor_color_light_green"
+msgstr "淡绿色"
+
+msgid "floor_color_lilac"
+msgstr "紫色"
+
+msgid "floor_color_none"
+msgstr "无色"
+
+msgid "floor_color_orange"
+msgstr "橙色"
+
+msgid "floor_color_pink"
+msgstr "粉色"
+
+msgid "floor_color_red"
+msgstr "红色"
+
+msgid "floor_color_torquoise"
+msgstr "绿松石色"
+
+msgid "floor_color_violet"
+msgstr "紫罗兰色"
+
+msgid "floor_color_white"
+msgstr "白色"
+
+msgid "floor_color_yellow"
+msgstr "黄色"
+
+msgid "floor_tool"
+msgstr "建造地面"
+
+msgid "fluid_extractor"
+msgstr "流体采集器"
+
+msgid "fluid_extractor_desc"
+msgstr "在它的影响区域内开采液体物质"
+
+msgid "freaking_out"
+msgstr "精神失常的"
+
+msgid "frozen_planet"
+msgstr "被冰冻的行星"
+
+msgid "fruits"
+msgstr "水果"
+
+msgid "fruits_node"
+msgstr "水果堆"
+
+msgid "fs_delete_file"
+msgstr "删除存档"
+
+msgid "fs_load_file"
+msgstr "载入存档"
+
+msgid "fs_new_file"
+msgstr "新存档"
+
+msgid "fs_new_file_name"
+msgstr "输入新存档的名称"
+
+msgid "fs_new_file_name_too_long"
+msgstr "你选择的名称太长了"
+
+msgid "fs_new_file_name_too_short"
+msgstr "你选择的名称太段短了"
+
+msgid "fs_overwrite_file"
+msgstr "覆盖存档"
+
+msgid "fs_prompt_select"
+msgstr "选择存档"
+
+msgid "fuel_cell"
+msgstr "能量箱"
+
+msgid "fullscreen"
+msgstr "全屏"
+
+msgid "fullscreen_exclusive"
+msgstr "唯一的"
+
+msgid "fun"
+msgstr "有趣的"
+
+msgid "fun_feeling_high"
+msgstr "兴奋的"
+
+msgid "fun_feeling_high_desc"
+msgstr "哇！"
+
+msgid "fun_feeling_low"
+msgstr "无聊的"
+
+msgid "fun_feeling_low_desc"
+msgstr "这里的生活很无聊"
+
+msgid "gaia_planet"
+msgstr "戈雅行星"
+
+msgid "galaxy"
+msgstr "银河系"
+
+msgid "galaxy_filter_cargo"
+msgstr "探索展示"
+
+msgid "galaxy_filter_cvis"
+msgstr "文明展示"
+
+msgid "galaxy_filter_imports"
+msgstr "重要事件展示"
+
+msgid "galaxy_filter_imports2"
+msgstr "进口产品： %s"
+
+msgid "galaxy_filter_none"
+msgstr "银河系"
+
+msgid "galaxy_filter_none_show"
+msgstr "仅仅展示名称"
+
+msgid "galaxy_filter_reps"
+msgstr "文明"
+
+msgid "galaxy_filter_resources2"
+msgstr "出口的资源： %s"
+
+msgid "galaxy_filter_show_civ_ships"
+msgstr "展示或隐藏来访的飞行器"
+
+msgid "galaxy_name"
+msgstr "%s 银河系"
+
+msgid "gambling"
+msgstr "赌瘾"
+
+msgid "game_coins"
+msgstr "电子游戏的筹码"
+
+msgid "game_guide"
+msgstr "游戏指南"
+
+msgid "game_speed_1x"
+msgstr "1x 速度"
+
+msgid "game_speed_3x"
+msgstr "3x 速度"
+
+msgid "game_speed_6x"
+msgstr "6x 速度"
+
+msgid "garden_bamboopot"
+msgstr "竹子"
+
+msgid "garden_bush01"
+msgstr "灌木"
+
+msgid "garden_bush02"
+msgstr "灌木"
+
+msgid "garden_flowerpot"
+msgstr "花卉的中心"
+
+msgid "garden_plantpot01"
+msgstr "盆栽"
+
+msgid "garden_plantpot02"
+msgstr "盆栽"
+
+msgid "garden_plantpot03"
+msgstr "盆栽"
+
+msgid "garden_plantpot04"
+msgstr "盆栽"
+
+msgid "garden_plantpot05"
+msgstr "盆栽"
+
+msgid "garden_plantpot06"
+msgstr "盆栽"
+
+msgid "garden_plantpot07"
+msgstr "盆栽"
+
+msgid "garden_plantpot08"
+msgstr "盆栽"
+
+msgid "garden_pond"
+msgstr "池塘"
+
+msgid "garden_tree01"
+msgstr "树木"
+
+msgid "garden_tree02"
+msgstr "树木"
+
+msgid "garden_tree03"
+msgstr "树木"
+
+msgid "garden_tree04"
+msgstr "树木"
+
+msgid "garden_tree05"
+msgstr "树木"
+
+msgid "garden_tree06"
+msgstr "树木"
+
+msgid "garden_tree07"
+msgstr "树木"
+
+msgid "garden_tree08"
+msgstr "树木"
+
+msgid "garden_tree09"
+msgstr "树木"
+
+msgid "garden_tree10"
+msgstr "树木"
+
+msgid "garden_zengarden"
+msgstr "禅宗花园"
+
+msgid "gardening"
+msgstr "园艺"
+
+msgid "gas_planet"
+msgstr "气态行星"
+
+msgid "gastrodisaster"
+msgstr "胃病"
+
+msgid "gastrodisaster_desc"
+msgstr "我的胃很不舒服"
+
+msgid "gems"
+msgstr "宝石"
+
+msgid "gems_node"
+msgstr "宝石堆"
+
+msgid "generic_extractor"
+msgstr "通用采集器"
+
+msgid "generic_extractor_desc"
+msgstr "在影响区域内进行资源采集"
+
+msgid "gigantism"
+msgstr "巨人症"
+
+msgid "gigantism_desc"
+msgstr "我进得了门么？"
+
+msgid "global_max_export_amount_desc"
+msgstr "当空间站的库存达到这个数字时，在其他星球开采资源的飞行器将自动忽略这种资源。"
+
+msgid "global_max_import_amount"
+msgstr "最大库存"
+
+msgid "global_min_stock_amount"
+msgstr "最小库存"
+
+msgid "global_min_stock_amount_desc"
+msgstr "向标记的工厂下达指令来尽力确保维持这一库存数量"
+
+msgid "global_recipes_inv_hint"
+msgstr "在物品栏中变更最小库存量"
+
+msgid "goal_bartender1_desc"
+msgstr "你的酒保应当准备42杯鸡尾酒。但是，说实在的饮品和毒品不是宇宙给我们的答案。 "
+
+msgid "goal_bartender1_title"
+msgstr "在酒吧提供42杯鸡尾酒"
+
+msgid "goal_buildany1_desc"
+msgstr "建造15个物品和135块地砖"
+
+msgid "goal_buildany1_title"
+msgstr "开始建造你的空间站"
+
+msgid "goal_buildany2_desc"
+msgstr "建造75个物品和675块地砖"
+
+msgid "goal_buildany2_title"
+msgstr "建造一个中等空间站"
+
+msgid "goal_buildany3_desc"
+msgstr "建造200个物品和1800块地砖"
+
+msgid "goal_buildany3_title"
+msgstr "建造一个大型空间站"
+
+msgid "goal_buildbar1_desc"
+msgstr "建造一个迪斯科酒吧，3个酒桌和2个跳舞场。"
+
+msgid "goal_buildbar1_title"
+msgstr "建造一个舞蹈俱乐部"
+
+msgid "goal_builddecorations1_desc"
+msgstr "建造10个装饰品"
+
+msgid "goal_builddecorations1_title"
+msgstr "建造10个装饰品"
+
+msgid "goal_buildfactory1_desc"
+msgstr "建造一个香皂作坊，一个炼金室和一个医疗诊所"
+
+msgid "goal_buildfactory1_title"
+msgstr "建造一个基础的工作区域"
+
+msgid "goal_buildhospital1_desc"
+msgstr "建造一个病床，一个药物计量器和生产10片药片。"
+
+msgid "goal_buildhospital1_title"
+msgstr "建造一个简单的医院"
+
+msgid "goal_buildliving1_desc"
+msgstr "建造3个床位和一个Hygienizer 3000"
+
+msgid "goal_buildliving1_title"
+msgstr "建造一个基本的栖息地"
+
+msgid "goal_buildlogistics1_desc"
+msgstr "建造一个库存区，一个货盘和一个回收机"
+
+msgid "goal_buildlogistics1_title"
+msgstr "建造基础的物流用具"
+
+msgid "goal_buildplanet1_desc"
+msgstr "在行星的表面建造一个大使馆"
+
+msgid "goal_buildplanet1_title"
+msgstr "在行星上建造一个大使馆"
+
+msgid "goal_buildplanet2_desc"
+msgstr "在行星的表面建造一个招募中心"
+
+msgid "goal_buildplanet2_title"
+msgstr "在行星上建造一个招募中心"
+
+msgid "goal_buildplanet3_desc"
+msgstr "在一个或多个行星的表面建造一个生物采集器，一个矿物采集器和一个流体采集器。"
+
+msgid "goal_buildplanet3_title"
+msgstr "在行星上建造3种不同的采集器"
+
+msgid "goal_buildsecurity1_desc"
+msgstr "建造一个摄像头和一扇安全门"
+
+msgid "goal_buildsecurity1_title"
+msgstr "建造基本的安全设施"
+
+msgid "goal_cargo1_desc"
+msgstr "一个或多个你的飞行器需要卸载60单位的机载物品。"
+
+msgid "goal_cargo1_title"
+msgstr "卸载60单位的机载物品"
+
+msgid "goal_cargo2_desc"
+msgstr "一个或多个你的飞行器需要卸载800单位的机载物品。"
+
+msgid "goal_cargo2_title"
+msgstr "卸载800单位的机载物品"
+
+msgid "goal_cargo3_desc"
+msgstr "一个或多个你的飞行器需要卸载12000单位的机载物品。"
+
+msgid "goal_cargo3_title"
+msgstr "卸载12000单位的机载物品"
+
+msgid "goal_clean1_desc"
+msgstr "清理100片的肮脏区域。确保你拥有执行清洁任务的职员。 "
+
+msgid "goal_clean1_title"
+msgstr "清理100片的肮脏区域"
+
+msgid "goal_completed_alert"
+msgstr " <<~A>> 任务已经完成。前往成就菜单领取你的奖励。"
+
+msgid "goal_consumerism1_desc"
+msgstr "使用商店的物品来向游客出售100 样商品。仅仅登记被出售的消耗品，类似于食物等提供活力值的物品不记录其中。"
+
+msgid "goal_consumerism1_title"
+msgstr "来向游客出售100 样商品"
+
+msgid "goal_cook1_desc"
+msgstr "你的厨师们需要使用厨房来烹饪10份任意的料理"
+
+msgid "goal_cook1_title"
+msgstr "烹饪10份任意的料理"
+
+msgid "goal_cook2_desc"
+msgstr "你的厨师们需要使用厨房来烹饪150份任意的料理"
+
+msgid "goal_cook2_title"
+msgstr "烹饪150份任意的料理"
+
+msgid "goal_cook3_desc"
+msgstr "你的厨师们需要使用厨房来烹饪1000份任意的料理"
+
+msgid "goal_cook3_title"
+msgstr "烹饪1000份任意的料理"
+
+msgid "goal_crew1_desc"
+msgstr "在舰队的操作界面，至少10次更变一艘或者多艘飞行器的机组人员"
+
+msgid "goal_crew1_title"
+msgstr "更变机组人员"
+
+msgid "goal_dance1_desc"
+msgstr "这个空间站组织了200次舞会"
+
+msgid "goal_dance1_title"
+msgstr "舞蹈狂热"
+
+msgid "goal_dock1_desc"
+msgstr "一艘飞行器的传导器必须至少停靠在空间站10次"
+
+msgid "goal_dock1_title"
+msgstr "停靠的传导器"
+
+msgid "goal_doctor1_desc"
+msgstr "你的医生必须在病床上照顾10个病人"
+
+msgid "goal_doctor1_title"
+msgstr "治愈10个病人"
+
+msgid "goal_extract1_desc"
+msgstr "使用你的采集器在一个或多个行星上开采100 个生命资源，100个矿产资源和100个流体资源"
+
+msgid "goal_extract1_title"
+msgstr "开采不同的资源"
+
+msgid "goal_galaxy1_desc"
+msgstr "在星系界面解锁3个星系"
+
+msgid "goal_galaxy1_title"
+msgstr "解锁3个星系"
+
+msgid "goal_imports1_desc"
+msgstr "你的一个或多个飞行器向一个行星出售50单位"
+
+msgid "goal_imports1_title"
+msgstr "出售50单位"
+
+msgid "goal_imports2_desc"
+msgstr "你的一个或多个飞行器向一个行星出售500单位"
+
+msgid "goal_imports2_title"
+msgstr "出售500单位"
+
+msgid "goal_imports3_desc"
+msgstr "你的一个或多个飞行器向一个行星出售5000单位"
+
+msgid "goal_imports3_title"
+msgstr "出售5000单位"
+
+msgid "goal_itemequip1_desc"
+msgstr "让任意数量的职员装备10次任意物品"
+
+msgid "goal_itemequip1_title"
+msgstr "装备10次新的物品"
+
+msgid "goal_itemloot1_desc"
+msgstr "在勘探过程中获得5个敌方的物品"
+
+msgid "goal_itemloot1_title"
+msgstr "获得5个物品"
+
+msgid "goal_itemloot2_desc"
+msgstr "在勘探过程中获得80个敌方的物品"
+
+msgid "goal_itemloot2_title"
+msgstr "获得80个物品"
+
+msgid "goal_itemloot3_desc"
+msgstr "在勘探过程中获得400个敌方的物品"
+
+msgid "goal_itemloot3_title"
+msgstr "获得400个物品"
+
+msgid "goal_itemprod1_desc"
+msgstr "制作15个任意类型和等级的物品。"
+
+msgid "goal_itemprod1_title"
+msgstr "制作15个物品"
+
+msgid "goal_itemprod2_desc"
+msgstr "制作一个用于胸部的物品。一个用于手部的物品，一个用于脚部的物品和一个装置类物品。"
+
+msgid "goal_itemprod2_title"
+msgstr "制作用于不同插槽的5个物品"
+
+msgid "goal_jobs1_desc"
+msgstr "使用空间站的工作矩阵来变更至少10次工作的指派。"
+
+msgid "goal_jobs1_title"
+msgstr "变更工作"
+
+msgid "goal_kill1_desc"
+msgstr "消灭20个属于敌方或正处于战争状态文明的成员"
+
+msgid "goal_kill1_title"
+msgstr "消灭20个敌人"
+
+msgid "goal_kill2_desc"
+msgstr "消灭140个属于敌方或正处于战争状态文明的成员"
+
+msgid "goal_kill2_title"
+msgstr "消灭140个敌人"
+
+msgid "goal_kill3_desc"
+msgstr "消灭900个属于敌方或正处于战争状态文明的成员"
+
+msgid "goal_kill3_title"
+msgstr "消灭900个敌人"
+
+msgid "goal_makedrink1_desc"
+msgstr "你的厨师应当使用厨房制作10杯果汁"
+
+msgid "goal_makedrink1_title"
+msgstr "准备10杯果汁"
+
+msgid "goal_makedrink2_desc"
+msgstr "你的厨师应当使用厨房制作150杯饮料"
+
+msgid "goal_makedrink2_title"
+msgstr "准备150杯饮料"
+
+msgid "goal_makedrink3_desc"
+msgstr "你的厨师应当使用厨房制作1000杯饮料"
+
+msgid "goal_makedrink3_title"
+msgstr "准备1000杯饮料"
+
+msgid "goal_makerobot1_desc"
+msgstr "你的职员应当使用生产机床来制作一个机器人"
+
+msgid "goal_makerobot1_title"
+msgstr "制作一个机器人"
+
+msgid "goal_planet1_desc"
+msgstr "至少在行星上登陆3次，可以是任意等级的"
+
+msgid "goal_planet1_title"
+msgstr "在行星上登陆3次"
+
+msgid "goal_planet2_desc"
+msgstr "至少在5级或以上的行星上登陆3次"
+
+msgid "goal_planet2_title"
+msgstr "在5级的行星上登陆3次"
+
+msgid "goal_planet3_desc"
+msgstr "至少在10级或以上的行星上登陆3次"
+
+msgid "goal_planet3_title"
+msgstr "在10级的行星上登陆3次"
+
+msgid "goal_planet4_desc"
+msgstr "至少在20级或以上的行星上登陆3次"
+
+msgid "goal_planet4_title"
+msgstr "在20级的行星上登陆3次"
+
+msgid "goal_progress"
+msgstr "进程： ~A%"
+
+msgid "goal_ready_alert"
+msgstr " <<~A>> 成就现在已经解锁了。"
+
+msgid "goal_recruit1_desc"
+msgstr "在人员界面招募5名新的职员。"
+
+msgid "goal_recruit1_title"
+msgstr "招募5名新的职员"
+
+msgid "goal_recycle1_desc"
+msgstr "回收50片垃圾零件。确保你拥有一个回收机并且拥有执行清理工作的人员。"
+
+msgid "goal_recycle1_title"
+msgstr "回收50片垃圾零件。"
+
+msgid "goal_recycle2_desc"
+msgstr "回收5具尸体。确保你拥有一个回收机并且拥有执行清理工作的人员。RIP"
+
+msgid "goal_recycle2_title"
+msgstr "回收5具尸体."
+
+msgid "goal_repair1_desc"
+msgstr "修复20个在战争期间或者因为使用不当而损坏的机器人或物品。"
+
+msgid "goal_repair1_title"
+msgstr "修复20个机器人或物品"
+
+msgid "goal_research1_desc"
+msgstr "完成任意一项研究"
+
+msgid "goal_research1_title"
+msgstr "研究等级1的科技"
+
+msgid "goal_research2_desc"
+msgstr "你的职员需要在研究桌面生产500点科机点。"
+
+msgid "goal_research2_title"
+msgstr "研究500点"
+
+msgid "goal_reward"
+msgstr "奖励： @ui_icon_20px_credits04.png ~A"
+
+msgid "goal_shipbuild1_desc"
+msgstr "使用飞行器生产规划机和飞行器生产机床来生产一个飞行器。"
+
+msgid "goal_shipbuild1_title"
+msgstr "生产一个飞行器"
+
+msgid "goal_shipbuild2_desc"
+msgstr "生产一个新的飞行器，在飞行器生产机床创造100条建造命令。"
+
+msgid "goal_shipbuild2_title"
+msgstr "创造100条飞行器生产命令"
+
+msgid "goal_specs1_desc"
+msgstr "选择任意一个正在接收实验的职员，并将他晋升为任意的专科。"
+
+msgid "goal_specs1_title"
+msgstr "将一个职员晋升为任意的专科。"
+
+msgid "goal_specs2_desc"
+msgstr "选择任意6个已经接收足够实验的职员，并将他晋升为任意的专科。"
+
+msgid "goal_specs2_title"
+msgstr "将6个职员晋升为任意的专科。"
+
+msgid "goal_specs3_desc"
+msgstr "选择任意一个正在接收实验的职员，并将他晋升为任意的高级专科。"
+
+msgid "goal_specs3_title"
+msgstr "将一个职员晋升为任意的高级专科。"
+
+msgid "goal_specs4_desc"
+msgstr "选择任意6个已经接收足够实验的职员，并将他晋升为任意的高级专科。"
+
+msgid "goal_specs4_title"
+msgstr "将6个职员晋升为任意的高级专科。"
+
+msgid "goal_visitors1_desc"
+msgstr "让10个游客登陆在你的空间站"
+
+msgid "goal_visitors1_title"
+msgstr "接待10个游客"
+
+msgid "goal_visitors2_desc"
+msgstr "让100个游客登陆在你的空间站"
+
+msgid "goal_visitors2_title"
+msgstr "接待100个游客"
+
+msgid "goal_visitors3_desc"
+msgstr "让1000个游客登陆在你的空间站"
+
+msgid "goal_visitors3_title"
+msgstr "接待1000个游客"
+
+msgid "goal_vitals1_desc"
+msgstr "你的一个或多个职员至少进行过25次每类的行动，其中包括睡觉，饮食，喝饮品以及洗澡。"
+
+msgid "goal_vitals1_title"
+msgstr "完成基础活力"
+
+msgid "goals"
+msgstr "成就"
+
+msgid "goals_why"
+msgstr "以你自己的节奏来完成各种游戏成就并探索游戏内的各种工具以及星系。HQ 会在你完成后送你奖励。"
+
+msgid "gogobot"
+msgstr "Gogobot"
+
+msgid "gogobot_desc"
+msgstr "在纳米度量下，完美的舞步"
+
+msgid "gold_token"
+msgstr "金色的筹码"
+
+msgid "graduate_spec"
+msgstr "毕业的"
+
+msgid "green_token"
+msgstr "绿色的筹码"
+
+msgid "group_commercial"
+msgstr "商业的"
+
+msgid "group_control"
+msgstr "@ui_icon_30px_lupa.png 控制"
+
+msgid "group_damage"
+msgstr "@ui_icon_30px_lupa.png 伤害"
+
+msgid "group_decor"
+msgstr "装饰和花园"
+
+msgid "group_eating"
+msgstr "食物和饮料"
+
+msgid "group_facilities"
+msgstr "安装和安全"
+
+msgid "group_factory"
+msgstr "生产"
+
+msgid "group_gardening"
+msgstr "园艺"
+
+msgid "group_healing"
+msgstr "@ui_icon_30px_lupa.png 治愈"
+
+msgid "group_health"
+msgstr "健康和卫生"
+
+msgid "group_hygiene"
+msgstr "卫生"
+
+msgid "group_misc"
+msgstr "其他"
+
+msgid "group_recreational"
+msgstr "娱乐性的"
+
+msgid "group_security"
+msgstr "安全"
+
+msgid "group_shielding"
+msgstr "@ui_icon_30px_lupa.png 护盾"
+
+msgid "group_ships"
+msgstr "飞行器的建造"
+
+msgid "group_sleeping"
+msgstr "住宿"
+
+msgid "gun_beamgun_name"
+msgstr "光束枪"
+
+msgid "gun_blaster_name"
+msgstr "冲击波"
+
+msgid "gun_blorg_name"
+msgstr "博克人标准"
+
+msgid "gun_crus_name"
+msgstr "可颂人标准"
+
+msgid "gun_cucur_name"
+msgstr "南瓜人标准"
+
+msgid "gun_disruptor_name"
+msgstr "切断"
+
+msgid "gun_laser_name"
+msgstr "激光枪"
+
+msgid "gun_lemur_name"
+msgstr "狐猴人标准"
+
+msgid "gun_medus_name"
+msgstr "麦多士人标准"
+
+msgid "gun_nogi_name"
+msgstr "诺吉人标准"
+
+msgid "gun_phaser_name"
+msgstr "Phaser"
+
+msgid "gun_pirates_name"
+msgstr "海盗标准"
+
+msgid "gun_pistol_name"
+msgstr "枪"
+
+msgid "gun_raygun_name"
+msgstr "闪电枪"
+
+msgid "gun_robots_name"
+msgstr "标准机器人"
+
+msgid "gun_zapper_name"
+msgstr "Zapper"
+
+msgid "had_to_flee"
+msgstr "惊恐地逃跑了"
+
+msgid "had_to_flee_desc"
+msgstr "我被吓着了，得块逃命"
+
+msgid "hands_01"
+msgstr "硬甲手套"
+
+msgid "hands_02"
+msgstr "Cyber V82"
+
+msgid "hands_03"
+msgstr "护卫手套"
+
+msgid "hands_04"
+msgstr "驾驶员手套"
+
+msgid "hands_05"
+msgstr "军士手套"
+
+msgid "hands_06"
+msgstr "士兵手套"
+
+msgid "hands_07"
+msgstr "EVA 套装手套"
+
+msgid "hands_08"
+msgstr "能量手套"
+
+msgid "hands_09"
+msgstr "精锻手套"
+
+msgid "hands_10"
+msgstr "Shock Beta手套"
+
+msgid "hands_item"
+msgstr "手部物品"
+
+msgid "hard"
+msgstr "困难"
+
+msgid "heal_1"
+msgstr "快速治愈"
+
+msgid "heal_2"
+msgstr "快速治愈加"
+
+msgid "heal_3"
+msgstr "高级治愈"
+
+msgid "heal_4"
+msgstr "MedXploder"
+
+msgid "heal_nearby"
+msgstr "治疗周围"
+
+msgid "healing_desc"
+msgstr "正在治疗一个友方"
+
+msgid "health"
+msgstr "健康"
+
+msgid "health_feeling_low"
+msgstr "受伤的"
+
+msgid "health_feeling_low_desc"
+msgstr "我的伤口很疼"
+
+msgid "health_feeling_very_low"
+msgstr "伤的很重"
+
+msgid "health_feeling_very_low_desc"
+msgstr "我受伤很严重"
+
+msgid "health_tier_1"
+msgstr "基本医疗"
+
+msgid "health_tier_2"
+msgstr "高级医疗"
+
+msgid "health_tier_3"
+msgstr "高级闻声"
+
+msgid "health_tier_4"
+msgstr "外科手术"
+
+msgid "health_tier_5"
+msgstr "热保健"
+
+msgid "health_tier_6"
+msgstr "完全再生"
+
+msgid "helium"
+msgstr "氦气"
+
+msgid "helium_node"
+msgstr "氦气堆"
+
+msgid "historic_program"
+msgstr "历史性任务"
+
+msgid "holo"
+msgstr "全息"
+
+msgid "holobooks"
+msgstr "全息百科全书"
+
+msgid "holobooks_obj"
+msgstr "全息百科全书的书架"
+
+msgid "holobooks_obj_desc"
+msgstr "在宇宙内通过纸质的形式来出售所有的知识。这是复古！"
+
+msgid "holocomics"
+msgstr "全息漫画"
+
+msgid "holofiction"
+msgstr "全息小说 v19.2"
+
+msgid "holofiction_desc"
+msgstr "一个巨大的4D娱乐项目"
+
+msgid "holohistorical"
+msgstr "全息历史 v24.8"
+
+msgid "holohistorical_desc"
+msgstr "在此回到过去"
+
+msgid "home"
+msgstr "家园"
+
+msgid "home_station"
+msgstr "空间站基地"
+
+msgid "hospital_bed"
+msgstr "医疗用床"
+
+msgid "hospital_bed_desc"
+msgstr "包括需要一个可以进行手术治疗的医生的高级医疗系统"
+
+msgid "hospitality_job"
+msgstr "住院"
+
+msgid "hospitality_tier_1"
+msgstr "房间"
+
+msgid "hospitality_tier_2"
+msgstr "高级职员卧室"
+
+msgid "hospitality_tier_3"
+msgstr "小旅馆"
+
+msgid "hospitality_tier_4"
+msgstr "豪华酒店"
+
+msgid "hospitality_tier_5"
+msgstr "冰冻睡眠"
+
+msgid "hostile"
+msgstr "招待所"
+
+msgid "hotel_bed_must_single"
+msgstr "每间房仅仅一个床位的酒店或小旅馆"
+
+msgid "hotel_checkin"
+msgstr "酒店接待"
+
+msgid "hotel_checkin_desc"
+msgstr "我已经可以使用酒店的客房了"
+
+msgid "hotelbed"
+msgstr "客房的床"
+
+msgid "hotelbed_desc"
+msgstr "为有钱的游客提供的豪华床位。需要一个酒店的前台接待用桌。职员无法使用。"
+
+msgid "hotelcheckin"
+msgstr "酒店前台"
+
+msgid "hotelcheckin_desc"
+msgstr "游客需要在此进行登记并在付款完成后方可使用客房内的床。"
+
+msgid "hps_label"
+msgstr "每秒治愈"
+
+msgid "hps_label_short"
+msgstr "CPS"
+
+msgid "human_federation"
+msgstr "城市文明"
+
+msgid "humans_adjective"
+msgstr "人类 %s"
+
+msgid "humans_adjective2"
+msgstr "人类 ~A"
+
+msgid "humans_member"
+msgstr "人类"
+
+msgid "humans_name"
+msgstr "人类"
+
+msgid "hunger"
+msgstr "饥饿"
+
+msgid "hunger_feeling_high"
+msgstr "充足饮食"
+
+msgid "hunger_feeling_high_desc"
+msgstr "那个食物真是美味啊！"
+
+msgid "hunger_feeling_low"
+msgstr "饿死了"
+
+msgid "hunger_feeling_low_desc"
+msgstr "我饿的肚子都开始疼了"
+
+msgid "hygiene"
+msgstr "卫生"
+
+msgid "hygiene_feeling_high"
+msgstr "冷却的"
+
+msgid "hygiene_feeling_high_desc"
+msgstr "这里的清洁工作很让人愉悦"
+
+msgid "hygiene_feeling_low"
+msgstr "恶心的气味"
+
+msgid "hygiene_feeling_low_desc"
+msgstr "大家都不愿意靠近我，我得洗澡了"
+
+msgid "hygienizer_basic"
+msgstr "清洁器 3000"
+
+msgid "hygienizer_basic_desc"
+msgstr "保证所有人的干净和整洁"
+
+msgid "hygienizer_max"
+msgstr "舒适的冲凉 5000"
+
+msgid "hygienizer_max_desc"
+msgstr "它把你洗得太干净了，别人都快认不出你了"
+
+msgid "hygienizer_plus"
+msgstr "豪华洗浴"
+
+msgid "hygienizer_plus_desc"
+msgstr "保证所有人的超级的干净和整洁"
+
+msgid "implant_01"
+msgstr "紧张的 OC "
+
+msgid "implant_02"
+msgstr "Tron++ 卡"
+
+msgid "implant_03"
+msgstr "ReflexPlus"
+
+msgid "implant_04"
+msgstr "ReflexPlus Lite"
+
+msgid "implant_05"
+msgstr "Bypass ADRNL"
+
+msgid "implant_06"
+msgstr "uWatch mKill"
+
+msgid "implant_07"
+msgstr "uRun mKill"
+
+msgid "implant_08"
+msgstr "充电器"
+
+msgid "implant_09"
+msgstr "FocusIN"
+
+msgid "implant_10"
+msgstr "备用电池"
+
+msgid "implant_11"
+msgstr "压力舒缓"
+
+msgid "implant_12"
+msgstr "增加灵感"
+
+msgid "implant_13"
+msgstr "完美的脉动"
+
+msgid "implant_14"
+msgstr "应急手机"
+
+msgid "implant_15"
+msgstr "动力注射器"
+
+msgid "implant_16"
+msgstr "Widget 3000P"
+
+msgid "implant_17"
+msgstr "Visor extra"
+
+msgid "implant_18"
+msgstr "质量调节器"
+
+msgid "implant_19"
+msgstr "金属调节器"
+
+msgid "implant_20"
+msgstr "流体调机器"
+
+msgid "implant_item"
+msgstr "装置类物品"
+
+msgid "import_amount"
+msgstr "输入数量为 %s 来出售给 %s"
+
+msgid "import_amount_over_hold"
+msgstr "飞行器的仓储室太小了"
+
+msgid "import_amount_over_stock"
+msgstr "在空间站内没有足够的库存 (店铺之外) "
+
+msgid "import_changed_stock"
+msgstr "空间站的库存在最后一秒改变了，它现在低于你选择的数量了。"
+
+msgid "import_invaded_planet"
+msgstr "这个行星被占领了因此不接受买卖。"
+
+msgid "import_invalid_ship_id"
+msgstr "选择一个飞行器"
+
+msgid "import_invalid_ship_not_home"
+msgstr "飞行器必须在空间站基地"
+
+msgid "import_too_low_amount"
+msgstr "选择一个出售的数量"
+
+msgid "imports_current_reputation"
+msgstr "目前的声望： %d/%d"
+
+msgid "imports_donation_bonus"
+msgstr "声望奖励： +%d"
+
+msgid "imports_donation_button"
+msgstr "给予 @ui_icon_20px_credits04.png %d"
+
+msgid "imports_hostile_donation_desc"
+msgstr "我们对你的饰品一点都不感兴趣，不过如果你能为我们的理想提供一定的捐款的话或许我们会对你少讨厌那么一点。"
+
+msgid "imports_hostile_limit"
+msgstr "我们会容忍你，但如果你对我们有敌意，我们会重新考虑我们的立场。"
+
+msgid "imports_no_planets"
+msgstr "开启更多的星系来找到对这个产品感兴趣的行星。"
+
+msgid "in_progress"
+msgstr "进行中"
+
+msgid "in_stasis"
+msgstr "被保管的"
+
+msgid "in_storage_area"
+msgstr "库存区域内"
+
+msgid "in_use"
+msgstr "使用中"
+
+msgid "include"
+msgstr "包括"
+
+msgid "industrialist"
+msgstr "工业列表"
+
+msgid "industrialist_desc2"
+msgstr "工人们尽其所能地在空间站的生产室内过着他们的日子。"
+
+msgid "inebriation"
+msgstr "醉酒"
+
+msgid "infinity"
+msgstr "无数的"
+
+msgid "infinity_short"
+msgstr "Inf"
+
+msgid "info_tool"
+msgstr "Info/焦距/移动"
+
+msgid "ingredient_of"
+msgstr "原料用于："
+
+msgid "input"
+msgstr "进口"
+
+msgid "interiorturret"
+msgstr "大型炮塔"
+
+msgid "interiorturret_desc"
+msgstr "大口径炮塔"
+
+msgid "intermediate_ship_engines_parts"
+msgstr "中级引擎零件"
+
+msgid "intermediate_ship_hull_parts"
+msgstr "中级盔甲零件"
+
+msgid "intermediate_ship_lifesupport_parts"
+msgstr "中级活力补充零件"
+
+msgid "intermediate_ship_structure_parts"
+msgstr "中级建造零件"
+
+msgid "interrupted_by_noise"
+msgstr "噪音干扰"
+
+msgid "intro_1"
+msgstr "5781 AD，人类联盟 HQ， 地球\n \n 尊敬的职员。你作为5级军官所获得杰出的工作成果已经被告知你的上级。因此你将被选择前往人迹罕至的银河系边缘地带进行基地的建造和指挥。"
+
+msgid "intro_2"
+msgstr "勘探周边的星系和它的行星，发现该地所拥有的珍贵资源并清除一切阻碍你的敌人。人类联盟对你寄予厚望！ "
+
+msgid "invaded_by"
+msgstr "被 %s 占领"
+
+msgid "invaded_by_other_desc"
+msgstr "该行星已经被占领，你无法在此开展贸易或者开采资源。改星球的居民也不会前往你的空间站进行访问参观。消灭行星的占领者们，并释放所有被统治的居民。"
+
+msgid "invaded_by_spatials_desc"
+msgstr "你已经占领了这个行星星球内的一切都在你的掌控中。你在上面建造的任何物品将不会受到伤害。"
+
+msgid "invaderbomb"
+msgstr "启动的炸弹"
+
+msgid "invaderbomb_desc"
+msgstr "在计时器倒数到0之前拆除这个炸弹来防止一场巨大的爆炸"
+
+msgid "invasion_happens_alert"
+msgstr "%s 已经占领了 %s 行星，拥有 %s 的特性。这个星球的贸易，旅游和资源开采都被封锁了。"
+
+msgid "invasion_happens_alert_spatials"
+msgstr "你已经占领 %s 行星。你和 %s 的声望下降了 %d。"
+
+msgid "invasion_mission_can_invade"
+msgstr "如果摧毁足够的敌方物体那么你就能占领这个行星。当我身边的计数器达到了100%，那这个行星就被占领了。占领行星能够允许你展开资源采集器来获取各类资源。"
+
+msgid "invasion_mission_can_liberate"
+msgstr " 一个敌方文明已经占领了这个行星，他正在封锁这个星球的对外贸易和资源开采！摧毁他们的建筑来解放这个行星吧。当计数器达到100%时，那该行星就已经被解放了。"
+
+msgid "invasion_mission_can_liberate_done"
+msgstr "你已经解放了该行星。行星的对外贸易和能源开采将一切如常。"
+
+msgid "invasion_mission_none"
+msgstr "这个行星和我们建立了友谊。继续维持现状吧，除非你有其他的理由。。。"
+
+msgid "invasion_mission_player_invaded"
+msgstr "这个行星已经被占领。资源采集器将不会受到伤害。"
+
+msgid "inventory"
+msgstr "列表"
+
+msgid "inventory_in_shops"
+msgstr "在商铺： ~A"
+
+msgid "inventory_locked"
+msgstr "封锁： ~A"
+
+msgid "inventory_missing_ingredients"
+msgstr "没有足够的材料"
+
+msgid "inventory_on_pallets"
+msgstr "在货盘上：~A"
+
+msgid "inventory_on_storage_areas"
+msgstr "在区域内： ~A"
+
+msgid "inventory_stacks"
+msgstr "存储柱： ~A"
+
+msgid "inventory_total"
+msgstr "共计 ~A"
+
+msgid "inventory_unattended"
+msgstr "未被接待的： ~A"
+
+msgid "item"
+msgstr "物品"
+
+msgid "item_info_amount"
+msgstr "数量： ~A"
+
+msgid "item_inventory_shortcut"
+msgstr "@ui_icon_30px_cargo.png 列表"
+
+msgid "item_level"
+msgstr "等级 ~A"
+
+msgid "item_power_single"
+msgstr "~A ~A"
+
+msgid "item_prefix_epic"
+msgstr "史诗级"
+
+msgid "item_prefix_legendary"
+msgstr "传说级"
+
+msgid "item_prefix_powerful"
+msgstr "强大的"
+
+msgid "item_prefix_rare"
+msgstr "无论如和"
+
+msgid "item_prefix_strong"
+msgstr "结实的"
+
+msgid "itemforge"
+msgstr "物品锻造"
+
+msgid "itemforge_desc"
+msgstr "护甲，装置和武器的制作"
+
+msgid "jewellery"
+msgstr "饰品"
+
+msgid "job_matrix"
+msgstr "任务矩阵"
+
+msgid "job_matrix_click_officer_name"
+msgstr "对焦地图"
+
+msgid "job_matrix_click_officer_portrait"
+msgstr "对焦人物"
+
+msgid "job_matrix_job_tip"
+msgstr "~A\n 优先： ~A"
+
+msgid "job_matrix_per_job_prio_disabled"
+msgstr "为这个职员提供全局工作的优先权"
+
+msgid "job_matrix_per_job_prio_enabled"
+msgstr "为这个职员编制工作的优先顺序"
+
+msgid "job_matrix_prompt_officer_prio"
+msgstr "为任务选择优先值，自1至99，或者填写0来删除任务"
+
+msgid "job_speed"
+msgstr "速度： ~0,2Fx"
+
+msgid "job_tier_1"
+msgstr "一级"
+
+msgid "job_tier_2"
+msgstr "两级"
+
+msgid "job_tier_3"
+msgstr "三级"
+
+msgid "job_tier_current_xp"
+msgstr "目前 XP"
+
+msgid "job_tier_rating"
+msgstr "等级"
+
+msgid "job_tier_speed"
+msgstr "速度"
+
+msgid "job_warn_no_credits"
+msgstr "没有足够的积分"
+
+msgid "job_warn_no_recipe"
+msgstr "选择一个配方来激活生产"
+
+msgid "job_warn_no_resources3"
+msgstr "没有库存或者没有通向 ~A 的路径"
+
+msgid "job_warn_no_resources4"
+msgstr "没有库存或者没有通向资源的路径"
+
+msgid "job_warn_wait_worker"
+msgstr "等待一个经验丰富的工人"
+
+msgid "job_warning"
+msgstr "通知"
+
+msgid "jobs"
+msgstr "工作"
+
+msgid "jobs_enable_manual_prio"
+msgstr "手动选择优先值"
+
+msgid "juice"
+msgstr "果汁"
+
+msgid "jukebox"
+msgstr "点唱机"
+
+msgid "jukebox_desc"
+msgstr "选择你喜欢的歌曲并伴随着曲调旁若无人的起舞"
+
+msgid "k_thousands"
+msgstr "K"
+
+msgid "kb_build_rotate_left"
+msgstr "建造：向左旋转"
+
+msgid "kb_build_rotate_right"
+msgstr "建造：向右旋转"
+
+msgid "kb_combat_mode"
+msgstr "激活战斗模式"
+
+msgid "kb_group_1"
+msgstr "选择小组1"
+
+msgid "kb_group_2"
+msgstr "选择小组2"
+
+msgid "kb_group_3"
+msgstr "选择小组3"
+
+msgid "kb_group_4"
+msgstr "选择小组4"
+
+msgid "kb_group_5"
+msgstr "选择小组5"
+
+msgid "kb_group_6"
+msgstr "选择小组6"
+
+msgid "kb_set_attack_target"
+msgstr "行动：选择攻击目标"
+
+msgid "kb_set_cc_target"
+msgstr "行动：选择控制对象"
+
+msgid "kb_set_heal_target"
+msgstr "行动：选择治疗对象"
+
+msgid "kb_set_shield_target"
+msgstr "行动：选择盾守对象"
+
+msgid "kb_teleport_to"
+msgstr "行动：传送至"
+
+msgid "keep_slot_empty"
+msgstr "保持插槽或位置的空缺"
+
+msgid "key_unbind"
+msgstr "指派"
+
+msgid "knowledge"
+msgstr "认知"
+
+msgid "kowka_desc"
+msgstr "社会主义工作女英雄。 作为20世纪实验的一部分，她被送到太空死亡，但在38世纪后神秘地活了下来，现在进化成为了机器人。"
+
+msgid "kowka_guard"
+msgstr "Кошка的守卫"
+
+msgid "kowka_guard_desc"
+msgstr "Кошка 的私人部队正在帮助你的空间站"
+
+msgid "lactian_adjective"
+msgstr "拜牛奶教士 %s"
+
+msgid "lactian_adjective2"
+msgstr "拜牛奶教士 ~A"
+
+msgid "lactian_member"
+msgstr "拜牛奶教士"
+
+msgid "lactians_name"
+msgstr "拜牛奶教士"
+
+msgid "landing"
+msgstr "正在登陆。。。"
+
+msgid "landing_start"
+msgstr "@ui_icon_30px_aterrizaje.png 勘探"
+
+msgid "language"
+msgstr "语言"
+
+msgid "latest_save"
+msgstr "最后的存档： %s"
+
+msgid "lemurian_adjective"
+msgstr "狐猴人 %s"
+
+msgid "lemurian_adjective2"
+msgstr "狐猴人 ~A"
+
+msgid "lemurian_domain"
+msgstr "狐猴人领地"
+
+msgid "lemurian_member"
+msgstr "狐猴人"
+
+msgid "lemurian_name"
+msgstr "狐猴人"
+
+msgid "level_n"
+msgstr "等级 %d"
+
+msgid "level_n_paren"
+msgstr "(等级 %d)"
+
+msgid "liberation_happens_alert_spatials"
+msgstr "你成功解放了%s 行星。你与 %s 之间的声望将增加 %d 点同时与 %s 之间的名望将下降 %d 点。"
+
+msgid "liberty_desc"
+msgstr "自由和勇气。在38世纪前与动物一同接受实验的幸存者，现在带来了幸福。"
+
+msgid "libery_name"
+msgstr "自由"
+
+msgid "library_table"
+msgstr "图书馆桌面"
+
+msgid "library_table_desc"
+msgstr "安静舒适的阅读桌面"
+
+msgid "list"
+msgstr "准备好"
+
+msgid "litter"
+msgstr "垃圾"
+
+msgid "litter_desc"
+msgstr "可以使用回收机的清洁工可以清除这些废物"
+
+msgid "load_game"
+msgstr "加载存档"
+
+msgid "local"
+msgstr "本地"
+
+msgid "locked"
+msgstr "封锁"
+
+msgid "lunch_shop"
+msgstr "含咖啡因的食物"
+
+msgid "lunch_shop_desc"
+msgstr "这里提供不同的食物"
+
+msgid "luxury_clothes"
+msgstr "精致的衣服"
+
+msgid "luxury_clothes_desc"
+msgstr "使用一种故意用来使其灭绝而生产出来的物种的皮毛制作的织物"
+
+msgid "luxury_dinner"
+msgstr "豪华的盛宴"
+
+msgid "luxury_display"
+msgstr "奢华的展览"
+
+msgid "luxury_display_desc"
+msgstr "珠宝和遗物"
+
+msgid "luxury_kitchen"
+msgstr "奢华的厨房"
+
+msgid "m_millions"
+msgstr "M"
+
+msgid "macarons"
+msgstr "马卡龙"
+
+msgid "macosx_experimental"
+msgstr "这是一个测试选项！因此无法在多屏幕显示的系统中使用并且无法兼容部分的攀登模式。"
+
+msgid "macosx_retina"
+msgstr "Mac OS X\nRetina"
+
+msgid "main_menu"
+msgstr "主菜单"
+
+msgid "maintenance_robot"
+msgstr "维护机器人"
+
+msgid "make_active_absorb"
+msgstr "建造活性物品吸收 L~A-L~A"
+
+msgid "make_active_control"
+msgstr "建造活性物品控制 L~A-L~A"
+
+msgid "make_active_damage"
+msgstr "建造活性物品伤害 L~A-L~A"
+
+msgid "make_active_healing"
+msgstr "建造活性物品治疗 L~A-L~A"
+
+msgid "make_chest"
+msgstr "制作胸部用物品 L~A-L~A"
+
+msgid "make_feet"
+msgstr "制作脚部用物品 L~A-L~A"
+
+msgid "make_fuel_cell"
+msgstr "生产燃料电池"
+
+msgid "make_hands"
+msgstr "制作手部用物品 L~A-L~A"
+
+msgid "make_implant"
+msgstr "制作装置类物品 L~A-L~A"
+
+msgid "make_owned_action"
+msgstr "成为 ~A 的财产"
+
+msgid "make_owner_action"
+msgstr "成为 ~A 的主人"
+
+msgid "make_repair_part"
+msgstr "生产替换件"
+
+msgid "map_scroll_down"
+msgstr "地图：向下移动"
+
+msgid "map_scroll_left"
+msgstr "地图：向左移动"
+
+msgid "map_scroll_right"
+msgstr "地图：向右移动"
+
+msgid "map_scroll_up"
+msgstr "地图：向上移动"
+
+msgid "master_spec"
+msgstr "大师级"
+
+msgid "max_3char"
+msgstr "MAX"
+
+msgid "max_stack_size"
+msgstr "最大柱存量： ~A"
+
+msgid "max_stock"
+msgstr "最大库存"
+
+msgid "mead"
+msgstr "肉堆"
+
+msgid "meat"
+msgstr "肉"
+
+msgid "meat_node"
+msgstr "肉堆"
+
+msgid "medic"
+msgstr "医生"
+
+msgid "medic_desc"
+msgstr "医治伤员，病人和无助的人。"
+
+msgid "medical_analyzer"
+msgstr "医疗分析仪"
+
+msgid "medical_analyzer_desc"
+msgstr "制造一个用来分析各类疾病和伤口的仪器"
+
+msgid "medical_workshop"
+msgstr "医疗实验室"
+
+msgid "medical_workshop_desc"
+msgstr "药品生产"
+
+msgid "medicine"
+msgstr "药品"
+
+msgid "meds_dispenser"
+msgstr "药品剂量仪"
+
+msgid "meds_dispenser_desc"
+msgstr "储存医疗用品及药物"
+
+msgid "medus_adjective"
+msgstr "麦度迅人 %s"
+
+msgid "medus_adjective2"
+msgstr "麦度迅人 ~A"
+
+msgid "medus_full"
+msgstr "麦度迅人部落"
+
+msgid "medus_member"
+msgstr "麦度迅人"
+
+msgid "medus_name"
+msgstr "麦度迅人"
+
+msgid "melee_name"
+msgstr "梅勒"
+
+msgid "menu"
+msgstr "菜单"
+
+msgid "metal_press"
+msgstr "金属压床"
+
+msgid "metal_press_desc"
+msgstr "大量的金属生产。它可能含有八十年代的头发痕迹。"
+
+msgid "miasma"
+msgstr "麦斯玛"
+
+msgid "miasma_desc"
+msgstr "一团充满恶臭和疾病的云团，它由腐烂的物质所造成。它会使人产生消极的想法，并可以让接近它的人的病。 确保你拥有一个回收机并且有清洁人员接近云团的起源来消除它，生产源可能是大量的垃圾或者死尸。"
+
+msgid "miasma_touched"
+msgstr "由麦斯玛造成"
+
+msgid "miasma_touched_desc"
+msgstr "呃，这个味道真恶心"
+
+msgid "microbiota"
+msgstr "微生物"
+
+msgid "microbiota_node"
+msgstr "微生物堆"
+
+msgid "mind"
+msgstr "情绪"
+
+msgid "mind_combat"
+msgstr "仅仅战斗"
+
+msgid "mind_combat_desc"
+msgstr "不在乎工作或者需求"
+
+msgid "mind_crew"
+msgstr "机组人员"
+
+msgid "mind_crew_desc"
+msgstr "我的需求是最重要的"
+
+msgid "mind_feeling_low"
+msgstr "完完全全的疯狂"
+
+msgid "mind_feeling_low2"
+msgstr "不幸的"
+
+msgid "mind_feeling_low2_desc"
+msgstr "社么都不重要，我不想活了"
+
+msgid "mind_feeling_low_desc"
+msgstr "我再也受不了了！"
+
+msgid "mind_tip"
+msgstr "情绪： %d"
+
+msgid "mineral_extractor"
+msgstr "矿物采集器"
+
+msgid "mineral_extractor_desc"
+msgstr "在它的影响范围内采集矿物资源"
+
+msgid "miniservo"
+msgstr "迷你伺服器"
+
+msgid "miniservo_display"
+msgstr "迷你伺服器展示台"
+
+msgid "miniservo_display_desc"
+msgstr "一个小小的机器人，它的价格可一点也不小。"
+
+msgid "missing_demands"
+msgstr "无法理解"
+
+msgid "missing_demands_desc"
+msgstr "我的一些需求没有被满足"
+
+msgid "mod_outdated"
+msgstr "你选择的mod和无法兼容本版本的游戏"
+
+msgid "mods"
+msgstr "Mods"
+
+msgid "mods_in_steam_workshop"
+msgstr "在Steam Workshop上寻找更多的mods"
+
+msgid "mood_10_of_10"
+msgstr "愉快的"
+
+msgid "mood_1_of_10"
+msgstr "生气的"
+
+msgid "mood_2_of_10"
+msgstr "讨厌的"
+
+msgid "mood_3_of_10"
+msgstr "伤心的"
+
+msgid "mood_4_of_10"
+msgstr "冷漠的"
+
+msgid "mood_5_of_10"
+msgstr "厌恶的"
+
+msgid "mood_6_of_10"
+msgstr "适中的"
+
+msgid "mood_7_of_10"
+msgstr "满足的"
+
+msgid "mood_8_of_10"
+msgstr "高兴的"
+
+msgid "mood_9_of_10"
+msgstr "愉悦的"
+
+msgid "motel_checkin"
+msgstr "小旅店接待"
+
+msgid "motel_checkin_desc"
+msgstr "我已经可以使用小旅店的客房了"
+
+msgid "motelbed"
+msgstr "小旅店的床"
+
+msgid "motelbed_desc"
+msgstr "提供给那些不太挑剔的客人的廉价的床。需要一个旅店的接待前台。职员无法使用。"
+
+msgid "motelcheckin"
+msgstr "小旅店接待"
+
+msgid "motelcheckin_desc"
+msgstr "游客们需要在此登记并在支付完成后方可使用旅店的客房。"
+
+msgid "music_volume"
+msgstr "音量"
+
+msgid "mutosis"
+msgstr "有丝分裂"
+
+msgid "mutosis_desc"
+msgstr "这个痘痘不从我的手上消失"
+
+msgid "mystery_milk"
+msgstr "神秘的牛奶"
+
+msgid "name"
+msgstr "名字"
+
+msgid "name_too_long"
+msgstr "名字太长"
+
+msgid "name_too_short"
+msgstr "名字太短"
+
+msgid "name_used"
+msgstr "名字正在被使用"
+
+msgid "narcolepsy"
+msgstr "嗜睡症"
+
+msgid "narcolepsy_desc"
+msgstr "我毫无理由的睡着了"
+
+msgid "navigation"
+msgstr "飞行"
+
+msgid "navigator"
+msgstr "飞行员"
+
+msgid "navigator_desc"
+msgstr "他们看见了无法想象的东西，他们被传送到了距离Orion很远的地方。在规定的时间内完成Kessel的学习。"
+
+msgid "need_booking"
+msgstr "我需要注册"
+
+msgid "need_booking_desc"
+msgstr "我需要注册一间房间"
+
+msgid "neutral"
+msgstr "中立的"
+
+msgid "neutral_adjective"
+msgstr "中立的 %s"
+
+msgid "neutral_adjective2"
+msgstr "中立的 ~A"
+
+msgid "neutral_member"
+msgstr "中立的"
+
+msgid "neutral_name"
+msgstr "中立的"
+
+msgid "new_game"
+msgstr "新存档"
+
+msgid "new_game_option_events"
+msgstr "事件："
+
+msgid "new_game_option_events_desc"
+msgstr "你可以在任何时刻在游戏内更变有关游戏事件的选项"
+
+msgid "new_game_option_pick_planet_kind"
+msgstr "行星类型："
+
+msgid "new_game_options"
+msgstr "选项"
+
+msgid "new_save_option"
+msgstr "<新存档>"
+
+msgid "next"
+msgstr "下一个"
+
+msgid "nitrogen"
+msgstr "氮气"
+
+msgid "nitrogen_node"
+msgstr "氮气堆"
+
+msgid "no"
+msgstr "不"
+
+msgid "no_ship_desired"
+msgstr "不想要飞行器"
+
+msgid "no_user_mods"
+msgstr "没有找到mod。请确保在下载后再次启动它。"
+
+msgid "no_user_mods_enabled"
+msgstr "未使用任何mod。"
+
+msgid "nogi_adjective"
+msgstr "诺吉人 %s"
+
+msgid "nogi_adjective2"
+msgstr "诺吉人 ~A"
+
+msgid "nogi_member"
+msgstr "诺吉人"
+
+msgid "nogi_name"
+msgstr "诺吉人"
+
+msgid "nogi_tyrants"
+msgstr "诺吉人霸权"
+
+msgid "noise"
+msgstr "噪音"
+
+msgid "noise_feeling"
+msgstr "噪音干扰"
+
+msgid "noise_interruption_desc"
+msgstr "太多的噪音，我无法平静下来"
+
+msgid "noise_room"
+msgstr "噪音： %d"
+
+msgid "non_walkable"
+msgstr "你不能在上面行走"
+
+msgid "normal"
+msgstr "正常"
+
+msgid "not_bound"
+msgstr "未分配"
+
+msgid "not_exploring_any_planet"
+msgstr "没有在勘探任何行星。"
+
+msgid "not_exploring_short"
+msgstr "未勘探"
+
+msgid "not_number"
+msgstr "这不是一个数字"
+
+msgid "not_tutorial_planet"
+msgstr "行星的教程仅仅在被称之为图吐大陆的星球上使用，在你的主星系内。"
+
+msgid "npc_animal01"
+msgstr "动物遗骸"
+
+msgid "npc_animal02"
+msgstr "动物遗骸"
+
+msgid "npc_animal03"
+msgstr "动物遗骸"
+
+msgid "npc_artifact01"
+msgstr "装置"
+
+msgid "npc_artifact02"
+msgstr "装置"
+
+msgid "npc_artifact03"
+msgstr "装置"
+
+msgid "npc_artifact04"
+msgstr "装置"
+
+msgid "npc_artifact05"
+msgstr "装置"
+
+msgid "npc_augustus"
+msgstr "Augustus"
+
+msgid "npc_bagelhead"
+msgstr "贝果头"
+
+msgid "npc_bicho01"
+msgstr "哇卡哇嘎"
+
+msgid "npc_bicho02"
+msgstr "狐猴族老鼠"
+
+msgid "npc_bicho03"
+msgstr "Heliominder"
+
+msgid "npc_bicho04"
+msgstr "长锤"
+
+msgid "npc_bicho05"
+msgstr "绿宝石甲虫"
+
+msgid "npc_bicho06"
+msgstr "拉健器"
+
+msgid "npc_bicho07"
+msgstr "Tweetto"
+
+msgid "npc_bicho08"
+msgstr "有蹄生物"
+
+msgid "npc_bicho09"
+msgstr "阿洛菲"
+
+msgid "npc_bicho10"
+msgstr "Zojamb"
+
+msgid "npc_bicho11"
+msgstr "小不点"
+
+msgid "npc_bicho12"
+msgstr "斯巴卡挖掘工"
+
+msgid "npc_bicho13"
+msgstr "斯卡隆"
+
+msgid "npc_blorg01"
+msgstr "博克人殖民"
+
+msgid "npc_blorg02"
+msgstr "博克人殖民"
+
+msgid "npc_blorg03"
+msgstr "博克人殖民"
+
+msgid "npc_blorg_boss"
+msgstr "博克人领袖"
+
+msgid "npc_blorg_crate_pickable"
+msgstr "博克人资源"
+
+msgid "npc_blorg_mine"
+msgstr "矿"
+
+msgid "npc_blorg_visitor01"
+msgstr "博克人游客"
+
+msgid "npc_blorg_visitor02"
+msgstr "博克人游客"
+
+msgid "npc_blorg_visitor03"
+msgstr "博克人游客"
+
+msgid "npc_blorg_visitor04"
+msgstr "博克人游客"
+
+msgid "npc_chuchu01"
+msgstr "丘巴人游客"
+
+msgid "npc_chuchu02"
+msgstr "丘巴人游客"
+
+msgid "npc_chuchu03"
+msgstr "丘巴人游客"
+
+msgid "npc_chuchu04"
+msgstr "丘巴人游客"
+
+msgid "npc_chuchu05"
+msgstr "丘巴人游客"
+
+msgid "npc_chuchucolony01"
+msgstr "丘巴人战士"
+
+msgid "npc_chuchucolony02"
+msgstr "丘巴人精英"
+
+msgid "npc_chuchucolony03"
+msgstr "丘巴人懒汉"
+
+msgid "npc_chuchucolony04"
+msgstr "丘巴人工程师"
+
+msgid "npc_colonycrusantian01"
+msgstr "可颂人殖民"
+
+msgid "npc_colonycrusantian02"
+msgstr "可颂人殖民"
+
+msgid "npc_colonycrusantian03"
+msgstr "可颂人殖民"
+
+msgid "npc_colonycrusantian04"
+msgstr "可颂人殖民"
+
+msgid "npc_colonylactian01"
+msgstr "拜牛奶教牧师"
+
+msgid "npc_colonylactian02"
+msgstr "拜牛奶教卫士"
+
+msgid "npc_colonylactian03"
+msgstr "拜牛奶教士兵"
+
+msgid "npc_colonylactian04"
+msgstr "拜牛奶教坦克"
+
+msgid "npc_colonylemurian01"
+msgstr "狐猴人士兵"
+
+msgid "npc_colonylemurian02"
+msgstr "狐猴人军士"
+
+msgid "npc_colonylemurian03"
+msgstr "狐猴人守卫"
+
+msgid "npc_colonynogi01"
+msgstr "诺吉人新手"
+
+msgid "npc_colonynogi02"
+msgstr "诺吉人精英"
+
+msgid "npc_colonynogi03"
+msgstr "诺吉人老者"
+
+msgid "npc_container01"
+msgstr "集装箱"
+
+msgid "npc_container02"
+msgstr "集装箱"
+
+msgid "npc_container03"
+msgstr "集装箱"
+
+msgid "npc_container04"
+msgstr "集装箱"
+
+msgid "npc_container05"
+msgstr "集装箱"
+
+msgid "npc_container06"
+msgstr "集装箱"
+
+msgid "npc_crusantian_visitor01"
+msgstr "可颂人游客"
+
+msgid "npc_crusantian_visitor02"
+msgstr "可颂人游客"
+
+msgid "npc_crusantian_visitor03"
+msgstr "可颂人游客"
+
+msgid "npc_crusantian_visitor04"
+msgstr "可颂人游客"
+
+msgid "npc_crusantianbox01"
+msgstr "可颂人资源"
+
+msgid "npc_cucurbian01"
+msgstr "南瓜人游客"
+
+msgid "npc_cucurbian02"
+msgstr "南瓜人游客"
+
+msgid "npc_cucurbian03"
+msgstr "南瓜人游客"
+
+msgid "npc_cucurbian_boss"
+msgstr "南瓜人领袖"
+
+msgid "npc_cucurbian_crate01"
+msgstr "南瓜人资源"
+
+msgid "npc_droid01"
+msgstr "巡逻机器人"
+
+msgid "npc_droid02"
+msgstr "军队机器人"
+
+msgid "npc_droid03"
+msgstr "终结者机器人"
+
+msgid "npc_droid04"
+msgstr "坦克机器人"
+
+msgid "npc_droid05"
+msgstr "涡轮机器人"
+
+msgid "npc_human01"
+msgstr "人类殖民者"
+
+msgid "npc_human02"
+msgstr "人类殖民者"
+
+msgid "npc_human03"
+msgstr "人类殖民者"
+
+msgid "npc_human04"
+msgstr "人类殖民者"
+
+msgid "npc_human_visitor01"
+msgstr "人类游客"
+
+msgid "npc_human_visitor02"
+msgstr "人类游客"
+
+msgid "npc_human_visitor03"
+msgstr "人类游客"
+
+msgid "npc_human_visitor04"
+msgstr "人类游客"
+
+msgid "npc_kowka"
+msgstr "Кошка"
+
+msgid "npc_lemurian_visitor01"
+msgstr "狐猴人游客"
+
+msgid "npc_lemurian_visitor02"
+msgstr "狐猴人游客"
+
+msgid "npc_lemurian_visitor03"
+msgstr "狐猴人游客"
+
+msgid "npc_lemurianbox01"
+msgstr "狐猴人资源"
+
+msgid "npc_medus01"
+msgstr "麦度迅人游客"
+
+msgid "npc_medus02"
+msgstr "麦度迅人游客"
+
+msgid "npc_medus03"
+msgstr "麦度迅人游客"
+
+msgid "npc_medus04"
+msgstr "麦度迅人游客"
+
+msgid "npc_medus05"
+msgstr "麦度迅人游客"
+
+msgid "npc_meduscolony01"
+msgstr "麦度迅人守卫"
+
+msgid "npc_meduscolony02"
+msgstr "麦度迅人钻孔师"
+
+msgid "npc_meduscolony03"
+msgstr "麦度迅人标枪手"
+
+msgid "npc_meduscolony04"
+msgstr "麦度迅人破坏者"
+
+msgid "npc_memorymodule"
+msgstr "记忆模块"
+
+msgid "npc_mineral01"
+msgstr "岩石"
+
+msgid "npc_mineral02"
+msgstr "岩石"
+
+msgid "npc_mineral03"
+msgstr "岩石"
+
+msgid "npc_mutant"
+msgstr "变异人"
+
+msgid "npc_nogi_visitor01"
+msgstr "诺吉人游客"
+
+msgid "npc_nogi_visitor02"
+msgstr "诺吉人游客"
+
+msgid "npc_nogi_visitor03"
+msgstr "诺吉人游客"
+
+msgid "npc_nogi_visitor04"
+msgstr "诺吉人游客"
+
+msgid "npc_nogibox01"
+msgstr "诺吉人资源"
+
+msgid "npc_octopus"
+msgstr "八爪怪"
+
+msgid "npc_pioneersbox01"
+msgstr "人类资源"
+
+msgid "npc_pirate01"
+msgstr "招募海盗"
+
+msgid "npc_pirate02"
+msgstr "海盗士兵"
+
+msgid "npc_pirate03"
+msgstr "海盗信使"
+
+msgid "npc_pirate04"
+msgstr "野兽海盗"
+
+msgid "npc_pirate_boss"
+msgstr "海盗头领"
+
+msgid "npc_pirates_crap"
+msgstr "垃圾"
+
+msgid "npc_pirates_mine"
+msgstr "矿石"
+
+msgid "npc_pirates_unicrate01"
+msgstr "海盗资源"
+
+msgid "npc_pirates_unicrate02"
+msgstr "海盗资源"
+
+msgid "npc_piratesbox01"
+msgstr "海盗资源"
+
+msgid "npc_robotbox01"
+msgstr "机器人资源"
+
+msgid "npc_seeds"
+msgstr "种子"
+
+msgid "npc_tribbler01"
+msgstr "寄生虫"
+
+msgid "npc_tribbler02"
+msgstr "寄生虫"
+
+msgid "npc_tribbler03"
+msgstr "寄生虫"
+
+msgid "npc_tribbler_boss"
+msgstr "寄生虫女王"
+
+msgid "npc_veg01"
+msgstr "植被"
+
+msgid "npc_veg02"
+msgstr "植被"
+
+msgid "npc_veg03"
+msgstr "植被"
+
+msgid "npc_visitorcucurbian01"
+msgstr "南瓜人游客"
+
+msgid "npc_visitorcucurbian02"
+msgstr "南瓜人游客"
+
+msgid "npc_visitorcucurbian03"
+msgstr "南瓜人游客"
+
+msgid "npc_visitorcucurbian04"
+msgstr "南瓜人游客"
+
+msgid "npc_worm"
+msgstr "太空蠕虫"
+
+msgid "npc_xenomorph"
+msgstr "异形"
+
+msgid "nuclearkitchen"
+msgstr "原子料理"
+
+msgid "nuclearkitchen_desc"
+msgstr "只有最优秀的大师级厨师才能制作这类料理。这种食物不应该存在于银河系。"
+
+msgid "obj_alienegg"
+msgstr "异形的蛋"
+
+msgid "obj_blorg-arch"
+msgstr "拱"
+
+msgid "obj_blorg-biojelly"
+msgstr "生物反应器"
+
+msgid "obj_blorg-crates1"
+msgstr "容器"
+
+msgid "obj_blorg-crates2"
+msgstr "容器"
+
+msgid "obj_blorg-crates3"
+msgstr "容器"
+
+msgid "obj_blorg-house"
+msgstr "别墅"
+
+msgid "obj_blorg-jelly"
+msgstr "果冻"
+
+msgid "obj_blorg-robotfactory"
+msgstr "生产室"
+
+msgid "obj_blorg-robotmegabrain"
+msgstr "大脑"
+
+msgid "obj_blorg-ship-house"
+msgstr "重制飞行器"
+
+msgid "obj_blorg-shuttle"
+msgstr "传导器"
+
+msgid "obj_blorg-turret"
+msgstr "炮塔"
+
+msgid "obj_blorgbuilding04"
+msgstr "大型别墅"
+
+msgid "obj_blorgwall"
+msgstr "墙面"
+
+msgid "obj_blorgwallturret"
+msgstr "炮塔"
+
+msgid "obj_build_info"
+msgstr "点击并拖拽来创建一个平面图并将它进行旋转。可以点击Esc键来取消该操作。"
+
+msgid "obj_capsule"
+msgstr "胶囊"
+
+msgid "obj_capsule-ok"
+msgstr "胶囊"
+
+msgid "obj_chuchubox01"
+msgstr "盒子"
+
+msgid "obj_chuchubox02"
+msgstr "盒子"
+
+msgid "obj_chuchubox03"
+msgstr "盒子"
+
+msgid "obj_chuchubox04"
+msgstr "盒子"
+
+msgid "obj_chuchubox05"
+msgstr "盒子"
+
+msgid "obj_chuchubuilding01"
+msgstr "地窖"
+
+msgid "obj_chuchubuilding02"
+msgstr "大型别墅"
+
+msgid "obj_chuchubuilding03"
+msgstr "别墅"
+
+msgid "obj_chuchubuilding04"
+msgstr "巡逻炮塔"
+
+msgid "obj_chuchudeposit"
+msgstr "储存"
+
+msgid "obj_chuchudestillery"
+msgstr "发酵"
+
+msgid "obj_chuchufield"
+msgstr "旷野"
+
+msgid "obj_chuchupress"
+msgstr "液压机"
+
+msgid "obj_chuchuwall"
+msgstr "墙面"
+
+msgid "obj_chuchuwallturret"
+msgstr "炮塔"
+
+msgid "obj_computer-off"
+msgstr "电脑"
+
+msgid "obj_computer-on"
+msgstr "电脑"
+
+msgid "obj_crashed-ship"
+msgstr "星舰"
+
+msgid "obj_crusantianbox01"
+msgstr "盒子"
+
+msgid "obj_crusantianbox02"
+msgstr "盒子"
+
+msgid "obj_crusantianbox03"
+msgstr "盒子"
+
+msgid "obj_crusantianbuilding01"
+msgstr "塔楼"
+
+msgid "obj_crusantianbuilding02"
+msgstr "政府"
+
+msgid "obj_crusantianbuilding03"
+msgstr "别墅"
+
+msgid "obj_crusantianbuilding04"
+msgstr "别墅"
+
+msgid "obj_crusantianfield"
+msgstr "旷野"
+
+msgid "obj_crusantianwall"
+msgstr "墙面"
+
+msgid "obj_crusantianwallturret"
+msgstr "炮塔"
+
+msgid "obj_cucu-1"
+msgstr "公寓"
+
+msgid "obj_cucu-2"
+msgstr "别墅"
+
+msgid "obj_cucu-3"
+msgstr "公寓"
+
+msgid "obj_cucu-airvent"
+msgstr "通风"
+
+msgid "obj_cucu-debris-1"
+msgstr "残渣"
+
+msgid "obj_cucu-debris-2"
+msgstr "残渣"
+
+msgid "obj_cucu-elevator"
+msgstr "电梯"
+
+msgid "obj_cucu-superweapon"
+msgstr "轨道炮"
+
+msgid "obj_cucurbianairvent"
+msgstr "通风"
+
+msgid "obj_cucurbianwall"
+msgstr "墙面"
+
+msgid "obj_cucurbianwallturret"
+msgstr "炮塔"
+
+msgid "obj_destroyedbuilding01"
+msgstr "残渣"
+
+msgid "obj_destroyedbuilding02"
+msgstr "残渣"
+
+msgid "obj_destroyedbuilding03"
+msgstr "残渣"
+
+msgid "obj_destroyedbuilding04"
+msgstr "残渣"
+
+msgid "obj_destroyedbuilding05"
+msgstr "残渣"
+
+msgid "obj_destroyedbuilding06"
+msgstr "残渣"
+
+msgid "obj_destroyedbuilding07"
+msgstr "残渣"
+
+msgid "obj_destroyedbuilding08"
+msgstr "残渣"
+
+msgid "obj_destroyedbuilding09"
+msgstr "残渣"
+
+msgid "obj_destroyedbuilding10"
+msgstr "残渣"
+
+msgid "obj_embassy-statue"
+msgstr "雕像"
+
+msgid "obj_generator"
+msgstr "发电机"
+
+msgid "obj_generator-off"
+msgstr "发电机"
+
+msgid "obj_generator-on"
+msgstr "发电机"
+
+msgid "obj_group_commercial"
+msgstr "贸易"
+
+msgid "obj_group_decor"
+msgstr "装饰"
+
+msgid "obj_group_eating"
+msgstr "食物和饮料"
+
+msgid "obj_group_facilities"
+msgstr "设备"
+
+msgid "obj_group_factory"
+msgstr "生产"
+
+msgid "obj_group_gardening"
+msgstr "花园"
+
+msgid "obj_group_health"
+msgstr "健康"
+
+msgid "obj_group_hygiene"
+msgstr "卫生"
+
+msgid "obj_group_misc"
+msgstr "其他"
+
+msgid "obj_group_recreational"
+msgstr "娱乐性的"
+
+msgid "obj_group_security"
+msgstr "安全"
+
+msgid "obj_group_sleeping"
+msgstr "休息"
+
+msgid "obj_hive-crystal"
+msgstr "矿物形成"
+
+msgid "obj_hive-crystal2"
+msgstr "矿物形成"
+
+msgid "obj_hive-crystal3"
+msgstr "矿物形成"
+
+msgid "obj_hive-mother"
+msgstr "矿物形成"
+
+msgid "obj_hive-nest"
+msgstr "窝"
+
+msgid "obj_hive-pupa"
+msgstr "蛹"
+
+msgid "obj_human-boxes1"
+msgstr "盒子"
+
+msgid "obj_human-boxes2"
+msgstr "盒子"
+
+msgid "obj_human-boxes3"
+msgstr "盒子"
+
+msgid "obj_human-plant"
+msgstr "旷野"
+
+msgid "obj_human-plant-burnt"
+msgstr "烧焦的旷野"
+
+msgid "obj_human-short"
+msgstr "别墅"
+
+msgid "obj_human-station-box"
+msgstr "盒子"
+
+msgid "obj_human-tall"
+msgstr "公寓"
+
+msgid "obj_human-tower"
+msgstr "塔楼"
+
+msgid "obj_in_way"
+msgstr "中间有其他的物品，请先清除它们"
+
+msgid "obj_lactianbanner"
+msgstr "拜牛奶教旗帜"
+
+msgid "obj_lactianidol01"
+msgstr "拜牛奶教偶像"
+
+msgid "obj_lactianidol02"
+msgstr "拜牛奶教偶像"
+
+msgid "obj_lemurianbox01"
+msgstr "盒子"
+
+msgid "obj_lemurianbox02"
+msgstr "盒子"
+
+msgid "obj_lemurianbox03"
+msgstr "盒子"
+
+msgid "obj_lemurianbuilding01"
+msgstr "公寓"
+
+msgid "obj_lemurianbuilding02"
+msgstr "大型别墅"
+
+msgid "obj_lemurianbuilding03"
+msgstr "通讯中心"
+
+msgid "obj_lemuriancomputer"
+msgstr "电脑"
+
+msgid "obj_lemurianfield"
+msgstr "旷野"
+
+msgid "obj_lemurianmill"
+msgstr "风车"
+
+msgid "obj_lemurianwall"
+msgstr "墙面"
+
+msgid "obj_lemurianwallturret"
+msgstr "炮塔"
+
+msgid "obj_medusbomb"
+msgstr "炸弹"
+
+msgid "obj_medusbox01"
+msgstr "盒子"
+
+msgid "obj_medusbox02"
+msgstr "盒子"
+
+msgid "obj_medusbox03"
+msgstr "盒子"
+
+msgid "obj_medusbox04"
+msgstr "盒子"
+
+msgid "obj_medusbuilding01"
+msgstr "公寓"
+
+msgid "obj_medusbuilding02"
+msgstr "大型别墅"
+
+msgid "obj_medusbuilding03"
+msgstr "公寓"
+
+msgid "obj_medusbuilding04"
+msgstr "别墅"
+
+msgid "obj_medusfield"
+msgstr "旷野"
+
+msgid "obj_medustree"
+msgstr "旷野"
+
+msgid "obj_medusturbine"
+msgstr "涡轮机器人"
+
+msgid "obj_meduswall"
+msgstr "墙面"
+
+msgid "obj_meduswallturret"
+msgstr "炮塔"
+
+msgid "obj_nogibox01"
+msgstr "盒子"
+
+msgid "obj_nogibox03"
+msgstr "盒子"
+
+msgid "obj_nogibuilding01"
+msgstr "公寓"
+
+msgid "obj_nogibuilding02"
+msgstr "别墅"
+
+msgid "obj_nogibuilding03"
+msgstr "公寓"
+
+msgid "obj_nogibuilding04"
+msgstr "别墅"
+
+msgid "obj_nogicondensator"
+msgstr "冷凝器"
+
+msgid "obj_nogiextractor"
+msgstr "采集器"
+
+msgid "obj_nogigenerator"
+msgstr "发电机"
+
+msgid "obj_nogiwall"
+msgstr "墙面"
+
+msgid "obj_nogiwallturret"
+msgstr "炮塔"
+
+msgid "obj_pest-field"
+msgstr "被污染的旷野"
+
+msgid "obj_pest-house"
+msgstr "被污染的别墅"
+
+msgid "obj_pest-pile"
+msgstr "被污染的储存柱"
+
+msgid "obj_pioneerswall"
+msgstr "墙面"
+
+msgid "obj_pioneerswallturret"
+msgstr "炮塔"
+
+msgid "obj_pirate-antenna"
+msgstr "天线"
+
+msgid "obj_pirate-building-bikes"
+msgstr "摩托"
+
+msgid "obj_pirate-building-shuttle"
+msgstr "传导器"
+
+msgid "obj_pirate-building-tent"
+msgstr "商店"
+
+msgid "obj_pirate-building-tower1"
+msgstr "塔楼"
+
+msgid "obj_pirate-building-tower2"
+msgstr "塔楼"
+
+msgid "obj_pirate-command"
+msgstr "控制塔"
+
+msgid "obj_pirate-crate"
+msgstr "集装箱"
+
+msgid "obj_pirate-debris-ab1"
+msgstr "残渣"
+
+msgid "obj_pirate-debris-ab2"
+msgstr "残渣"
+
+msgid "obj_pirate-debris-crap"
+msgstr "垃圾"
+
+msgid "obj_pirate-debris-crates1"
+msgstr "盒子"
+
+msgid "obj_pirate-debris-crates2"
+msgstr "盒子"
+
+msgid "obj_pirate-mineassembler"
+msgstr "生产室"
+
+msgid "obj_pirate-turret"
+msgstr "炮塔"
+
+msgid "obj_pirateswall"
+msgstr "墙面"
+
+msgid "obj_pirateswallturret"
+msgstr "炮塔"
+
+msgid "obj_probe"
+msgstr "探测仪"
+
+msgid "obj_probe2"
+msgstr "探测仪"
+
+msgid "obj_robotbattery01"
+msgstr "电池"
+
+msgid "obj_robotbattery02"
+msgstr "电池"
+
+msgid "obj_robotbox01"
+msgstr "盒子"
+
+msgid "obj_robotbox02"
+msgstr "盒子"
+
+msgid "obj_robotbox03"
+msgstr "盒子"
+
+msgid "obj_robotbox04"
+msgstr "盒子"
+
+msgid "obj_robotbuilding01"
+msgstr "加速器"
+
+msgid "obj_robotbuilding02"
+msgstr "铸造厂"
+
+msgid "obj_robotbuilding03"
+msgstr "过滤器"
+
+msgid "obj_robotcondensator"
+msgstr "冷凝器"
+
+msgid "obj_robotsensor"
+msgstr "传感器"
+
+msgid "obj_robotturret"
+msgstr "炮塔"
+
+msgid "obj_robotwall"
+msgstr "前面"
+
+msgid "obj_robotwallturret"
+msgstr "炮塔"
+
+msgid "obj_ruinsgreybuilding01"
+msgstr "废墟"
+
+msgid "obj_ruinsgreybuilding02"
+msgstr "废墟"
+
+msgid "obj_ruinsgreybuilding03"
+msgstr "废墟"
+
+msgid "obj_ruinsgreybuilding04"
+msgstr "废墟"
+
+msgid "obj_ruinsgreybuilding05"
+msgstr "废墟"
+
+msgid "obj_ruinsgreybuilding06"
+msgstr "废墟"
+
+msgid "obj_ruinsgreycolumns01"
+msgstr "柱子"
+
+msgid "obj_ruinsgreycolumns02"
+msgstr "柱子"
+
+msgid "obj_ruinsgreycolumns03"
+msgstr "柱子"
+
+msgid "obj_ruinsgreycolumns04"
+msgstr "柱子"
+
+msgid "obj_ruinsgreyrubble01"
+msgstr "残渣"
+
+msgid "obj_ruinsgreyrubble02"
+msgstr "残渣"
+
+msgid "obj_ruinsgreyrubble03"
+msgstr "残渣"
+
+msgid "obj_ruinsgreyrubble04"
+msgstr "残渣"
+
+msgid "obj_ruinsgreyrubble05"
+msgstr "残渣"
+
+msgid "obj_ruinsgreyrubble06"
+msgstr "残渣"
+
+msgid "obj_ruinsgreystatue01"
+msgstr "雕塑"
+
+msgid "obj_ruinsgreystatue02"
+msgstr "雕塑"
+
+msgid "obj_ruinspyhall01"
+msgstr "大厅"
+
+msgid "obj_ruinspyhall02"
+msgstr "大厅"
+
+msgid "obj_ruinspyhall03"
+msgstr "大厅"
+
+msgid "obj_ruinspyhall04"
+msgstr "大厅"
+
+msgid "obj_ruinspyhall05"
+msgstr "大厅"
+
+msgid "obj_ruinspyhall06"
+msgstr "大厅"
+
+msgid "obj_ruinspyrbuilding01"
+msgstr "废墟"
+
+msgid "obj_ruinspyrbuilding02"
+msgstr "废墟"
+
+msgid "obj_ruinspyrbuilding03"
+msgstr "废墟"
+
+msgid "obj_ruinspyrbuilding04"
+msgstr "废墟"
+
+msgid "obj_ruinspyrbuilding05"
+msgstr "废墟"
+
+msgid "obj_ruinspyrpyramid01part0"
+msgstr "金字塔"
+
+msgid "obj_ruinspyrpyramid01part1"
+msgstr "金字塔"
+
+msgid "obj_ruinspyrpyramid01part2"
+msgstr "金字塔"
+
+msgid "obj_ruinspyrpyramid01part3"
+msgstr "金字塔"
+
+msgid "obj_ruinspyrpyramid01part4"
+msgstr "金字塔"
+
+msgid "obj_ruinspyrpyramid02part1"
+msgstr "金字塔"
+
+msgid "obj_ruinspyrpyramid02part2"
+msgstr "金字塔"
+
+msgid "obj_ruinspyrpyramid02part3"
+msgstr "金字塔"
+
+msgid "obj_ruinspyrpyramid03"
+msgstr "金字塔"
+
+msgid "obj_ruinspyrpyramid04"
+msgstr "金字塔"
+
+msgid "obj_ruinspyrrubble01"
+msgstr "残渣"
+
+msgid "obj_ruinspyrrubble02"
+msgstr "残渣"
+
+msgid "obj_ruinspyrrubble03"
+msgstr "残渣"
+
+msgid "obj_ruinspyrrubble04"
+msgstr "残渣"
+
+msgid "obj_ruinspyrrubble05"
+msgstr "残渣"
+
+msgid "obj_ruinspyrrubble06"
+msgstr "残渣"
+
+msgid "obj_ruinspyrsphinx01"
+msgstr "狮身人面像"
+
+msgid "obj_ruinspyrsphinx02"
+msgstr "狮身人面像"
+
+msgid "obj_ruinspyrsphinx03"
+msgstr "狮身人面像"
+
+msgid "obj_ruinspyrsphinx04"
+msgstr "狮身人面像"
+
+msgid "obj_ruinspyrstatue01"
+msgstr "雕塑"
+
+msgid "obj_ruinspyrstatue02"
+msgstr "雕塑"
+
+msgid "obj_ruinspyrstatue03"
+msgstr "雕塑"
+
+msgid "obj_ship-debris-1"
+msgstr "残渣"
+
+msgid "obj_ship-debris-2"
+msgstr "残渣"
+
+msgid "obj_ship-debris-3"
+msgstr "残渣"
+
+msgid "obj_shuttle"
+msgstr "传导器"
+
+msgid "obj_silo"
+msgstr "地窖"
+
+msgid "obj_soup"
+msgstr "汤"
+
+msgid "obj_soy-empty"
+msgstr "旷野"
+
+msgid "obj_surprise-crate"
+msgstr "盒子"
+
+msgid "object"
+msgstr "物品"
+
+msgid "object_is_busy"
+msgstr "忙碌的 ~A "
+
+msgid "object_strength"
+msgstr "抵抗力"
+
+msgid "objects"
+msgstr "物品"
+
+msgid "obsolete"
+msgstr "陈旧的"
+
+msgid "oceanic_planet"
+msgstr "海洋性行星"
+
+msgid "off"
+msgstr "关"
+
+msgid "offcer_can_evolve"
+msgstr "~A 已经拥有足够的经验来变成为 ~A。你可以在员工面板中晋升这个职员。 "
+
+msgid "officer"
+msgstr "职员"
+
+msgid "officer_busy"
+msgstr "这个职员正在忙于其他事务"
+
+msgid "officer_died"
+msgstr "职员 ~A 已经去世了"
+
+msgid "officer_dock"
+msgstr "太空人港口"
+
+msgid "officer_dock_desc"
+msgstr "空间站所有的太空飞行器可以停靠在这里。"
+
+msgid "officer_from"
+msgstr "从 ~A (L~A) 至 ~A"
+
+msgid "officer_in_crew"
+msgstr "目前的飞行器： ~A"
+
+msgid "officer_location_station"
+msgstr "空间站"
+
+msgid "officer_single_navi_speed"
+msgstr "提升飞行器的速度： +~0,2F%"
+
+msgid "officer_single_navi_speed_desc"
+msgstr "注意：如果被选择的职员不适机组成员中最有经验的飞行员，那么他对飞行器的速度仅仅会有很小的提升"
+
+msgid "oils"
+msgstr "油"
+
+msgid "oils_node"
+msgstr "油堆"
+
+msgid "ok"
+msgstr "OK"
+
+msgid "okay"
+msgstr "同意"
+
+msgid "on"
+msgstr "On"
+
+msgid "on_patrol_busy"
+msgstr "小队的"
+
+msgid "on_strike"
+msgstr "正在罢工"
+
+msgid "on_strike_desc"
+msgstr "他拒绝继续工作，并正在破坏工作设备"
+
+msgid "options"
+msgstr "选项"
+
+msgid "options_menu"
+msgstr "选项"
+
+msgid "options_more_languages"
+msgstr " =\"@ui_icon_30px_lenguage.png 更多语言\""
+
+msgid "options_need_game"
+msgstr "未载入任何存档。存档选项在游戏保存时自动保存。开始一个新的游戏或者再入一个存档来修改选项。"
+
+msgid "options_save_desc"
+msgstr "这个窗口的选项将在游戏保存时存档。在选项变更后切记进行存档。"
+
+msgid "orion_soda"
+msgstr "Orion 牌苏打水"
+
+msgid "output"
+msgstr "出口"
+
+msgid "owned_desc"
+msgstr "这个物品已经有主人了只有它的主人才能使用它。但是它的维护工作却可以由其他的职员或者机器人来完成。"
+
+msgid "owner_officer_select"
+msgstr "更变主人"
+
+msgid "owner_propagates_desc"
+msgstr "当这个物品拥有主人时，所有房间内的其他物品都将归属于同样的人。"
+
+msgid "ownership"
+msgstr "财产"
+
+msgid "ownership_area_must_single"
+msgstr "每间房间仅有一张拥有主人的床"
+
+msgid "pacifist"
+msgstr "和平主义者"
+
+msgid "paid_salary_amt"
+msgstr "~A/~A 次数"
+
+msgid "pallet"
+msgstr "货盘"
+
+msgid "pallet_desc"
+msgstr "存储具有最大值和最小值的单个类别的物品，不受资源类型的限制"
+
+msgid "pallet_info_help"
+msgstr "所有处于货盘周围3X3空间的生产机床可以获得上面的资源。也可以将持有的物品放在货盘上存储，即使操作者也处于该区域。"
+
+msgid "passing_out"
+msgstr "昏迷的"
+
+msgid "patient"
+msgstr "病人"
+
+msgid "pause"
+msgstr "暂停"
+
+msgid "pending"
+msgstr "待处理的"
+
+msgid "pending_upgrade"
+msgstr "等待晋升"
+
+msgid "pharmacist"
+msgstr "药剂师"
+
+msgid "pharmacist_desc"
+msgstr "医生需要药物，药剂师是最好的供应方。"
+
+msgid "pharmacy"
+msgstr "药店"
+
+msgid "photo_frames"
+msgstr "相框"
+
+msgid "photobooth"
+msgstr "照相亭"
+
+msgid "photobooth_desc"
+msgstr "拍一张照片并选择你喜欢的相框来打印，例如远古风格。"
+
+msgid "pick_resource_pallet"
+msgstr "选择一个该物体需要维持的资源"
+
+msgid "pills"
+msgstr "药丸"
+
+msgid "pinball"
+msgstr "弹珠台"
+
+msgid "pinball_desc"
+msgstr "每颗球都拥有自己的思想和性格，你需要尊重他们。"
+
+msgid "pirates_adjective"
+msgstr "海盗 %s"
+
+msgid "pirates_adjective2"
+msgstr "海盗 ~A"
+
+msgid "pirates_ltd"
+msgstr "海盗有限公司"
+
+msgid "pirates_member"
+msgstr "海盗"
+
+msgid "pirates_name"
+msgstr "海盗"
+
+msgid "pizza"
+msgstr "披萨"
+
+msgid "plain_clothes"
+msgstr "简单的衣服"
+
+msgid "plain_clothes_obj"
+msgstr "衣柜"
+
+msgid "plain_clothes_obj_desc"
+msgstr "每天都精致乖巧"
+
+msgid "planet"
+msgstr "行星"
+
+msgid "planet_defensive_turret"
+msgstr "防御塔"
+
+msgid "planet_defensive_turret_desc"
+msgstr "保护你的物品的周围免受敌人的攻击"
+
+msgid "planet_embassy"
+msgstr "大使馆"
+
+msgid "planet_embassy_desc"
+msgstr "一点一点地增加你针对本地文明的声望值直到一个限定值"
+
+msgid "planet_info_friend"
+msgstr "让我们一起欢迎我们的新朋友。请您别带走所有的东西。"
+
+msgid "planet_info_hostile"
+msgstr "发现入侵！呼叫所有部门！"
+
+msgid "planet_info_neutral"
+msgstr "您好! 请您注意武器的瞄准对象，好么？ "
+
+msgid "planet_info_no_civ"
+msgstr "在这个星球未检测到任何具有高智慧的生物。包括那些树木。"
+
+msgid "planet_no_stocks"
+msgstr "该资源在或盘上没有足够的库存，建造更多的采集器或者等待你的采集器为你生产更多资源 "
+
+msgid "planet_propaganda"
+msgstr "广告中心"
+
+msgid "planet_propaganda_desc"
+msgstr "增加从这个行星前往你的空间站参观游客的场次"
+
+msgid "planet_recruitment_center"
+msgstr "招募中心"
+
+msgid "planet_recruitment_center_desc"
+msgstr "只要这个行星属于友方的文明，那么你就可以在那上面招募新的职员。"
+
+msgid "planet_resource_extract_disable"
+msgstr "该类型资源的采集器未启用。剩余的库存将被保留至被飞行器装载。"
+
+msgid "planet_resource_extract_enable"
+msgstr "启动该类型资源的采集器。"
+
+msgid "planet_ships_with_order"
+msgstr "自动驾驶停靠："
+
+msgid "planet_storage"
+msgstr "储存"
+
+msgid "planet_storage_current"
+msgstr "~A 个存货"
+
+msgid "planet_storage_desc"
+msgstr "增加这个货盘存储被撤走的资源的20点库存能力"
+
+msgid "planet_storage_max"
+msgstr "~A 最大单位"
+
+msgid "planet_travel"
+msgstr "@ui_icon_30px_fleet2.png 旅行"
+
+msgid "planetarium"
+msgstr "行星的"
+
+msgid "planetarium_desc_friendly"
+msgstr "由于你和 ~A 具有良好的友谊，你只需支付一笔税费来获得相同的信息，这样你无须使用暴力同时不会丢失声望值。"
+
+msgid "planetarium_desc_hostile"
+msgstr "摧毁这个建筑来解锁以下星系： ~A"
+
+msgid "planetarium_pay"
+msgstr "支付税费"
+
+msgid "planetarium_price"
+msgstr "价格： ~A @ui_icon_20px_credits04.png"
+
+msgid "planetarium_warn_rep"
+msgstr "摧毁这个建筑物将会使你和 ~A 间的声望值大幅度下降。"
+
+msgid "platinum"
+msgstr "白金"
+
+msgid "platinum_node"
+msgstr "白金堆"
+
+msgid "player"
+msgstr "玩家"
+
+msgid "player_desc"
+msgstr "攻击指令将由玩家控制。 这个选项适用于被选中的单位或者该单位是中队的组成部分。"
+
+msgid "pleasure_program"
+msgstr "娱乐项目"
+
+msgid "plus_rep"
+msgstr "+Rep"
+
+msgid "plus_rep_c"
+msgstr "+Rep:"
+
+msgid "plus_soap"
+msgstr "超级香皂"
+
+msgid "power"
+msgstr "能量"
+
+msgid "power_base_absorb"
+msgstr "吸收基地： ~A"
+
+msgid "power_base_control"
+msgstr "质量控制基地： ~A"
+
+msgid "power_base_damage"
+msgstr "伤害基地： ~A"
+
+msgid "power_base_healing"
+msgstr "生命基地： ~A"
+
+msgid "power_base_health"
+msgstr "治疗基地: ~A"
+
+msgid "power_factor_absorb"
+msgstr "吸收因子： x~A"
+
+msgid "power_factor_control"
+msgstr "质量控制因子： x~A"
+
+msgid "power_factor_damage"
+msgstr "伤害因子： x~A"
+
+msgid "power_factor_healing"
+msgstr "治疗因子： x~A"
+
+msgid "power_factor_health"
+msgstr "生命因子： x~A"
+
+msgid "power_short"
+msgstr "能量"
+
+msgid "pr"
+msgstr "RP"
+
+msgid "pre_intro"
+msgstr "你厌倦了每天一尘不变的操作么？你是不是感到难以寻找到你在浩瀚宇宙中的栖身之地？你是不是对你现在所处的星系外的的世界充满了好奇？如果你对上述某个问题的回答是“是”的话，那么别再犹豫了，立刻加入我们！"
+
+msgid "press_esc_cancel2"
+msgstr "\n 按住Esc键并使用鼠标右键点击来取消"
+
+msgid "press_new_key"
+msgstr "点击新的按钮来："
+
+msgid "pretentious_foods"
+msgstr "花哨的食物"
+
+msgid "pretentious_foods_desc"
+msgstr "这个食物太美味了以至于在很多行星是被禁止食用的。"
+
+msgid "previous"
+msgstr "上一条"
+
+msgid "price"
+msgstr "价格"
+
+msgid "price_bom_row"
+msgstr "平均开支："
+
+msgid "price_row"
+msgstr "价格："
+
+msgid "price_too_much"
+msgstr "没有足够的积分"
+
+msgid "processing"
+msgstr "正在处理。。。"
+
+msgid "prod_current_queue2"
+msgstr "当前队列"
+
+msgid "prod_global"
+msgstr "全面的"
+
+msgid "prod_global_desc"
+msgstr "在物品列表窗口中选择你希望的全局库存时生产的指令将会被自动添加"
+
+msgid "prod_local"
+msgstr "本地"
+
+msgid "prod_local_desc"
+msgstr "你需要使用创造按键来手动添加生产指令"
+
+msgid "prod_production"
+msgstr "生产："
+
+msgid "prodction_queue_empty"
+msgstr "空的"
+
+msgid "producing_recipe2"
+msgstr "正在生产"
+
+msgid "projectile_direct_desc"
+msgstr "一个目标，射击"
+
+msgid "projectile_explosive_desc"
+msgstr "瞄准区域，射击"
+
+msgid "projectile_reactive_desc"
+msgstr "临时区域，射击"
+
+msgid "purchases"
+msgstr "购买"
+
+msgid "purifier_salts"
+msgstr "净化盐"
+
+msgid "quick_jump"
+msgstr "跳："
+
+msgid "quit_game"
+msgstr "褪除"
+
+msgid "random"
+msgstr "上一条"
+
+msgid "range_max"
+msgstr "等级： ~A "
+
+msgid "range_min_max"
+msgstr "等级： ~A 至~A "
+
+msgid "rations_luxury"
+msgstr "奢侈的食物"
+
+msgid "rations_quality"
+msgstr "高级的食物"
+
+msgid "reactive_area_desc"
+msgstr "面积"
+
+msgid "rebuildable_ruins_build"
+msgstr "重建"
+
+msgid "rebuildable_ruins_desc"
+msgstr "你可以重建或者回收一个物品的废墟"
+
+msgid "rebuildable_ruins_recycle"
+msgstr "回收"
+
+msgid "recipe_add_queue"
+msgstr "添加至队列"
+
+msgid "recipe_difficulty"
+msgstr "难度："
+
+msgid "recipe_duration"
+msgstr "持续： ~As"
+
+msgid "recipe_failed"
+msgstr "~A 失败"
+
+msgid "recipe_job_name"
+msgstr "工作： ~A"
+
+msgid "recipe_mini"
+msgstr "配方："
+
+msgid "recipe_order_amount"
+msgstr "输入你希望生产改配方的次数，或者输入 -1 表示无数次。"
+
+msgid "recipe_order_amount_tip"
+msgstr "输入你希望生产改配方的次数。"
+
+msgid "recipe_order_create"
+msgstr "创建指令"
+
+msgid "recipe_order_delete"
+msgstr "取消指令"
+
+msgid "recipes"
+msgstr "配方"
+
+msgid "recreational_tier_1"
+msgstr "书店 I"
+
+msgid "recreational_tier_2"
+msgstr "餐馆 I"
+
+msgid "recreational_tier_3"
+msgstr "餐馆 II / 书店 II"
+
+msgid "recreational_tier_4"
+msgstr "游戏厅 I"
+
+msgid "recreational_tier_5"
+msgstr "迪斯科厅 I"
+
+msgid "recreational_tier_6"
+msgstr "迪斯科厅 II / 游戏厅 II"
+
+msgid "recreational_tier_7"
+msgstr ""
+
+msgid "recreational_tier_8"
+msgstr "全息桥 I"
+
+msgid "recreational_tier_9"
+msgstr "全息桥 II / 赌场 II"
+
+msgid "recruit"
+msgstr "招募"
+
+msgid "recruit_existing_xp"
+msgstr "正在进行实验："
+
+msgid "recruit_existing_xp_in"
+msgstr "~A: ~A XP\n"
+
+msgid "recruit_hire"
+msgstr "聘用 ~A"
+
+msgid "recruit_hire_price"
+msgstr "聘用价格： ~A @ui_icon_20px_credits04.png"
+
+msgid "recruit_hire_price_too_much"
+msgstr "没有足够的积分"
+
+msgid "recycle_items_level"
+msgstr "回收的物品等级需低于："
+
+msgid "recycled_something"
+msgstr "~A 被回收了"
+
+msgid "recycler"
+msgstr "回收机"
+
+msgid "recycling"
+msgstr "正在回收中"
+
+msgid "recyler"
+msgstr "回收机"
+
+msgid "recyler_desc"
+msgstr "摧毁垃圾和废物"
+
+msgid "red_token"
+msgstr "红色筹码"
+
+msgid "redshirt"
+msgstr "Redshirt"
+
+msgid "redshirt_desc"
+msgstr "学了很多，可惜在任何领域都是三脚猫的水平。 多才多艺但却显得可有可无，仍旧还有有很多需要学习。 建议你可以选择并仅仅专注于一项技艺。但是你也要知道有些技能或许你穷其一生都无法专精。"
+
+msgid "regenerativechamber"
+msgstr "微生物商会"
+
+msgid "regenerativechamber_desc"
+msgstr "整个银河系最发达的医疗系统。"
+
+msgid "remains"
+msgstr "残渣"
+
+msgid "remains_desc"
+msgstr "残渣可以使用回收机来回收利用。"
+
+msgid "remains_of"
+msgstr " ~A 的残渣"
+
+msgid "removed_floor"
+msgstr "已被清除的地面"
+
+msgid "removed_wall"
+msgstr "已被清除的墙面"
+
+msgid "rep_allied"
+msgstr "盟友"
+
+msgid "rep_at_war"
+msgstr "战争中"
+
+msgid "rep_at_war_desc"
+msgstr "处于战争状态下的文明将不需要你的产品并且对侵略你和你盟友的领地充满着兴趣。如果你的飞行器在他们的行星上登陆，他们将会充满敌意来对待。 "
+
+msgid "rep_friendly"
+msgstr "朋友"
+
+msgid "rep_hostile"
+msgstr "对立"
+
+msgid "rep_hostile_desc"
+msgstr "他们不喜欢属于对立集团的文明， 但是会购置他们的产品。这将会增加你在他们那儿的声望。如果你的飞行器在他们的行星上登陆，他们将会充满敌意来对待。"
+
+msgid "rep_neutral"
+msgstr "中立"
+
+msgid "rep_neutral_plus_desc"
+msgstr "这个文明将会来和平地来访问你的空间站，同时也会允许你的飞行器登陆他的行星来安置采集器。"
+
+msgid "rep_uncontested"
+msgstr "没有争议"
+
+msgid "repair"
+msgstr "修复"
+
+msgid "repair_parts"
+msgstr "更换"
+
+msgid "repair_workplace_action"
+msgstr "修复 ~A"
+
+msgid "replay_introduction"
+msgstr "重复介绍"
+
+msgid "reputation"
+msgstr "声望"
+
+msgid "reputation_gain"
+msgstr "赢得的声望："
+
+msgid "reputation_hit"
+msgstr "丢失的声望："
+
+msgid "req_decor"
+msgstr "任何的装饰物"
+
+msgid "req_shower"
+msgstr "任何的冲澡"
+
+msgid "required_points"
+msgstr "需要的点数： ~A"
+
+msgid "required_tokens"
+msgstr "需要的筹码： FIXME"
+
+msgid "research"
+msgstr "研究"
+
+msgid "research_completed_alert"
+msgstr " <<~A ~A>> 的研究已经完成了。"
+
+msgid "research_points"
+msgstr "研究点数： ~A 的 ~A"
+
+msgid "research_remember"
+msgstr "请谨记你需要建造一个用于研究的桌面并指派专门负责进行研究的职员来获得研究点数。"
+
+msgid "research_tutorial"
+msgstr "研究的教程"
+
+msgid "researcher"
+msgstr "研究员"
+
+msgid "researcher_desc"
+msgstr "谁想坐在电脑上几十年？ 当然是研究人员们。如果你拥有一支专业的研究小组那你的科技将会迅速的提升。"
+
+msgid "researchtable"
+msgstr "研究用桌"
+
+msgid "researchtable_desc"
+msgstr "这里职员们刚开始进行研究。"
+
+msgid "resource"
+msgstr "资源"
+
+msgid "resource_node_info_reqs"
+msgstr "需要"
+
+msgid "resource_tag_armor"
+msgstr "护甲"
+
+msgid "resource_tag_bio"
+msgstr "生物原料"
+
+msgid "resource_tag_consumerist_product"
+msgstr "消费者"
+
+msgid "resource_tag_crowdcontrol"
+msgstr "质量控制"
+
+msgid "resource_tag_drinkable"
+msgstr "可饮用的"
+
+msgid "resource_tag_edible"
+msgstr "可食用的"
+
+msgid "resource_tag_equipment"
+msgstr "装备"
+
+msgid "resource_tag_extracted"
+msgstr "提取"
+
+msgid "resource_tag_fluid"
+msgstr "流体"
+
+msgid "resource_tag_fun"
+msgstr "有趣的"
+
+msgid "resource_tag_gambling_giving"
+msgstr "赌瘾"
+
+msgid "resource_tag_gas"
+msgstr "气体"
+
+msgid "resource_tag_implant"
+msgstr "装置"
+
+msgid "resource_tag_inebriation_giving"
+msgstr "引发醉酒"
+
+msgid "resource_tag_knowledge_giving"
+msgstr "提供知识"
+
+msgid "resource_tag_liquid"
+msgstr "液体的"
+
+msgid "resource_tag_medical"
+msgstr "医疗"
+
+msgid "resource_tag_meds"
+msgstr "药物"
+
+msgid "resource_tag_metal"
+msgstr "金属"
+
+msgid "resource_tag_mineral"
+msgstr "矿物"
+
+msgid "resource_tag_organic"
+msgstr "有机"
+
+msgid "resource_tag_power_absorb"
+msgstr "主动吸收"
+
+msgid "resource_tag_power_control"
+msgstr "主动控制"
+
+msgid "resource_tag_power_damage"
+msgstr "主动伤害"
+
+msgid "resource_tag_power_generic"
+msgstr "力量加成"
+
+msgid "resource_tag_power_healing"
+msgstr "治疗"
+
+msgid "resource_tag_power_health"
+msgstr "健康加成"
+
+msgid "resource_tag_product"
+msgstr "产品"
+
+msgid "resource_tag_readable"
+msgstr "可阅读的"
+
+msgid "resource_tag_shielding"
+msgstr "护盾"
+
+msgid "resource_tag_slot_active"
+msgstr "主动"
+
+msgid "resource_tag_slot_chest"
+msgstr "胸"
+
+msgid "resource_tag_slot_feet"
+msgstr "脚"
+
+msgid "resource_tag_slot_hands"
+msgstr "手"
+
+msgid "resource_tag_slot_implant"
+msgstr "装置"
+
+msgid "resource_tag_soap"
+msgstr "香皂"
+
+msgid "resource_tag_weapon"
+msgstr "武器"
+
+msgid "restock_at"
+msgstr "补充"
+
+msgid "restocking"
+msgstr "正在补充"
+
+msgid "right_mouse_button_abbr"
+msgstr "BDR"
+
+msgid "robot_adjective"
+msgstr "机器人 %s"
+
+msgid "robot_adjective2"
+msgstr "机器人 ~A"
+
+msgid "robot_charger"
+msgstr "机器人充电器"
+
+msgid "robot_charger_desc"
+msgstr "使用燃料电池来为机器人充电。"
+
+msgid "robot_factory"
+msgstr "机器人生产"
+
+msgid "robot_factory_desc"
+msgstr "生产能够在空间站进行不同工作的机器人。"
+
+msgid "robot_inventory"
+msgstr "机器人列表"
+
+msgid "robot_inventory_max_robots"
+msgstr "最大允许： %d"
+
+msgid "robot_inventory_total_robots"
+msgstr "共计： %d"
+
+msgid "robot_member"
+msgstr "机器人"
+
+msgid "robot_name"
+msgstr "机器人"
+
+msgid "robot_union"
+msgstr "机器人联盟"
+
+msgid "robots_cannot_build_more"
+msgstr "不能再生产更多的机器人"
+
+msgid "room_10"
+msgstr "客栈风格"
+
+msgid "room_11"
+msgstr "清洁隔间"
+
+msgid "room_12"
+msgstr "重金属"
+
+msgid "room_13"
+msgstr "整洁的工作室"
+
+msgid "room_14"
+msgstr "玻璃宫殿"
+
+msgid "room_15"
+msgstr "瞭望台"
+
+msgid "room_16"
+msgstr "业余水管工"
+
+msgid "room_17"
+msgstr "无菌室"
+
+msgid "room_18"
+msgstr "实心的房间"
+
+msgid "room_19"
+msgstr "服务区"
+
+msgid "room_20"
+msgstr "高级下水道"
+
+msgid "room_21"
+msgstr "颓废的客厅"
+
+msgid "room_22"
+msgstr "奢华的书房"
+
+msgid "room_23"
+msgstr "下水道"
+
+msgid "room_24"
+msgstr "套间"
+
+msgid "room_25"
+msgstr "伊甸园"
+
+msgid "room_26"
+msgstr "古典的瓷砖"
+
+msgid "room_27"
+msgstr "火烈鸟"
+
+msgid "room_28"
+msgstr "阿卡迪亚"
+
+msgid "room_29"
+msgstr "文献天堂"
+
+msgid "room_30"
+msgstr "燕尾服"
+
+msgid "room_31"
+msgstr "技术员"
+
+msgid "room_32"
+msgstr "奸商"
+
+msgid "room_33"
+msgstr "大理石的寺庙"
+
+msgid "room_34"
+msgstr "实惠的飞行器"
+
+msgid "room_35"
+msgstr "被遗弃的"
+
+msgid "room_36"
+msgstr "反乌托邦 I"
+
+msgid "room_37"
+msgstr "反乌托邦 II"
+
+msgid "room_38"
+msgstr "素食主义者阳台"
+
+msgid "room_39"
+msgstr "乌托邦 I"
+
+msgid "room_40"
+msgstr "乌托邦 II"
+
+msgid "room_41"
+msgstr "泰瑞尔霓虹灯"
+
+msgid "room_42"
+msgstr "农村的魅力"
+
+msgid "room_43"
+msgstr "Winnebago"
+
+msgid "room_44"
+msgstr "机械葡萄柚"
+
+msgid "room_aestehtics_amt"
+msgstr "~A 点数"
+
+msgid "room_aesthetics"
+msgstr "美化技能."
+
+msgid "room_of_aesthetics"
+msgstr " %d 美化技能等级"
+
+msgid "room_of_tiles"
+msgstr "拥有 %d 个缺口的房间。"
+
+msgid "room_size"
+msgstr "房间的尺寸"
+
+msgid "room_size_amt"
+msgstr "~A 地砖"
+
+msgid "rooms"
+msgstr "房间"
+
+msgid "roulette"
+msgstr "转盘"
+
+msgid "roulette_desc"
+msgstr "那些球一定不是聪明的，我发誓。快用金色的筹码吧。"
+
+msgid "ruins"
+msgstr "废墟"
+
+msgid "salary"
+msgstr "工资"
+
+msgid "salary_amt"
+msgstr "~A @ui_icon_20px_credits04.png 每分钟"
+
+msgid "sapper"
+msgstr "工兵"
+
+msgid "sapper_desc"
+msgstr "知道如何建造一个物品也会让你了解如何区维护它。快点。在一个火球里。"
+
+msgid "sauna"
+msgstr "桑拿"
+
+msgid "sauna_desc"
+msgstr "最为有效的保健照顾的方式"
+
+msgid "save_game"
+msgstr "保存进度"
+
+msgid "saw_corpse"
+msgstr "看到一个尸体。"
+
+msgid "saw_corpse_desc"
+msgstr "太恐怖了！"
+
+msgid "scan_alert"
+msgstr "入侵者在空间站内检测到！"
+
+msgid "scientist"
+msgstr "科学家"
+
+msgid "scientist_desc"
+msgstr "无穷无尽地进行研究和实验。操纵各类物质对他而言简直是家常便饭。"
+
+msgid "scrap_ship"
+msgstr "拆除飞行器"
+
+msgid "seaweed_juice"
+msgstr "海藻果汁"
+
+msgid "secscan"
+msgstr "安全扫描"
+
+msgid "secscan_desc"
+msgstr "扫描每一位游客以防入侵者"
+
+msgid "security_desc"
+msgstr "武器界的专家级人物拥有极高的瞄准力，那些负责安全的警卫人员致力于保护空间站和内部资料的安全。"
+
+msgid "security_robot"
+msgstr "安全机器人"
+
+msgid "security_spec"
+msgstr "安全"
+
+msgid "securitydoor"
+msgstr "安全门"
+
+msgid "securitydoor_desc"
+msgstr "覆盖铁甲的大门来控制进出人员。它用于保证游客无法靠近生产区域。"
+
+msgid "seeds"
+msgstr "种子"
+
+msgid "seeds_node"
+msgstr "种子堆"
+
+msgid "select"
+msgstr "选择"
+
+msgid "select_load_slot"
+msgstr "选择加载存档"
+
+msgid "select_officer"
+msgstr "选择一个职员"
+
+msgid "select_officer_current_location"
+msgstr "选择目前所在的位置"
+
+msgid "select_officer_open_fleet"
+msgstr "打开舰队面板"
+
+msgid "select_officer_open_ship"
+msgstr "打开飞行器的桥"
+
+msgid "select_recipe_order"
+msgstr "选择一个配方："
+
+msgid "select_save_slot"
+msgstr "选择保存位置"
+
+msgid "select_ship"
+msgstr "选择飞行器"
+
+msgid "select_ship_design"
+msgstr "选择飞行器的设计："
+
+msgid "selected"
+msgstr "被选择的"
+
+msgid "selected_recipe"
+msgstr "正在选择： ~A"
+
+msgid "self_destroy"
+msgstr "通过自爆来对地方造成巨大的伤害，同时可能会引起火灾"
+
+msgid "sell_to"
+msgstr "@ui_icon_30px_sell.png 向 %s 出售"
+
+msgid "set target to ~A"
+msgstr "选择 ~A 作为目标"
+
+msgid "set_group_target_cc_label"
+msgstr "点击左键或者拖拽来选择控制的对象\n 配合Shift 键可以控制中立单位 "
+
+msgid "set_group_target_damage_label"
+msgstr "点击左键或者拖拽来选择攻击的对象\n 配合Shift 键可以攻击中立单位 "
+
+msgid "set_group_target_heal_label"
+msgstr "点击左键或者拖拽来选择治疗的对象"
+
+msgid "set_group_target_shield_label"
+msgstr "点击左键或者拖拽来选择护盾的对象"
+
+msgid "set_rally_point"
+msgstr "分配巡逻点"
+
+msgid "set_rally_point_label"
+msgstr "请点击将 ~A 指派为一个巡逻点"
+
+msgid "set_target_cc"
+msgstr "操控目标"
+
+msgid "set_target_cc_label"
+msgstr "点击左键或者拖拽来选择控制~A 的目标\n 配合Shift 键可以控制中立单位 "
+
+msgid "set_target_damage"
+msgstr "攻击对象"
+
+msgid "set_target_damage_label"
+msgstr "点击左键或者拖拽来选择攻击~A 的目标\n 配合Shift 键可以控制中立单位 "
+
+msgid "set_target_heal"
+msgstr "治疗对象"
+
+msgid "set_target_heal_label"
+msgstr "点击左键或者拖拽来选择治疗~A 的目标"
+
+msgid "set_target_shield"
+msgstr "盾护对象"
+
+msgid "set_target_shield_label"
+msgstr "点击左键或者拖拽来选择盾护~A 的目标"
+
+msgid "shell_autosaving"
+msgstr "自动保存中。。。"
+
+msgid "shell_saving"
+msgstr "保存中。。。"
+
+msgid "shield_1_name"
+msgstr "防御盾"
+
+msgid "shield_2_name"
+msgstr "超级防御盾"
+
+msgid "shield_3_name"
+msgstr "终极防御盾"
+
+msgid "ship_allowed_cargo"
+msgstr "可使用的资源： %d/%d"
+
+msgid "ship_allowed_desc"
+msgstr "为这个飞行器选择这个星球上为其授权的资源："
+
+msgid "ship_allowed_edit"
+msgstr "更变被授权的资源"
+
+msgid "ship_approach_progress"
+msgstr "~A% 进度"
+
+msgid "ship_arrived_info"
+msgstr "%s 现在是 %s"
+
+msgid "ship_auto_status_run"
+msgstr "自动驾驶"
+
+msgid "ship_auto_status_stop"
+msgstr "手动驾驶"
+
+msgid "ship_build_done"
+msgstr "~A (~A) 已经结束了现在正停靠在基地  "
+
+msgid "ship_busy_cannot_edit"
+msgstr "飞行器并未停靠在基地"
+
+msgid "ship_cargo_info"
+msgstr "加载： ~A 已用/ ~A 共计"
+
+msgid "ship_construction_is_paused"
+msgstr "飞行器的建造被暂停了"
+
+msgid "ship_construction_start"
+msgstr "开始建造"
+
+msgid "ship_distance_to_other"
+msgstr "距离 %s (L%d)： %0.2f 秒差距"
+
+msgid "ship_dock_assigned"
+msgstr "在空间站被指定的港口"
+
+msgid "ship_final_destination"
+msgstr "目的地： %s (L%d)"
+
+msgid "ship_kind_authority"
+msgstr "有关部门"
+
+msgid "ship_kind_bagelhead"
+msgstr "贝果头人飞行器"
+
+msgid "ship_kind_benevolence"
+msgstr "和蔼"
+
+msgid "ship_kind_blorg"
+msgstr "博克人飞行器"
+
+msgid "ship_kind_chuchu"
+msgstr "丘巴人飞行器"
+
+msgid "ship_kind_crusantian"
+msgstr "可颂人飞行器"
+
+msgid "ship_kind_cucurbian"
+msgstr "南瓜人飞行器"
+
+msgid "ship_kind_diligence"
+msgstr "事务"
+
+msgid "ship_kind_droid"
+msgstr "飞行机器人"
+
+msgid "ship_kind_exploration"
+msgstr "探索"
+
+msgid "ship_kind_foresight"
+msgstr "预测"
+
+msgid "ship_kind_human"
+msgstr "人类飞行器"
+
+msgid "ship_kind_intervention"
+msgstr "参与"
+
+msgid "ship_kind_lactian"
+msgstr "拜牛奶教人飞行器"
+
+msgid "ship_kind_lemurian"
+msgstr "狐猴人飞行器"
+
+msgid "ship_kind_medus"
+msgstr "麦度迅人飞行器"
+
+msgid "ship_kind_nogi"
+msgstr "诺吉人飞行器"
+
+msgid "ship_kind_pirates"
+msgstr "海盗飞行器"
+
+msgid "ship_kind_rationality"
+msgstr "比例"
+
+msgid "ship_kind_temerity"
+msgstr "鲁莽"
+
+msgid "ship_kind_volition"
+msgstr "意愿"
+
+msgid "ship_must_parked_home2"
+msgstr "仅仅停靠在你的空间站的飞行器才可以被拆解。至少一个飞行器需要属于你的舰队。"
+
+msgid "ship_not_available_empty"
+msgstr "无机组成员的飞行器"
+
+msgid "ship_not_available_empty_only_home"
+msgstr "无机组成员的飞行器，仅可用于返回空间站基地"
+
+msgid "ship_not_available_full_morale"
+msgstr "一个或多个职员不在状态"
+
+msgid "ship_not_available_invalid"
+msgstr "无法使用的飞行器"
+
+msgid "ship_not_available_some_already_exploring"
+msgstr "已经有一个飞行器在勘探一个行星"
+
+msgid "ship_not_available_this_already_exploring"
+msgstr "正在勘探行星的飞行器"
+
+msgid "ship_order_item_subtile_home"
+msgstr "卸载，船员离开飞行器，等待物资"
+
+msgid "ship_order_item_subtile_other"
+msgstr "装载货物"
+
+msgid "ship_order_item_tile"
+msgstr "以 %s 飞往 %s (L%d) "
+
+msgid "ship_order_item_tile_star"
+msgstr "前往 %s (L%d)"
+
+msgid "ship_order_wait_time_dialog_label"
+msgstr "以分钟为单位填写等待时间，或者填写0为其授予最少的10秒等待时间："
+
+msgid "ship_orders_delete_order"
+msgstr "删除被选择的指令"
+
+msgid "ship_orders_drag_icon"
+msgstr "将这个图标拖拽至一个行星或者恒星来创建一个指令"
+
+msgid "ship_orders_go_bridge"
+msgstr "打开指挥台的视角"
+
+msgid "ship_orders_move_down"
+msgstr "将被选择的指令向上移动"
+
+msgid "ship_orders_move_up"
+msgstr "将被选择的指令向下移动"
+
+msgid "ship_orders_set_time"
+msgstr "制定被选择指令的等待时间"
+
+msgid "ship_orders_show_target"
+msgstr "放大被选择的指令的作用对象"
+
+msgid "ship_orders_start"
+msgstr "开启自动驾驶模式"
+
+msgid "ship_orders_stop"
+msgstr "关闭自动驾驶模式"
+
+msgid "ship_orders_title"
+msgstr "%s 自动驾驶"
+
+msgid "ship_planner_cancel"
+msgstr "取消建造"
+
+msgid "ship_planner_info"
+msgstr "建造飞行器"
+
+msgid "ship_planner_must_single"
+msgstr "每个空间站仅拥有一个飞行器规划机"
+
+msgid "ship_planner_needed"
+msgstr "先建造一个飞行器规划机"
+
+msgid "ship_planner_pause"
+msgstr "暂停建造"
+
+msgid "ship_planner_resume"
+msgstr "重启建造"
+
+msgid "ship_scrap_confirm"
+msgstr "你确定么？飞行器将被摧毁而你仅能获得很少数量的资源 "
+
+msgid "ship_servicing"
+msgstr " 飞行器正在返回空间站来卸载货物并使机组人员能够获得休整。自动驾驶模式将会在飞行器休整完毕后再次启动。"
+
+msgid "ship_servicing_cond"
+msgstr "返回： %d%% 装载或者满载"
+
+msgid "ship_servicing_depart"
+msgstr "自动驾驶模式将在 %d%% 准备就绪后再次启动"
+
+msgid "ship_skill_healing_wave"
+msgstr "治疗波"
+
+msgid "ship_skill_insurance"
+msgstr "第二条命"
+
+msgid "ship_skill_jumpdrive"
+msgstr "Jumpdrive"
+
+msgid "ship_skill_mass_hysteria"
+msgstr "群众歇斯底里"
+
+msgid "ship_skill_orbital_cannon"
+msgstr "轨道轰炸"
+
+msgid "ship_skill_orbital_cannon_label"
+msgstr "点击使用轨道炮来轰炸"
+
+msgid "ship_skill_robodrop"
+msgstr "Robodrop"
+
+msgid "ship_skill_robodrop_label"
+msgstr "点击传送指挥机器人"
+
+msgid "ship_skill_shield_dome"
+msgstr "大范围护盾"
+
+msgid "ship_skill_shield_dome_label"
+msgstr "点击建造一个大护盾"
+
+msgid "ship_skill_teleport"
+msgstr "表面传输机"
+
+msgid "ship_skills_l"
+msgstr "技能： %s"
+
+msgid "ship_travel_approach"
+msgstr "正在靠近 %s (L%d)"
+
+msgid "ship_travel_parked"
+msgstr "停靠在 %s (L%d)"
+
+msgid "ship_travel_progress"
+msgstr "~0,2F 秒差距 / ETA ~As"
+
+msgid "ship_travel_traveling"
+msgstr "正在前往 %s (L%d)"
+
+msgid "ship_travel_unknow"
+msgstr "未知"
+
+msgid "ship_user_travel_msg"
+msgstr "新的直接指令：现在  %s 的最终目的地是  %s 。已经退出自动驾驶模式。 "
+
+msgid "shipplanner"
+msgstr "飞行器规划机"
+
+msgid "shipplanner_desc"
+msgstr "选择一个飞行器来建造并控制它的接榫的过程。在放置后将建造一个或多个工作舰"
+
+msgid "ships"
+msgstr "飞行器"
+
+msgid "shipworktable"
+msgstr "飞行器的工作舰"
+
+msgid "shipworktable_desc"
+msgstr "正被职员使用来建造飞行器。生产等待队列正由飞行器建造的规划机控制。"
+
+msgid "shop_stock"
+msgstr "商店的库存"
+
+msgid "shopping"
+msgstr "正在购买"
+
+msgid "shopping_list_desc"
+msgstr "购买列表："
+
+msgid "show_all_ships"
+msgstr "展示所有的飞行器"
+
+msgid "show_only_spatials_ships"
+msgstr "仅仅展示太空人的飞行器"
+
+msgid "sight_range"
+msgstr "视角： ~A 缺口"
+
+msgid "sleep"
+msgstr "睡觉"
+
+msgid "sleep_feeling_high"
+msgstr "休息"
+
+msgid "sleep_feeling_high_desc"
+msgstr "睡醒后精神饱满"
+
+msgid "sleep_feeling_low"
+msgstr "失眠"
+
+msgid "sleep_feeling_low_desc"
+msgstr "我感到很疲惫需要休息"
+
+msgid "slime"
+msgstr "烂泥"
+
+msgid "slime_node"
+msgstr "烂泥堆"
+
+msgid "slot_active"
+msgstr "主动"
+
+msgid "slot_chest"
+msgstr "胸"
+
+msgid "slot_feet"
+msgstr "脚"
+
+msgid "slot_hands"
+msgstr "手"
+
+msgid "slot_implant"
+msgstr "装置"
+
+msgid "slot_machine"
+msgstr "老虎机"
+
+msgid "slot_machine_desc"
+msgstr "把这里的等全部点亮不正是对你而言最佳的投资项目么？是用绿色的筹码。"
+
+msgid "slot_name"
+msgstr "插槽： ~A"
+
+msgid "slot_need_higher_spec"
+msgstr "需要更高级的专业能力"
+
+msgid "slowpox"
+msgstr "病毒性"
+
+msgid "slowpox_desc"
+msgstr "我不能走的更块了！"
+
+msgid "slug_pate"
+msgstr "鼻涕虫肉酱"
+
+msgid "smaller_ui"
+msgstr "小号 UI "
+
+msgid "sneaker_reveal_alert"
+msgstr "一个隐藏的 ~A 成功的躲过监察混入了你的基地并正在发动攻击！"
+
+msgid "soap_maker"
+msgstr "香皂制作"
+
+msgid "soap_maker_desc"
+msgstr "使用简单的化学反应来制作肥皂"
+
+msgid "social"
+msgstr "社交的"
+
+msgid "social_feeling_low"
+msgstr "孤立的"
+
+msgid "social_feeling_low_desc"
+msgstr "没人和我说话"
+
+msgid "sound_effecs_volume"
+msgstr "音效音量"
+
+msgid "souvenirs"
+msgstr "纪念品"
+
+msgid "souvenirs_obj"
+msgstr "纪念品商店"
+
+msgid "souvenirs_obj_desc"
+msgstr "一个由小行星的粉尘造成的斑点。真令人意想不到。"
+
+msgid "spa_tub"
+msgstr "浸没池"
+
+msgid "spa_tub_desc"
+msgstr "一个舒适的泡澡"
+
+msgid "space_octopus"
+msgstr "太空乌贼"
+
+msgid "space_pest"
+msgstr "寄生虫"
+
+msgid "space_pest_queen"
+msgstr "寄生虫女王"
+
+msgid "space_worm"
+msgstr "太空蠕虫"
+
+msgid "spatials_adjective"
+msgstr "太空人 %s"
+
+msgid "spatials_adjective2"
+msgstr "太空人 ~A"
+
+msgid "spatials_crew"
+msgstr "太空人"
+
+msgid "spatials_member"
+msgstr "太空人"
+
+msgid "spatials_name"
+msgstr "太空人"
+
+msgid "spatials_shuttle"
+msgstr "登陆传导器"
+
+msgid "spec"
+msgstr "Spec"
+
+msgid "spec_disallows"
+msgstr "禁止工作区："
+
+msgid "spec_info_demands"
+msgstr "需要："
+
+msgid "spec_info_salary"
+msgstr "工资： %d @ui_icon_20px_credits04.png 每分钟"
+
+msgid "spec_not_ready2"
+msgstr "要晋升 %s 必须他的一项工作的 XP 达到需求值。"
+
+msgid "spec_promote_to"
+msgstr "晋升 %s"
+
+msgid "specops_desc"
+msgstr "接受过最冷酷无情的武器使用训练的负责安全工作的职员。"
+
+msgid "specops_spec"
+msgstr "SpecOps"
+
+msgid "speed_n"
+msgstr "速度： ~0,2F 秒差距/秒"
+
+msgid "speed_pause"
+msgstr "暂停"
+
+msgid "spores"
+msgstr "孢子"
+
+msgid "spores_node"
+msgstr "孢子堆"
+
+msgid "stack_of"
+msgstr " %s 的储存柱"
+
+msgid "staff"
+msgstr "队友"
+
+msgid "staff_gui_basics_panel_demands"
+msgstr "需要"
+
+msgid "staff_gui_basics_panel_equipment"
+msgstr "装备"
+
+msgid "staff_gui_basics_panel_vitals"
+msgstr "活力"
+
+msgid "staff_gui_crew_of_none"
+msgstr "没有飞行器"
+
+msgid "staff_screen"
+msgstr "队友"
+
+msgid "staff_ui_basics"
+msgstr "@ui_icon_20px_stats_01.png 基础"
+
+msgid "staff_ui_jobs_xp"
+msgstr "@ui_icon_20px_jobs_01.png 工作和XP"
+
+msgid "staff_ui_spec"
+msgstr "@ui_icon_20px_xp2.png Spec"
+
+msgid "staff_view_counter"
+msgstr "共计 %d"
+
+msgid "staff_view_counter_filtered"
+msgstr "共计 %d / 丢失 %d"
+
+msgid "stance_is"
+msgstr "位置： ~A"
+
+msgid "star"
+msgstr "恒星"
+
+msgid "star_map"
+msgstr "星球地图"
+
+msgid "start_delivery"
+msgstr "@ui_icon_40px_sell.png 交付"
+
+msgid "start_game"
+msgstr "开始游戏"
+
+msgid "start_research"
+msgstr "开始研究"
+
+msgid "station"
+msgstr "停靠"
+
+msgid "station_attrition_warn"
+msgstr "由于暴露在地球的大气中太空站内的一些物体正受到损坏，而罪魁祸首可能是站内的部分地面或墙面已经破损或被清除。确保所有房间都100％被墙体或门包围，而且100％的地面都正确地铺设了。"
+
+msgid "steam_workshop"
+msgstr "Steam Workshop"
+
+msgid "steel"
+msgstr "钢铁"
+
+msgid "steel_node"
+msgstr "钢铁堆"
+
+msgid "steel_wall"
+msgstr "钢铁墙"
+
+msgid "stinky_cheese"
+msgstr "难闻的奶酪"
+
+msgid "stock"
+msgstr "库存："
+
+msgid "stocks_control"
+msgstr "库存控制："
+
+msgid "storage_area"
+msgstr "储存区"
+
+msgid "storage_area_desc"
+msgstr "将您的位置周围的地板标记为不同类型商品的存储区域。 它不提供精确的库存控制。"
+
+msgid "storage_area_full"
+msgstr "区域已经被堆满"
+
+msgid "storage_area_must_single2"
+msgstr "存储区不能和其他物品同时在一间房间使用"
+
+msgid "storage_area_no_empty_floor"
+msgstr "没有新资源可以放置的空间"
+
+msgid "storage_filter_disabled"
+msgstr "此存储区域正被用作卸载货物因此无法进行资源的过滤"
+
+msgid "storage_status"
+msgstr "储存状态："
+
+msgid "stored_group_clear"
+msgstr "%s 小组被删除"
+
+msgid "stored_group_selected"
+msgstr "%s 小组被选中"
+
+msgid "stored_group_set"
+msgstr "%s 小组被保存"
+
+msgid "stored_scroll"
+msgstr "储存%d"
+
+msgid "striking_warning"
+msgstr "~A 正因为他的某些需求未被满足而罢工中。他将不会继续工作并且可能会对建筑进行破坏。"
+
+msgid "success"
+msgstr "胜利"
+
+msgid "sure_to_delete"
+msgstr "你确定要清除 %s?"
+
+msgid "sure_to_load"
+msgstr "你确定要加载 %s？游戏中未保存的进度内容将丢失。 "
+
+msgid "sure_to_replace"
+msgstr "你确定要覆盖 %s?"
+
+msgid "surgeon"
+msgstr "外科医生"
+
+msgid "surgeon_desc"
+msgstr "一位外科医生救了数百名的职员，他可以在很短的时间内创造奇迹。"
+
+msgid "surgeon_table"
+msgstr "外科胶囊"
+
+msgid "surgeon_table_desc"
+msgstr "它允许医生对重病患者进行手术。 需要没有器官。"
+
+msgid "sushi_roll"
+msgstr "寿司卷"
+
+msgid "synth_organs"
+msgstr "无器官"
+
+msgid "system_name"
+msgstr "~A 星系"
+
+msgid "system_name_level"
+msgstr " %s (L%d) 系统"
+
+msgid "systems_unlocked"
+msgstr "这些星系已经可以被勘探： ~A"
+
+msgid "table"
+msgstr "面板"
+
+msgid "take_off_tool"
+msgstr "起飞"
+
+msgid "talked_feeling"
+msgstr "聊天"
+
+msgid "talked_feeling_desc"
+msgstr "获得了一次有趣的攀谈"
+
+msgid "tavern_bar"
+msgstr "酒馆柜台"
+
+msgid "tavern_bar_desc"
+msgstr "就像在你家一样！"
+
+msgid "tavern_table"
+msgstr "酒馆的餐桌"
+
+msgid "tavern_table_desc"
+msgstr "在有家的氛围下喝一杯饮料把"
+
+msgid "teleport_group_to_label"
+msgstr "点击将小组传送至选中的区域"
+
+msgid "teleport_to"
+msgstr "传送至"
+
+msgid "teleport_to_label"
+msgstr "点击将~A 传送至选中的区域"
+
+msgid "tending_workplace_action"
+msgstr "正在招待 ~A"
+
+msgid "terra_planet"
+msgstr "地系行星"
+
+msgid "thirst"
+msgstr "渴"
+
+msgid "thirst_feeling_high"
+msgstr "酒足饭饱"
+
+msgid "thirst_feeling_high_desc"
+msgstr "确确实实需要这个饮料"
+
+msgid "thirst_feeling_low"
+msgstr "干枯的"
+
+msgid "thirst_feeling_low_desc"
+msgstr "我的头很晕我感觉马上就会晕倒了"
+
+msgid "thousand_sep"
+msgstr "%1,%2"
+
+msgid "tier1"
+msgstr "等级1"
+
+msgid "tier2"
+msgstr "等级2"
+
+msgid "tier3"
+msgstr "等级3"
+
+msgid "tier4"
+msgstr "等级4"
+
+msgid "tier5"
+msgstr "等级5"
+
+msgid "tier6"
+msgstr "等级6"
+
+msgid "tier7"
+msgstr "等级7"
+
+msgid "tier8"
+msgstr "等级8"
+
+msgid "tier9"
+msgstr "等级9"
+
+msgid "tile_construction_job"
+msgstr "土地建造"
+
+msgid "tile_destruction_job"
+msgstr "破坏土地"
+
+msgid "titanium"
+msgstr "钛金属"
+
+msgid "titanium_node"
+msgstr "钛金属堆"
+
+msgid "titanium_wall"
+msgstr "钛金属墙"
+
+msgid "toggle_combatmode"
+msgstr "激活战斗模式"
+
+msgid "toggle_walls"
+msgstr "隐藏墙面"
+
+msgid "tonicx"
+msgstr "X 大补药"
+
+msgid "toogle_global_recipes"
+msgstr "启用或者禁用所有可用于该物品生产的配方："
+
+msgid "total_row"
+msgstr "共计："
+
+msgid "travel_shop"
+msgstr "旅游区域"
+
+msgid "travel_shop_desc"
+msgstr "星图和自动翻译"
+
+msgid "treatment"
+msgstr "治疗方案"
+
+msgid "treatment_desc"
+msgstr "~A 的治疗过程包括以下几步： "
+
+msgid "try_delivery_action"
+msgstr "尽力传送 %s"
+
+msgid "try_delivery_action_error"
+msgstr "被占满，被封锁或者没有空间 "
+
+msgid "turret_name"
+msgstr "炮塔"
+
+msgid "tutorial_civs_basics"
+msgstr "声望，进口和出口 "
+
+msgid "tutorial_civs_basics_1"
+msgstr "文明窗口将展示所有已经被发现的星系。让我们去发现那些信息和操作是我们可以使用的。在左边的柱形区域内选择人类。"
+
+msgid "tutorial_civs_basics_2"
+msgstr "选择声望面板"
+
+msgid "tutorial_civs_basics_3"
+msgstr "声望是展现你受到一个文明的欢迎和喜爱的程度。只有针对一个文明拥有至少15000点声望他们才会同意和你进行贸易往来。同时该情况下他们的来访并不是十分友善的。只有获得超过15000点的声望时那你才能不仅仅和他们贸易而且他们也会以游客的身份来友善的对你的空间站进行访问。为游客提供完善的服务或者建造大使馆有助于你提高声望。你可以通过向敌对文明支付税费来完成上述同样的操作。越高的声望将意味着你和该文明之间货物进出口时获得更有利的价格。"
+
+msgid "tutorial_civs_basics_4"
+msgstr "选择购买于"
+
+msgid "tutorial_civs_basics_5"
+msgstr "你的空间站可以同时制作一打的产品，但是所有需要的资源都将从其他的星球上来获取。大部分的星球上都居住着某个文明。在这类星球上进行资源的开采将需支付积分，当你越受到一个文明的喜爱那么他们要求你支付的积分会越少。这个积分的价格一般而言针对所有的文明都是一样的。"
+
+msgid "tutorial_civs_basics_6"
+msgstr "选择出售给"
+
+msgid "tutorial_civs_basics_7a"
+msgstr "你生产的产品不仅仅可以用于满足你自己的需求！同时你还可以把这些产品出售给游客或者直接通过这个面板来传送至其他星球。在这里你可以选择一种产品，一颗你所需要的行星，一艘停靠在你的基地的飞行器，以及产品的数量。在一切准备就绪后，就可以进行产品传送的操作了。飞行器将飞往被选择的行星，并在将货物全部售罄后自动返回空间站。"
+
+msgid "tutorial_civs_basics_7b"
+msgstr "这就是你在解锁旅游访问功能之前赚取积分的方法了，你可以常常的进入这个面板出售你多余的产品。所有放置在商店以及展示柜的产品库存将不会显示在同类产品你内部自用的的库存计算内。"
+
+msgid "tutorial_civs_title"
+msgstr "文明的教程"
+
+msgid "tutorial_ended"
+msgstr "教程已经结束"
+
+msgid "tutorial_exit"
+msgstr "@ui_icon_30px_help_02.png"
+
+msgid "tutorial_exit_tooltip"
+msgstr "退出目前的教程并返回教程的选择主页"
+
+msgid "tutorial_galaxy_autopilot"
+msgstr "自动驾驶"
+
+msgid "tutorial_galaxy_autopilot_1"
+msgstr "手动的控制飞行器前往星球传送货物是很无聊的一件事。因此所有的太空飞行器都有配备自动驾驶的系统。选中飞行器并进入它的功能选项中开启自动驾驶功能。"
+
+msgid "tutorial_galaxy_autopilot_2"
+msgstr "这是飞行器自动驾驶的窗口。你可以在它的列表上添加指令，对指令进行排序，以及启动或者关闭自动驾驶功能。\n 我们在教程的行星上尝试一下吧。\n 拖拽图标并在图吐大陆上释放。记住你可以通过拖拽标题栏来挪动窗口。"
+
+msgid "tutorial_galaxy_autopilot_4"
+msgstr "现在鼠标点击开始按钮来开始旅途吧。飞行器将会自动的前往各个星球进行资源加载。当飞行器的货物仓储室都被装满或者飞行器上的机组人员需要进行休整时，飞行器会自动的返回你的太空站基地而这全程都无需你的手动控制。"
+
+msgid "tutorial_galaxy_autopilot_5"
+msgstr "那就是了！你可以尝试其他的选项。将飞行器托向某个星球时，飞行器的自动驾驶功能将会关闭，谨记在需要的时候在此将它启动。当你准备就绪时，尝试指引飞行器前往星系的其他行星来开采不同的资源，然后再向飞行器的自动驾驶列表内添加你需要的指令。"
+
+msgid "tutorial_galaxy_basics"
+msgstr "基础的"
+
+msgid "tutorial_galaxy_basics_1"
+msgstr "啊，银河。还有很多东西有待探索。听起来或许会让你感到任务无比巨大！让我们一点一点的来吧。\n 这是银河的总览图。你可以通过点击不同的恒星来放大查看环绕它的星系。 目前你仅仅解锁了你所处行星的星系。点击它看看有什么发现吧。"
+
+msgid "tutorial_galaxy_basics_2"
+msgstr "到现在为止，你需要聚焦的是如何去获得各类用于物品生产以及食物烹饪的原材料的获得。资源展示器中会告诉你每颗星球上所拥有的各种资源以便于你根据自己实际的需求去规划各个星球的勘探顺序。"
+
+msgid "tutorial_galaxy_basics_3"
+msgstr "让我们前往教程的星球吧。你可以在屏幕的右边找到舰队面板。为了能向你的飞行器发出一个直接的飞行指令，你需要将飞行器拖动至图吐大陆上。记住你可以通过拖动每个窗口上方的标题栏的方式来移动窗口，如果它挡住了你的视线的话。"
+
+msgid "tutorial_galaxy_basics_4"
+msgstr "等待飞行器靠近行星并逐渐地进入行星轨道。"
+
+msgid "tutorial_galaxy_basics_5"
+msgstr "让我们开始探索这个星球吧！点击图吐大陆。"
+
+msgid "tutorial_galaxy_basics_6"
+msgstr "你可以点击勘探按钮来对一颗星球进行探索。在行星的窗口中你可以选择观看有关行星的基础教程。"
+
+msgid "tutorial_galaxy_basics_7"
+msgstr "这些都是些最基本的事。确保你会继续观看有关资源采集的教程，在此之后，你可以去查阅有关飞行器自动驾驶的教程。点击菜单选项。"
+
+msgid "tutorial_galaxy_title"
+msgstr "银河系教程"
+
+msgid "tutorial_menu_goals_hint"
+msgstr "建议：如果你已经观看了所有的教程请查看上方工具栏中的成就菜单。"
+
+msgid "tutorial_planet_basics_1"
+msgstr "你已经在教程的行星上登陆了！\n 星球是你的资源的主要来源，如果你希望你的空间站能够正常经营那么控制它们是十分必要的。 探访不同的星球去发现不同类型的资源"
+
+msgid "tutorial_planet_basics_2"
+msgstr "就如同你在空间站一样，你可以通过点击鼠标的右键来选择你的移动目的地。通过转动鼠标的滑盘来拉近或者切远视角。"
+
+msgid "tutorial_planet_basics_3"
+msgstr "你可以通过使用info工具来向你的职员们发送指令，然后，你可以使用位于屏幕下方的指令面板来告诉他们要走向或者传送向那里。让我们来做下尝试吧。通过info工具来选择任意的一个职员。"
+
+msgid "tutorial_planet_basics_4"
+msgstr "行动操作条会在你选择的单位接受你向他发出的直接指令时出现。例如，你可以在行动操作条上选择行走指令来让被选中的职员走向一个特定的位置。"
+
+msgid "tutorial_planet_basics_5"
+msgstr "如果你希望你的职员能够前往一个难以抵达的目的地，那你可以选择使用传送指令。注意你也可以通过使用键盘上的快捷键来更为便捷的进行指令传达（键盘上的T按键表示传输指令）。你可以通过不断地使用来记忆每个指令对应的按钮并以此来更快捷地下达指令。 "
+
+msgid "tutorial_planet_basics_6b"
+msgstr "多选可以帮助你同时向多个职员发送指令。你可以按住鼠标的左键并将其拖成一个长方形的选区。你可以同时对选区内的所有职员下达行走指令，传送指令，以及各类其他例如战斗指令等。"
+
+msgid "tutorial_planet_basics_7b"
+msgstr "所有你的职员都已经配备武器并且准备充足了。在自动模式下，无需你的指挥你的职员们会自动的攻击周围的敌人并医治周围受伤的队友。如果你希望能够进行手动操控，那么你可以在行动操作条中找到各类的战斗指令。"
+
+msgid "tutorial_planet_basics_8b"
+msgstr "最后你可以使用键盘上的数字1至6 （快捷操作）来保存每一个你划分的小组。当你选定一个小组的所有成员后，同时点击，例如Ctrl 和 1 键来将该小组保存在数字1键上。从这时起，如果你希望同时选中所有这个小组的成员那么你仅需点击数字1 即可。同时当你访问一个星球时，飞行器上的所有机组成员都将被自动归到1号小组。"
+
+msgid "tutorial_planet_extraction"
+msgstr "开采"
+
+msgid "tutorial_planet_extraction_1"
+msgstr "让我们来建造一个资源采集器。这类的建筑物需要被固定安置在某个星球的表面它们会定期的开采相应的资源并等待飞行器来收货。你需要在每个或者多个资源堆边放置一个采集器来保证这些资源堆都处于采集器的影响范围内。选择建造的工具。"
+
+msgid "tutorial_planet_extraction_2"
+msgstr "现在点击弹出的物品：一个生物采集器。"
+
+msgid "tutorial_planet_extraction_3"
+msgstr "这个建筑可以用来开采星球上的资源。这片土地的附近有几个水果堆，点击它来建造一个资源采集器吧。建造时你需要保证至少一个资源堆处于采集器的影响范围内。记住你可以通过点击数字[1] 来选择全组职员并随后点击字母[T] 来对他们进行传送。"
+
+msgid "tutorial_planet_extraction_4"
+msgstr "现在所有的物品都需要靠你的职员来建造。你需要等待他们来完成这一工作。记住当职员们登陆在距离需要建造的物品较远的地方那你可以对他们下达传送指令。"
+
+msgid "tutorial_planet_extraction_5"
+msgstr "这就是了！现在这个资源采集器生产的水果都将被暂时地储存在本地。派遣一艘飞行器来把这些资源都带走你可以使用自动驾驶这一功能来让飞行器在装载资源后自动返回空间站卸载。以这样的方式进行资源出口你需要支付一笔积分，而积分的几个会随着你的声望的增长而逐渐下降。查阅文明面板来查看你在这个星球的出口价格把。"
+
+msgid "tutorial_planet_extraction_6_dev"
+msgstr "[DEV] 建议收起并查看银河系的教程。"
+
+msgid "tutorial_planet_planetarium"
+msgstr "开启新的星系"
+
+msgid "tutorial_planet_planetarium_1"
+msgstr "在某些时候由于你空间站所处的等级仅仅为1的星系会对你造成资源短缺这一困境。此时你需要通过获得更多的资源和访客来维持你的空间站的发展。开启新的星系的方式是不断地向外探索其他星球。所有的居住星球都有一。选择下一步来查看这个行星。 "
+
+msgid "tutorial_planet_planetarium_2"
+msgstr "每个星系都拥有整个银河系的部分知识。如同你的信息面板对你做出的提示一般，获取这些知识的方法无非是通过暴力或者金钱。 在作出抉择前先全面衡量可能才造成的结果！当你成功将整个星系开拓完成那么就可以使用你的飞行器了。"
+
+msgid "tutorial_planet_squad"
+msgstr "基础和队伍指令 "
+
+msgid "tutorial_planet_title"
+msgstr "行星的教学"
+
+msgid "tutorial_research_basics"
+msgstr "研究"
+
+msgid "tutorial_research_basics_1"
+msgstr "这里是研究界面。在银河系内充斥着各类科技，但是不适所有的在一开始你就可以使用。你需要进行不断地研究来开启它们，而这个界面将会允许你对你的研究进行管理。"
+
+msgid "tutorial_research_basics_2"
+msgstr "研究的内容会被分为不同的组别。点击食物及饮料组来查看其中包含的信息。"
+
+msgid "tutorial_research_basics_3"
+msgstr "我们可以查看食物及饮料组所拥有的科技等级。每次升级都会使你解锁更多新的配方/或者物品来完善你的空间站。点击开始研究的按键来明确这个等级就是你目前拥有的研究等级。"
+
+msgid "tutorial_research_basics_4"
+msgstr "这个等级是你空间站研究的聚焦对象。 但是这仅仅允许你进行研究管理的面板。同时你还需要在空间站建造必须的基础设施并指派相关的职员进行研究来发展科技。"
+
+msgid "tutorial_research_basics_5"
+msgstr "确保你会建造足够拥有研究的桌面同时你可以通过使用工作矩阵来开启职员的研究能力并以此来获得研究点数。当你拥有超过一个限额的研究点数，那么你的研究等级将会自动上升。 "
+
+msgid "tutorial_research_title"
+msgstr "研究教程"
+
+msgid "tutorial_station_basics"
+msgstr "基础的"
+
+msgid "tutorial_station_basics_1"
+msgstr "欢迎光临 The Spatials: Galactology！\n 这是你的空间站。现在他还算不上什么。\n你主要的任务就是扩展它并守卫它使它成为所有太空人的家园以及访客的观光胜地。"
+
+msgid "tutorial_station_basics_2"
+msgstr "你可以通过点击鼠标的右键在空间站的周围进行移动。滚动鼠标的滑盘来拉近或者切远视角。"
+
+msgid "tutorial_station_basics_3_1"
+msgstr "左边的工具栏内你可以找到所有建造以及管理空间站所需要的工具。第一个工具被称为Info。 如果你希望使用该工具除了点击它还可以通过使用 Esc 键。"
+
+msgid "tutorial_station_basics_3_2"
+msgstr "选择工具栏中的一项工具然后点击你的职员或者空间站的任意物品。"
+
+msgid "tutorial_station_basics_4"
+msgstr "Info工具会向你展示你选择的对象的所有的信息。同时他也会为你提供额外的提示，例如它会告诉你要如何在厨房使用一个烹饪配方。\n 如果你想选择的对象被其他的物体遮挡住了，那么你仅需要将鼠标移至该目标的所在处并通过多次点击的方式来选择该物体。"
+
+msgid "tutorial_station_building"
+msgstr "建造"
+
+msgid "tutorial_station_building_1"
+msgstr "空间站由一间一间的房间组成。每一间房间都必须由墙面或者门来进行封闭，而它的地面也需要完整的进行铺设。仅仅当满足上诉的所有要求后，那系统才会认为这是一间合格且有效的房间，也仅仅自此以后方可在其内部建造或者制作各式各样的物品。\n 选择地面工具"
+
+msgid "tutorial_station_building_10"
+msgstr "很好！所有的房间都快住满了。 你需要把最后墙角的那块空缺给补上，但是如果我们在那里筑上一面墙的话，那就没法进出房间了。因此这时我们应该做的是在那块空缺上添加一扇门。在物品工具栏中选择你所需要的一切。"
+
+msgid "tutorial_station_building_11"
+msgstr "物品工具栏内罗列了所有用来进行建造所需要的物品。根据你的需要先选择物品的组别。你可以点击安全类物品组。"
+
+msgid "tutorial_station_building_12"
+msgstr "现在点击弹出的物品：门。"
+
+msgid "tutorial_station_building_13"
+msgstr "在标记的空缺处通过点击操作来安置一扇门。你可以在门被安装前使用字母Q和E来对它进行旋转操作，或者通过拖拽鼠标的方式来建造该物品。"
+
+msgid "tutorial_station_building_14"
+msgstr "和墙面或地面工具栏一样，物品工具栏仅仅给你展现一个大略的信息，至于建造的过程则需要选择职员来执行。那现在我们就耐心地等待他们完成这一工作吧。"
+
+msgid "tutorial_station_building_15"
+msgstr "房间已经建造完成了并且是一间有效的房间。你的工具栏提示你可以将房间的地面涂成绿色。如果某一时刻，因为使用不当或者外部损害导致墙面或者地面的部分脱落或者消失那这件房间以及内部的物品都将持续的受到由外部的大气层造成的伤害，如果不尽快解决这一现象可能会使该房间被查封。"
+
+msgid "tutorial_station_building_16"
+msgstr "一间有效但却空置的房间似乎不怎么有用。下一个教程会告诉你你需要为它添置那些基础的物品以及如何开始进行食物的烹饪。 "
+
+msgid "tutorial_station_building_2"
+msgstr "地面工具栏会为你展示你通过拖拽鼠标左键而选中的地面的大致信息。\n 把你的鼠标左键拖动至两个标记之间吧"
+
+msgid "tutorial_station_building_2_b"
+msgstr "提示：你可以使用 shift 键来开启地面草稿视图。在拖动鼠标时点击 Esc 键来结束该操作。"
+
+msgid "tutorial_station_building_3"
+msgstr "由于工具栏仅仅能为你提供一个大致的方案信息，地面的实际铺设过程还是需要借助于你的职员们来完成。让我们等待他们完成工作吧。"
+
+msgid "tutorial_station_building_4"
+msgstr "工作完成！但是一间房间不仅仅拥有地面，他还需要靠四周的墙面来进行封闭。选择墙面工具栏。"
+
+msgid "tutorial_station_building_5"
+msgstr "让我们在地面的四周绘制墙面吧。\n 点击鼠标左键并将光标拖动至两个标记之间。"
+
+msgid "tutorial_station_building_5_b"
+msgstr "提示：你可以使用 shift 键来开启墙面草稿视图。在拖动鼠标时点击 Esc 键来结束该操作。"
+
+msgid "tutorial_station_building_6"
+msgstr "另一块墙面。点击鼠标左键并将光标拖动至两个标记之间。"
+
+msgid "tutorial_station_building_7"
+msgstr "再来一块墙面。点击鼠标左键并将光标拖动至两个标记之间。"
+
+msgid "tutorial_station_building_8"
+msgstr "最后一块墙面。让我们预留一块空缺的位置来建造一扇门。点击鼠标左键并将光标拖动至两个标记之间。"
+
+msgid "tutorial_station_building_9"
+msgstr "让我们等待墙面的建造完成"
+
+msgid "tutorial_station_object_tool"
+msgstr "设施"
+
+msgid "tutorial_station_object_tool_1"
+msgstr "仅仅的房间是不足以用来招待你的职员或者外来的访客的。让我们在建造一些物品吧。\n 选择物品建造工具栏。"
+
+msgid "tutorial_station_object_tool_2"
+msgstr "物品工具栏会为你展示所有你已经解锁并且可以用于建造空间站的物品。首先我们需要确定所需物品所属的组别。点击食物及饮料。"
+
+msgid "tutorial_station_object_tool_3"
+msgstr "点击弹出的物品：基础厨房"
+
+msgid "tutorial_station_object_tool_4"
+msgstr "这是一个基础厨房，你可以用它来烹饪一些廉价且简易的食物。点击一块选中的地面区域来建造一个基础厨房。你可以在物品被建造前前使用字母Q和E来对它进行旋转操作，或者通过拖拽鼠标的方式来建造该物品。\n 着手建造一个基础厨房吧。"
+
+msgid "tutorial_station_object_tool_5"
+msgstr "和地面工具栏一样，物品工具栏仅仅给你展现一个大略的信息，至于建造的过程则需要选择职员来执行。那现在我们就耐心地等待他们完成这一工作吧。"
+
+msgid "tutorial_station_object_tool_6"
+msgstr "你的职员和访客们将会拒绝在地面上吃食物或者和饮料。你应该为他们提供一张餐桌来让他们能够更好的享受食物。选择一张餐厅的餐桌并把它放置在你的房间里吧。"
+
+msgid "tutorial_station_object_tool_7"
+msgstr "我们已经拥有了一件可用于吃喝的最基本的设施。但我们依旧需要向我们的厨房下达产品生产的指令。如果希望了解更多该类信息你可以前往生产及库存的教程。 "
+
+msgid "tutorial_station_production"
+msgstr "生产"
+
+msgid "tutorial_station_production_1"
+msgstr "许多的第一手原材料都需要在接受简单的加工后才可以被你职员使用。就如同其他绝大部分空间站的工作一样，你的职员需要在被允许授权后才可以进入厨房进行食物的烹饪。点击工作矩阵。"
+
+msgid "tutorial_station_production_2"
+msgstr "在这里你可以看到你的职员都被罗列在了屏幕的左侧，并在其右侧拥有与他相关的信息，通过调节矩阵内的方格来对职员的职务和工作进行自由组合。确保你的空间站至少拥有一名开启厨房工作的职员并点击下一步。 "
+
+msgid "tutorial_station_production_3_1"
+msgstr "现在让我们来设置厨房来烹饪一些食物吧。通过Info工具栏来进行选择。"
+
+msgid "tutorial_station_production_3_2"
+msgstr "建议：在任何时刻可以通过点击Esc 键的方式来开启Info 工具栏，接下来，选择任意的物品来查看它的特性或者具有的额外信息吧。 "
+
+msgid "tutorial_station_production_4"
+msgstr "这是为一个基础厨房提供的信息面板。它拥有一些共用的信息，例如生命力窗口，同时也拥有特殊的信息，例如生产窗口。\n 点击生产窗口来继续查看教程。"
+
+msgid "tutorial_station_production_5"
+msgstr "生产窗口允许更变被选中的厨房的一些配方。可惜现在没有任何配方被选中厨房因此将暂时被关闭。通过点击屏幕上弹出的按钮来为它添加一些用于烹饪的新鲜蔬菜吧。"
+
+msgid "tutorial_station_production_5_2"
+msgstr "生产用的Info面板现在展示的是创建指令的模式。需要选定一个配方，并按照配方的指导来烹饪一些食物。选择一个食物配方吧。"
+
+msgid "tutorial_station_production_5_3"
+msgstr "现在我们需要确定希望该配方进行食物生产的次数。点击数字提示并在它要求你填写时输入数字3。  "
+
+msgid "tutorial_station_production_5_4"
+msgstr "定制已经被设置完成了并且可以进行创建了。点击添加至队列的选项来创建指令，并将该指令添加至厨房生产的队列中。"
+
+msgid "tutorial_station_production_6"
+msgstr "现在你的职员们已经开始进行食物的烹饪了，但是你需要确保厨房内拥有充足的所需资源同时职员的烹饪工作已经被启动。\n 等待你的职员完成他们的食物吧。"
+
+msgid "tutorial_station_production_7"
+msgstr "准备就绪！这颗行星上的第一份食物已经准备就绪了。但是将烹饪的食物就这样堆积在地面上似乎不是那么的合适。继续查看库存教程来学习有关产品及资源的库存的一系列信息吧。"
+
+msgid "tutorial_station_stocks"
+msgstr "库存"
+
+msgid "tutorial_station_stocks_1"
+msgstr "现在我们的地面上杂乱的堆积着许多的资源，但这却不是一个可控及理想的情况。因此你需要做的就是把这些物品或资源进行库存处理。甚至你的某些操作或者建造需要库存足够的情况下才可以进行。\n 让我们尝试着来建造一个食物展柜。选择物品工具栏。"
+
+msgid "tutorial_station_stocks_10"
+msgstr "现在选择设备分类。"
+
+msgid "tutorial_station_stocks_11"
+msgstr "屏幕中弹出的物品是一个货盘。货盘是对每一种资源的库存进行控制的一件物品，如同一家商店，但它还可以被直接用于物流运输。例如，如果在一个工作台边上建造一个货盘，工作台会自动的使用货盘上资源库存。如果你希望控制一种特定的资源那么可以尝试使用货盘来帮助你。"
+
+msgid "tutorial_station_stocks_12"
+msgstr "屏幕中弹出的是一个库存区。当你在某间房间内建造一个库存区，那么这间房间的地面将会成为一个可以用于存储各类资源或者物件的小型仓库。当然，如此同时你也可以选择使某一特定的资源或者物件都集中地卸载至本区域，但你却无法控制已经存在的货物。使用库存区来存储所有被卸载或者需要装载的货物以及用于零售的各类产品。 "
+
+msgid "tutorial_station_stocks_12b"
+msgstr "你也可以直接的将你的产品运送至或者出售至其他的星球。详细信息可查阅文明面板。 "
+
+msgid "tutorial_station_stocks_13b"
+msgstr "这些就是物品生产的基本步骤可分为，生产及物流。但是你的成功同时还将取决于开采的资源以及空间站的研究等级。相关信息你可以查阅有关银河系以及研究的教程内容，在屏幕上方的条形菜单中可以找到它们。"
+
+msgid "tutorial_station_stocks_2"
+msgstr "点击食物及饮料类别。"
+
+msgid "tutorial_station_stocks_3"
+msgstr "现在点击弹出的内容：食物及餐馆。"
+
+msgid "tutorial_station_stocks_4"
+msgstr "点击弹出的窗口中的物品来建造它。"
+
+msgid "tutorial_station_stocks_5"
+msgstr "等待建造完成。"
+
+msgid "tutorial_station_stocks_6_1"
+msgstr "现在更变成Info工具栏并选择食物展示柜。"
+
+msgid "tutorial_station_stocks_6_2"
+msgstr "建议：在任何时刻可以通过点击Esc 键的方式来开启Info 工具栏，接下来，选择任意的物品来查看它的特性或者具有的额外信息吧。 "
+
+msgid "tutorial_station_stocks_7"
+msgstr "选择库存面板"
+
+msgid "tutorial_station_stocks_8"
+msgstr "在这个面板里你可以调整用于食品展示柜中食物库存维护或管理的各项参数。我们来尝试一下这一功能。 点击标签 \"disabled\"，并在临时窗口中选择相应剂量的食物。 "
+
+msgid "tutorial_station_stocks_9"
+msgstr "这个食物展示柜现在将开始进行食物的储存了。你的职员将不断地向内储存食物直到它达到了你预先设置的最大值。当它们距离你的产品生产中心的距离较远时，负责维护库存的物品将会帮助你有效地进行产品以及资源的分配。当你的空间站公开接待游客后，食品展示柜还可以作为针对游客的产品销售点。\n 我们去查看几个。\n 选择物品建造工具栏。"
+
+msgid "tutorial_station_title"
+msgstr "空间站教程"
+
+msgid "tutorial_station_vitals"
+msgstr "活力"
+
+msgid "tutorial_station_vitals_1"
+msgstr "空间站的主要任务就是保证你的职员安全且健康地生活着。他们会不断地工作并在探索各个星球后返回这里，因此你需要犒劳他们所做的一切并保证他们时刻保持“活力”。让我们来看一下这一点吧。选择Info工具栏，然后，点击任意的一个职员（如果该目标被障碍物所阻挡，你可以通过多次点击的方式来选择他们）。"
+
+msgid "tutorial_station_vitals_2"
+msgstr "如果你还没选择的话，选择“活力”面板。\n 这个面板会向你呈现被选中的职员的各项“活力”指标。在你的职员的活力值较为底下的时候你需要向他们提供食品，饮料，娱乐活动以及其他的项目来是他们得到充足的休整。切记不要让你的职员的活力值处于一个过于底下的程度，因为那样会对他们的大脑或者身体有所损伤。"
+
+msgid "tutorial_station_vitals_4"
+msgstr "一个职员的情绪可能会受到很多因素的影响。例如，当一个职员感到十分饥饿却又无法获得食物时，他不仅仅会受到身体上的伤害，还有产生一些负面的情绪。你可以在下方的列表中查看这类情绪。如果一个职员的情绪值下降严重，那么他可能会失去继续生存的希望，或者会使他变得极其的暴力。\n 跟随接下来的教程来学习如何建造一个厨房。"
+
+msgid "tutorial_waiting"
+msgstr "等待中。。。"
+
+msgid "type_new_max_stock"
+msgstr "这个物品的库存已达到最大值"
+
+msgid "type_officer_name"
+msgstr "填写这个职员的名字："
+
+msgid "type_restock_at_stock"
+msgstr "货物补充的指令会在该货物的库存低于这一数值时启动并在库存达到其最大值时终结。"
+
+msgid "type_ship_name"
+msgstr "填写飞行器的名字："
+
+msgid "ugc_but_create"
+msgstr "创建"
+
+msgid "ugc_but_update"
+msgstr "更新"
+
+msgid "ugc_change_desc"
+msgstr "更变列表 （你可以通过复制粘贴的方式来拷贝外来文本内容）"
+
+msgid "ugc_changelog"
+msgstr "更新变更列表："
+
+msgid "ugc_create_new_mod"
+msgstr "创建一个mod"
+
+msgid "ugc_desc"
+msgstr "描述："
+
+msgid "ugc_entry_desc_req"
+msgstr "必须填写描述信息"
+
+msgid "ugc_entry_desc_too_log"
+msgstr "描述信息太长"
+
+msgid "ugc_entry_title_req"
+msgstr "必须填写标题"
+
+msgid "ugc_entry_title_too_log"
+msgstr "标题内容太长"
+
+msgid "ugc_error_conn"
+msgstr "连接 Steamworks 错误"
+
+msgid "ugc_error_logged"
+msgstr "需要登录Steam来完成这个操作"
+
+msgid "ugc_error_priv"
+msgstr "你的 Steam 账号没有足够的权限"
+
+msgid "ugc_error_timeout"
+msgstr "连接 Steamworks 时间太长无反应"
+
+msgid "ugc_folder"
+msgstr "目前文件夹："
+
+msgid "ugc_folder_desc"
+msgstr "选择一个包含mod文件的文件夹"
+
+msgid "ugc_image"
+msgstr "图片："
+
+msgid "ugc_mod_desc"
+msgstr "描述（你可以通过复制粘贴的方式来拷贝外来文本内容）"
+
+msgid "ugc_mod_title"
+msgstr "mod 标题"
+
+msgid "ugc_my_workshop"
+msgstr "我的 Workshop"
+
+msgid "ugc_tag_translation"
+msgstr "翻译"
+
+msgid "ugc_tags"
+msgstr "Tags:"
+
+msgid "ugc_title"
+msgstr "标题："
+
+msgid "ugc_user_warning"
+msgstr "这个工具是为开发者提供的。请在游戏开始时使用Mods 面板来安装和使用mods。"
+
+msgid "ugc_valid_desc_req"
+msgstr "必须填写描述信息"
+
+msgid "ugc_valid_desc_too_long"
+msgstr "描述信息太长"
+
+msgid "ugc_valid_folder_req"
+msgstr "必须选择文件夹"
+
+msgid "ugc_valid_image_req"
+msgstr "必须选择图片"
+
+msgid "ugc_valid_title_req"
+msgstr "必须填写标题"
+
+msgid "ugc_valid_title_too_long"
+msgstr "标题内容太长"
+
+msgid "ugc_vis"
+msgstr "可见性："
+
+msgid "ugc_vis_friends"
+msgstr "朋友"
+
+msgid "ugc_vis_private"
+msgstr "私人的"
+
+msgid "ugc_vis_public"
+msgstr "公开的"
+
+msgid "ugc_warn_already"
+msgstr "你正在创建或上传一个mod，请稍等片刻"
+
+msgid "ui_color"
+msgstr "颜色 UI"
+
+msgid "ui_scale"
+msgstr "比例 UI"
+
+msgid "unassigned"
+msgstr "未分配"
+
+msgid "unavailable"
+msgstr "不可用的"
+
+msgid "uncompensated"
+msgstr "没有奖励"
+
+msgid "universal_printer"
+msgstr "通用打印机"
+
+msgid "universal_printer_desc"
+msgstr "打印所有用于娱乐性科技所需要的材料"
+
+msgid "unlocked"
+msgstr "解锁"
+
+msgid "unowned"
+msgstr "没有主人"
+
+msgid "unowned_desc"
+msgstr "这个物品没有主人因此所有人都可以使用它"
+
+msgid "unowned_keep"
+msgstr "让所有人都可以使用这个物品"
+
+msgid "v_xp"
+msgstr "%d XP"
+
+msgid "vaccine"
+msgstr "疫苗"
+
+msgid "valid_sources"
+msgstr "有效来源："
+
+msgid "value_higher_min"
+msgstr "数值必须大于最低值"
+
+msgid "value_lower_max"
+msgstr "数值必须小于最大值"
+
+msgid "value_not_number"
+msgstr "这不是一个数字"
+
+msgid "value_too_high"
+msgstr "数值太大了"
+
+msgid "value_too_high_res"
+msgstr "给 %s 最大的量是 %d"
+
+msgid "value_too_low"
+msgstr "数值太低了"
+
+msgid "vegan_feast"
+msgstr "素食盛宴"
+
+msgid "video"
+msgstr "视频"
+
+msgid "video_restart"
+msgstr "重启游戏来使用你的修改内容"
+
+msgid "visit_thespatials_com"
+msgstr "查阅  thespatials.com"
+
+msgid "visitor_bored"
+msgstr "无聊的"
+
+msgid "visitor_bored_desc"
+msgstr "哪里有有趣的事物？"
+
+msgid "visitor_departing_feeling"
+msgstr "正在离开"
+
+msgid "visitor_departing_feeling_desc"
+msgstr "正在回家"
+
+msgid "visitor_dock"
+msgstr "游客港口"
+
+msgid "visitor_dock_desc"
+msgstr "游客的太空飞行器可以停泊在这里"
+
+msgid "visitor_docking_disabled"
+msgstr "这里不允许游客的飞行器在使用"
+
+msgid "visitor_docking_enabled"
+msgstr "允许游客的飞行器使用"
+
+msgid "visitor_gambler"
+msgstr "赌徒"
+
+msgid "visitor_gambler_desc"
+msgstr "一局又一局，直到输完为止。。。我想我还要一杯鸡尾酒。"
+
+msgid "visitor_gourmet"
+msgstr "美食"
+
+msgid "visitor_gourmet_desc"
+msgstr "我喜欢这个空间站提供的食物和饮料"
+
+msgid "visitor_holiday"
+msgstr "度假"
+
+msgid "visitor_holiday_desc"
+msgstr "我希望有足够的时间来完成所有的事情！"
+
+msgid "visitor_mallrat"
+msgstr "我对购物中心情有独钟"
+
+msgid "visitor_mallrat_desc"
+msgstr "我多么希望能够住在这里！"
+
+msgid "visitor_opinion_vital"
+msgstr "观点"
+
+msgid "visitor_party"
+msgstr "派对达人"
+
+msgid "visitor_party_desc"
+msgstr "派对对对！"
+
+msgid "visitor_researcher"
+msgstr "研究员"
+
+msgid "visitor_researcher_desc"
+msgstr "我寻找知识"
+
+msgid "visitor_shopper"
+msgstr "购买"
+
+msgid "visitor_shopper_desc"
+msgstr "我寻找价廉物美的产品"
+
+msgid "visitor_sick"
+msgstr "生病的"
+
+msgid "visitor_sick_desc"
+msgstr "我需要去看医生"
+
+msgid "visitor_timer_feeling"
+msgstr "游客"
+
+msgid "visitor_timer_feeling_desc"
+msgstr "我仅仅是路过的"
+
+msgid "visitor_tired"
+msgstr "疲惫的"
+
+msgid "visitor_tired_desc"
+msgstr "我需要休息来调整一下"
+
+msgid "visitor_usage"
+msgstr "游客使用的"
+
+msgid "visitor_wasted"
+msgstr "喝醉的"
+
+msgid "visitor_wasted_desc"
+msgstr "就近前往周围的酒吧或者餐厅，绝不走回头路。。。"
+
+msgid "vital_factors"
+msgstr "活力因素："
+
+msgid "vital_satisfy_desc"
+msgstr "感到满意 ~A"
+
+msgid "vitals"
+msgstr "活力"
+
+msgid "vitamin_water"
+msgstr "矿物质水"
+
+msgid "volcanic_planet"
+msgstr "多火山的行星"
+
+msgid "vomit_from"
+msgstr "~A 的呕吐物"
+
+msgid "vsync"
+msgstr "VSync"
+
+msgid "vsync_default"
+msgstr "不修改"
+
+msgid "vsync_late"
+msgstr "过时的"
+
+msgid "vsync_off"
+msgstr "未启用"
+
+msgid "vsync_on"
+msgstr "启用"
+
+msgid "walk_group_to_label"
+msgstr "点击让被选择的群体前往一个目的地"
+
+msgid "walk_here"
+msgstr "前往这里"
+
+msgid "walk_order_desc"
+msgstr "行走命令"
+
+msgid "walk_to"
+msgstr "走向"
+
+msgid "walk_to_label"
+msgstr "点击让 ~A 前往指定的位置"
+
+msgid "walkable"
+msgstr "可行走的"
+
+msgid "wall_construction_job"
+msgstr "建造墙壁"
+
+msgid "wall_destruction_job"
+msgstr "拆除墙壁"
+
+msgid "wallet"
+msgstr "钱包"
+
+msgid "walls_build_info"
+msgstr "通过点击或者拖拽的操作在墙面上绘制一个平面，或者仅仅开取一个缺口。点击Esc键来取消操作。"
+
+msgid "walls_tool"
+msgstr "建造墙面"
+
+msgid "warn_autopilot_no_need_home"
+msgstr "不需要对正处于自动驾驶模式的飞行器下达返回基地的指令，它将在机舱满载或需要更多的机舱人员时自动返回。强制的返回基地的命令尽在机组人员休息完毕后启用，因此或许会比自动驾驶模式要慢。 "
+
+msgid "warn_no_officer_dock"
+msgstr "你的一个飞行器已经返回基地但你却未为其指派任何停泊口，因此所有的机组人员以及机载物品都将出现在地图的边缘。你可以建造或指派一个停泊口来避免这一情况的发生。"
+
+msgid "warn_no_shop"
+msgstr "没有商店，免费获得"
+
+msgid "water"
+msgstr "水"
+
+msgid "water_leak"
+msgstr "水枪"
+
+msgid "water_node"
+msgstr "水堆"
+
+msgid "welcome_emp"
+msgstr "欢迎光临！"
+
+msgid "window"
+msgstr "窗口"
+
+msgid "window_size"
+msgstr "小窗口"
+
+msgid "work_on_action"
+msgstr "在 ~A 工作"
+
+msgid "working"
+msgstr "正在工作"
+
+msgid "working_label"
+msgstr "正在工作： ~A"
+
+msgid "world_enlargement"
+msgstr "扩大的世界"
+
+msgid "world_enlargement_desc"
+msgstr "所有的都是巨大的！"
+
+msgid "xeno_egg"
+msgstr "异形的蛋"
+
+msgid "xeno_egg_desc"
+msgstr "在计数器倒数至0前摧毁这个蛋，防止它被孵化。"
+
+msgid "xenomorph"
+msgstr "异形"
+
+msgid "xray"
+msgstr "X光"
+
+msgid "xray_desc"
+msgstr "可以获得患者身体内部的图像，有助于对疾病的确诊。"
+
+msgid "yes"
+msgstr "是"
+
+msgid "zoom_in"
+msgstr "放大"
+
+msgid "zoom_out"
+msgstr "缩小"
+

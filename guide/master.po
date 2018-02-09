@@ -1,0 +1,103 @@
+msgid "guide_first_station_intro_title"
+msgstr "Your first station"
+
+msgid "guide_first_station_intro"
+# Welcome to The Spatials: Galactology!
+
+In this guide you will find out how to start your first station, and then some chapters with more in depth information on the various game systems.
+
+If your game has just been started you can also follow the tutorial windows in each game screen. They replicate many of the first steps described here. If you ignored them and are confused it would be a good idea to start a new game from scratch and follow all the tutorials before you start a station for good.
+
+msgid "guide_first_station_basics_title"
+msgstr "Basics and building"
+
+        basic building and concepts
+
+msgid "guide_first_station_rations"
+        setting up rations
+
+msgid "guide_first_station_landing"
+        landing on tutoland and extractors
+
+msgid "guide_first_station_autopilot"
+        autopilot for ships
+
+msgid "guide_first_station_credits"
+        making money
+            sell excess products
+            meet goals
+            open up to tourists
+
+msgid "guide_officers_intro"
+    officers
+
+msgid "guide_officers_vitals"
+        vitals and mind (also for other entities)
+
+msgid "guide_officers_specs"
+        specs
+        requests
+
+msgid "guide_officers_jobs"
+        jobs
+            also explain job system in general
+
+msgid "guide_officers_items"
+        wearable items?
+
+msgid "guide_station_intro"
+    station
+
+msgid "guide_station_tools"
+            info tool
+            build tools
+            job matrix
+            equip matrix
+            inventory
+
+msgid "guide_station_systems"
+    FIXME cut this or group this??
+        systems
+            building rules, doors (floors, walls, objects, room definitions, ...)
+            research
+            docks
+            factories, recipes, production
+            security
+            storage and pallets
+            shops, expositors, consumption objects
+            hospitality
+            shopping
+            food/drink
+            health and hygiene
+            recreational/fun
+            robots
+
+msgid "guide_galaxy"
+    galaxy
+        filters
+        galaxy, system, planet window
+
+msgid "guide_civs"
+    civs
+        reputation
+        buy/sell
+
+msgid "guide_ships"
+    ships
+        parameters (speed vs cargo vs skills)
+        manual orders, autopilot
+        fleet screen, crew selection
+        ship bulding
+
+msgid "guide_exploration"
+    exploration
+        extraction
+        invasions
+        opening systems
+        other buildings
+
+msgid "guide_combat"
+    combat
+
+msgid "guide_research"
+    research
