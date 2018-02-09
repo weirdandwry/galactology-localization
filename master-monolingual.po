@@ -232,6 +232,9 @@ msgstr "Autopilot is disabled"
 msgid "autopilot_enabled"
 msgstr "Autopilot is enabled"
 
+msgid "available"
+msgstr "Available"
+
 msgid "back"
 msgstr "Back"
 
@@ -523,9 +526,6 @@ msgstr "Built wall"
 msgid "busy"
 msgstr "Busy"
 
-msgid "buy_from"
-msgstr "@ui_icon_30px_buy.png Buy from %s"
-
 msgid "by_age"
 msgstr "Seniority"
 
@@ -580,6 +580,9 @@ msgstr "Ground doesn't allow construction"
 msgid "cant_build_limited_to_one"
 msgstr "Only one object of this kind is allowed"
 
+msgid "cant_build_needs_outside"
+msgstr "Requires outdoor area"
+
 msgid "cant_build_needs_room"
 msgstr "Requires a fully floored, fully wall/door delimited room"
 
@@ -619,11 +622,17 @@ msgstr "Simple and utilitarian. You sit, you eat."
 msgid "cargo_hold"
 msgstr "Cargo hold"
 
+msgid "cargo_label"
+msgstr "Cargo:"
+
 msgid "cargo_n"
 msgstr "Cargo: ~A units"
 
 msgid "cargo_robot"
 msgstr "Cargo robot"
+
+msgid "cargo_value"
+msgstr "%d units"
 
 msgid "ceilingcam"
 msgstr "Ceiling camera"
@@ -631,8 +640,23 @@ msgstr "Ceiling camera"
 msgid "ceilingcam_desc"
 msgstr "Looks for hidden trespassers"
 
+msgid "ceilingshield_1"
+msgstr "Ceiling shielder"
+
+msgid "ceilingshield_desc"
+msgstr "Creates a small damage shield when detecting an enemy, with a cooldown."
+
 msgid "ceilingturret"
 msgstr "Ceiling turret"
+
+msgid "ceilingturret_1"
+msgstr "Basic ceiling turret"
+
+msgid "ceilingturret_2"
+msgstr "Enhanced ceiling turret"
+
+msgid "ceilingturret_3"
+msgstr "Advanced ceiling turret"
 
 msgid "ceilingturret_desc"
 msgstr "Small, low powered turret"
@@ -765,6 +789,9 @@ msgstr "Colony"
 
 msgid "civ_encountered"
 msgstr "First %s star system discovered! You can now see this civ in the civs screen."
+
+msgid "civ_ui_resources"
+msgstr "@ui_icon_30px_buy.png Resources"
 
 msgid "civ_uninhabited"
 msgstr "Uninhabited"
@@ -940,11 +967,17 @@ msgstr "Crew"
 msgid "crew_bridge_selector"
 msgstr "Pick your crew for this ship by clicking in the slots"
 
+msgid "crew_label"
+msgstr "Crew:"
+
 msgid "crew_n"
 msgstr "Crew: ~A slots"
 
 msgid "crew_n2"
 msgstr "Crew: ~A slots, ~A% ready"
+
+msgid "crew_value"
+msgstr "%d slots"
 
 msgid "crowd_control"
 msgstr "Crowd control"
@@ -1321,6 +1354,9 @@ msgstr "Dizzylapse"
 msgid "dizzy_sick_desc"
 msgstr "I feel very dizzy"
 
+msgid "dock_needs_space"
+msgstr "Objects too close"
+
 msgid "dock_officer_info_label"
 msgstr "Select the officer ship to dock here. Cargo will be unloaded around this dock and officers will disembark here."
 
@@ -1416,6 +1452,9 @@ msgstr "Enable"
 
 msgid "enable_alert_popups"
 msgstr "Enable alert popups"
+
+msgid "enable_critical_speed"
+msgstr "Set game speed to 1x on critical alerts"
 
 msgid "enable_music"
 msgstr "Enable music"
@@ -1591,6 +1630,9 @@ msgstr "We have received reports of a %s raiding party from %s approaching our s
 msgid "event_kowka_warn"
 msgstr "Кошка is a curious cat and she's here to check on the progress of her friend. Are you still a friend? Her robot army will help around in the station while they are here."
 
+msgid "event_lactian_spam_warn"
+msgstr "The Church of Lactus, a new galaxy cult who worship a mysterious milk entity, are proselytizing in your station. For now they appear to only carry leaflets (or do they?). Deal with them as you wish, or just wait until they are gone."
+
 msgid "event_liberty_warn"
 msgstr "Liberty is here! Her presence will make everybody around her happy, visitor and resident alike."
 
@@ -1635,6 +1677,15 @@ msgstr "The Pirates have revealed themselves for the first time! Your success ca
 
 msgid "event_progress"
 msgstr "Event progress: %s"
+
+msgid "event_raid_alert"
+msgstr "A raiding party has arrived! ~A are attacking our station!"
+
+msgid "event_raid_retaliate_warn"
+msgstr "%s are retaliating against us! A raiding party from %s is approaching our station. Be prepared!"
+
+msgid "event_raid_warn4c"
+msgstr "We have received reports of a %s raiding party from %s approaching our station. Be prepared!"
 
 msgid "event_robots_reveal"
 msgstr "The Robots have revealed themselves for the first time! Are your labour standards for robots up to spec? They will come to check for sure. And they won't like it, for sure."
@@ -1708,6 +1759,9 @@ msgstr "Exploring"
 msgid "export_current_rate"
 msgstr "Export price rate"
 
+msgid "export_rates_desc"
+msgstr "These are the unit prices you will pay for extracting resources from the civ planets."
+
 msgid "extractor_info"
 msgstr "Can extract:"
 
@@ -1755,6 +1809,9 @@ msgstr "Equipment tier 16-20"
 
 msgid "facilities_tier_9"
 msgstr "Advanced security"
+
+msgid "facilities_tier_9b"
+msgstr "Robotic security"
 
 msgid "factory"
 msgstr "Factory"
@@ -1825,6 +1882,9 @@ msgstr "File manager"
 msgid "filter_ship_assigned"
 msgstr "Ship assigned"
 
+msgid "filter_ship_named"
+msgstr "Ship: %s"
+
 msgid "filter_ship_not_assigned"
 msgstr "Ship not assigned"
 
@@ -1845,6 +1905,9 @@ msgstr "Fire"
 
 msgid "fire_desc"
 msgstr "A bunch of matter experiencing rapid catastrophic oxidation, with some tendency to expand. It will scare robot and organic living things alike. Make sure your firefighters are nearby and have access to water item stacks."
+
+msgid "fire_officer"
+msgstr "Fire officer"
 
 msgid "firefighter"
 msgstr "Firefighter"
@@ -2164,6 +2227,12 @@ msgstr "Your bartenders must serve 42 drinks in the bar. But really, drinks and 
 msgid "goal_bartender1_title"
 msgstr "Serve 42 drinks in the bar"
 
+msgid "goal_bartender2_desc"
+msgstr "Your bartenders must serve 420 drinks in the bar. But really, drugs are not the answer to the universe."
+
+msgid "goal_bartender2_title"
+msgstr "Serve 420 drinks in the bar"
+
 msgid "goal_buildany1_desc"
 msgstr "Build 15 objects and 135 floor tiles."
 
@@ -2275,6 +2344,18 @@ msgstr "Sell 100 things to visitors, using shop objects. Only consumerist items 
 msgid "goal_consumerism1_title"
 msgstr "Sell 100 things to visitors"
 
+msgid "goal_consumerism2_desc"
+msgstr "Sell 500 things to visitors, using shop objects. Only consumerist items are counted, vital items like food do not count for this goal."
+
+msgid "goal_consumerism2_title"
+msgstr "Sell 500 things to visitors"
+
+msgid "goal_consumerism3_desc"
+msgstr "Sell 3000 things to visitors, using shop objects. Only consumerist items are counted, vital items like food do not count for this goal."
+
+msgid "goal_consumerism3_title"
+msgstr "Sell 3000 things to visitors"
+
 msgid "goal_cook1_desc"
 msgstr "Your officers must use a kitchen to cook 10 rations of any kind."
 
@@ -2316,6 +2397,12 @@ msgstr "Your doctors must take care of 10 patients in the hospital bed."
 
 msgid "goal_doctor1_title"
 msgstr "Heal 10 patients"
+
+msgid "goal_doctor2_desc"
+msgstr "Your doctors must take care of 200 patients in the hospital bed."
+
+msgid "goal_doctor2_title"
+msgstr "Heal 200 patients"
 
 msgid "goal_extract1_desc"
 msgstr "Have your planet extractors extract 100 units of bio resources, 100 units of mineral resources and 100 units of fluid resources on one or more planets."
@@ -2382,6 +2469,12 @@ msgstr "Make chest item, an active item, a hands item, a feet item and an implan
 
 msgid "goal_itemprod2_title"
 msgstr "Make 5 items for different slots"
+
+msgid "goal_itemprod3_desc"
+msgstr "Make 200 items of any kind and of any level."
+
+msgid "goal_itemprod3_title"
+msgstr "Make 200 items"
 
 msgid "goal_jobs1_desc"
 msgstr "Use the job matrix in the station to change a job assignation 10 times."
@@ -2455,6 +2548,12 @@ msgstr "Land at least 3 times on planets of level 20 or higher."
 msgid "goal_planet4_title"
 msgstr "Land 3 times on planets of level 20"
 
+msgid "goal_planet5_desc"
+msgstr "Land at least 3 times on planets of level 30 or higher."
+
+msgid "goal_planet5_title"
+msgstr "Land 3 times on planets of level 30"
+
 msgid "goal_progress"
 msgstr "Progress: ~A%"
 
@@ -2478,6 +2577,12 @@ msgstr "Recycle 5 corpses. Make sure you have at least one recycler and that the
 
 msgid "goal_recycle2_title"
 msgstr "Recycle 5 corpses"
+
+msgid "goal_recycle3_desc"
+msgstr "Recycle 150 corpses. Make sure you have at least one recycler and that the cleaning job is enabled for some of your officers. Yeah RIP."
+
+msgid "goal_recycle3_title"
+msgstr "Recycle 150 corpses"
 
 msgid "goal_repair1_desc"
 msgstr "Repair 20 objects or robots, damaged during the course of combat or from malfunction."
@@ -2511,6 +2616,12 @@ msgstr "While building new ships, produce 100 ship build order tasks in the ship
 
 msgid "goal_shipbuild2_title"
 msgstr "Produce 100 ship build order tasks"
+
+msgid "goal_shipbuild3_desc"
+msgstr "Build 8 ships using the ship building planner and the ship work desks."
+
+msgid "goal_shipbuild3_title"
+msgstr "Build 8 ships"
 
 msgid "goal_specs1_desc"
 msgstr "Pick any sufficiently experienced officer and upgrade them to any graduate spec."
@@ -2598,6 +2709,9 @@ msgstr "Food & drink"
 
 msgid "group_facilities"
 msgstr "Facilities and security"
+
+msgid "group_facilities2"
+msgstr "Facilities"
 
 msgid "group_factory"
 msgstr "Production"
@@ -3040,6 +3154,9 @@ msgstr "Open more star systems to discover planets with a demand for this produc
 msgid "in_progress"
 msgstr "In Progress"
 
+msgid "in_progress_p"
+msgstr "In progress: %d/%d"
+
 msgid "in_stasis"
 msgstr "In stasis"
 
@@ -3348,6 +3465,12 @@ msgstr "Lactian %s"
 
 msgid "lactian_adjective2"
 msgstr "Lactian ~A"
+
+msgid "lactian_leaflets"
+msgstr "Lactian leaflets"
+
+msgid "lactian_leaflets_desc"
+msgstr "All praise Lactus, our sacred milk. Can be recycled."
 
 msgid "lactian_member"
 msgstr "Lactian"
@@ -4990,6 +5113,9 @@ msgstr "Object"
 msgid "object_is_busy"
 msgstr "~A is busy"
 
+msgid "object_power_level"
+msgstr "Power level"
+
 msgid "object_strength"
 msgstr "Strength"
 
@@ -5620,9 +5746,6 @@ msgstr "Any shower"
 msgid "required_points"
 msgstr "Required points: ~A"
 
-msgid "required_tokens"
-msgstr "Required tokens: FIXME"
-
 msgid "research"
 msgstr "Research"
 
@@ -6010,6 +6133,12 @@ msgstr "Security"
 msgid "securitydoor"
 msgstr "Security door"
 
+msgid "securitydoor2"
+msgstr "Force field door"
+
+msgid "securitydoor2_desc"
+msgstr "Almost impenetrable door. Allows to keep away visitors from storage and production rooms."
+
 msgid "securitydoor_desc"
 msgstr "Strong door for controlling access. Allows to keep away visitors from storage and production rooms."
 
@@ -6120,6 +6249,18 @@ msgstr "Super damage shield"
 
 msgid "shield_3_name"
 msgstr "Ultra damage shield"
+
+msgid "shielder_1"
+msgstr "Basic shielder"
+
+msgid "shielder_2"
+msgstr "Enhanced shielder"
+
+msgid "shielder_3"
+msgstr "Advanced shielder"
+
+msgid "shielder_desc"
+msgstr "Creates a large damage shield when detecting an enemy, with a cooldown."
 
 msgid "ship_allowed_cargo"
 msgstr "Allowed resources: %d/%d"
@@ -6361,6 +6502,9 @@ msgstr "Surface teleport"
 msgid "ship_skills_l"
 msgstr "Skills: %s"
 
+msgid "ship_skills_label"
+msgstr "Skills:"
+
 msgid "ship_travel_approach"
 msgstr "Approaching %s (L%d)"
 
@@ -6562,11 +6706,17 @@ msgstr "Security officers specialized in handling weapons with ruthless efficien
 msgid "specops_spec"
 msgstr "SpecOps"
 
+msgid "speed_label"
+msgstr "Speed:"
+
 msgid "speed_n"
 msgstr "Speed: ~0,2F mParsec/s"
 
 msgid "speed_pause"
 msgstr "Pause game"
+
+msgid "speed_value"
+msgstr "~0,2F mParsec/s"
 
 msgid "spores"
 msgstr "Spores"
@@ -6862,6 +7012,21 @@ msgstr "Try to deliver %s"
 msgid "try_delivery_action_error"
 msgstr "Busy, locked or no room to store"
 
+msgid "turret_1"
+msgstr "Basic turret"
+
+msgid "turret_2"
+msgstr "Enhanced turret"
+
+msgid "turret_3"
+msgstr "Advanced turret"
+
+msgid "turret_4"
+msgstr "Ultra turret"
+
+msgid "turret_desc"
+msgstr "Large, high caliber turret"
+
 msgid "turret_name"
 msgstr "Turret"
 
@@ -7128,6 +7293,9 @@ msgstr "But officers and visitors will refuse to eat and drink from the floor. Y
 
 msgid "tutorial_station_object_tool_7"
 msgstr "And now we have very basic facilities for food and drinks. But we still have to give production orders to our kitchen, and introduce the concept of stocking. Read more in the stocks and production tutorial."
+
+msgid "tutorial_station_object_tool_7b"
+msgstr "About noise: While this tiny combination of a kitchen and a table is fine for a starter station, putting two kitchens or more in the same room will annoy officers trying to have a quiet lunch. Consider building a separate kitchen room when you grow your station."
 
 msgid "tutorial_station_production"
 msgstr "Production"
