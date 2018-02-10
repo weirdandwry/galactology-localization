@@ -1,3 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-12 09:02+0000\n"
+"PO-Revision-Date: 2018-02-12 09:02+0000\n"
+"Last-Translator: Carlos <info@weirdandwry.com>\n"
+"Language-Team: Chinese (Simplified) "
+"<http://translate.weirdandwry.com/projects/galactology/game/zh_CN/>\n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2.18\n"
+
 msgid "Luxury_kitchen_desc"
 msgstr "全宇宙最美味的食物将在这里制作"
 
@@ -5069,7 +5085,7 @@ msgid "options_menu"
 msgstr "选项"
 
 msgid "options_more_languages"
-msgstr " =\"@ui_icon_30px_lenguage.png 更多语言\""
+msgstr "@ui_icon_30px_lenguage.png 更多语言"
 
 msgid "options_need_game"
 msgstr "未载入任何存档。存档选项在游戏保存时自动保存。开始一个新的游戏或者再入一个存档来修改选项。"
@@ -7647,4 +7663,3 @@ msgstr "放大"
 
 msgid "zoom_out"
 msgstr "缩小"
-
