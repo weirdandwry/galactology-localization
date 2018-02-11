@@ -1,3 +1,20 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-12 09:02+0000\n"
+"PO-Revision-Date: 2018-02-12 09:03+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
+"Language-Team: Russian "
+"<http://translate.weirdandwry.com/projects/galactology/game/ru/>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 2.18\n"
+
 msgid "Luxury_kitchen_desc"
 msgstr "Самая лучшая кухня во Вселенной"
 
@@ -1349,7 +1366,9 @@ msgid "door_allowed_desc"
 msgstr "Это эквивалентно записке, прикрепленной к двери; насильственные захватчики проигнорируют это"
 
 msgid "door_desc"
-msgstr "Контролирует доступ к зонам станции"
+msgstr ""
+"Контролирует доступ к зонам станции. Позволяет оградить посетителей от "
+"хранилищ и производственных комнат."
 
 msgid "door_lock"
 msgstr "Закрыть"
@@ -1580,13 +1599,15 @@ msgid "event_invaderbomb_warn"
 msgstr "Скрытый вражеский сапер был найден! Посмотрите рядом на тикающий таймер бомбы и уничтожьте ее, прежде чем она взорвется!"
 
 msgid "event_invaders_alert"
-msgstr "Группа диверсантов прибила! ~A они атакуют твою станцию!"
+msgstr "Группа диверсантов прибыла! ~A они атакуют твою станцию!"
 
 msgid "event_invaders_retaliate_warn"
 msgstr "%s хотят отомстить! Команда нападения из %s направляется на Вашу станцию. Приготовьтесь!"
 
 msgid "event_invaders_warn4c"
-msgstr "Мы получили сообщения о том, что %s рейдерская сторона из %s приближается к нашей станции. Приготовьтесь!"
+msgstr ""
+"Мы получили сообщения о том, что %s группа диверсантов из %s приближается к "
+"нашей станции. Приготовьтесь!"
 
 msgid "event_kowka_warn"
 msgstr "Кошка - любопытная кошка, и она здесь, чтобы проверить прогресс её друга. Вы всё ещё её друг? Её робот-армия будет помогать на станции, пока она здесь."
@@ -2936,10 +2957,10 @@ msgid "implant_01"
 msgstr "Nerve OC"
 
 msgid "implant_02"
-msgstr "TargetTron++"
+msgstr "ЦелеТрон++"
 
 msgid "implant_03"
-msgstr "ReflexPlus"
+msgstr "РефлексПлюс"
 
 msgid "implant_04"
 msgstr "ReflexPlus Lite"
@@ -7648,3 +7669,199 @@ msgstr "Приблизить"
 msgid "zoom_out"
 msgstr "Отдалить"
 
+msgid "available"
+msgstr "Доступен"
+
+msgid "cant_build_needs_outside"
+msgstr "Требуется зона снаружи"
+
+msgid "cargo_label"
+msgstr "Груз:"
+
+msgid "cargo_value"
+msgstr "%d единиц"
+
+msgid "ceilingshield_1"
+msgstr "Потолочный щитогенератор"
+
+msgid "ceilingshield_desc"
+msgstr "При обнаружении врага создает малый щит, с перезарядкой."
+
+msgid "ceilingturret_1"
+msgstr "Базовая потолочная турель"
+
+msgid "ceilingturret_2"
+msgstr "Улучшенная потолочная турель"
+
+msgid "ceilingturret_3"
+msgstr "Продвинутая потолочная турель"
+
+msgid "civ_ui_resources"
+msgstr "@ui_icon_30px_buy.png Ресурсы"
+
+msgid "crew_label"
+msgstr "Экипаж:"
+
+msgid "crew_value"
+msgstr "%d слотов"
+
+msgid "dock_needs_space"
+msgstr "Объект слишком близко"
+
+msgid "enable_critical_speed"
+msgstr "Устанавливает игровое время на 1х при критических тревогах"
+
+msgid "event_lactian_spam_warn"
+msgstr ""
+"Церковь Лактуса, новый галактический культ который поклоняется загадочной "
+"молочной сущности, пытаются обратить в веру вашу станцию. В данный момент "
+"они появляются с листовками. Поступайте как знаете, или подождите пока они "
+"уйдут."
+
+msgid "event_raid_alert"
+msgstr "Прибыла группа диверсантов! ~A атакуют нашу станцию!"
+
+msgid "event_raid_retaliate_warn"
+msgstr ""
+"%s хотят отомстить! Команда нападения из %s направляется на Вашу станцию. "
+"Приготовьтесь!"
+
+msgid "event_raid_warn4c"
+msgstr ""
+"Мы получили сообщения о том, что %s группа диверсантов из %s приближается к "
+"нашей станции. Приготовьтесь!"
+
+msgid "export_rates_desc"
+msgstr ""
+"Цена за единицу, которую вы будете платить за извлечение ресурсов из "
+"заселенных планет."
+
+msgid "facilities_tier_9b"
+msgstr "Роботизированная безопасность"
+
+msgid "filter_ship_named"
+msgstr "Корабль: %s"
+
+msgid "fire_officer"
+msgstr "Офицер пожарной безопасности"
+
+msgid "goal_bartender2_desc"
+msgstr ""
+"Ваши бармены способны обслужить 420-ю напитками в баре. Но на самом деле, "
+"наркотики не являются ответом у вселенной."
+
+msgid "goal_bartender2_title"
+msgstr "Обслужить 420 напитков в баре"
+
+msgid "goal_consumerism2_desc"
+msgstr ""
+"Продать 500 вещей посетителям, используя только товары в магазинах. "
+"Засчитываются только потребительские товары. Жизненно важные элементы, такие "
+"как продукты питания, не учитываются для этой цели."
+
+msgid "goal_consumerism2_title"
+msgstr "Продать 500 вещей посетителям"
+
+msgid "goal_consumerism3_desc"
+msgstr ""
+"Продать 3000 вещей посетителям, используя только товары в магазинах. "
+"Засчитываются только потребительские товары. Жизненно важные элементы, такие "
+"как продукты питания, не учитываются для этой цели."
+
+msgid "goal_consumerism3_title"
+msgstr "Продать 3000 вещей посетителям"
+
+msgid "goal_doctor2_desc"
+msgstr "Ваши врачи должны вылечить 200 больных в больничной койке."
+
+msgid "goal_doctor2_title"
+msgstr "Вылечить 200 больных"
+
+msgid "goal_itemprod3_desc"
+msgstr "Сделать 200 предметов любого вида и любого уровня."
+
+msgid "goal_itemprod3_title"
+msgstr "Сделать 200 предметов"
+
+msgid "goal_planet5_desc"
+msgstr "Приземлиться не менее 3-х раз на планетах уровня 30 или выше."
+
+msgid "goal_planet5_title"
+msgstr "Приземлиться 3 раза на планетах от 30 уровня"
+
+msgid "goal_recycle3_desc"
+msgstr ""
+"Переработать 150 трупов. Убедитесь, что у Вас есть по крайней мере один "
+"утилизатор и что должность уборщика включена для некоторых из Ваших "
+"сотрудников. Угу RIP."
+
+msgid "goal_recycle3_title"
+msgstr "Переработать 150 трупов"
+
+msgid "goal_shipbuild3_desc"
+msgstr ""
+"Построить 8 кораблей, используя судостроительный планировщик и стол "
+"производства кораблей."
+
+msgid "goal_shipbuild3_title"
+msgstr "Построить 8 кораблей"
+
+msgid "group_facilities2"
+msgstr "Оборудование"
+
+msgid "in_progress_p"
+msgstr "Прогресс: %d/%d"
+
+msgid "lactian_leaflets"
+msgstr "Лактианские листовки"
+
+msgid "lactian_leaflets_desc"
+msgstr ""
+"Хвала великому Лактусу, нашему священному молоку. Может быть переработано."
+
+msgid "object_power_level"
+msgstr "Уровень мощности"
+
+msgid "securitydoor2"
+msgstr "Дверь с силовым барьером"
+
+msgid "securitydoor2_desc"
+msgstr ""
+"Практически непроходимая дверь. Позволяет оградить посетителей от хранилищ и "
+"производственных комнат."
+
+msgid "shielder_1"
+msgstr "Базовый щитогенератор"
+
+msgid "shielder_2"
+msgstr "Улучшенный щитогенератор"
+
+msgid "shielder_3"
+msgstr "Продвинутый щитогенератор"
+
+msgid "shielder_desc"
+msgstr "При обнаружении врага создает большой повреждающий щит, с перезарядкой."
+
+msgid "ship_skills_label"
+msgstr "Навыки:"
+
+msgid "speed_label"
+msgstr "Скорость:"
+
+msgid "speed_value"
+msgstr "~0,2F мПарсек/с"
+
+msgid "turret_1"
+msgstr "Базовая турель"
+
+msgid "turret_2"
+msgstr "Улучшенная турель"
+
+msgid "turret_3"
+msgstr "Продвинутая турель"
+
+msgid "turret_4"
+msgstr "Ультра турель"
+
+msgid "turret_desc"
+msgstr "Большая, крупнокалиберная турель"
