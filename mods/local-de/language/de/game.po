@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-12 09:02+0000\n"
-"PO-Revision-Date: 2018-02-12 09:02+0000\n"
+"PO-Revision-Date: 2018-02-12 21:15+0000\n"
 "Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: German "
 "<http://translate.weirdandwry.com/projects/galactology/game/de/>\n"
@@ -151,6 +151,8 @@ msgstr "Anzahl"
 
 msgid "antagonist_desc"
 msgstr ""
+"Das ist eine feindselige Zivilisation, dementsprechend werden sie nie an "
+"Diplomatie oder Handel interessiert sein."
 
 msgid "antimatter_cleaner"
 msgstr "Antimaterie-Reiniger"
@@ -243,10 +245,10 @@ msgid "auto_translator"
 msgstr "Universalübersetzer"
 
 msgid "autopilot_disabled"
-msgstr ""
+msgstr "Autopilot ist deaktiviert"
 
 msgid "autopilot_enabled"
-msgstr ""
+msgstr "Autopilot ist aktiviert"
 
 msgid "back"
 msgstr "Zurück"
@@ -7663,3 +7665,6 @@ msgstr "Reinzoomen"
 
 msgid "zoom_out"
 msgstr "Rauszoomen"
+
+msgid "available"
+msgstr "Verfügbar"
