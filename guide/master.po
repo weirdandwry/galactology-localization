@@ -11,6 +11,7 @@ If your game has just been started you can also follow the tutorial windows in e
 msgid "guide_first_station_basics_title"
 msgstr "Basics and building"
 
+msgid "guide_first_station_basics"
         basic building and concepts
 
 msgid "guide_first_station_rations"

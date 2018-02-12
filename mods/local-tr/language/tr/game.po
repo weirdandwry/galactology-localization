@@ -129,7 +129,7 @@ msgid "all"
 msgstr "Tümü"
 
 msgid "all_officers"
-msgstr "Tümü 2016-10-14T12:38:54.517333"
+msgstr "Tümü"
 
 msgid "all_resources"
 msgstr "Hammaddeler"
@@ -5731,7 +5731,7 @@ msgid "research_points"
 msgstr "Geliştirme puanı: ~A of ~A"
 
 msgid "research_remember"
-msgstr "Geliştirme masası kurmayı ve masaya elemanları atamayı unutmayın. Geliştirme işleri gelişme puanı almalarını sağlar. 2016-07-03T20:30:59.196653"
+msgstr "Geliştirme masası kurmayı ve masaya elemanları atamayı unutmayın. Geliştirme işleri gelişme puanı almalarını sağlar."
 
 msgid "research_tutorial"
 msgstr "Geliştirme dersi"
@@ -6272,7 +6272,7 @@ msgid "ship_construction_start"
 msgstr "İnşaaya başla"
 
 msgid "ship_distance_to_other"
-msgstr "Mesafe  %s (Seviye %d): %0.2f parse 2016-10-14T12:38:54.517333"
+msgstr "Mesafe %s (Seviye %d): %0.2f parse"
 
 msgid "ship_dock_assigned"
 msgstr "Limanı işaretli istasyonda"
@@ -7554,7 +7554,7 @@ msgid "ugc_title"
 msgstr "Başlık:"
 
 msgid "ugc_user_warning"
-msgstr "Mod geliştirenler için araçtır. Modları kurmak ve aktif etmek için \"Yeni oyun\" ekranındaki \"Mods sekmesini\" kullanın. 2017-02-17T12:08:46.816707"
+msgstr "Mod geliştirenler için araçtır. Modları kurmak ve aktif etmek için \"Yeni oyun\" ekranındaki \"Mods sekmesini\" kullanın."
 
 msgid "ugc_valid_desc_req"
 msgstr "Açıklama şarttır"
