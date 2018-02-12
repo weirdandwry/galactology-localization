@@ -12,10 +12,32 @@ msgid "guide_first_station_basics_title"
 msgstr "Basics and building"
 
 msgid "guide_first_station_basics"
-        basic building and concepts
+The very first steps of any new station are building your initial rooms. Many of the objects your staff will use in their daily life and work need a proper shelter, so it is important to first learn what makes a room in Galactology.
+
+A room is well defined when its entire ground is covered in floor tiles, and its entire permimeter is composed of wall segments and/or doors.
+
+Conversely there are two tools related to building rooms. The Floor Tool and the Walls Tool.
+
+The Floor Tool allows you to draw a floorplan either tile by tile or by dragging the mouse left button to draw a rectangle of tiles. Select the floor and room style you want from the listing, and if desired, a highlight color in the top bar. When drawing on the map you can also press Shift to toggle the eraser mode, or Alt plus clicking on an existing floor tile to copy its style and color. You can mix and match all kinds of floor tiles.
+
+The Wall Tool allows you to draw a wall blueprint either tile by tile or by dragging the mouse left button to draw an axis aligned line of tiles. Select the wall kind. Shift for eraser, and Alt for copying also works with the Wall Tool. And you can also mix any kind of wall.
+
+Both tools produce a blueprint. This blueprint serves a workplace indicator for your officers and it is not functional as a part of a room.
+
+The build mode visualization is active while a build tool is selected. In this mode a grid is displayed over the map, and the game will also overlay a green color over areas detected to be a properly formed room. A noise and aesthetical value will be assigned to each room depending on its contents and floor tile choices.
+
+An empty but well formed room is only the start. Next you will need to build some objects and that is the job of the Object Tool.
+
+The Object Tool allows you to place an object blueprint. Select an object category, then select an object from the list. Shift and Alt perform the same functions as in the other building tools.
+
+Placing a blueprint will create a construction job most of the time, even if some conditions are not meet for a valid construction. Clicking on the blueprint will reveal any errors and why a construction job is stopped, if that is the case.
+
+
+msgid "guide_first_station_rations_title"
+        Setting up rations
 
 msgid "guide_first_station_rations"
-        setting up rations
+
 
 msgid "guide_first_station_landing"
         landing on tutoland and extractors
