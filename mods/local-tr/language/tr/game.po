@@ -1,17 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-12 09:03+0000\n"
+"PO-Revision-Date: 2018-02-12 09:03+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
+"Language-Team: Turkish "
+"<http://translate.weirdandwry.com/projects/galactology/game/tr/>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.18\n"
+
 msgid "Luxury_kitchen_desc"
-msgstr "Gezegendeki en iyi yemek burada pişer"
+msgstr "Evrendeki en iyi yemek burada pişer"
 
 msgid "PR_desc"
 msgstr "Büyüleyici ve eğlenceli oldukları için, misafirleri her şeyin ne kadar harika olduğu konusunda ikna etmeyi çok iyi başarılılar."
 
 msgid "absorbtion"
-msgstr "Savuşturma"
+msgstr "Savuşturuş"
 
 msgid "absorbtion_short"
 msgstr "Sav"
 
 msgid "accept"
-msgstr ""
+msgstr "Kabul"
 
 msgid "action_cooldown"
 msgstr "[~A] gücünü topluyor"
@@ -20,25 +36,25 @@ msgid "active_absorb"
 msgstr "~A savdı"
 
 msgid "active_absorb_item"
-msgstr ""
+msgstr "Aktif savma aleti"
 
 msgid "active_control"
 msgstr "~A karmaşayı bastırdı"
 
 msgid "active_control_item"
-msgstr ""
+msgstr "Aktiff kontrol aleti"
 
 msgid "active_damage"
 msgstr "~A-~A saldırdı"
 
 msgid "active_damage_item"
-msgstr ""
+msgstr "Aktif hasar parçası"
 
 msgid "active_healing"
 msgstr "~A-~A iyileşti"
 
 msgid "active_healing_item"
-msgstr ""
+msgstr "Aktif sağlık"
 
 msgid "advanced_kitchen"
 msgstr "Gelişmiş Ocak"
@@ -47,22 +63,22 @@ msgid "advanced_kitchen_desc"
 msgstr "Çok iyi yemek ve içecek hazırlar"
 
 msgid "advanced_ship_engines_parts"
-msgstr ""
+msgstr "Gelişmiş gemi tamir parçaları"
 
 msgid "advanced_ship_hull_parts"
-msgstr ""
+msgstr "Gelişmiş gemi gövdesi parçaları"
 
 msgid "advanced_ship_lifesupport_parts"
-msgstr ""
+msgstr "Gelişmiş gemi ysşam destek parçaları"
 
 msgid "advanced_ship_structure_parts"
-msgstr ""
+msgstr "Gelişmiş gemi yapı parçaları"
 
 msgid "advanced_soap"
 msgstr "Büyük sabun"
 
 msgid "aesthetic_room"
-msgstr ""
+msgstr "Estetik: %d"
 
 msgid "aesthetics"
 msgstr "Estetik"
@@ -71,7 +87,7 @@ msgid "aesthetics_feeling_high"
 msgstr "Memnun"
 
 msgid "aesthetics_feeling_high_desc"
-msgstr "Bu çevre Estetiği çok iyi olmuş"
+msgstr "Çok şirin estetik istasyonu, sevdim burayı."
 
 msgid "aesthetics_feeling_low"
 msgstr "Etkilememiş"
@@ -101,7 +117,7 @@ msgid "alert_minimize"
 msgstr "Gizle"
 
 msgid "alert_reports"
-msgstr ""
+msgstr "Uyarı ve raporlar"
 
 msgid "algae"
 msgstr "Yosunlar"
@@ -128,13 +144,15 @@ msgid "aluminium_node"
 msgstr "Aluminyum bloğu"
 
 msgid "aluminium_wall"
-msgstr ""
+msgstr "Aluminyum duvar"
 
 msgid "amount"
 msgstr "Miktar"
 
 msgid "antagonist_desc"
 msgstr ""
+"Bu bir antagonist ırkı; Bu ırklar sizinle diplomatik anlaşmalara ve takas "
+"gibi şeylerle hiçbir zaman ilgilenmezler."
 
 msgid "antimatter_cleaner"
 msgstr "Antimadde silici"
@@ -158,7 +176,7 @@ msgid "argyria_desc"
 msgstr "Saf gümüş bağımlısıyım"
 
 msgid "arid_planet"
-msgstr ""
+msgstr "Kurak Gezegen"
 
 msgid "armory_locker_desc"
 msgstr "Zırh, takıları ve silah tamir et"
@@ -227,10 +245,10 @@ msgid "auto_translator"
 msgstr "Çevirmen"
 
 msgid "autopilot_disabled"
-msgstr ""
+msgstr "Otopilot kapatıldı"
 
 msgid "autopilot_enabled"
-msgstr ""
+msgstr "Otopilor devrede"
 
 msgid "back"
 msgstr "Geriye"
@@ -257,16 +275,16 @@ msgid "basic_rations"
 msgstr "Gıdalar"
 
 msgid "basic_ship_engines_parts"
-msgstr ""
+msgstr "Temel gemi tamir parçaları"
 
 msgid "basic_ship_hull_parts"
-msgstr ""
+msgstr "Temel gemi gövde parçaları"
 
 msgid "basic_ship_lifesupport_parts"
-msgstr ""
+msgstr "Temel gemi yaşam destek parçaları"
 
 msgid "basic_ship_structure_parts"
-msgstr ""
+msgstr "Temel gemi yapı parçaları"
 
 msgid "basic_soap"
 msgstr "Sabun"
@@ -278,13 +296,16 @@ msgid "bed_plain2"
 msgstr "Yatak"
 
 msgid "bed_plain_desc"
-msgstr "Uykuyu düzenler. Misafirler dışında herhangi bir elemanınız kullanabilir"
+msgstr ""
+"Uykuyu düzenler. Misafirler dışında. herhangi bir elemanınız kullanabilir."
 
 msgid "bedofficer"
-msgstr ""
+msgstr "Usta eleman yatağı"
 
 msgid "bedofficer_desc"
 msgstr ""
+"Usta çalışanlarınız için rahat yatak. Yatağın sahibi kimse odanın da sahibi "
+"o usta eleman olur. Ziyaretçiler kullanamaz."
 
 msgid "bernice"
 msgstr "Bernice"
@@ -293,7 +314,7 @@ msgid "bernice_desc"
 msgstr "Karagah yardımcınız,ilerleyişinizi değerlendirir."
 
 msgid "best"
-msgstr ""
+msgstr "En iyi"
 
 msgid "bigger_ui"
 msgstr "Geniş Menü"
@@ -317,13 +338,13 @@ msgid "bistro_drinks"
 msgstr "Bistro içki"
 
 msgid "bistro_drinks_desc"
-msgstr "Ödüllendirilmiş içecek sunumu"
+msgstr "Süslenerek ödüllendirilmiş içecek sunumu"
 
 msgid "bistro_food"
-msgstr " Bistro yemeği"
+msgstr "Bistro yemeği"
 
 msgid "bistro_food_desc"
-msgstr "Servis edilmiş nefis yemek"
+msgstr "Enfes bir yol servis etmek için yemeği."
 
 msgid "bistro_table"
 msgstr "Bistro masa"
@@ -332,7 +353,7 @@ msgid "bistro_table_desc"
 msgstr "Görkemli bir yemeğin koltukları"
 
 msgid "black_hole"
-msgstr ""
+msgstr "Kara delik"
 
 msgid "blackjack"
 msgstr "Zar masası"
@@ -401,31 +422,34 @@ msgid "bugs_node"
 msgstr "Böcek bloğu"
 
 msgid "build_advanced_ship_engines"
-msgstr ""
+msgstr "Gelişmiş gemi motoru kur"
 
 msgid "build_advanced_ship_hull"
-msgstr ""
+msgstr "Gelişmiş gemi gövdesi kur"
 
 msgid "build_advanced_ship_lifesupport"
-msgstr ""
+msgstr "Gelişmiş hayat ünitesi kur"
 
 msgid "build_advanced_ship_structure"
-msgstr ""
+msgstr "Gelişmiş gemi yapısı kur"
 
 msgid "build_alert_attrition"
 msgstr ""
+"Bu gezegen düşman bir ırka ait. Binalar yıkılana kadar zamanla hasara "
+"uğratılacaktır. Ayrıldıktan sonra binalarınızın tahrip edilmediğinden emin "
+"olmak için bu gezegeni istila edin."
 
 msgid "build_basic_ship_engines"
-msgstr ""
+msgstr "Temel gemi motoru kur"
 
 msgid "build_basic_ship_hull"
-msgstr ""
+msgstr "Temel gemi yapısı kur"
 
 msgid "build_basic_ship_lifesupport"
-msgstr ""
+msgstr "Temel gemi yaşam ünitesi kur"
 
 msgid "build_basic_ship_structure"
-msgstr ""
+msgstr "Temel gemi yapısı kur"
 
 msgid "build_builder_robot"
 msgstr "İnşaat robotu yap"
@@ -440,7 +464,7 @@ msgid "build_collector"
 msgstr "Hammaddeyi çıkarmak için yakınlarına toplayıcı kur"
 
 msgid "build_color"
-msgstr ""
+msgstr "Oda zemin rengi:"
 
 msgid "build_corridor_desc"
 msgstr "Odaları birleştirir"
@@ -458,25 +482,25 @@ msgid "build_groups"
 msgstr "Nesne Kategorisi:"
 
 msgid "build_info_stocks"
-msgstr ""
+msgstr "Stoklar"
 
 msgid "build_info_treatment_for"
-msgstr ""
+msgstr "Tedavi"
 
 msgid "build_intermediate_ship_engines"
-msgstr ""
+msgstr "Orta seviye gemi motorları kur"
 
 msgid "build_intermediate_ship_hull"
-msgstr ""
+msgstr "Orta seviye gemi gövdesi kur"
 
 msgid "build_intermediate_ship_lifesupport"
-msgstr ""
+msgstr "Orta seviye yaşam destek ünitesi kur"
 
 msgid "build_intermediate_ship_structure"
-msgstr ""
+msgstr "Orta seviye gemi yapıları kur"
 
 msgid "build_job_warn_invalid_room"
-msgstr ""
+msgstr "Geçerli bir oda içinde değil"
 
 msgid "build_maintenance_robot"
 msgstr "Tamir robotu"
@@ -488,7 +512,7 @@ msgid "build_objects_label"
 msgstr "Nesneler:"
 
 msgid "build_out_of_bounds"
-msgstr ""
+msgstr "Geçerli bina alanının dışında"
 
 msgid "build_security_robot"
 msgstr "Güvenlik robotu"
@@ -497,7 +521,7 @@ msgid "build_tool"
 msgstr "Nesne kur"
 
 msgid "build_walls"
-msgstr ""
+msgstr "Duvar kur"
 
 msgid "builder_robot"
 msgstr "inşaat robotu"
@@ -507,6 +531,8 @@ msgstr "İnşa"
 
 msgid "building_info_shop"
 msgstr ""
+"Dükkan: Üretilen ürünlerin yada kullanım ücretlerinin misafirlerden "
+"alınmasını sağlar"
 
 msgid "building_resources"
 msgstr "Zorunlu maddeler:"
@@ -515,10 +541,10 @@ msgid "built_floor"
 msgstr "Zemin diz"
 
 msgid "built_object"
-msgstr ""
+msgstr "Nesne Kur"
 
 msgid "built_wall"
-msgstr ""
+msgstr "Duvar kur"
 
 msgid "busy"
 msgstr "Meşgul"
@@ -527,10 +553,10 @@ msgid "buy_from"
 msgstr ""
 
 msgid "by_age"
-msgstr ""
+msgstr "Kıdem"
 
 msgid "by_gear_level"
-msgstr ""
+msgstr "En kötü donanmış"
 
 msgid "by_mind"
 msgstr "Zihinsel"
@@ -569,22 +595,22 @@ msgid "cant_build_exists_construction"
 msgstr "Bu bölgede zaten nesne kurulmuş"
 
 msgid "cant_build_has_singleton"
-msgstr "Odaya iki nesnenizden sadece bir tanesine kurulum izni verilir."
+msgstr "Bu odadaki bir nesne diğer objelerin kurulumunu engeller."
 
 msgid "cant_build_invalid_floor"
 msgstr "Seçilmiş nesneyi kurmak için geçersiz zemin"
 
 msgid "cant_build_invalid_ground"
-msgstr "Zemin inşa etmeyi engelliyor."
+msgstr "Zeminde olan inşa etmeyi engelliyor."
 
 msgid "cant_build_limited_to_one"
 msgstr "Bu tip objeden bir tane kurabilirsiniz"
 
 msgid "cant_build_needs_room"
-msgstr ""
+msgstr "Tam zemin kaplı , duvarlarla kaplı ve kapısı olan oda gerektirir"
 
 msgid "cant_build_too_close_enemy"
-msgstr "Buraya inşa edemezsiniz düşman binaları çok yakın "
+msgstr "Buraya inşa edemezsiniz düşman binaları çok yakın"
 
 msgid "cant_build_too_far_friendly_town"
 msgstr "Nesne yalnızca düşman bulunmayan bir topluluğun alanına kurulmalı"
@@ -596,7 +622,7 @@ msgid "cant_build_too_many"
 msgstr "Aynı çeşit nesne fazlası"
 
 msgid "cant_build_wrong_civ_allies"
-msgstr ""
+msgstr "Sadece insan ve karıncagil gezegenlerinde kurulmuş olabilir"
 
 msgid "canteen_drinks"
 msgstr "İçecek kabini"
@@ -614,7 +640,7 @@ msgid "canteen_table"
 msgstr "Kantin masası"
 
 msgid "canteen_table_desc"
-msgstr "Basit ve faydalı. Oturur ve yemek yersiniz. "
+msgstr "Basit ve faydalı. Oturur, yemek yersiniz."
 
 msgid "cargo_hold"
 msgstr "Kargo Bagajı"
@@ -680,64 +706,64 @@ msgid "chemistry"
 msgstr "Kimya"
 
 msgid "chest_01"
-msgstr ""
+msgstr "Güvenlik yeleği"
 
 msgid "chest_02"
-msgstr ""
+msgstr "Nano-bantlar"
 
 msgid "chest_03"
-msgstr ""
+msgstr "Hafif zırh"
 
 msgid "chest_04"
-msgstr ""
+msgstr "İçısıtıcı"
 
 msgid "chest_05"
-msgstr ""
+msgstr "Pilot yeleği"
 
 msgid "chest_06"
-msgstr ""
+msgstr "Darbe kılıfı"
 
 msgid "chest_07"
-msgstr ""
+msgstr "Ağır görev korumalığı"
 
 msgid "chest_08"
-msgstr ""
+msgstr "İyi gömlek"
 
 msgid "chest_09"
-msgstr ""
+msgstr "ShockABS MkII Freni"
 
 msgid "chest_10"
-msgstr ""
+msgstr "Süslü gömlek"
 
 msgid "chest_11"
-msgstr ""
+msgstr "EVA takım zırhı"
 
 msgid "chest_12"
-msgstr ""
+msgstr "Güçlü Kaplama"
 
 msgid "chest_13"
-msgstr ""
+msgstr "Göğüs muhafazası"
 
 msgid "chest_14"
-msgstr ""
+msgstr "Etkili kaynak ceket"
 
 msgid "chest_15"
-msgstr ""
+msgstr "Pullu koruyucu"
 
 msgid "chest_16"
-msgstr ""
+msgstr "Kral kaftanı"
 
 msgid "chest_17"
-msgstr ""
+msgstr "Güçlü zırh"
 
 msgid "chest_18"
-msgstr ""
+msgstr "Ayrılan zırh"
 
 msgid "chest_19"
-msgstr ""
+msgstr "Asker ceketi"
 
 msgid "chest_20"
-msgstr ""
+msgstr "Siber V80"
 
 msgid "chest_item"
 msgstr "Vücut giysisi"
@@ -758,10 +784,10 @@ msgid "chuchu_name"
 msgstr "Cücük"
 
 msgid "church_of_lactus"
-msgstr ""
+msgstr "Lactus kilisesi"
 
 msgid "civ_colony"
-msgstr "Koloni "
+msgstr "Koloni"
 
 msgid "civ_encountered"
 msgstr "İlk %s gezegen sistemi keşfedildi! Artık ırkları ırk ekranında görebilirsiz."
@@ -776,7 +802,7 @@ msgid "civs_points"
 msgstr "%d / %d puan"
 
 msgid "civs_tutorial"
-msgstr ""
+msgstr "Irkların tanıtımı"
 
 msgid "claim_reward"
 msgstr "Ödülü al"
@@ -789,15 +815,19 @@ msgstr "Temizlik"
 
 msgid "click_info"
 msgstr ""
+"Oyundaki herhangi bir varlık ve özelliklerini görüntülemek için tıklayın"
 
 msgid "click_pick_officer"
 msgstr "Bir elemanı seçmek için tıkla"
 
 msgid "clone_chamber"
-msgstr ""
+msgstr "Klon sigortası"
 
 msgid "clone_chamber_desc"
 msgstr ""
+"Atadığınız elemanınız öldüğünde otomatik olarak klonunu sunar,ölümü "
+"galaksinin öbür ucunda bile olsa. Bu nesne klonu oluşturduktan sonra kendini "
+"imha eder. Çok kırılgan!"
 
 msgid "cocktail"
 msgstr "Kokteyl"
@@ -806,16 +836,16 @@ msgid "combat"
 msgstr "Tavır"
 
 msgid "combat_busy_desc"
-msgstr ""
+msgstr "Sadece saldır"
 
 msgid "combat_mode_disabled"
-msgstr ""
+msgstr "Saldırı modu devredışı"
 
 msgid "combat_mode_enabled"
-msgstr ""
+msgstr "Saldırı modu devrede"
 
 msgid "combat_robot"
-msgstr ""
+msgstr "Saldırı robotu"
 
 msgid "comics"
 msgstr "Holokitap rafları"
@@ -848,13 +878,18 @@ msgid "complete"
 msgstr "Tamamla"
 
 msgid "confirm_cancel_research"
-msgstr "Bu Geliştirmenin tüm puanları iptal etmiş olacaksınız,İptal edilsin mi?"
+msgstr ""
+"Bu Geliştirmenin tüm puanları iptal etmiş olacaksınız, İptal edilsin mi?"
 
 msgid "confirm_cancel_ship_construction"
-msgstr "Varolan işi sonlandırmak kullanılan kaynakları geri vermiyecek! Devam edilsin mi?"
+msgstr ""
+"Varolan işi sonlandırmak kullanılan kaynakları geri vermeyecek! Devam "
+"edilsin mi?"
 
 msgid "confirm_evolve_officer"
-msgstr "Geliştirme ~A yı ~A görevi bir daha ondan geri alınamaz! ~A iyi olduğu işler dışında artık bazı işlerden de muaf olacak. Devam? "
+msgstr ""
+"Geliştirme ~A yı ~A görevi bir daha geri alınamaz! ~A iyi olduğu işler "
+"dışındaki bazı işlerden de muaf olacak. Devam? "
 
 msgid "confirm_fire_officer"
 msgstr "~A kovulması, elemanınızı sonsuza dek görememek demektir! Devam?"
@@ -863,13 +898,13 @@ msgid "construction"
 msgstr "İnşaat"
 
 msgid "contemplated"
-msgstr ""
+msgstr "Tasarlanmış"
 
 msgid "contemplated_desc"
-msgstr ""
+msgstr "Ne güzel tasarı!"
 
 msgid "contemplation"
-msgstr ""
+msgstr "Tasarlama"
 
 msgid "continue"
 msgstr "Devam et"
@@ -935,7 +970,7 @@ msgid "crafts_table_desc"
 msgstr "Giyim işleri imalathanesi"
 
 msgid "crew"
-msgstr "Tayfa "
+msgstr "Tayfa"
 
 msgid "crew_bridge_selector"
 msgstr "Üstteki karelere tıklayarak gemiye tayfalarınızı atayın"
@@ -944,7 +979,7 @@ msgid "crew_n"
 msgstr "Tayfa: ~A koltukta"
 
 msgid "crew_n2"
-msgstr ""
+msgstr "Tayfa: ~A slotların, ~A% hazırda"
 
 msgid "crowd_control"
 msgstr "Kalabalık kontrolü"
@@ -953,25 +988,27 @@ msgid "crowd_control_short"
 msgstr "KK"
 
 msgid "crusantian_adjective"
-msgstr "Çekirge %s"
+msgstr "Karınca %s"
 
 msgid "crusantian_adjective2"
-msgstr "Çekirge ~A"
+msgstr "Karıncagil ~A"
 
 msgid "crusantian_bunch"
-msgstr "Çekirge sürüsü"
+msgstr "Karınca sürüsü"
 
 msgid "crusantian_member"
-msgstr "Çekirgeni"
+msgstr "Karıncagil"
 
 msgid "crusantian_name"
-msgstr "Çekirgeniler"
+msgstr "Karıncagiller"
 
 msgid "cryopod"
 msgstr "Kış yatağı"
 
 msgid "cryopod_desc"
 msgstr ""
+"Elemanlarınız saniyeler içinde bütün gece uyumuş gibi uyanırlar. Usta "
+"elemanların özel ihtiyaç yatağı sayılır. Misafirler kullanamaz."
 
 msgid "cucurbian_adjective"
 msgstr "Sukabaklı %s"
@@ -992,7 +1029,7 @@ msgid "current_demands"
 msgstr "Talepler:"
 
 msgid "current_game"
-msgstr ""
+msgstr "Varolan oyun"
 
 msgid "current_ownership"
 msgstr "Zimmetli nesne:"
@@ -1031,7 +1068,7 @@ msgid "decor_cabinets"
 msgstr "Dolaplar"
 
 msgid "decor_classydivisor"
-msgstr ""
+msgstr "Şık bölme"
 
 msgid "decor_colorbox"
 msgstr "Renkli küpler"
@@ -1049,7 +1086,7 @@ msgid "decor_galaxyball"
 msgstr "Evren haritası"
 
 msgid "decor_glassdivisor"
-msgstr ""
+msgstr "Cam bölme"
 
 msgid "decor_holoprojector"
 msgstr "Holoprojektör"
@@ -1058,7 +1095,7 @@ msgid "decor_holoscreen"
 msgstr "Holoekran"
 
 msgid "decor_homelydivisor"
-msgstr ""
+msgstr "Bölme"
 
 msgid "decor_lamp01"
 msgstr "Lamba"
@@ -1088,7 +1125,7 @@ msgid "decor_map"
 msgstr "İstasyon haritası"
 
 msgid "decor_organicsamples"
-msgstr "Organik rafı "
+msgstr "Organik rafı"
 
 msgid "decor_rocket"
 msgstr "Roket modeli"
@@ -1223,7 +1260,7 @@ msgid "deliver_from_storage_yes"
 msgstr "Taşıyanlar bu nesneye hammaddeleri palet içinden taşıyacaklar"
 
 msgid "delivery_select_ship"
-msgstr ""
+msgstr "Dağıtım gemisi seçin"
 
 msgid "demand_current"
 msgstr "Mevcut"
@@ -1238,7 +1275,7 @@ msgid "demand_wanted"
 msgstr "İstenen"
 
 msgid "deposited_scroll"
-msgstr ""
+msgstr "Ödenen %d"
 
 msgid "descending"
 msgstr "Artan"
@@ -1310,7 +1347,7 @@ msgid "dismantle"
 msgstr "Parçala"
 
 msgid "dismantled_object"
-msgstr ""
+msgstr "Nesne parçası"
 
 msgid "display"
 msgstr "Çözünürlük"
@@ -1343,31 +1380,34 @@ msgid "door"
 msgstr "Kapı"
 
 msgid "door_allowed"
-msgstr ""
+msgstr "Yetkililer"
 
 msgid "door_allowed_desc"
 msgstr ""
+"Bu kapının üstüne tutturulmuş kibar bir işarettir; Saldırganlar için "
+"geçersiz olan. "
 
 msgid "door_desc"
 msgstr "Odalara erişimi kontrol edersiniz"
 
 msgid "door_lock"
-msgstr ""
+msgstr "Kilit"
 
 msgid "door_lock_title"
-msgstr ""
+msgstr "Tüm kilitleme"
 
 msgid "door_lock_title_desc"
 msgstr ""
+"Bu tüm kapıları kilitlemeyi sağlar; saldırganlar açmak için onu kırmalı."
 
 msgid "door_officers"
-msgstr ""
+msgstr "Elemanlar"
 
 msgid "door_robots"
-msgstr ""
+msgstr "Robotlar"
 
 msgid "door_tourists"
-msgstr ""
+msgstr "Turistler"
 
 msgid "dps_label"
 msgstr "Saniye başına hasar verme"
@@ -1394,7 +1434,7 @@ msgid "electronics_workshop_desc"
 msgstr "Elektronik üretimi yeri"
 
 msgid "electropet"
-msgstr "Teknodost "
+msgstr "TeknoDost"
 
 msgid "electropet_display"
 msgstr "Teknodost rafı"
@@ -1415,7 +1455,7 @@ msgid "enable"
 msgstr "Aktif"
 
 msgid "enable_alert_popups"
-msgstr ""
+msgstr "Uyarı bildimlerini aç"
 
 msgid "enable_music"
 msgstr "Müzik Aç"
@@ -1424,10 +1464,10 @@ msgid "enable_sound_effects"
 msgstr "Ses efektlerini Aç"
 
 msgid "enable_station_events"
-msgstr ""
+msgstr "İstasyondaki olayları uyar"
 
 msgid "enable_station_violent_events"
-msgstr ""
+msgstr "İstasyon saldırılarını uyar"
 
 msgid "enable_storage"
 msgstr "Depolamayı etkinleştir:"
@@ -1436,7 +1476,7 @@ msgid "enabled"
 msgstr "Aktiftir"
 
 msgid "enabled_user_mods"
-msgstr "Modlar aktiftir"
+msgstr "Modlar aktiftir:"
 
 msgid "enemy"
 msgstr "Düşman"
@@ -1508,22 +1548,22 @@ msgid "equip_officer_slot_title"
 msgstr "%s kullan %s için"
 
 msgid "equipmatrix_available"
-msgstr ""
+msgstr "Kullanımda"
 
 msgid "equipmatrix_too_low_cell"
-msgstr ""
+msgstr "Çok az"
 
 msgid "erase_floor_tool"
 msgstr "Zemini kaldır"
 
 msgid "erase_objects_tool"
-msgstr "Nesneyi kaldır "
+msgstr "Nesneyi kaldır"
 
 msgid "erase_walls_tool"
-msgstr ""
+msgstr "Duvar kaldır"
 
 msgid "eraser_hint"
-msgstr ""
+msgstr "Kaldırmak için Shift’e basılı tutun"
 
 msgid "error_bad_save"
 msgstr "Oyun yüklemede  hata: kayıtlı dosya bozuk yada silinmiş"
@@ -1556,7 +1596,9 @@ msgid "event_bernice_goal_produce"
 msgstr "Bernice daha yüksek bir üretim hızı gerektiğini söylüyor. %d üretimi iki dakika içinde %d para ödülü için üretin."
 
 msgid "event_bernice_succ"
-msgstr "Hedefe ulaşıldı! Bir %d ödül, istasyon hesabına yatırıldı. İyi iş ve bir sonraki görüşmede görüşürüz"
+msgstr ""
+"Hedefe ulaşıldı! Bir %d ödül, istasyon hesabına yatırıldı. İyi iş ve bir "
+"sonraki görüşmede görüşürüz!"
 
 msgid "event_bernice_warn"
 msgstr "Envanter zamanı! Sağkolun Bernice istasyonda tesislerinizi ve stoklarınızı kontrol ediyor."
@@ -1578,6 +1620,9 @@ msgstr "Geç kaldın! Bomba patladı!"
 
 msgid "event_invaderbomb_warn"
 msgstr ""
+"Bir tünelci saldırgan belirdi! Patlamadan önce çevrede zaman ayarlı bomba "
+"arayın ve durdurun. Bomba tarafsızca zarar verir ve hedef emirlerinizi elle "
+"vermeniz gerekir."
 
 msgid "event_invaders_alert"
 msgstr "Baskın yapacak ekip ulaştı!, ~A istasyonumuza saldırıyor!"
@@ -1613,13 +1658,15 @@ msgid "event_meteors_warn"
 msgstr "Bir meteor yağmuru geliyor! Düştüğü noktaya bir dakika zarar verebilir."
 
 msgid "event_miasmacloud_ended"
-msgstr "Küf bulutu daha fazla zarar vermeden durduruldu "
+msgstr "Küf bulutu daha fazla zarar vermeden durduruldu"
 
 msgid "event_miasmacloud_warn"
 msgstr "Bir nesne bozulmuş ve içinden birşey çıkıyor, küflü asit bulutu. Nesneyi tamir et veya yok et bulutu durdurmak için."
 
 msgid "event_octopus_warn"
-msgstr "Senin kibirin uzayın derinlerindeki canavarı uyandırdı! Bir uzay ahtopotu saldırıda."
+msgstr ""
+"Senin kibirin uzayın derinlerindeki canavarı uyandırdı! Bir uzay ahtopotu "
+"saldırıda!"
 
 msgid "event_ongoing"
 msgstr "Devam ediyor.."
@@ -1778,7 +1825,7 @@ msgid "feet_02"
 msgstr ""
 
 msgid "feet_03"
-msgstr ""
+msgstr "Asker botları"
 
 msgid "feet_04"
 msgstr ""
@@ -1793,7 +1840,7 @@ msgid "feet_07"
 msgstr ""
 
 msgid "feet_08"
-msgstr ""
+msgstr "Ayrılan botlar"
 
 msgid "feet_09"
 msgstr ""
@@ -1802,7 +1849,7 @@ msgid "feet_10"
 msgstr ""
 
 msgid "feet_item"
-msgstr "Ayak giyimi "
+msgstr "Ayak giyimi"
 
 msgid "fibers"
 msgstr "Lifler"
@@ -2153,7 +2200,9 @@ msgid "global_min_stock_amount"
 msgstr "En az stok"
 
 msgid "global_min_stock_amount_desc"
-msgstr "Stoğun belirtilen sayının altına düşmemesi için fabrikalarda üretim emrini genel yapın "
+msgstr ""
+"Stoğun belirtilen sayının altına düşmemesi için fabrikalarda üretim emrini "
+"genel yapın"
 
 msgid "global_recipes_inv_hint"
 msgstr ""
@@ -2231,7 +2280,8 @@ msgid "goal_buildplanet2_title"
 msgstr "İşe alım binası dikin."
 
 msgid "goal_buildplanet3_desc"
-msgstr "Toplamı 3 adet hammadde toplayıcı tercih ettiğiniz gezegen yüzeylerine kur. "
+msgstr ""
+"Toplamı 3 adet hammadde toplayıcı tercih ettiğiniz gezegen yüzeylerine kur."
 
 msgid "goal_buildplanet3_title"
 msgstr "3 hammadde toplayıcısı"
@@ -2309,7 +2359,7 @@ msgid "goal_dock1_desc"
 msgstr "10 kere istasyonunuza gemi uğrar"
 
 msgid "goal_dock1_title"
-msgstr "Gemi limanlarına iniş "
+msgstr "Gemi limanlarına iniş"
 
 msgid "goal_doctor1_desc"
 msgstr "Doktorlarınız hasta yatağındaki 10 hastaya bakar."
@@ -2336,16 +2386,16 @@ msgid "goal_imports1_title"
 msgstr ""
 
 msgid "goal_imports2_desc"
-msgstr ""
+msgstr "Herhangi üretilmiş ürünlerden 500 adet gemilerinle diğer ırklara sat."
 
 msgid "goal_imports2_title"
-msgstr ""
+msgstr "Bir gezegene 500 yük ürün sat"
 
 msgid "goal_imports3_desc"
-msgstr ""
+msgstr "Herhangi üretilmiş ürünlerden 5000 adet gemilerinle diğer ırklara sat."
 
 msgid "goal_imports3_title"
-msgstr ""
+msgstr "Bir gezegene 5000 yük ürün sat"
 
 msgid "goal_itemequip1_desc"
 msgstr "Elemanlarınızın 10 kere yeni ekipmanlara kavuşmasını sağla"
@@ -2432,28 +2482,28 @@ msgid "goal_makerobot1_title"
 msgstr "Bir robot oluştur"
 
 msgid "goal_planet1_desc"
-msgstr "Seviyesi farketmeksizin 3 gezegeni keşfet "
+msgstr "Seviyesi farketmeksizin 3 gezegeni keşfet."
 
 msgid "goal_planet1_title"
-msgstr "3 gezegeni keşfet "
+msgstr "3 gezegeni keşfet"
 
 msgid "goal_planet2_desc"
-msgstr "Seviyesi 5 veya üstü olan 3 gezegeni keşfet "
+msgstr "Seviyesi 5 veya üstü olan 3 gezegeni keşfet."
 
 msgid "goal_planet2_title"
-msgstr "Seviyesi 5 olan 3 gezegeni keşfet "
+msgstr "Seviyesi 5 olan 3 gezegeni keşfet"
 
 msgid "goal_planet3_desc"
-msgstr "Seviyesi 10 veya üstü olan 3 gezegeni keşfet "
+msgstr "Seviyesi 10 veya üstü olan 3 gezegeni keşfet."
 
 msgid "goal_planet3_title"
-msgstr "Seviyesi 10 olan 3 gezegeni keşfet "
+msgstr "Seviyesi 10 olan 3 gezegeni keşfet"
 
 msgid "goal_planet4_desc"
-msgstr "Seviyesi 20 veya üstü olan 3 gezegeni keşfet "
+msgstr "Seviyesi 20 veya üstü olan 3 gezegeni keşfet."
 
 msgid "goal_planet4_title"
-msgstr "Seviyesi 20 olan 3 gezegeni keşfet "
+msgstr "Seviyesi 20 olan 3 gezegeni keşfet"
 
 msgid "goal_progress"
 msgstr "İşlenen: ~A%"
@@ -2585,10 +2635,10 @@ msgid "group_commercial"
 msgstr "Dükkan"
 
 msgid "group_control"
-msgstr ""
+msgstr "@ui_icon_30px_lupa.png Kalabalık kontrolü"
 
 msgid "group_damage"
-msgstr ""
+msgstr "@ui_icon_30px_lupa.png hasar"
 
 msgid "group_decor"
 msgstr "Bahçe dekorasyonu"
@@ -2606,7 +2656,7 @@ msgid "group_gardening"
 msgstr "Bahçelik"
 
 msgid "group_healing"
-msgstr ""
+msgstr "@ui_icon_30px_lupa.png İyileştirme"
 
 msgid "group_health"
 msgstr "Sağlık ve hijyen"
@@ -2624,7 +2674,7 @@ msgid "group_security"
 msgstr "Güvenlik"
 
 msgid "group_shielding"
-msgstr ""
+msgstr "@ui_icon_30px_lupa.png Koruma"
 
 msgid "group_ships"
 msgstr "Gemi inşaası"
@@ -2642,7 +2692,7 @@ msgid "gun_blorg_name"
 msgstr "Blorg yokedici"
 
 msgid "gun_crus_name"
-msgstr "Standard Çekirgeni"
+msgstr "Standard Karıncagil"
 
 msgid "gun_cucur_name"
 msgstr "Standart Sukabaklı"
@@ -2660,7 +2710,7 @@ msgid "gun_medus_name"
 msgstr "Standart medyum"
 
 msgid "gun_nogi_name"
-msgstr "Standart boylu "
+msgstr "Standart boylu"
 
 msgid "gun_phaser_name"
 msgstr "Ses silahı"
@@ -2687,40 +2737,40 @@ msgid "had_to_flee_desc"
 msgstr "Birşeyden korktu"
 
 msgid "hands_01"
-msgstr ""
+msgstr "Ağır görev eldivenleri"
 
 msgid "hands_02"
-msgstr ""
+msgstr "Siber V82"
 
 msgid "hands_03"
-msgstr ""
+msgstr "Kaplama eldivenler"
 
 msgid "hands_04"
-msgstr ""
+msgstr "Pilot eldivenleri"
 
 msgid "hands_05"
-msgstr ""
+msgstr "Asker eldivenleri"
 
 msgid "hands_06"
-msgstr ""
+msgstr "Etkili kaynak eldivenler"
 
 msgid "hands_07"
-msgstr ""
+msgstr "EVA takım eldivenler"
 
 msgid "hands_08"
-msgstr ""
+msgstr "Güçlü eldivenler"
 
 msgid "hands_09"
-msgstr ""
+msgstr "Ayrılan eldivenler"
 
 msgid "hands_10"
-msgstr ""
+msgstr "Şok eldivenleri Beta"
 
 msgid "hands_item"
 msgstr "El araçları"
 
 msgid "hard"
-msgstr "Zor "
+msgstr "Zor"
 
 msgid "heal_1"
 msgstr "Ay şifası"
@@ -2807,7 +2857,7 @@ msgid "holohistorical"
 msgstr "Holotarih v24.8"
 
 msgid "holohistorical_desc"
-msgstr ""
+msgstr "Eski zamanları yaşatır"
 
 msgid "home"
 msgstr "İstasyonunuz"
@@ -2819,16 +2869,16 @@ msgid "hospital_bed"
 msgstr "Hasta yatağı"
 
 msgid "hospital_bed_desc"
-msgstr "Bir doktorun çalışması için ileri tıbbi sistemleri bulundurur. "
+msgstr "Bir doktorun çalışması için ileri tıbbi sistemleri bulundurur"
 
 msgid "hospitality_job"
 msgstr "Misafirperverlik"
 
 msgid "hospitality_tier_1"
-msgstr ""
+msgstr "Kırmızı vasıfsız ve mezun eden kışlalar"
 
 msgid "hospitality_tier_2"
-msgstr ""
+msgstr "Usta eleman yatakları"
 
 msgid "hospitality_tier_3"
 msgstr "Motel"
@@ -2933,115 +2983,124 @@ msgid "hygienizer_plus_desc"
 msgstr "Herkesi temiz ve ferah tutar"
 
 msgid "implant_01"
-msgstr ""
+msgstr "Sinir gözlükleri"
 
 msgid "implant_02"
-msgstr ""
+msgstr "HedefBelirten++"
 
 msgid "implant_03"
-msgstr ""
+msgstr "Artı-refleks"
 
 msgid "implant_04"
-msgstr ""
+msgstr "Hafif artı-refleks "
 
 msgid "implant_05"
-msgstr ""
+msgstr "Adrenalin geçişi"
 
 msgid "implant_06"
-msgstr ""
+msgstr "sİzle bÖldür"
 
 msgid "implant_07"
-msgstr ""
+msgstr "sKoş bÖldür"
 
 msgid "implant_08"
-msgstr ""
+msgstr "Yakıcı yükleyici"
 
 msgid "implant_09"
-msgstr ""
+msgstr "KonsantreCi"
 
 msgid "implant_10"
-msgstr ""
+msgstr "Yedek güç"
 
 msgid "implant_11"
-msgstr ""
+msgstr "Stress çarkı"
 
 msgid "implant_12"
-msgstr ""
+msgstr "Zeka açıcı"
 
 msgid "implant_13"
-msgstr ""
+msgstr "El sabitletici"
 
 msgid "implant_14"
-msgstr ""
+msgstr "İyileştiren hücreler"
 
 msgid "implant_15"
-msgstr ""
+msgstr "Güç enjektesi"
 
 msgid "implant_16"
-msgstr ""
+msgstr "Pratik alet 3000P"
 
 msgid "implant_17"
-msgstr ""
+msgstr "Extra görüş"
 
 msgid "implant_18"
-msgstr ""
+msgstr "Kütle modülcüsü"
 
 msgid "implant_19"
-msgstr ""
+msgstr "Madde modülcüsü"
 
 msgid "implant_20"
-msgstr ""
+msgstr "Akım modülcüsü"
 
 msgid "implant_item"
 msgstr "Takılar"
 
 msgid "import_amount"
-msgstr ""
+msgstr "%s adetini girin %s gezegenine satmak için"
 
 msgid "import_amount_over_hold"
-msgstr ""
+msgstr "Gemi yük bagajı çok küçük"
 
 msgid "import_amount_over_stock"
-msgstr ""
+msgstr "Istasyonda depolanmış ürün satış adedi yetersiz"
 
 msgid "import_changed_stock"
 msgstr ""
+"Istasyonda stok adeti son anda azaldı ve sizin belirttiğiniz sayının altına "
+"düştü"
 
 msgid "import_invaded_planet"
 msgstr ""
+"Seçilen gezegen istila edildi ve üretimlerinizin satışı gezegene durduruldu."
 
 msgid "import_invalid_ship_id"
-msgstr ""
+msgstr "Bir gemi seçin"
 
 msgid "import_invalid_ship_not_home"
-msgstr ""
+msgstr "Gemi istasyonunuza inilmeli"
 
 msgid "import_too_low_amount"
-msgstr ""
+msgstr "Ürün dağıtım için adedi belirtin."
 
 msgid "imports_current_reputation"
-msgstr ""
+msgstr "Varolan itibar: %d/%d"
 
 msgid "imports_donation_bonus"
-msgstr ""
+msgstr "İtibar bonusu: +%d"
 
 msgid "imports_donation_button"
-msgstr ""
+msgstr "Bağışla @ui_icon_20px_credits04.png %d"
 
 msgid "imports_hostile_donation_desc"
 msgstr ""
+"Parlak süslemelerinizle ilgilenmiyoruz, ancak davamıza bir bağış yapmak size "
+"olan nefretimizi birazda olsa azaltıyor."
 
 msgid "imports_hostile_limit"
 msgstr ""
+"Size katlanacağız, ancak durumumuzu gözden geçireceğiz eğer bizlere tekrar "
+"saldırırsanız."
 
 msgid "imports_no_planets"
 msgstr ""
+"Bu ürünlere ihtiyacı olan gezegenlere ulaşmak için daha fazla yıldız "
+"sistemleri açın"
 
 msgid "in_progress"
 msgstr "İşlemde.."
 
 msgid "in_stasis"
-msgstr "Durgunluk "
+msgstr "Durgunluk"
 
 msgid "in_storage_area"
 msgstr "Depo alanı içinde"
@@ -3083,19 +3142,19 @@ msgid "interiorturret_desc"
 msgstr "Büyük, yüksek kalibreli taret silahı"
 
 msgid "intermediate_ship_engines_parts"
-msgstr ""
+msgstr "Orta seviye gemi motor parçaları"
 
 msgid "intermediate_ship_hull_parts"
-msgstr ""
+msgstr "Orta seviye gemi gövde parçaları"
 
 msgid "intermediate_ship_lifesupport_parts"
-msgstr ""
+msgstr "Orta seviye gemi yaşam destek parçaları"
 
 msgid "intermediate_ship_structure_parts"
-msgstr ""
+msgstr "Orta seviye gemi yapı parçaları"
 
 msgid "interrupted_by_noise"
-msgstr ""
+msgstr "Gürültüden rahatsız"
 
 msgid "intro_1"
 msgstr "5781 AD, İnsan Federasyonu Anabinası, Dünya\n \nKarşılama elemanı. 5 yıldızlık emrivaki azminiz üstleriniz tarafından farkedildi. Galaksinin keşfedilmemiş yerlerini yapılandırma ve yönetme konusunda seçilmişsiniz."
@@ -3104,13 +3163,18 @@ msgid "intro_2"
 msgstr "Çevredeki evren sistemleri ve içindeki gezegenlerini keşfe başlayıp, kaynaklarını ele geçirin ve isyancı edenlere karşı kullanın. İnsan Topluluğunun kurtaracak güven kaynağısınız!"
 
 msgid "invaded_by"
-msgstr ""
+msgstr "%s istila etti"
 
 msgid "invaded_by_other_desc"
 msgstr ""
+"Bu gezegen istila edilmiş ve alım yada satım yapılamaz. İstasyonunuza onun "
+"sisteminde bulunan turistlerde ziyarete gelmeyecek. Ticareti eski haline "
+"getirebilmek için onu özgürleştirin."
 
 msgid "invaded_by_spatials_desc"
 msgstr ""
+"Bu gezegen sizin tarafınızdan istila edildi ve kontrolü sizde. Yapılarınıza "
+"saldırı olmaz."
 
 msgid "invaderbomb"
 msgstr "Saatli bomba"
@@ -3120,30 +3184,41 @@ msgstr "Şu bombayı yoket zamanı sıfırlanıp  büyük bir patlama olmadan"
 
 msgid "invasion_happens_alert"
 msgstr ""
+"%s tarafından %s gezegeni istila edildi, %s kontrolünde. Takas, alım ve "
+"turizm bu gezegende abluka altında."
 
 msgid "invasion_happens_alert_spatials"
-msgstr ""
+msgstr "Bu %s gezegeni istila ettiğiniz için %s gezegeninde itibar %d düştü."
 
 msgid "invasion_mission_can_invade"
 msgstr ""
+"Düşmana yeterince zarar verip düşman gezegeni istila edebilirsiniz. Yanımda "
+"işlem sayacını kontrol et, %100 hasar verme olunca, gezegeni istila etmiş "
+"olursunuz.  Bu toplayıcılarımızın zarar görmemesini sağlar biz ayrıldıktan "
+"sonra.  "
 
 msgid "invasion_mission_can_liberate"
 msgstr ""
+"Düşmanlar bu gezegeni ele geçirdi ve bütün ticaretimiz abluka altına "
+"aldılar! Özgürlük için bütün düşman yapılarını yoket. Yanımdaki sayaç %100 "
+"olunca özgürlüğünü sağlamış olacaksınız."
 
 msgid "invasion_mission_can_liberate_done"
 msgstr ""
+"Gezegene özgürlüğünü kazandırdınız! Takas ve toplama tekrar sağlanabilir."
 
 msgid "invasion_mission_none"
 msgstr ""
+"Bu gezegen bize dost. Onu bu şekilde bırak, Daha iyi sebepler olmadıkça..."
 
 msgid "invasion_mission_player_invaded"
-msgstr ""
+msgstr "Bu gezegen istila edildi. Toplayıcılar hasara uğramayacak."
 
 msgid "inventory"
 msgstr "Envanter"
 
 msgid "inventory_in_shops"
-msgstr ""
+msgstr "Dükkanlarda: ~A"
 
 msgid "inventory_locked"
 msgstr "Kilitli: ~A"
@@ -3152,10 +3227,10 @@ msgid "inventory_missing_ingredients"
 msgstr "Malzemeler yetersiz"
 
 msgid "inventory_on_pallets"
-msgstr ""
+msgstr "Paletlerde: ~A"
 
 msgid "inventory_on_storage_areas"
-msgstr ""
+msgstr "Depolarda: ~A"
 
 msgid "inventory_stacks"
 msgstr "Yığınlar: ~A"
@@ -3164,7 +3239,7 @@ msgid "inventory_total"
 msgstr "Toplam: ~A"
 
 msgid "inventory_unattended"
-msgstr ""
+msgstr "Sahipsiz: ~A"
 
 msgid "item"
 msgstr "Madde"
@@ -3221,7 +3296,7 @@ msgid "job_matrix_per_job_prio_disabled"
 msgstr "Bu eleman için genel iş önceliği kullan"
 
 msgid "job_matrix_per_job_prio_enabled"
-msgstr ""
+msgstr "Bu elemanınız için iş önceliklerini ayarlayın"
 
 msgid "job_matrix_prompt_officer_prio"
 msgstr "İş için öncelik ata 1 ila 99 arası yada onu 0 ile devredışı bırak."
@@ -3254,10 +3329,10 @@ msgid "job_warn_no_recipe"
 msgstr "Üretime başlamak için yemek tarif seçin."
 
 msgid "job_warn_no_resources3"
-msgstr ""
+msgstr "~A stokta yok yada ulaşılamıyor."
 
 msgid "job_warn_no_resources4"
-msgstr ""
+msgstr "Hammaddeye ulaşılamıyor yada depoda yok"
 
 msgid "job_warn_wait_worker"
 msgstr "Uygun bir işçi bekliyor."
@@ -3284,46 +3359,46 @@ msgid "k_thousands"
 msgstr "bin"
 
 msgid "kb_build_rotate_left"
-msgstr ""
+msgstr "Bina: Sola döndür"
 
 msgid "kb_build_rotate_right"
-msgstr ""
+msgstr "Bina: Sağa döndür"
 
 msgid "kb_combat_mode"
-msgstr ""
+msgstr "Saldırı modu aç/kapa"
 
 msgid "kb_group_1"
-msgstr ""
+msgstr "Seç: Grup 1"
 
 msgid "kb_group_2"
-msgstr ""
+msgstr "Seç: Grup 2"
 
 msgid "kb_group_3"
-msgstr ""
+msgstr "Seç: Grup  3"
 
 msgid "kb_group_4"
-msgstr ""
+msgstr "Seç: Grup 4"
 
 msgid "kb_group_5"
-msgstr ""
+msgstr "Seç: Grup 5"
 
 msgid "kb_group_6"
-msgstr ""
+msgstr "Seç: Grup 6"
 
 msgid "kb_set_attack_target"
-msgstr ""
+msgstr "Emir: Hedefe saldır"
 
 msgid "kb_set_cc_target"
-msgstr ""
+msgstr "Emir: Kalabalık hedef kontrol"
 
 msgid "kb_set_heal_target"
-msgstr ""
+msgstr "Emir: İyileştir hedefi"
 
 msgid "kb_set_shield_target"
-msgstr ""
+msgstr "Emir: Koru hedefi"
 
 msgid "kb_teleport_to"
-msgstr ""
+msgstr "Emir: Işınlan"
 
 msgid "keep_slot_empty"
 msgstr "Seçilmiş alanı boş bırak"
@@ -3344,16 +3419,16 @@ msgid "kowka_guard_desc"
 msgstr "Kedi kowka'nin kişisel robot ordusu istasyonunuza yardım ediyor"
 
 msgid "lactian_adjective"
-msgstr ""
+msgstr "Lactian %s"
 
 msgid "lactian_adjective2"
-msgstr ""
+msgstr "Lactian ~A"
 
 msgid "lactian_member"
-msgstr ""
+msgstr "Lactian"
 
 msgid "lactians_name"
-msgstr ""
+msgstr "Lactianlar"
 
 msgid "landing"
 msgstr "İnişe geçiyor..."
@@ -3386,13 +3461,17 @@ msgid "level_n"
 msgstr "Seviye %d"
 
 msgid "level_n_paren"
-msgstr ""
+msgstr " (seviye %d)"
 
 msgid "liberation_happens_alert_spatials"
 msgstr ""
+"%s gezegenini istila etmiştiniz. %d itibar artışı gezegen %s ile ve %d "
+"itibar azalışı gezegen %s ile."
 
 msgid "liberty_desc"
-msgstr "Özgürlük ve cesaret. Şimdi gittiği her yere neşe getiriyor.Hayatta kalan biri için 38 yüzyıllık uzun bir geçmişin hayvanlarla  tecrübe edilmesi "
+msgstr ""
+"Özgürlük ve cesaret. Şimdi gittiği her yere neşe getiriyor.Hayatta kalan "
+"biri için 38 yüzyıllık uzun bir geçmişin hayvanlarla  tecrübe edilmesi."
 
 msgid "libery_name"
 msgstr "Hürriyet"
@@ -3404,7 +3483,7 @@ msgid "library_table_desc"
 msgstr "Sakin ve sessiz okuma masaları"
 
 msgid "list"
-msgstr ""
+msgstr "Liste"
 
 msgid "litter"
 msgstr "Atık"
@@ -3461,19 +3540,19 @@ msgid "main_menu"
 msgstr "Giriş Ekranı"
 
 msgid "maintenance_robot"
-msgstr "Hizmet robotu "
+msgstr "Hizmet robotu"
 
 msgid "make_active_absorb"
-msgstr ""
+msgstr "Savuşturma aleti yapımı L~A-L~A"
 
 msgid "make_active_control"
-msgstr ""
+msgstr "Kontrol aleti yapımı L~A-L~A"
 
 msgid "make_active_damage"
-msgstr ""
+msgstr "Hasar aleti yapımı L~A-L~A"
 
 msgid "make_active_healing"
-msgstr ""
+msgstr "İyileştirme aleti  yapımı L~A-L~A"
 
 msgid "make_chest"
 msgstr "Vücuda yap Seviye:~A-~A"
@@ -3515,7 +3594,7 @@ msgid "master_spec"
 msgstr "Usta özellik"
 
 msgid "max_3char"
-msgstr ""
+msgstr "MAX"
 
 msgid "max_stack_size"
 msgstr "Max. yığın: ~A"
@@ -3608,16 +3687,16 @@ msgid "mind"
 msgstr "Akıl"
 
 msgid "mind_combat"
-msgstr ""
+msgstr "Saldırı odaklı"
 
 msgid "mind_combat_desc"
-msgstr ""
+msgstr "İş ve hayati önem taşımıyor"
 
 msgid "mind_crew"
-msgstr ""
+msgstr "Gemi tayfası"
 
 msgid "mind_crew_desc"
-msgstr ""
+msgstr "İhtiyaçlarımı ciddiye alırım"
 
 msgid "mind_feeling_low"
 msgstr "Umursamaz"
@@ -3776,16 +3855,17 @@ msgid "new_game"
 msgstr "Yeni Oyun"
 
 msgid "new_game_option_events"
-msgstr ""
+msgstr "Etkinlik:"
 
 msgid "new_game_option_events_desc"
 msgstr ""
+"Etkinlik seçeneklerini istediğiniz zaman oyun içinde değiştirebilirsiniz."
 
 msgid "new_game_option_pick_planet_kind"
-msgstr ""
+msgstr "Gezegen çeşidiniz:"
 
 msgid "new_game_options"
-msgstr ""
+msgstr "Ayarlar"
 
 msgid "new_save_option"
 msgstr "<Yeni Kayıt>"
@@ -3806,7 +3886,9 @@ msgid "no_ship_desired"
 msgstr "İstenen gemi yok"
 
 msgid "no_user_mods"
-msgstr "Herhangi mod bulunmadı.Aktif etmeden önce modu indirip oyunu yeniden başlatın "
+msgstr ""
+"Herhangi mod bulunmadı.Aktif etmeden önce modu indirip oyunu yeniden "
+"başlatın."
 
 msgid "no_user_mods_enabled"
 msgstr "Herhangi kullanıcı mod aktif değil."
@@ -3827,16 +3909,16 @@ msgid "nogi_tyrants"
 msgstr "Boylu Zulümcüler"
 
 msgid "noise"
-msgstr ""
+msgstr "Gürültü"
 
 msgid "noise_feeling"
-msgstr ""
+msgstr "Gürültüden rahatsız"
 
 msgid "noise_interruption_desc"
-msgstr ""
+msgstr "Odada gürültü çok, rahatsızım"
 
 msgid "noise_room"
-msgstr ""
+msgstr "Gürültü: %d"
 
 msgid "non_walkable"
 msgstr "İçinden geçip gidilmez"
@@ -3986,28 +4068,28 @@ msgid "npc_chuchucolony04"
 msgstr "Tamirci Cücük"
 
 msgid "npc_colonycrusantian01"
-msgstr "Sömürgeci Çekirge"
+msgstr "Sömürgeci Karıncalar"
 
 msgid "npc_colonycrusantian02"
-msgstr "Sömürgeci Çekirge"
+msgstr "Sömürgeci Karıncalar"
 
 msgid "npc_colonycrusantian03"
-msgstr "Sömürgeci Çekirge"
+msgstr "Sömürgeci Karıncalar"
 
 msgid "npc_colonycrusantian04"
-msgstr "Sömürgeci Çekirge"
+msgstr "Sömürgeci Karınca"
 
 msgid "npc_colonylactian01"
-msgstr ""
+msgstr "Lactian rahip"
 
 msgid "npc_colonylactian02"
-msgstr ""
+msgstr "Lactian hizmetli"
 
 msgid "npc_colonylactian03"
-msgstr ""
+msgstr "Lactian asker"
 
 msgid "npc_colonylactian04"
-msgstr ""
+msgstr "Lactian tankı"
 
 msgid "npc_colonylemurian01"
 msgstr "Kürekçi lemur"
@@ -4046,19 +4128,19 @@ msgid "npc_container06"
 msgstr "Konteynır"
 
 msgid "npc_crusantian_visitor01"
-msgstr "Çekirgeni misafiri"
+msgstr "Karınca misafir"
 
 msgid "npc_crusantian_visitor02"
-msgstr "Çekirgeni misafiri"
+msgstr "Karınca misafir"
 
 msgid "npc_crusantian_visitor03"
-msgstr "Çekirgeni misafiri"
+msgstr "Karınca misafir"
 
 msgid "npc_crusantian_visitor04"
-msgstr "Çekirgeni misafiri"
+msgstr "Karınca misafir"
 
 msgid "npc_crusantianbox01"
-msgstr "Çekirgeni gömüsü"
+msgstr "Karınca gömüsü"
 
 msgid "npc_cucurbian01"
 msgstr "Sukabaklı misafir"
@@ -4130,31 +4212,31 @@ msgid "npc_lemurianbox01"
 msgstr "Lemur gömüsü"
 
 msgid "npc_medus01"
-msgstr ""
+msgstr "Medyum ziyaretçi"
 
 msgid "npc_medus02"
-msgstr ""
+msgstr "Medyum ziyaretçi"
 
 msgid "npc_medus03"
-msgstr ""
+msgstr "Medyum ziyaretçi"
 
 msgid "npc_medus04"
-msgstr ""
+msgstr "Medyum ziyaretçi"
 
 msgid "npc_medus05"
-msgstr ""
+msgstr "Medyum ziyaretçi"
 
 msgid "npc_meduscolony01"
-msgstr ""
+msgstr "Medyum koruma"
 
 msgid "npc_meduscolony02"
-msgstr ""
+msgstr "Medyum delici"
 
 msgid "npc_meduscolony03"
-msgstr ""
+msgstr "Medyum roketçi"
 
 msgid "npc_meduscolony04"
-msgstr ""
+msgstr "Medyum yıkıcı"
 
 msgid "npc_memorymodule"
 msgstr "Hafıza modülü"
@@ -4205,7 +4287,7 @@ msgid "npc_pirate04"
 msgstr "Korsan canavar"
 
 msgid "npc_pirate_boss"
-msgstr "Baş Korsan "
+msgstr "Baş Korsan"
 
 msgid "npc_pirates_crap"
 msgstr "Çöp"
@@ -4346,7 +4428,7 @@ msgid "obj_chuchubox05"
 msgstr "Kutular"
 
 msgid "obj_chuchubuilding01"
-msgstr "Samanlık ambarı "
+msgstr "Samanlık ambarı"
 
 msgid "obj_chuchubuilding02"
 msgstr "Büyük ev"
@@ -4574,13 +4656,13 @@ msgid "obj_in_way"
 msgstr "Engel olan nesneler var, önce onları kaldırın."
 
 msgid "obj_lactianbanner"
-msgstr ""
+msgstr "Lactian afiş"
 
 msgid "obj_lactianidol01"
-msgstr ""
+msgstr "Lactian idolü"
 
 msgid "obj_lactianidol02"
-msgstr ""
+msgstr "Lactian idolü"
 
 msgid "obj_lemurianbox01"
 msgstr "Kutular"
@@ -4988,10 +5070,10 @@ msgid "object"
 msgstr "Nesne"
 
 msgid "object_is_busy"
-msgstr ""
+msgstr "~A meşgul"
 
 msgid "object_strength"
-msgstr ""
+msgstr "Kuvvet"
 
 msgid "objects"
 msgstr "Nesneler"
@@ -5000,7 +5082,7 @@ msgid "obsolete"
 msgstr "Kullanılmaz"
 
 msgid "oceanic_planet"
-msgstr ""
+msgstr "Okyanusu gezegen"
 
 msgid "off"
 msgstr "Kapalı"
@@ -5012,7 +5094,7 @@ msgid "officer"
 msgstr "Eleman"
 
 msgid "officer_busy"
-msgstr "Elemanların hepsi meşgul "
+msgstr "Elemanların hepsi meşgul"
 
 msgid "officer_died"
 msgstr "Elemanınız ~A öldü"
@@ -5021,7 +5103,7 @@ msgid "officer_dock"
 msgstr "Tayfa Limanı"
 
 msgid "officer_dock_desc"
-msgstr "Bu üs için atanmış gemi sadece iniş yapabilir "
+msgstr "Bu üs için atanmış gemi sadece iniş yapabilir"
 
 msgid "officer_from"
 msgstr "~A (Seviye ~A) doğdu-(~A sistemi)"
@@ -5069,13 +5151,18 @@ msgid "options_menu"
 msgstr "Seçenekler"
 
 msgid "options_more_languages"
-msgstr ""
+msgstr "@ui_icon_30px_lenguage.png Diğer diller"
 
 msgid "options_need_game"
 msgstr ""
+"Yüklenmiş oyun yok. Oynayış ayarları kayıt başına depolanır. Lütfen yeni bir "
+"oyuna başlayın veya oynayış ayarlarınızı değiştirmek için bir kayıtlı oyunu "
+"yükleyin."
 
 msgid "options_save_desc"
 msgstr ""
+"Bu sekmedeki ayarlar kayıt dosyası içine kaydedilir, Genel oyunlarıyla "
+"değil. Herhangi bir değişikliği kaybetmemek için oyunu kaydetmeyi unutmayın."
 
 msgid "orion_soda"
 msgstr "Oryon Soda"
@@ -5102,7 +5189,7 @@ msgid "pacifist"
 msgstr "Barışçıl"
 
 msgid "paid_salary_amt"
-msgstr "~A/~A "
+msgstr "~A/~A kere"
 
 msgid "pallet"
 msgstr "Palet"
@@ -5112,6 +5199,9 @@ msgstr "Sadece bir stoğunuzu belirttiğiniz sayılar kadar barındırır"
 
 msgid "pallet_info_help"
 msgstr ""
+"3x3 alanın ortasına kurulan palet ,direkt kendi içinde bulunan hammadeyi "
+"çevresinde bulunan üretim aletlerine verir veya üretilen maddeyi kendine "
+"içine depolar, "
 
 msgid "passing_out"
 msgstr "Bilinçsiz"
@@ -5234,7 +5324,7 @@ msgid "planet_resource_extract_enable"
 msgstr "Bu çeşit hammadeler için toplayıcı kullanımda"
 
 msgid "planet_ships_with_order"
-msgstr ""
+msgstr "Otopilot durdu:"
 
 msgid "planet_storage"
 msgstr "Depo"
@@ -5243,7 +5333,7 @@ msgid "planet_storage_current"
 msgstr "~A birim depoda"
 
 msgid "planet_storage_desc"
-msgstr "Bu gezegen çıkarılan hammade için depo alanına 50 birim ekler "
+msgstr "Bu gezegen çıkarılan hammade için depo alanına 50 birim ekler"
 
 msgid "planet_storage_max"
 msgstr "~A birim maksimum"
@@ -5285,10 +5375,10 @@ msgid "pleasure_program"
 msgstr "Eğlence yayını"
 
 msgid "plus_rep"
-msgstr ""
+msgstr "+İtb"
 
 msgid "plus_rep_c"
-msgstr ""
+msgstr "+İtb:"
 
 msgid "plus_soap"
 msgstr "Büyük sabun"
@@ -5339,7 +5429,7 @@ msgid "press_esc_cancel2"
 msgstr "\nEsc basın veya sağ tıklayıp iptal edin"
 
 msgid "press_new_key"
-msgstr ""
+msgstr "Yeni bir tuş için basın:"
 
 msgid "pretentious_foods"
 msgstr "Gösterişli gıdalar"
@@ -5354,10 +5444,10 @@ msgid "price"
 msgstr "Fiyatı"
 
 msgid "price_bom_row"
-msgstr ""
+msgstr "Maliyet:"
 
 msgid "price_row"
-msgstr ""
+msgstr "Fiyatı:"
 
 msgid "price_too_much"
 msgstr "Yeterli para yok"
@@ -5405,13 +5495,13 @@ msgid "purifier_salts"
 msgstr "Arınmış tuz"
 
 msgid "quick_jump"
-msgstr ""
+msgstr "Hızlı geçiş:"
 
 msgid "quit_game"
 msgstr "Çıkış"
 
 msgid "random"
-msgstr ""
+msgstr "Rastgele"
 
 msgid "range_max"
 msgstr "Uzaklık: ~A zemin"
@@ -5429,19 +5519,19 @@ msgid "reactive_area_desc"
 msgstr "Alan"
 
 msgid "rebuildable_ruins_build"
-msgstr ""
+msgstr "Tekrar kur"
 
 msgid "rebuildable_ruins_desc"
-msgstr ""
+msgstr "Geri dönüştürülebilir yada kurulabilir yıkıntılar."
 
 msgid "rebuildable_ruins_recycle"
-msgstr ""
+msgstr "Geridönüştür"
 
 msgid "recipe_add_queue"
 msgstr "Sıraya koy"
 
 msgid "recipe_difficulty"
-msgstr ""
+msgstr "Zorluk:"
 
 msgid "recipe_duration"
 msgstr "Üretim süresi: ~As"
@@ -5459,7 +5549,7 @@ msgid "recipe_order_amount"
 msgstr "Kaç kere üretsin bir tarifi veya -1 sınırsız kere."
 
 msgid "recipe_order_amount_tip"
-msgstr "Bir tarifi kaç kere üretsin "
+msgstr "Bir tarifi kaç kere üretsin"
 
 msgid "recipe_order_create"
 msgstr "Görev oluştur"
@@ -5498,7 +5588,7 @@ msgid "recreational_tier_9"
 msgstr "HoloTv II / Casino II"
 
 msgid "recruit"
-msgstr "İşe al "
+msgstr "İşe alım"
 
 msgid "recruit_existing_xp"
 msgstr "Deneyimi:"
@@ -5561,7 +5651,7 @@ msgid "removed_floor"
 msgstr "Kaldırmış zemin"
 
 msgid "removed_wall"
-msgstr ""
+msgstr "Kaldırılan duvar"
 
 msgid "rep_allied"
 msgstr "Müttefik"
@@ -5571,6 +5661,9 @@ msgstr "Savaşan"
 
 msgid "rep_at_war_desc"
 msgstr ""
+"Savaşan ırklar ürünlerinizin çoğunu satın almaz ve istasyonunuza baskın "
+"yapmaya ve müttefiklerinize saldırmaya çalışacaktır. Düşman olup saldıracak "
+"gezegenlerine uğrayacak olursanız."
 
 msgid "rep_friendly"
 msgstr "Dost"
@@ -5580,12 +5673,17 @@ msgstr "Saldırgan"
 
 msgid "rep_hostile_desc"
 msgstr ""
+"Düşman ırklar sizi sevmez, ama ürünlerinizi çoğunu satın alacaklar. Bu "
+"onlarda saygınlığınızı arttıracaktır. Onlar size düşmanca yaklaşır eğer "
+"onları ziyaret ederseniz."
 
 msgid "rep_neutral"
 msgstr "Tarafsız old"
 
 msgid "rep_neutral_plus_desc"
 msgstr ""
+"Bu ırklar sizi seven istasyonunuza barış içinde gelirler, ve geminizle "
+"onları ziyaret edip hammadde çıkarmanıza izin verirler."
 
 msgid "rep_uncontested"
 msgstr "Kabül gören"
@@ -5678,7 +5776,7 @@ msgid "resource_tag_equipment"
 msgstr "Ekipman"
 
 msgid "resource_tag_extracted"
-msgstr ""
+msgstr "Toplanmış"
 
 msgid "resource_tag_fluid"
 msgstr "Akışkan"
@@ -5795,13 +5893,13 @@ msgid "robot_factory_desc"
 msgstr "İstasyonda çalışacak robot üretimi."
 
 msgid "robot_inventory"
-msgstr ""
+msgstr "Robot envanteri"
 
 msgid "robot_inventory_max_robots"
-msgstr ""
+msgstr "İzin verilen: %d"
 
 msgid "robot_inventory_total_robots"
-msgstr ""
+msgstr "Toplam: %d"
 
 msgid "robot_member"
 msgstr "Robot"
@@ -5813,7 +5911,7 @@ msgid "robot_union"
 msgstr "Robot ulusu"
 
 msgid "robots_cannot_build_more"
-msgstr ""
+msgstr "Daha fazla robot kuramazsın"
 
 msgid "room_10"
 msgstr "Ev stili"
@@ -5828,10 +5926,10 @@ msgid "room_13"
 msgstr "Saf atölye"
 
 msgid "room_14"
-msgstr "Kristalsi "
+msgstr "Kristalsi"
 
 msgid "room_15"
-msgstr "Gökyüzü Çatı "
+msgstr "Gökyüzü desen"
 
 msgid "room_16"
 msgstr "Sıhhi Tesisat"
@@ -5840,7 +5938,7 @@ msgid "room_17"
 msgstr "Arınmış bölme"
 
 msgid "room_18"
-msgstr "Dolgulu bölme "
+msgstr "Dolgulu bölme"
 
 msgid "room_19"
 msgstr "Servis tarzı"
@@ -5879,7 +5977,7 @@ msgid "room_30"
 msgstr "Ceket şıklığı"
 
 msgid "room_31"
-msgstr "Tekno   "
+msgstr "Tekniksel"
 
 msgid "room_32"
 msgstr "Kıyametsel"
@@ -5921,13 +6019,13 @@ msgid "room_44"
 msgstr "Greyfurt stili"
 
 msgid "room_aestehtics_amt"
-msgstr ""
+msgstr "~A puanları"
 
 msgid "room_aesthetics"
-msgstr ""
+msgstr "Oda estetiği"
 
 msgid "room_of_aesthetics"
-msgstr ""
+msgstr "%d oda estetiği"
 
 msgid "room_of_tiles"
 msgstr "%d zeminli oda"
@@ -5948,7 +6046,7 @@ msgid "roulette_desc"
 msgstr "Bu topun acıması yok, yeminle. Altın jeton atılır."
 
 msgid "ruins"
-msgstr ""
+msgstr "Yıkıntılar"
 
 msgid "salary"
 msgstr "Maaş"
@@ -5975,7 +6073,7 @@ msgid "saw_corpse"
 msgstr "Beden kalıntısı gördü"
 
 msgid "saw_corpse_desc"
-msgstr "Korkunç!"
+msgstr "Korkunç, korkunç..."
 
 msgid "scan_alert"
 msgstr "Davetsiz misafir bulundu!"
@@ -5984,7 +6082,9 @@ msgid "scientist"
 msgstr "Bilimci"
 
 msgid "scientist_desc"
-msgstr "Araştırma ve deneyde yardımcılar. Maddeleri günlerce birbiriyle karıştırırlar. "
+msgstr ""
+"Araştırma ve deneyde yardımcılar. Maddeleri günlerce birbiriyle "
+"karıştırırlar."
 
 msgid "scrap_ship"
 msgstr "Gemiyi parçala"
@@ -6059,22 +6159,30 @@ msgid "self_destroy"
 msgstr "Düşmanlara zarar vermek için bir patlat. Yangın çıkarabilir."
 
 msgid "sell_to"
-msgstr ""
+msgstr "@ui_icon_30px_sell.png satışı %s"
 
 msgid "set target to ~A"
-msgstr "Seçilen hedef: ~A "
+msgstr "Seçilen hedef: ~A"
 
 msgid "set_group_target_cc_label"
 msgstr ""
+"Sol tuş tık yada sol sürükleyerek tercih edilen grubu  kalabalığı kontrol "
+"edin\n"
+"Shift basılı ise tarafsız birimleri de seçime dahil edilir."
 
 msgid "set_group_target_damage_label"
 msgstr ""
+"Sol tuş tık yada sol sürükleyerek tercih edilen grubun saldırı hedefi yapın\n"
+"Shift basılı ise tarafsız birimleri de seçime dahil edilir."
 
 msgid "set_group_target_heal_label"
 msgstr ""
+"Sol tuş tık yada sol sürükleyerek tercih edilen grubu iyileştirilen hedef "
+"yapın"
 
 msgid "set_group_target_shield_label"
 msgstr ""
+"Sol tuş tık yada sol sürükleyerek tercih edilen grubu koruma kalkanına alın"
 
 msgid "set_rally_point"
 msgstr "Bekleme noktasını ayarla"
@@ -6083,28 +6191,34 @@ msgid "set_rally_point_label"
 msgstr "Tıkladığınız yerdeki bayrak noktasında ~A beklemeye başlar"
 
 msgid "set_target_cc"
-msgstr ""
+msgstr "Kalabalık kontrol hedefi"
 
 msgid "set_target_cc_label"
 msgstr ""
+"Sol tuş tık yada sol sürükleyerek~A ile  tercih edilen kalabalığı kontrol "
+"edin\n"
+"Shift basılı ise tarafsız birimleri de seçime dahil edilir."
 
 msgid "set_target_damage"
-msgstr ""
+msgstr "Saldırı hedefi"
 
 msgid "set_target_damage_label"
 msgstr ""
+"Sol tuş tık yada sol sürükleyerek~A ile  tercih edilen hedefe saldırın\n"
+"Shift basılı ise tarafsız birimleri de seçime dahil edilir."
 
 msgid "set_target_heal"
-msgstr ""
+msgstr "İyileştirilen hedef"
 
 msgid "set_target_heal_label"
 msgstr ""
+"Sol tuş tık yada sol sürükleyerek ~A ile  tercih edilen hedefi iyileştirin"
 
 msgid "set_target_shield"
-msgstr ""
+msgstr "Korunan hedef"
 
 msgid "set_target_shield_label"
-msgstr ""
+msgstr "Sol tuş tık yada sol sürükleyerek~A ile  tercih edilen hedefi savunun"
 
 msgid "shell_autosaving"
 msgstr "Otomatik kaydediyor..."
@@ -6122,13 +6236,13 @@ msgid "shield_3_name"
 msgstr "Ultra hasar kalkanı"
 
 msgid "ship_allowed_cargo"
-msgstr ""
+msgstr "İzin verilen hammadde: %d/%d"
 
 msgid "ship_allowed_desc"
-msgstr ""
+msgstr "Gemi için gezegenlerden toplanacak hammaddelerin izinlerini belirleyin."
 
 msgid "ship_allowed_edit"
-msgstr ""
+msgstr "İzin verilmiş hammaddeleri değiştir"
 
 msgid "ship_approach_progress"
 msgstr "~A% işlemde"
@@ -6161,7 +6275,7 @@ msgid "ship_distance_to_other"
 msgstr "Mesafe  %s (Seviye %d): %0.2f parse 2016-10-14T12:38:54.517333"
 
 msgid "ship_dock_assigned"
-msgstr ""
+msgstr "Limanı işaretli istasyonda"
 
 msgid "ship_final_destination"
 msgstr "Son durak: %s (Seviye %d)"
@@ -6182,7 +6296,7 @@ msgid "ship_kind_chuchu"
 msgstr "Cücük gemisi"
 
 msgid "ship_kind_crusantian"
-msgstr "Çekirgeni gemisi"
+msgstr "Karıncagil gemisi"
 
 msgid "ship_kind_cucurbian"
 msgstr "Sukabaklı gemisi"
@@ -6212,7 +6326,7 @@ msgid "ship_kind_lemurian"
 msgstr "Lemur gemisi"
 
 msgid "ship_kind_medus"
-msgstr ""
+msgstr "Medyum gemisi"
 
 msgid "ship_kind_nogi"
 msgstr "Boylu gemisi"
@@ -6231,9 +6345,11 @@ msgstr "Pelikan"
 
 msgid "ship_must_parked_home2"
 msgstr ""
+"Parçalama işlemi için bu geminin istasyona inmesi gerekir. En az bir geminiz "
+"bulunmalı uçuşta."
 
 msgid "ship_not_available_empty"
-msgstr "Gemide eleman yok "
+msgstr "Gemide eleman yok"
 
 msgid "ship_not_available_empty_only_home"
 msgstr "Gemiyi kullanacak eleman yok sadece geri dönebilir old"
@@ -6251,10 +6367,10 @@ msgid "ship_not_available_this_already_exploring"
 msgstr "Gemi gezegeni keşfediyor"
 
 msgid "ship_order_item_subtile_home"
-msgstr ""
+msgstr "Yükü boşaltır, tayfa gemiyi boşaltıp, mola verir"
 
 msgid "ship_order_item_subtile_other"
-msgstr ""
+msgstr "Yükle yükü"
 
 msgid "ship_order_item_tile"
 msgstr "Seyahat yeri: %s (Seviye %d) en %s"
@@ -6318,48 +6434,50 @@ msgstr "Bu gemiyi yok ettiğiniz de ondan çok az hammadde elde edebilirsiniz? P
 
 msgid "ship_servicing"
 msgstr ""
+"Bu gemi istasyona dönüp yükü boşaltır ve tayfa mola verir ve ihtiyaçları "
+"giderilene kadar oto pilotu devredışı bırakır."
 
 msgid "ship_servicing_cond"
-msgstr ""
+msgstr "Eve uçuş: %d%% hazır yada bagaj dolu"
 
 msgid "ship_servicing_depart"
-msgstr ""
+msgstr "Otopilotta yolda %d%% hazır"
 
 msgid "ship_skill_healing_wave"
-msgstr ""
+msgstr "İyileştirme dalgası"
 
 msgid "ship_skill_insurance"
-msgstr ""
+msgstr "Ölüm sigortası"
 
 msgid "ship_skill_jumpdrive"
-msgstr ""
+msgstr "Jumpdrive"
 
 msgid "ship_skill_mass_hysteria"
-msgstr ""
+msgstr "Toplu hareket bozukluğu"
 
 msgid "ship_skill_orbital_cannon"
-msgstr ""
+msgstr "Yörünge bombalama"
 
 msgid "ship_skill_orbital_cannon_label"
-msgstr ""
+msgstr "Gemide yörünge top atışı için tıklayın"
 
 msgid "ship_skill_robodrop"
-msgstr ""
+msgstr "Robodüşüşü"
 
 msgid "ship_skill_robodrop_label"
-msgstr ""
+msgstr "Saldırı robotları göndermek için tıklayın"
 
 msgid "ship_skill_shield_dome"
-msgstr ""
+msgstr "Kalkan kubbesi"
 
 msgid "ship_skill_shield_dome_label"
-msgstr ""
+msgstr "Hasar kalkanı oluşturmak için tıklayın"
 
 msgid "ship_skill_teleport"
-msgstr ""
+msgstr "Yüzey ışınlanması"
 
 msgid "ship_skills_l"
-msgstr ""
+msgstr "Yetenekler: %s"
 
 msgid "ship_travel_approach"
 msgstr "Yaklaşmakta: %s (Seviye %d)"
@@ -6422,7 +6540,7 @@ msgid "sleep_feeling_high_desc"
 msgstr "İyi uykudan sonra dipdiri"
 
 msgid "sleep_feeling_low"
-msgstr "Uykusuz "
+msgstr "Uykusuz"
 
 msgid "sleep_feeling_low_desc"
 msgstr "Yorgunluktan uyuması lazım"
@@ -6464,7 +6582,7 @@ msgid "slowpox"
 msgstr "Frengi virüsü"
 
 msgid "slowpox_desc"
-msgstr "Bu kadardan fazla hızlı yürüyemem"
+msgstr "Bundan daha fazla hızlı yürüyemem!"
 
 msgid "slug_pate"
 msgstr "Böcek ezmesi"
@@ -6542,19 +6660,19 @@ msgid "spec"
 msgstr "Özellik"
 
 msgid "spec_disallows"
-msgstr ""
+msgstr "Üzerinde çalışılamaz:"
 
 msgid "spec_info_demands"
-msgstr ""
+msgstr "Gerekliler:"
 
 msgid "spec_info_salary"
 msgstr "Ortalama en az maaş: %d @ui_icon_20px_credits04.png"
 
 msgid "spec_not_ready2"
-msgstr " %s olarak yükselmek için en az bir işin zorunlu XP değerine erişmeli"
+msgstr "%s olarak yükselmek için en az bir işin zorunlu XP değerine erişmeli"
 
 msgid "spec_promote_to"
-msgstr " %s değere yükseldi "
+msgstr "%s değere yükseldi"
 
 msgid "specops_desc"
 msgstr "Güvenlik elemanları silah tutmada uzmandır acımasız olarak."
@@ -6614,13 +6732,13 @@ msgid "stance_is"
 msgstr "Durum: ~A"
 
 msgid "star"
-msgstr ""
+msgstr "Yıldız"
 
 msgid "star_map"
 msgstr "Yıldız haritası"
 
 msgid "start_delivery"
-msgstr ""
+msgstr "@ui_icon_40px_sell.png Başla dağıtıma"
 
 msgid "start_game"
 msgstr "Oyuna başla"
@@ -6633,6 +6751,9 @@ msgstr "İstasyon"
 
 msgid "station_attrition_warn"
 msgstr ""
+"İstasyona sızan gezegen havası duvarların, kapıların yada zemin "
+"döşemelerinin eksikliği yüzünden eşyalara zarar veriyor. Odaları tamamlayan "
+"duvar kapı yada zeminlerin eksik olmadığına emin olun."
 
 msgid "steam_workshop"
 msgstr "Steam Atölyesi"
@@ -6644,13 +6765,13 @@ msgid "steel_node"
 msgstr "Demir bloğu"
 
 msgid "steel_wall"
-msgstr ""
+msgstr "Çelik duvar"
 
 msgid "stinky_cheese"
 msgstr "Kaşar peyniri"
 
 msgid "stock"
-msgstr ""
+msgstr "Stoklar:"
 
 msgid "stocks_control"
 msgstr "Stok kontrol"
@@ -6660,6 +6781,8 @@ msgstr "Depo alanı"
 
 msgid "storage_area_desc"
 msgstr ""
+"Bulunduğu odanın zeminini depo alanı olarak belirler ürünler ve hammaddeleri "
+"için. Stok kontrolü yapmaz. Her çeşit stoğu ve ürünü stoklar."
 
 msgid "storage_area_full"
 msgstr "Depo alanı doldu"
@@ -6677,16 +6800,16 @@ msgid "storage_status"
 msgstr "Depo durumu:"
 
 msgid "stored_group_clear"
-msgstr ""
+msgstr "Ayrılan grup %s"
 
 msgid "stored_group_selected"
-msgstr ""
+msgstr "Seçilen grup  %s"
 
 msgid "stored_group_set"
-msgstr ""
+msgstr "Grup yüklendi %s"
 
 msgid "stored_scroll"
-msgstr ""
+msgstr "Yüklü %d"
 
 msgid "striking_warning"
 msgstr "~A talepleri karşılanana kadar saldıracak, Çalışmayı reddedecek ve grev yapacaklar."
@@ -6731,7 +6854,7 @@ msgid "systems_unlocked"
 msgstr "Takip edilen sistemler keşfedilmiş olabilir: ~A"
 
 msgid "table"
-msgstr ""
+msgstr "Masa"
 
 msgid "take_off_tool"
 msgstr "Kalkış"
@@ -6755,25 +6878,25 @@ msgid "tavern_table_desc"
 msgstr "Ev ortamında içiyor gibi"
 
 msgid "teleport_group_to_label"
-msgstr ""
+msgstr "Grubu seçilen noktaya ışınlamak için tıkla"
 
 msgid "teleport_to"
 msgstr "Işınlama"
 
 msgid "teleport_to_label"
-msgstr " ~A yı ışınlamak için tıklayın"
+msgstr "~A yı ışınlamak için tıklayın"
 
 msgid "tending_workplace_action"
 msgstr "yönelimi ~A"
 
 msgid "terra_planet"
-msgstr ""
+msgstr "Yeryüzü gezegeni"
 
 msgid "thirst"
 msgstr "Susuzluk"
 
 msgid "thirst_feeling_high"
-msgstr "Suya doydu "
+msgstr "Suya doydu"
 
 msgid "thirst_feeling_high_desc"
 msgstr "Bu içeceğe ihtiyacı vardı"
@@ -6785,7 +6908,7 @@ msgid "thirst_feeling_low_desc"
 msgstr "Başı döndü ve ölecek gibi hissediyor"
 
 msgid "thousand_sep"
-msgstr ""
+msgstr "%1,%2"
 
 msgid "tier1"
 msgstr "Aşama 1"
@@ -6827,10 +6950,10 @@ msgid "titanium_node"
 msgstr "Titanyum bloku"
 
 msgid "titanium_wall"
-msgstr ""
+msgstr "Titanyum duvar"
 
 msgid "toggle_combatmode"
-msgstr ""
+msgstr "Saldırı modu aç/kapa"
 
 msgid "toggle_walls"
 msgstr "Duvarları gizle"
@@ -6842,13 +6965,13 @@ msgid "toogle_global_recipes"
 msgstr "Varolan tariflerin genel üretimini bu nesne için aç yada kapa:"
 
 msgid "total_row"
-msgstr ""
+msgstr "Toplam:"
 
 msgid "travel_shop"
 msgstr "Seyahat bölmeleri"
 
 msgid "travel_shop_desc"
-msgstr ""
+msgstr "Evren haritası ve çevirmen tabletleri"
 
 msgid "treatment"
 msgstr "Tıbbi tedavi"
@@ -6857,43 +6980,64 @@ msgid "treatment_desc"
 msgstr "~A nın zorunlu tedavisi için adımlar:"
 
 msgid "try_delivery_action"
-msgstr ""
+msgstr "Dağıtımı deneme %s"
 
 msgid "try_delivery_action_error"
-msgstr ""
+msgstr "meşgul, kilitli yada yer yok yüklemeye"
 
 msgid "turret_name"
 msgstr "Taret siahı"
 
 msgid "tutorial_civs_basics"
-msgstr ""
+msgstr "İtibar, alımlar ve satımlar"
 
 msgid "tutorial_civs_basics_1"
 msgstr ""
+"Irk ekranı keşfedilen evrendeki bütün ırkları gösterir. Bu ekranda ne tür "
+"bilgiler olduğuna bakalım. İnsan ırkı giriş kısmına sol kısımdan tıklayın."
 
 msgid "tutorial_civs_basics_2"
-msgstr ""
+msgstr "İtibar sekmesini seçin."
 
 msgid "tutorial_civs_basics_3"
 msgstr ""
+"İtibar sizin bir ırk tarafından ne derece sevildiğinizi gösterir. 15000 "
+"puandan az ise sizinle ticaret yapmaz. Size ziyaretleri de dostça olmaz. "
+"15000 den fazla olması sizin ticaret yapabileceği gibi size turist olarak da "
+"uğrarlar. Elçiliklerle itibarınız yükseltilebilir ve turistlere iyi hizmet "
+"verebilirsiniz. Düşman ırklar ise genelde haraç ister. Yüksek bir itibar "
+"sonucu düşük satış fiyatları ve yüksek alım fiyatları demektir."
 
 msgid "tutorial_civs_basics_4"
-msgstr ""
+msgstr "Sekmeden satın al seçin."
 
 msgid "tutorial_civs_basics_5"
 msgstr ""
+"İstasyonunuz onlarca ürün üretebilir. ancak tüm hammaddeler gezegenlerden "
+"çıkarılır. Ve çoğu gezegende de bir ırk yaşar. Toplanan hammaddeleri "
+"gezegenlerden bir maliyeti olacaktır, ve dahası bir ırk sizi düşük fiyat "
+"için sever. Hammadde fiyatları genel fiyata tabiidir bir ırka verilmişse de."
 
 msgid "tutorial_civs_basics_6"
-msgstr ""
+msgstr "Satış sekmesine tıkla."
 
 msgid "tutorial_civs_basics_7a"
 msgstr ""
+"Üretimler sadece kendi ihtiyaçlarınız için değildir! Siz ürünlerinizi "
+"istasyonda turistlere de satabilirsiniz, yada satış sekmesinden direkt "
+"olarak gönderebilirsiniz. Burada bir ürün seçebilir,bu ürüne ihtiyaç duyan "
+"bir gezegen ,bir boşta duran gemiyi, ve üretim sayısını da. Sonra dağıtım "
+"emrini verebilir ve geminiz seyahat edecek satıp geri dönecektir."
 
 msgid "tutorial_civs_basics_7b"
 msgstr ""
+"Bu sizin ana para getiriniz olacak siz ziyaretçi limanları ve turizme kapalı "
+"olmadıkça, bazıları sık sık geri gelip sizin fazlalık ürünlerinizi satmak "
+"için. Dükkan ve eczacı ürün yığınları satış için düşünülmemelidir içeride "
+"ihtiyaçlarınız için biraz stok tuttuğunuzdan emin olmanız için."
 
 msgid "tutorial_civs_title"
-msgstr ""
+msgstr "Irklar dersi"
 
 msgid "tutorial_ended"
 msgstr "Ders bitti"
@@ -6912,12 +7056,26 @@ msgstr "Tek tek gezegenleri dolaşıp kargo taşımak sıkıcıdır. Bu yüzden 
 
 msgid "tutorial_galaxy_autopilot_2"
 msgstr ""
+"Bu uzay gemisi oto pilot penceresi. Emirlerinizi listesine sıralarsınız, "
+"sırasını değiştirir, duracakları yerleri belirler, sonrada oto pilotu "
+"başlatır veya durdurabilirsiniz.\n"
+"İstasyonunuz ile tutoland eğitim gezegeni arası yapılacakları belirleyelim.\n"
+"Yanıp sönen simgeyi tutolanda doğru sürükleyip bırakın. Görüşü engelliyorsa "
+"otopilot pencereyi istediğiniz konuma çekin."
 
 msgid "tutorial_galaxy_autopilot_4"
 msgstr ""
+"Şimdiyse başlat butonuna tıklayarak oto pilotu çalıştırın. Gemi "
+"kendiliğinden hedeflere haraket edecektir, varsa toplanacak olan "
+"kargolarınızı alıp bagajı dolunca istasyonunuza yükleri taşıyacaktır ve "
+"tayfanıza mola imkanı sağlayacaktır."
 
 msgid "tutorial_galaxy_autopilot_5"
 msgstr ""
+"Hepsi bu! Direkt tutup sürüklemeniz halinde otopilot devredışı bırakılır ve "
+"sizin elle emirlerinizi bekler. Bu koşulda oto pilotun tekrar başlatmayı "
+"unutmayın. Hazır olunca diğer gezegenlere uğrayın ve toplayıcı ile "
+"hammaddeleri toplayın ve auto pilota bu gezegenleri uğraması için ekleyin."
 
 msgid "tutorial_galaxy_basics"
 msgstr "Temel dersler"
@@ -6926,7 +7084,10 @@ msgid "tutorial_galaxy_basics_1"
 msgstr "Şu Galaksi. Keşfedilecek çok yeri var. Kahredicide olabilir! En iyisi basit işlerle başlamak.\nTüm evrene kuşbakışı görüntüsüdür. Bir gezegen sistemine tıklayarak içindeki gezegenleri görebilirsiniz. Fakat biz şimdilik istasyonumuzun sistemine ulaşabiliyoruz. Tıklayıp görelim."
 
 msgid "tutorial_galaxy_basics_2"
-msgstr "Bu bölümde,dikkatimizi ham maddeler olarak mutfak ve fabrikalarda kullanılacaklara odaklamalıyız.Gezegenler de oluşan ham maddeler bu haritada gösterilmektedir. "
+msgstr ""
+"Bu bölümde,dikkatimizi ham maddeler olarak mutfak ve fabrikalarda "
+"kullanılacaklara odaklamalıyız.Gezegenler de oluşan ham maddeler bu haritada "
+"gösterilmektedir."
 
 msgid "tutorial_galaxy_basics_3"
 msgstr "Eğitim gezegeni Tutolanda gidelim.Direk gitmek için bir gemiyi sürükleyip bırakalım, sürükle ve bırak yanıp sönen gemiyi Tutoland'a. Eğer gezegenleri görmenizi engelleyen pencere varsa pencere başlığından tutup sürükleyin ."
@@ -6935,7 +7096,7 @@ msgid "tutorial_galaxy_basics_4"
 msgstr "Lütfen geminizin gezegen yörüngesine yanaşmasını bekleyin"
 
 msgid "tutorial_galaxy_basics_5"
-msgstr "Hadi Tutoland keşfedilmeye hazır, tıkla!"
+msgstr "Hadi Tutoland keşfedilmeye hazır! Tutolanda tıkla."
 
 msgid "tutorial_galaxy_basics_6"
 msgstr "Keşfet butonuna basarak keşfe başla. Gezegen ekranına ulaşabileceksin ve temel gezegen işlerine öğrenmeye başlayabilirsin."
@@ -6944,7 +7105,7 @@ msgid "tutorial_galaxy_basics_7"
 msgstr "Temel olarak hepsi bu kadar! Gezegendeyken Ham madde nasıl çıkarılır öğrenin,sonra Otopilotu uygulayın. Menüye tıkla."
 
 msgid "tutorial_galaxy_title"
-msgstr " Galaksi dersi"
+msgstr "Galaksi dersi"
 
 msgid "tutorial_menu_goals_hint"
 msgstr "Öneri: Eğer öğrenimleri başarılı uygularsanız, başarım kutusunuza tıklayıp ödülleri alın."
@@ -6966,12 +7127,24 @@ msgstr "Eğer elemanlarınızı zor bir noktaya götürmek istiyorsanız ışın
 
 msgid "tutorial_planet_basics_6b"
 msgstr ""
+"Çoklu seçim bir eleman yerine seçili elemanlara aynı emiri vermeyi sağlar. "
+"Çoklu seçim harita üzerinde sol mouse tuşu sürükleme yaparak oluşturulan "
+"kare içinde elemanları seçerek oluşturulur. Yürüme, toplu ışınlama, hedefe "
+"saldırı çoklu seçim için verilebilir emirlerdir."
 
 msgid "tutorial_planet_basics_7b"
 msgstr ""
+"Bütün elemanlarınız silahlı giyinik ve hazır, ve hepsi oto tetikteler. Onlar "
+"görüş açılarına girenlerle hem savaşabilir hemde yardımlaşabilirler sizin "
+"müdahaleniz olmadan. yada eçtiğiniz eleman(lar)la, eylem tuşlarını "
+"kullanarak atakları ve yardımlaşmayı kendiniz belirleyebilirsiniz."
 
 msgid "tutorial_planet_basics_8b"
 msgstr ""
+"Sonunda klavyedeki 1 ve 6 tuşları ile grupları kolayca seçebilirsiniz. Grubu "
+"seçtikten sonra Ctrl+1 ile gruba atayın. daha sonra sadece 1 tuşu ile grubu "
+"seçin. Oyun otomatik olarak grup 1'i her gezegene keşif yaparken "
+"yükleyecektir."
 
 msgid "tutorial_planet_extraction"
 msgstr "Toplayıcı"
@@ -6984,15 +7157,25 @@ msgstr "Sol menü yanıp sönen nesneye tıklayın: Toplayıcı."
 
 msgid "tutorial_planet_extraction_3"
 msgstr ""
+"Bu bina, gezegenden kaynakların çıkarılması için kullanılır. meyve ve sebze "
+"bloklarına yakın yanıp sönen zemine toplayıcıyı kurun. En az bir bloğunu "
+"yuvarlak alan kapsayacak şekilde kurulur. Grup 1 ayarlı ise [1] tuşu ile "
+"elemanları seçersiniz sonra [T] tuşu ile o alana yakın ışınlayabilirsiniz."
 
 msgid "tutorial_planet_extraction_4"
 msgstr "Yapı sizin elemanlarınız tarafından kurulmalı. Kurulana kadar bekleyelim. Eğer yapı kurulacak yer uzak ise elemanınızı bölgeye ışınlayabilirsiniz."
 
 msgid "tutorial_planet_extraction_5"
 msgstr ""
+"Bu kadar! Bu toplayıcı meyveleri bu bölgede toplayacak ve bölgede "
+"stoklatacaktır. Bir uzay gemisi kullanarak stokları yükleyin, ve oto pilot "
+"kullanıp evren içinde dağıtımlarını sağlayın. Hammadde alımları bir miktar "
+"ücrete tabi olur ve orada daha ucuz olur yüksek bir itibar sağlarsanız o "
+"gezegende. Irklar ekranını kontrol edip alım ücretlerini görün."
 
 msgid "tutorial_planet_extraction_6_dev"
 msgstr ""
+"[GEL] Şimdilik gezegenden ayrılın ve evrende oto pilot dersine başlayın."
 
 msgid "tutorial_planet_planetarium"
 msgstr "Yeni yıldız gezegen sistem açılışı"
@@ -7035,9 +7218,15 @@ msgstr "Temel bilgiler"
 
 msgid "tutorial_station_basics_1"
 msgstr ""
+"The Spatials: Galactology'e hoşgeldiniz!\n"
+"Burası sizin uzay istasyonunuz. Şu an fazla bir şeyimiz yok,\n"
+"İlk göreviniz burayı yapılandırmak ve savunmak,  Yani the Spatialsların evi "
+"ve misafirler için samimi bir durak."
 
 msgid "tutorial_station_basics_2"
 msgstr ""
+"W,A,S,D tuşları ile istasyonda dolaşın. Fare tekerleği ile de yakınlaşır "
+"yada uzaklaşırsınız."
 
 msgid "tutorial_station_basics_3_1"
 msgstr "Sol taraf menülerinde istasyonunuzu düzenlemek ve inşa etmek için gerekli herşeyi bulursunuz. İlk menü Bilgilenme aracıdır. ESC tuşu ile bağlıdır."
@@ -7049,61 +7238,96 @@ msgid "tutorial_station_basics_4"
 msgstr "Bilgilendirme aracı seçilen nesne hakkında bilgi görüntüler. Ayrıca nesneyi ayarlamak için ekstra kontrolleri sunar, Ocak başında tarifeleri ayarlamak gibi.\nEğer bir nesne diğer nesneyi engellerse, tekrar aynı noktaya tıklayarak arkada kalanlar seçilir, Aynı nokta tıklayarak daha arkadakilerde seçilir."
 
 msgid "tutorial_station_building"
-msgstr ""
+msgstr "Inşa"
 
 msgid "tutorial_station_building_1"
 msgstr ""
+"İstasyonunuz odalardan oluşuyor. Odalar her zaman duvarlar, kapılar ve "
+"zeminle çevrelenmeli. Bu üç gereksinim ile bir oda inşa edilmiş sayılır. Ve "
+"ancak o zaman yapıların çoğunun kurulumuna izin verilecek"
 
 msgid "tutorial_station_building_10"
 msgstr ""
+"Süper! Oda neredeyse hazır. Köşedeki zemin döşemesini de kapamamız gerekir, "
+"ama duvar kurarsak oraya, giriş ve çıkış imkansız olacak. Kapıya ihtiyaç "
+"var. Nesne kuru seçin."
 
 msgid "tutorial_station_building_11"
 msgstr ""
+"Nesne kur aracı: istasyonunuz da binalarınız için kullanımda olan bütün "
+"yapıları listeler. İlk önce nesne grubu seçilir. Güvenlik grubunu seçin."
 
 msgid "tutorial_station_building_12"
-msgstr ""
+msgstr "Yanıp sönen nesneye tıklayın: Kapı."
 
 msgid "tutorial_station_building_13"
 msgstr ""
+"Yanıp sönen zemine kapıyı kurun. Q veya E tuşuyla seçili nesneyi kurmadan "
+"önce yada kurum esnasında sol mouse tuşuna basılı tutarken istenen yöne "
+"doğru sürükleyerek döndürebilirsiniz."
 
 msgid "tutorial_station_building_14"
 msgstr ""
+"Duvar kur yada zemin kur aracı gibi. Nesne kur aracıda sadece planı "
+"gösterir. Elemanlarınızın kurumunu bekleyelim."
 
 msgid "tutorial_station_building_15"
 msgstr ""
+"Burası tamamlanmış bir oda. Üzerine kurulacak iç yapı nesneleri seçildiğinde "
+"zemin yeşil renkte gösterilir. Eğer bir odada zemin eksikse veya bir duvar "
+"yıkıksa, dışardan içerisine hava alıyorsa içindeki nesneler hasar almaya "
+"veya bozulmaya başlar. "
 
 msgid "tutorial_station_building_16"
 msgstr ""
+"Geçerli fakat boş bir oda pek kullanışlı değildir. Bir sonraki ders yemek "
+"tesis ve üretimi hakkında temel nesneleri öğretir."
 
 msgid "tutorial_station_building_2"
 msgstr ""
+"Zemin kur tuşu sadece planı çizer istasyon üzerinde\\n"
+"Sol mouse tuşunu iki nokta arasında sürükleyin."
 
 msgid "tutorial_station_building_2_b"
 msgstr ""
+"Bilgi: Shift tuşu ile zemin kurdan, zemin kaldır aracına geçebilirsiniz. Esc "
+"tuşu ile iptal edilebilir."
 
 msgid "tutorial_station_building_3"
 msgstr ""
+"Zemin kur tuşu sadece plan çizer.Buda elemanlarınıza iş emri verir. Onların "
+"zemini kurmasını bekleyin."
 
 msgid "tutorial_station_building_4"
 msgstr ""
+"Bitti! Ama odalar zeminden ibaret değildir, Onlar duvara ihtiyaç duyar. "
+"Duvar kur tuşunu seçin"
 
 msgid "tutorial_station_building_5"
 msgstr ""
+"Zemini çevreleyerek duvar planını hazırlayın.\n"
+"İki işaret arasında sol mouse tuşuyla sürükleyin."
 
 msgid "tutorial_station_building_5_b"
 msgstr ""
+"Bilgi: Shift tuşu ile duvar kurdan, duvar kaldır aracına geçebilirsiniz. Esc "
+"tuşu ile iptal edilebilir."
 
 msgid "tutorial_station_building_6"
 msgstr ""
+"Diğer kenarı da sol fare tuşu kullanarak iki işaret arasında sürükleyin."
 
 msgid "tutorial_station_building_7"
 msgstr ""
+"Bir kenarı daha sol fare tuşu kullanarak iki işaret arasınca sürükleyin."
 
 msgid "tutorial_station_building_8"
 msgstr ""
+"Ve son duvar alanı.Bir kapı boşluğu iki duvar arasında bırakacağız.İki "
+"işaret arasınca sol mouse tuşla sürükleyin."
 
 msgid "tutorial_station_building_9"
-msgstr ""
+msgstr "Duvar kurulumunu bekleyin."
 
 msgid "tutorial_station_object_tool"
 msgstr "Nesne kur"
@@ -7152,6 +7376,8 @@ msgstr "Fabrika sekmesi, seçilen mutfağa yeni üretim siparişleri eklemenize 
 
 msgid "tutorial_station_production_5_2"
 msgstr ""
+"Üretim bilgi panosu ,üretim emir ekranı ile değiştirilmiştir. İlk önce bir "
+"tarife seçin, Temel gıda pişirelim, Temel gıda pişire tıkla"
 
 msgid "tutorial_station_production_5_3"
 msgstr "Şimdi seçili üründen kaç adet yapılacağını 1 yazan alanı 3 adet ayarlayarak pişirilmesini bekleyelim."
@@ -7175,16 +7401,25 @@ msgid "tutorial_station_stocks_10"
 msgstr "Şimdi tesisleri seçin."
 
 msgid "tutorial_station_stocks_11"
-msgstr "Yanıp sönen nesne bir palet.Sadece seçili bir yığının kontrolünü yapar. Bir dükkan gibi ama aktarma amaçlı. Mesela paleti bir fabrika makinasının yanına dikerseniz o makinaya gerekli olan hammaddeyi hazır bulunduracaktır. Tek bir hammadenin stok kontrolünü dakik istediğinizde paletleri kullanın. "
+msgstr ""
+"Yanıp sönen nesne bir palet.Sadece seçili bir yığının kontrolünü yapar. Bir "
+"dükkan gibi ama aktarma amaçlı. Mesela paleti bir fabrika makinasının yanına "
+"dikerseniz o makinaya gerekli olan hammaddeyi hazır bulunduracaktır. Tek bir "
+"hammadenin stok kontrolünü dakik istediğinizde paletleri kullanın."
 
 msgid "tutorial_station_stocks_12"
 msgstr "Yanıp sönen nesne bir depo.Sadece bomboş bir odaya bir tane dikilir ve bu odanın içini de aktarma sahası olarak kullanır."
 
 msgid "tutorial_station_stocks_12b"
 msgstr ""
+"Ayrıca ürünlerinizi doğrudan galaksideki diğer gezegenlere teslim edebilir "
+"ve satabilirsiniz. Irklar ekranındaki satış sekmesini kontrol edin."
 
 msgid "tutorial_station_stocks_13b"
 msgstr ""
+"Temel binalar var, istasyonunuz da üretim ve servisi yapmak için, Ancak "
+"başarınız hammadde çıkarımı ve geliştirmelere de bağlı. Galaksi ve "
+"Geliştirme hakkında bilgi için sol üst menülerdeki ilgili tuşları seçin\t"
 
 msgid "tutorial_station_stocks_2"
 msgstr "Yemek ve içecek kategorisini seçin."
@@ -7212,6 +7447,12 @@ msgstr "Bu panelde yiyecek kabinin ne zaman ne kadar hangi stoğu barındıraca�
 
 msgid "tutorial_station_stocks_9"
 msgstr ""
+"Bu Yemek dükkanı satılacak gıdaları depolar ve maksimum adete ulaşana kadar "
+"elemanlarınız buralara depolar. Üretim merkezlerinden uzağa "
+"konumlandırdığınızda, stok yapan nesneler ürünlerinizin ve hammadelerin "
+"dağıtımına yardımcıdır.\n"
+"Onlarda 2 tane daha kuralım.\n"
+"Nesne kur tuşunu seçin."
 
 msgid "tutorial_station_title"
 msgstr "İstasyon dersi"
@@ -7232,7 +7473,7 @@ msgid "tutorial_waiting"
 msgstr "Bekliyor..."
 
 msgid "type_new_max_stock"
-msgstr "Depoda bu nesne maksimum stok  "
+msgstr "Depoda bu nesne maksimum stok"
 
 msgid "type_officer_name"
 msgstr "Eleman ismini girin:"
@@ -7280,7 +7521,7 @@ msgid "ugc_error_logged"
 msgstr "Bu işlem için Steam'e"
 
 msgid "ugc_error_priv"
-msgstr " Varsayılan kullanıcı hesabı için Steam'de yeterli izin tanınmamış"
+msgstr "Varsayılan kullanıcı hesabı için Steam'de yeterli izin tanınmamış"
 
 msgid "ugc_error_timeout"
 msgstr "Steam'e bağlanırken zaman aşımı oluştu."
@@ -7388,7 +7629,7 @@ msgid "vaccine"
 msgstr "Aşı"
 
 msgid "valid_sources"
-msgstr "Malzeme Aktar"
+msgstr "Malzeme Aktar:"
 
 msgid "value_higher_min"
 msgstr "Girilen değer mevcut adetten fazla olmalı"
@@ -7397,7 +7638,7 @@ msgid "value_lower_max"
 msgstr "Girilen değer mevcut adetten fazla olamaz"
 
 msgid "value_not_number"
-msgstr ""
+msgstr "Girilen bir sayı değildir"
 
 msgid "value_too_high"
 msgstr "Değer çok yüksek  alto"
@@ -7505,10 +7746,10 @@ msgid "visitor_tired"
 msgstr "Yorgun"
 
 msgid "visitor_tired_desc"
-msgstr "Sadece dinlenmeli ve kendime gelmeliyim "
+msgstr "Sadece dinlenmeli ve kendime gelmeliyim"
 
 msgid "visitor_usage"
-msgstr ""
+msgstr "Ziyaretçi kullanımı"
 
 msgid "visitor_wasted"
 msgstr "Harcandı"
@@ -7529,7 +7770,7 @@ msgid "vitamin_water"
 msgstr "Vitaminli su"
 
 msgid "volcanic_planet"
-msgstr ""
+msgstr "Volkanik gezegen"
 
 msgid "vomit_from"
 msgstr "Kusmuş: ~A"
@@ -7550,7 +7791,7 @@ msgid "vsync_on"
 msgstr "Açık"
 
 msgid "walk_group_to_label"
-msgstr ""
+msgstr "Seçtiğiniz konuma grup yürüşü yapmak için tıkla"
 
 msgid "walk_here"
 msgstr "Yürü"
@@ -7562,34 +7803,43 @@ msgid "walk_to"
 msgstr "Yürüt"
 
 msgid "walk_to_label"
-msgstr " ~A yı seçili nokta yürütmek için tıklayın "
+msgstr "~A yı seçili nokta yürütmek için tıklayın"
 
 msgid "walkable"
 msgstr "İçinden geçilir"
 
 msgid "wall_construction_job"
-msgstr ""
+msgstr "Duvar inşası"
 
 msgid "wall_destruction_job"
-msgstr ""
+msgstr "Duvar yıkımı"
 
 msgid "wallet"
 msgstr "Cüzdan"
 
 msgid "walls_build_info"
 msgstr ""
+"Bir duvar kurmak için bir çizgi yönünde sol tuş sürükleyerek, yada tek tek "
+"sol tuşla tıklayıp renkli duvar tasarımını çizin. Sol sürükleme bırakmadan "
+"önce Esc tuşuna basıp iptal edebilirsiniz."
 
 msgid "walls_tool"
-msgstr ""
+msgstr "Duvar kur"
 
 msgid "warn_autopilot_no_need_home"
 msgstr ""
+"İstasyona geri dönüş yapmayı bir emir olarak oto pilota girmeye gerek yok. "
+"Oto pilot zaten yükü boşaltmak yada mola için istasyona dönüş yapacaktır. "
+"Mola zorlayıcı bir sebeptir küçük bir sebeple olsa bile istasyona dönüşe, "
 
 msgid "warn_no_officer_dock"
 msgstr ""
+"Gemilerinizden biri istasyona geldi ve bir gemi limanına atanmadığı için "
+"tayfasını ışınlayıp, yükünü de harita kenarına indirdi. Bu gemi için bir "
+"gemi limanı kurup, limana atamasını yapın."
 
 msgid "warn_no_shop"
-msgstr ""
+msgstr "Dükkan içinden değil, Boşta bulduğunu aldı."
 
 msgid "water"
 msgstr "Su"
@@ -7619,7 +7869,7 @@ msgid "working_label"
 msgstr "Çalışıyor: ~A"
 
 msgid "world_enlargement"
-msgstr "Dünya genişlemesi "
+msgstr "Dünya genişlemesi"
 
 msgid "world_enlargement_desc"
 msgstr "Herşey kocaman!"
@@ -7648,3 +7898,139 @@ msgstr "Yakınla+"
 msgid "zoom_out"
 msgstr "Uzaklaş-"
 
+msgid "available"
+msgstr "Mevcut"
+
+msgid "cant_build_needs_outside"
+msgstr "Açık alan gerekir"
+
+msgid "cargo_label"
+msgstr "Kargo:"
+
+msgid "cargo_value"
+msgstr "%d yükleri"
+
+msgid "ceilingshield_1"
+msgstr "Tavan koruyucusu"
+
+msgid "ceilingshield_desc"
+msgstr ""
+"Bir düşman tespitinde küçük bir hasar kalkanı oluşturur, belirli bir sürede."
+
+msgid "ceilingturret_1"
+msgstr "Temel tavan taret silahı"
+
+msgid "ceilingturret_2"
+msgstr "Gelişmiş tavan taret silahı"
+
+msgid "ceilingturret_3"
+msgstr "Gelişmiş tavan taret silahı"
+
+msgid "civ_ui_resources"
+msgstr "@ui_icon_30px_buy.png Hammaddeler"
+
+msgid "crew_label"
+msgstr "Tayfa:"
+
+msgid "crew_value"
+msgstr "%d slotlar"
+
+msgid "dock_needs_space"
+msgstr "Nesne çok yakın"
+
+msgid "enable_critical_speed"
+msgstr "Oyun hızını kritik uyarılarda 1x yap"
+
+msgid "goal_itemprod3_desc"
+msgstr "Herhangi seviyede alet çeşidinden 200 tane üret."
+
+msgid "goal_itemprod3_title"
+msgstr "200 alet üret"
+
+msgid "goal_planet5_desc"
+msgstr "Seviye 30 yada üstü gezegenlere en az üç kere iniş yap."
+
+msgid "goal_planet5_title"
+msgstr "Seviye 30 gezegenleri 3 kez ziyaret et."
+
+msgid "goal_recycle3_desc"
+msgstr ""
+"150 ceset temizlet. En az bir geridönüşüm aletiniz kurulu olmalı ve "
+"elemanlarınızda temizlik iş çizelgesinde aktif olmalı."
+
+msgid "goal_recycle3_title"
+msgstr "150 ceset temizlet"
+
+msgid "goal_shipbuild3_desc"
+msgstr "Gemi inşa planlarını kullanarak 8 gemi ve gemi iş masaları yapın."
+
+msgid "goal_shipbuild3_title"
+msgstr "8 gemi üret"
+
+msgid "group_facilities2"
+msgstr "Tesisler"
+
+msgid "in_progress_p"
+msgstr "İşlemde: %d/%d"
+
+msgid "lactian_leaflets"
+msgstr "Lactian yaprakları"
+
+msgid "lactian_leaflets_desc"
+msgstr "Tüm övgüler Lactusa, bizim kutsal süt. Geridönüştürülebilir."
+
+msgid "object_power_level"
+msgstr "Güç seviyesi"
+
+msgid "securitydoor2"
+msgstr "Kuvvet alan kapısı"
+
+msgid "securitydoor2_desc"
+msgstr ""
+"Neredeyse geçilemez kapı. Üretim yeri ve depolardan ziyaretçileri uzak tutar."
+
+msgid "shielder_1"
+msgstr "Temel koruyucu"
+
+msgid "shielder_2"
+msgstr "Arttırılmış koruyucu"
+
+msgid "shielder_3"
+msgstr "Geliştirilmiş koruyucu"
+
+msgid "shielder_desc"
+msgstr ""
+"Geniş bir hasar kalkanı oluşturur bir düşman belirdiğinde, belirli bir "
+"süreyle."
+
+msgid "ship_skills_label"
+msgstr "Yetenekler:"
+
+msgid "speed_label"
+msgstr "Hız:"
+
+msgid "speed_value"
+msgstr "~0,2F dönüm/s"
+
+msgid "turret_1"
+msgstr "Temel taret silahı"
+
+msgid "turret_2"
+msgstr "Arttırılmış taret silahı"
+
+msgid "turret_3"
+msgstr "Gelişmiş taret silahı"
+
+msgid "turret_4"
+msgstr "Ultra taret silahı"
+
+msgid "turret_desc"
+msgstr "Geniş, Yüksek kalibre taret silahı"
+
+msgid "tutorial_station_object_tool_7b"
+msgstr ""
+"Gürültü hakkında: Bir mutfak ocağı ve masanın bu ufak bir kombinasyonu, bir "
+"başlangıç istasyonu için iyi olmasına rağmen, aynı odada iki mutfağı veya "
+"daha fazlasını koymak elemanlarınızın sessiz bir yemek yemeye çalışırken "
+"rahatsız edecektir. İstasyonunuzu büyüttüğünüzde mutfak ocaklarınızı ayrı "
+"bir odaya taşımayı düşünün."
