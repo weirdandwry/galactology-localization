@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-12 09:03+0000\n"
-"PO-Revision-Date: 2018-02-12 09:03+0000\n"
+"PO-Revision-Date: 2018-02-12 21:15+0000\n"
 "Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: Turkish "
 "<http://translate.weirdandwry.com/projects/galactology/game/tr/>\n"
@@ -338,7 +338,7 @@ msgid "bistro_drinks"
 msgstr "Bistro içki"
 
 msgid "bistro_drinks_desc"
-msgstr "Süslenerek ödüllendirilmiş içecek sunumu"
+msgstr "Süslenerek ödüllendirilmiş içecek sunumu."
 
 msgid "bistro_food"
 msgstr "Bistro yemeği"
@@ -745,7 +745,7 @@ msgid "chest_13"
 msgstr "Göğüs muhafazası"
 
 msgid "chest_14"
-msgstr "Etkili kaynak ceket"
+msgstr "Karışım kaynak ceketi"
 
 msgid "chest_15"
 msgstr "Pullu koruyucu"
@@ -775,7 +775,7 @@ msgid "chuchu_adjective2"
 msgstr "Cücük ~A"
 
 msgid "chuchu_full"
-msgstr "Cücük sürüsü"
+msgstr "Cücük topluluğu"
 
 msgid "chuchu_member"
 msgstr "Cücük"
@@ -784,7 +784,7 @@ msgid "chuchu_name"
 msgstr "Cücük"
 
 msgid "church_of_lactus"
-msgstr "Lactus kilisesi"
+msgstr "Sarıklı ibadethanesi"
 
 msgid "civ_colony"
 msgstr "Koloni"
@@ -888,8 +888,8 @@ msgstr ""
 
 msgid "confirm_evolve_officer"
 msgstr ""
-"Geliştirme ~A yı ~A görevi bir daha geri alınamaz! ~A iyi olduğu işler "
-"dışındaki bazı işlerden de muaf olacak. Devam? "
+"Geliştirilen ~A yı ~A görevi bir daha geri alınamaz! ~A iyi olduğu işler "
+"dışındaki bazı işlerden de muaf olacak. Devam?"
 
 msgid "confirm_fire_officer"
 msgstr "~A kovulması, elemanınızı sonsuza dek görememek demektir! Devam?"
@@ -994,7 +994,7 @@ msgid "crusantian_adjective2"
 msgstr "Karıncagil ~A"
 
 msgid "crusantian_bunch"
-msgstr "Karınca sürüsü"
+msgstr "Karıncagil topluluğu"
 
 msgid "crusantian_member"
 msgstr "Karıncagil"
@@ -1385,7 +1385,7 @@ msgstr "Yetkililer"
 msgid "door_allowed_desc"
 msgstr ""
 "Bu kapının üstüne tutturulmuş kibar bir işarettir; Saldırganlar için "
-"geçersiz olan. "
+"geçersiz olan."
 
 msgid "door_desc"
 msgstr "Odalara erişimi kontrol edersiniz"
@@ -1629,9 +1629,13 @@ msgstr "Baskın yapacak ekip ulaştı!, ~A istasyonumuza saldırıyor!"
 
 msgid "event_invaders_retaliate_warn"
 msgstr ""
+"%s bize karşı misilleme yapıyor! %s adlı saldırı grubu istasyona yaklaşıyor. "
+"Hazır olun!"
 
 msgid "event_invaders_warn4c"
 msgstr ""
+"Biz %s adlı saldırı grubunun %s gezegeninden istasyonumuza doğru yola "
+"çıktığını öğrendik. Hazır olun!"
 
 msgid "event_kowka_warn"
 msgstr "Кedi kowka meraklı bir kedi ve burada arkadaşlarının durumunu kontrol eder. Hala arkadaş mısın? Onlar buradayken ordusu istasyonunuz çevresini koruyacaktır."
@@ -1676,15 +1680,24 @@ msgstr "Parazit kraliçe gizlendiği yerden çıktı!"
 
 msgid "event_pest_warn"
 msgstr ""
+"Bir parazit istasyona musallat oldu. Kraliçelerini ortaya çıkarmak için "
+"yeterli kadarını yokedin. Yaratıklar tarafsızdır ve saldırmak için elle "
+"hedefe emredin."
 
 msgid "event_pirates_reveal"
 msgstr ""
+"Korsanlar ilk olarak belirdi! Onların Sizin başarınız onların gözlerini "
+"kamaştırdı. Onlar mallarınızdan pay paylaşmanızı isteyebilirler, ve "
+"yağmalamak için sizi düşman edinirler."
 
 msgid "event_progress"
 msgstr "Görev gelişimi: %s"
 
 msgid "event_robots_reveal"
 msgstr ""
+"Robotlar ilk kez belirdi! Robotlar için çalışma standartlarınız "
+"özelleştirdiniz mı? Bunu kontrol etmek için gelecekler. Ve hiçbir şekilde "
+"memnun olmayacaklardır, emin olun."
 
 msgid "event_timer"
 msgstr "Kalan süre: %s"
@@ -1700,6 +1713,9 @@ msgstr "Xenomorphs yumurtladı!"
 
 msgid "event_xenos_warn"
 msgstr ""
+"İstasyonda xenomorph yumurtası bulundu! Doğmadan bir an önce yok edilmeli, "
+"yoksa sonuçlarına katlanırsınız. Yumurtalar tarafsızdır ve elle emirle "
+"vererek hedefe saldırılmalı."
 
 msgid "excessive_machine"
 msgstr "Zevk ölçüm makinası"
@@ -1735,7 +1751,7 @@ msgid "expectations_very_high"
 msgstr "Yüksek umut"
 
 msgid "exploration"
-msgstr ""
+msgstr "Keşif"
 
 msgid "explore"
 msgstr "Keşfet"
@@ -1753,55 +1769,55 @@ msgid "exploring"
 msgstr "Keşfediliyor"
 
 msgid "export_current_rate"
-msgstr ""
+msgstr "Satış fiyat izlenimi"
 
 msgid "extractor_info"
 msgstr "Hammaddeleri toplar:"
 
 msgid "eyedropper_hint"
-msgstr ""
+msgstr "Alt tuşu basılı iken nesneye tıkla kopyasını kur"
 
 msgid "facilities_tier_1"
-msgstr ""
+msgstr "Temel istasyon"
 
 msgid "facilities_tier_10"
-msgstr ""
+msgstr "Ekipman aşaması 21-25"
 
 msgid "facilities_tier_11"
-msgstr ""
+msgstr "Ekipman aşaması 26-25"
 
 msgid "facilities_tier_12"
-msgstr ""
+msgstr "Ekipman aşaması 31-35"
 
 msgid "facilities_tier_13"
-msgstr ""
+msgstr "Ekipman aşaması 36-40"
 
 msgid "facilities_tier_2"
-msgstr ""
+msgstr "Ekipman aşaması 1-5"
 
 msgid "facilities_tier_3"
-msgstr ""
+msgstr "Robotsu temel"
 
 msgid "facilities_tier_3b"
-msgstr ""
+msgstr "Ziyaretçi limanı"
 
 msgid "facilities_tier_4"
-msgstr ""
+msgstr "Ekipman aşaması 6-10"
 
 msgid "facilities_tier_5"
-msgstr ""
+msgstr "Temel güvenlik"
 
 msgid "facilities_tier_6"
-msgstr ""
+msgstr "Lojistikler"
 
 msgid "facilities_tier_7"
-msgstr ""
+msgstr "Ekipman aşaması 11-15"
 
 msgid "facilities_tier_8"
-msgstr ""
+msgstr "Ekipman aşaması 16-20"
 
 msgid "facilities_tier_9"
-msgstr ""
+msgstr "Gelişmiş güvenlik"
 
 msgid "factory"
 msgstr "Fabrika"
@@ -1819,34 +1835,34 @@ msgid "fancy_clothes"
 msgstr "Fantazi giyim"
 
 msgid "feet_01"
-msgstr ""
+msgstr "Karışım kaynak botları"
 
 msgid "feet_02"
-msgstr ""
+msgstr "EVA takım botları"
 
 msgid "feet_03"
 msgstr "Asker botları"
 
 msgid "feet_04"
-msgstr ""
+msgstr "Kaplama botlar"
 
 msgid "feet_05"
-msgstr ""
+msgstr "Pilot botlar"
 
 msgid "feet_06"
-msgstr ""
+msgstr "Siber V81"
 
 msgid "feet_07"
-msgstr ""
+msgstr "Güçlenmiş botlar"
 
 msgid "feet_08"
 msgstr "Ayrılan botlar"
 
 msgid "feet_09"
-msgstr ""
+msgstr "Ağır görev botları"
 
 msgid "feet_10"
-msgstr ""
+msgstr "Şokbotları 1.1"
 
 msgid "feet_item"
 msgstr "Ayak giyimi"
@@ -1870,10 +1886,10 @@ msgid "file_manager"
 msgstr "Dosya yöneticisi"
 
 msgid "filter_ship_assigned"
-msgstr ""
+msgstr "Gemi atanmış"
 
 msgid "filter_ship_not_assigned"
-msgstr ""
+msgstr "Gemi atanmamış"
 
 msgid "filtered_water"
 msgstr "Arınık su"
@@ -1906,7 +1922,7 @@ msgid "flee_desc"
 msgstr "Dehşete kapılmış"
 
 msgid "flee_short_desc"
-msgstr ""
+msgstr "Tehlikeden kaçınma"
 
 msgid "fleet"
 msgstr "Gemi Kokpiti"
@@ -1978,7 +1994,7 @@ msgid "freaking_out"
 msgstr "Çıldırdı"
 
 msgid "frozen_planet"
-msgstr ""
+msgstr "Donuk gezegen"
 
 msgid "fruits"
 msgstr "Meyveler"
@@ -2017,7 +2033,7 @@ msgid "fullscreen"
 msgstr "Tam Ekran"
 
 msgid "fullscreen_exclusive"
-msgstr ""
+msgstr "Gecikmeli"
 
 msgid "fun"
 msgstr "Eğlence"
@@ -2035,7 +2051,7 @@ msgid "fun_feeling_low_desc"
 msgstr "Ortam çok sıkıcı"
 
 msgid "gaia_planet"
-msgstr ""
+msgstr "Evrimsi gezegen"
 
 msgid "galaxy"
 msgstr "Evren"
@@ -2047,10 +2063,10 @@ msgid "galaxy_filter_cvis"
 msgstr "Irkları göster"
 
 msgid "galaxy_filter_imports"
-msgstr ""
+msgstr "Gezegen alımları göster"
 
 msgid "galaxy_filter_imports2"
-msgstr ""
+msgstr "Alınmış ürünler: %s"
 
 msgid "galaxy_filter_none"
 msgstr "Sadece evren"
@@ -2062,7 +2078,7 @@ msgid "galaxy_filter_reps"
 msgstr "Irklar"
 
 msgid "galaxy_filter_resources2"
-msgstr ""
+msgstr "Satılmış hammadeler: %s"
 
 msgid "galaxy_filter_show_civ_ships"
 msgstr "Irkların gemilerini gizle"
@@ -2164,7 +2180,7 @@ msgid "gardening"
 msgstr "Bahçecilik"
 
 msgid "gas_planet"
-msgstr ""
+msgstr "Gaz gezegen"
 
 msgid "gastrodisaster"
 msgstr "Mide fesadı"
@@ -2192,9 +2208,11 @@ msgstr "Hala kapılardan geçebilir miyim?"
 
 msgid "global_max_export_amount_desc"
 msgstr ""
+"Hammadeleri çıkaran gemiler, istasyonda belirtiğiniz stok sayılarına "
+"ulaştığınız hammadde çıkan gezegenleri teğet geçer."
 
 msgid "global_max_import_amount"
-msgstr ""
+msgstr "Max stok"
 
 msgid "global_min_stock_amount"
 msgstr "En az stok"
@@ -2205,7 +2223,7 @@ msgstr ""
 "genel yapın"
 
 msgid "global_recipes_inv_hint"
-msgstr ""
+msgstr "Envanter ekranında genelde kalacak stoğun en az sayısını ayarlayın"
 
 msgid "goal_bartender1_desc"
 msgstr "Barmenler 42 içecek servis eder ama içkiler ve haplar evrene geliş amacımız değildir."
@@ -2380,10 +2398,10 @@ msgid "goal_galaxy1_title"
 msgstr "3 yıldız sistemi aç"
 
 msgid "goal_imports1_desc"
-msgstr ""
+msgstr "Bir ırka ait gezegene 50 parça üretim, gemi(lerin) ile sat."
 
 msgid "goal_imports1_title"
-msgstr ""
+msgstr "50 yük dağıtım yap."
 
 msgid "goal_imports2_desc"
 msgstr "Herhangi üretilmiş ürünlerden 500 adet gemilerinle diğer ırklara sat."
@@ -2752,7 +2770,7 @@ msgid "hands_05"
 msgstr "Asker eldivenleri"
 
 msgid "hands_06"
-msgstr "Etkili kaynak eldivenler"
+msgstr "Karışım kaynak eldivenleri"
 
 msgid "hands_07"
 msgstr "EVA takım eldivenler"
@@ -2992,7 +3010,7 @@ msgid "implant_03"
 msgstr "Artı-refleks"
 
 msgid "implant_04"
-msgstr "Hafif artı-refleks "
+msgstr "Hafif artı-refleks"
 
 msgid "implant_05"
 msgstr "Adrenalin geçişi"
@@ -3194,8 +3212,8 @@ msgid "invasion_mission_can_invade"
 msgstr ""
 "Düşmana yeterince zarar verip düşman gezegeni istila edebilirsiniz. Yanımda "
 "işlem sayacını kontrol et, %100 hasar verme olunca, gezegeni istila etmiş "
-"olursunuz.  Bu toplayıcılarımızın zarar görmemesini sağlar biz ayrıldıktan "
-"sonra.  "
+"olursunuz.  Bu toplayıcılarınızın zarar görmemesini sağlar biz ayrıldıktan "
+"sonra."
 
 msgid "invasion_mission_can_liberate"
 msgstr ""
@@ -3419,16 +3437,16 @@ msgid "kowka_guard_desc"
 msgstr "Kedi kowka'nin kişisel robot ordusu istasyonunuza yardım ediyor"
 
 msgid "lactian_adjective"
-msgstr "Lactian %s"
+msgstr "Sarıklı %s"
 
 msgid "lactian_adjective2"
-msgstr "Lactian ~A"
+msgstr "Sarıklı ~A"
 
 msgid "lactian_member"
-msgstr "Lactian"
+msgstr "Sarıklı"
 
 msgid "lactians_name"
-msgstr "Lactianlar"
+msgstr "Sarıklılar"
 
 msgid "landing"
 msgstr "İnişe geçiyor..."
@@ -3840,16 +3858,16 @@ msgid "neutral"
 msgstr "Doğal"
 
 msgid "neutral_adjective"
-msgstr "Sakin %s"
+msgstr "Tarafsız %s"
 
 msgid "neutral_adjective2"
-msgstr "Sakin ~A"
+msgstr "Tarafsız ~A"
 
 msgid "neutral_member"
-msgstr "Doğal"
+msgstr "Tarafsız"
 
 msgid "neutral_name"
-msgstr "Sakin"
+msgstr "Tarafsızlar"
 
 msgid "new_game"
 msgstr "Yeni Oyun"
@@ -4080,16 +4098,16 @@ msgid "npc_colonycrusantian04"
 msgstr "Sömürgeci Karınca"
 
 msgid "npc_colonylactian01"
-msgstr "Lactian rahip"
+msgstr "Sarıklı rahip"
 
 msgid "npc_colonylactian02"
-msgstr "Lactian hizmetli"
+msgstr "Sarıklı hizmetlisi"
 
 msgid "npc_colonylactian03"
-msgstr "Lactian asker"
+msgstr "Sarıklı askeri"
 
 msgid "npc_colonylactian04"
-msgstr "Lactian tankı"
+msgstr "Sarıklı tankı"
 
 msgid "npc_colonylemurian01"
 msgstr "Kürekçi lemur"
@@ -4353,7 +4371,9 @@ msgid "nuclearkitchen"
 msgstr "Nükleer ocak"
 
 msgid "nuclearkitchen_desc"
-msgstr "Sadece en çok yemek hazırlamış aşçılar bu ocağa yaklaşabilir.Bu ocağın yemeklerinin tadına bu evrende daha önce rastlanmadı."
+msgstr ""
+"Sadece en çok yemek hazırlamış aşçılar bu ocağa yaklaşabilir. Bu ocağın "
+"yemeklerinin tadı evrenin dışıdır."
 
 msgid "obj_alienegg"
 msgstr "Xenormorfo yumurtası"
@@ -4656,13 +4676,13 @@ msgid "obj_in_way"
 msgstr "Engel olan nesneler var, önce onları kaldırın."
 
 msgid "obj_lactianbanner"
-msgstr "Lactian afiş"
+msgstr "Sarıklı afişi"
 
 msgid "obj_lactianidol01"
-msgstr "Lactian idolü"
+msgstr "Sarıklı putu"
 
 msgid "obj_lactianidol02"
-msgstr "Lactian idolü"
+msgstr "Sarıklı putu"
 
 msgid "obj_lemurianbox01"
 msgstr "Kutular"
@@ -5678,7 +5698,7 @@ msgstr ""
 "onları ziyaret ederseniz."
 
 msgid "rep_neutral"
-msgstr "Tarafsız old"
+msgstr "Tarafsız"
 
 msgid "rep_neutral_plus_desc"
 msgstr ""
@@ -6159,21 +6179,21 @@ msgid "self_destroy"
 msgstr "Düşmanlara zarar vermek için bir patlat. Yangın çıkarabilir."
 
 msgid "sell_to"
-msgstr "@ui_icon_30px_sell.png satışı %s"
+msgstr "@ui_icon_30px_sell.png %s satılan"
 
 msgid "set target to ~A"
 msgstr "Seçilen hedef: ~A"
 
 msgid "set_group_target_cc_label"
 msgstr ""
-"Sol tuş tık yada sol sürükleyerek tercih edilen grubu  kalabalığı kontrol "
+"Sol tuş tık yada sol sürükleyerek tercih edilen grubun kalabalığı kontrol "
 "edin\n"
 "Shift basılı ise tarafsız birimleri de seçime dahil edilir."
 
 msgid "set_group_target_damage_label"
 msgstr ""
-"Sol tuş tık yada sol sürükleyerek tercih edilen grubun saldırı hedefi yapın\n"
-"Shift basılı ise tarafsız birimleri de seçime dahil edilir."
+"Sol tuş tık yada sol sürükleyerek tercih edilen grubu saldırı hedefi yapın\n"
+"Shift basılı ise tarafsız birimler de seçime dahil edilir."
 
 msgid "set_group_target_heal_label"
 msgstr ""
@@ -6195,17 +6215,17 @@ msgstr "Kalabalık kontrol hedefi"
 
 msgid "set_target_cc_label"
 msgstr ""
-"Sol tuş tık yada sol sürükleyerek~A ile  tercih edilen kalabalığı kontrol "
+"Sol tuş tık yada sol sürükleyerek ~A ile  tercih edilen kalabalığı kontrol "
 "edin\n"
-"Shift basılı ise tarafsız birimleri de seçime dahil edilir."
+"Shift basılı ise tarafsız birimler de seçime dahil edilir."
 
 msgid "set_target_damage"
 msgstr "Saldırı hedefi"
 
 msgid "set_target_damage_label"
 msgstr ""
-"Sol tuş tık yada sol sürükleyerek~A ile  tercih edilen hedefe saldırın\n"
-"Shift basılı ise tarafsız birimleri de seçime dahil edilir."
+"Sol tuş tık yada sol sürükleyerek ~A ile  tercih edilen hedefe saldırın\n"
+"Shift basılı ise tarafsız birimler de seçime dahil edilir."
 
 msgid "set_target_heal"
 msgstr "İyileştirilen hedef"
@@ -6320,7 +6340,7 @@ msgid "ship_kind_intervention"
 msgstr "Yunus"
 
 msgid "ship_kind_lactian"
-msgstr "Lactiana gemisi"
+msgstr "Sarıklı gemisi"
 
 msgid "ship_kind_lemurian"
 msgstr "Lemur gemisi"
@@ -6352,7 +6372,7 @@ msgid "ship_not_available_empty"
 msgstr "Gemide eleman yok"
 
 msgid "ship_not_available_empty_only_home"
-msgstr "Gemiyi kullanacak eleman yok sadece geri dönebilir old"
+msgstr "Gemiyi kullanacak tayfa yok ve sadece istasyona geri dönebilir."
 
 msgid "ship_not_available_full_morale"
 msgstr "Elemanlarınızdan birinin morali bozuk"
@@ -7102,7 +7122,9 @@ msgid "tutorial_galaxy_basics_6"
 msgstr "Keşfet butonuna basarak keşfe başla. Gezegen ekranına ulaşabileceksin ve temel gezegen işlerine öğrenmeye başlayabilirsin."
 
 msgid "tutorial_galaxy_basics_7"
-msgstr "Temel olarak hepsi bu kadar! Gezegendeyken Ham madde nasıl çıkarılır öğrenin,sonra Otopilotu uygulayın. Menüye tıkla."
+msgstr ""
+"Temel olarak hepsi bu kadar! Gezegende iken hammadde nasıl çıkarılır "
+"öğrenin, sonra Otopilot dersini uygulayın. Menüye tıkla."
 
 msgid "tutorial_galaxy_title"
 msgstr "Galaksi dersi"
@@ -7285,7 +7307,8 @@ msgstr ""
 
 msgid "tutorial_station_building_2"
 msgstr ""
-"Zemin kur tuşu sadece planı çizer istasyon üzerinde\\n"
+"Zemin kur tuşunu sürükleyip bıraktığınızda istasyon zemini üzerine sadece "
+"planı çizer. \n"
 "Sol mouse tuşunu iki nokta arasında sürükleyin."
 
 msgid "tutorial_station_building_2_b"
@@ -7974,10 +7997,10 @@ msgid "in_progress_p"
 msgstr "İşlemde: %d/%d"
 
 msgid "lactian_leaflets"
-msgstr "Lactian yaprakları"
+msgstr "Sarıklı buroşürleri"
 
 msgid "lactian_leaflets_desc"
-msgstr "Tüm övgüler Lactusa, bizim kutsal süt. Geridönüştürülebilir."
+msgstr "Tüm övgüler Sarıklılara, bizim kutsal süt. Geridönüştürülebilir."
 
 msgid "object_power_level"
 msgstr "Güç seviyesi"
@@ -8034,3 +8057,62 @@ msgstr ""
 "daha fazlasını koymak elemanlarınızın sessiz bir yemek yemeye çalışırken "
 "rahatsız edecektir. İstasyonunuzu büyüttüğünüzde mutfak ocaklarınızı ayrı "
 "bir odaya taşımayı düşünün."
+
+msgid "event_lactian_spam_warn"
+msgstr ""
+"Sarıklı tarikatı, yeni bir evren tarikatı ki, gizemli süt varlığına "
+"inandırmaya çalışıyorlar istasyonunuzu. Şimdilik niyetleri sadece zararsızca "
+"broşürler dağıtmak gibi gözüküyor (değil mi?). Onlara istediğin gibi davran, "
+"yada onların gitmesini bekle."
+
+msgid "event_raid_alert"
+msgstr "Saldırgan bir grup yanaştı! ~A istasyonumuza saldırıyor!"
+
+msgid "event_raid_retaliate_warn"
+msgstr ""
+"%s bize misilleme yapıyor! Bir saldırgan grup gezegen %s tarafından "
+"istasyonumuza yaklaşıyor. Hazır olun!"
+
+msgid "event_raid_warn4c"
+msgstr ""
+"Raporlar, %s saldırgan grubun %s gezegeninden istasyonumuza doğru "
+"yaklaştığını bildiriyor. Hazırlıklı olun!"
+
+msgid "facilities_tier_9b"
+msgstr "Robotlu güvenlik"
+
+msgid "filter_ship_named"
+msgstr "Gemi: %s"
+
+msgid "fire_officer"
+msgstr "Eleman kov"
+
+msgid "goal_bartender2_desc"
+msgstr ""
+"Sizin barmenleriniz 420 içecek satarlar. Ama gerçekten, sarhoşluk evrende "
+"cevapsız kalmaktır."
+
+msgid "goal_bartender2_title"
+msgstr "Barda 420 içki sat."
+
+msgid "goal_consumerism2_desc"
+msgstr ""
+"500 üretimi reyonlardan ziyaretçilere satarsın. Reyon ürünler dışında olan "
+"yeme, içme ve kullanım makinaları bunlar sayılmayacak."
+
+msgid "goal_consumerism2_title"
+msgstr "Ziyaretçilere 500 ürün sat."
+
+msgid "goal_consumerism3_desc"
+msgstr ""
+"3000 üretimi reyonlardan ziyaretçilere satarsın. Reyon ürünler dışında olan "
+"yeme, içme ve kullanım makinaları bunlar sayılmayacak."
+
+msgid "goal_consumerism3_title"
+msgstr "Ziyaretçilere 3000 ürün sat."
+
+msgid "goal_doctor2_desc"
+msgstr "200 hastaya doktorlar müdahale eder."
+
+msgid "goal_doctor2_title"
+msgstr "200 hasta iyileştir"
