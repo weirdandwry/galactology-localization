@@ -1,3 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-12 21:15+0000\n"
+"PO-Revision-Date: 2018-02-12 21:15+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
+"Language-Team: French "
+"<http://translate.weirdandwry.com/projects/galactology/game/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 2.18\n"
+
 msgid "Luxury_kitchen_desc"
 msgstr "Le nec plus ultra en matière de cuisine est préparé ici"
 
@@ -1637,7 +1653,10 @@ msgid "event_progress"
 msgstr "Progression de l'évènement: %s"
 
 msgid "event_robots_reveal"
-msgstr "Les Robots se sont révélés au grand jour! Vos normes de travail pour les robots sont-elles à la hauteur? Ils viendront vérifier, c'est sûr. Et ils ne vont pas aimer, c'est sûr."
+msgstr ""
+"Les Robots se sont révélés au grand jour ! Vos normes de travail pour les "
+"robots sont-elles à la hauteur ? Ils viendront vérifier, c'est certain. Et "
+"ils ne vont pas aimer, c'est certain."
 
 msgid "event_timer"
 msgstr "Temps restant: %s"
@@ -7212,6 +7231,14 @@ msgstr "Dans ce panneau, vous pouvez ajuster les paramètres dy système de cons
 
 msgid "tutorial_station_stocks_9"
 msgstr ""
+"Ce présentoir à nourriture va maintenant commencer à stocker les rations. "
+"Vos officiers y livreront les rations jusqu'au montant maximum défini. Loin "
+"de vos centre de productions, les objets d'aide au stockage aident à la "
+"distribution efficace de vos produits et ressources. Ils permettent aussi la "
+"vente de produits aux visiteurs lorsque vous les autoriserez à accéder à la "
+"station.\n"
+"Observons-en deux autres.\n"
+"Sélectionnez l'outil Construction d'objet."
 
 msgid "tutorial_station_title"
 msgstr "Didacticiel sur la station"
@@ -7648,3 +7675,212 @@ msgstr "Zoomer"
 msgid "zoom_out"
 msgstr "Dézoomer"
 
+msgid "available"
+msgstr "Disponible"
+
+msgid "cant_build_needs_outside"
+msgstr "Nécessite une zone en extérieur"
+
+msgid "cargo_label"
+msgstr "Soute :"
+
+msgid "cargo_value"
+msgstr "%d unités"
+
+msgid "ceilingshield_1"
+msgstr "Bouclier de plafond"
+
+msgid "ceilingshield_desc"
+msgstr ""
+"Créée un petit bouclier de dégâts lorsqu'un ennemi est détecté, avec un "
+"temps de recharge"
+
+msgid "ceilingturret_1"
+msgstr "Tourelle de plafond basique"
+
+msgid "ceilingturret_2"
+msgstr "Tourelle de plafond améliorée"
+
+msgid "ceilingturret_3"
+msgstr "Tourelle de plafond avancée"
+
+msgid "civ_ui_resources"
+msgstr "@ui_icon_30px_buy.png Ressources"
+
+msgid "crew_label"
+msgstr "Équipage :"
+
+msgid "crew_value"
+msgstr "%s emplacements"
+
+msgid "dock_needs_space"
+msgstr "Objets trop près"
+
+msgid "enable_critical_speed"
+msgstr "Met la vitesse du jeu sur 1x lors d'alertes criiques"
+
+msgid "event_lactian_spam_warn"
+msgstr ""
+"Des membres de l'Église de Lactus, un nouveau culte galactique vénérant une "
+"mystérieuse entité lactée, font du prosélytisme sur votre station. Ils ne "
+"semblent transporter que des prospectus (mais est-ce vraiment le cas ?). "
+"Occupez-vous d'eux comme bon vous semble, ou attendez simplement qu'ils s'en "
+"aillent."
+
+msgid "event_raid_alert"
+msgstr "Un groupe de pillard est arrivé ! ~A attaque notre station !"
+
+msgid "event_raid_retaliate_warn"
+msgstr ""
+"%s ripostent contre nous ! Un groupe de pillards venant de %s approche de "
+"notre station. Soyez prêts !"
+
+msgid "event_raid_warn4c"
+msgstr ""
+"Nous avons reçu des rapports sur un groupe de pillards %s venant de %s "
+"approchant de notre station. Soyez prêts !"
+
+msgid "export_rates_desc"
+msgstr ""
+"Voici les prix à l'unité que vous paierez pour extraire des ressources des "
+"planètes des civilisations."
+
+msgid "facilities_tier_9b"
+msgstr "Sécurité robotique"
+
+msgid "filter_ship_named"
+msgstr "Vaisseau : %s"
+
+msgid "fire_officer"
+msgstr "Renvoyer l'officier"
+
+msgid "goal_bartender2_desc"
+msgstr ""
+"Vos barmen doivent servir 420 boissons au bar. Mais vraiment, la drogue "
+"n'est pas la réponse à l'univers.\n"
+
+msgid "goal_bartender2_title"
+msgstr "Servir 420 boissons au bar"
+
+msgid "goal_consumerism2_desc"
+msgstr ""
+"Vendez 500 choses aux visiteurs, à l'aide d'objets de boutique. Seuls les "
+"objets de consommation sont comptés, les objets vitaux tels que la "
+"nourriture ne comptent pas pour cet objectif."
+
+msgid "goal_consumerism2_title"
+msgstr "Vendre 500 choses aux visiteurs"
+
+msgid "goal_consumerism3_desc"
+msgstr ""
+"Vendez 3000 choses aux visiteurs, à l'aide d'objets de boutique. Seuls les "
+"objets de consommation sont comptés, les objets vitaux tels que la "
+"nourriture ne comptent pas pour cet objectif."
+
+msgid "goal_consumerism3_title"
+msgstr "Vendre 3000 choses aux visiteurs"
+
+msgid "goal_doctor2_desc"
+msgstr "Vos médecins doivent s'occuper de 200 patients dans des lits d'hôpital"
+
+msgid "goal_doctor2_title"
+msgstr "Soignez 200 patients"
+
+msgid "goal_itemprod3_desc"
+msgstr ""
+"Fabriquez 200 objets de n'importe quel type et de n'importe quel niveau."
+
+msgid "goal_itemprod3_title"
+msgstr "Fabriquer 200 objets"
+
+msgid "goal_planet5_desc"
+msgstr "Atterrissez au moins 3 fois sur des planètes de niveau 30 ou plus"
+
+msgid "goal_planet5_title"
+msgstr "Atterrir 3 fois sur des planètes niveau 30"
+
+msgid "goal_recycle3_desc"
+msgstr ""
+"Recyclez 150 corps. Assurez-vous d'avoir au moins un recycleur et que la "
+"tâche nettoyage est activée chez certains de vos officiers. Ouais, c'est ça, "
+"repose en paix."
+
+msgid "goal_recycle3_title"
+msgstr "Recycler 150 corps"
+
+msgid "goal_shipbuild3_desc"
+msgstr ""
+"Construisez 8 vaisseaux en utilisant le planificateur de construction de "
+"vaisseaux et les bureaux de travail sur vaisseau."
+
+msgid "goal_shipbuild3_title"
+msgstr "Construire 8 vaisseaux"
+
+msgid "group_facilities2"
+msgstr "Aménagements"
+
+msgid "in_progress_p"
+msgstr "En cours : %d/%d"
+
+msgid "lactian_leaflets"
+msgstr "Prospectus lactiens"
+
+msgid "lactian_leaflets_desc"
+msgstr "Gloire à Lactus, notre lait sacré. Peut être recyclé."
+
+msgid "object_power_level"
+msgstr "Niveau de puissance"
+
+msgid "securitydoor2"
+msgstr "Porte à champ de force"
+
+msgid "securitydoor2_desc"
+msgstr ""
+"Porte quasi impénétrable. Permet de tenir les visiteurs éloignés des salles "
+"de stockage et de production."
+
+msgid "shielder_1"
+msgstr "Bouclier basique"
+
+msgid "shielder_2"
+msgstr "Bouclier amélioré"
+
+msgid "shielder_3"
+msgstr "Bouclier avancé"
+
+msgid "shielder_desc"
+msgstr ""
+"Créée un grand bouclier de dégâts lorsqu'un ennemi est détecté, avec un "
+"temps de récupération."
+
+msgid "ship_skills_label"
+msgstr "Compétences : "
+
+msgid "speed_label"
+msgstr "Vitesse :"
+
+msgid "speed_value"
+msgstr "~0,2F mParsec/s"
+
+msgid "turret_1"
+msgstr "Tourelle basique"
+
+msgid "turret_2"
+msgstr "Tourelle améliorée"
+
+msgid "turret_3"
+msgstr "Tourelle avancée"
+
+msgid "turret_4"
+msgstr "Ultra tourelle"
+
+msgid "turret_desc"
+msgstr "Une tourelle à gros calibre"
+
+msgid "tutorial_station_object_tool_7b"
+msgstr ""
+"À propos du bruit : Bien que cette petite combinaison d'une cuisine et d'une "
+"table passe au début d'une station, mettre deux cuisines ou plus dans la "
+"même pièce gênera les officiers voulant prendre un repas dans le calme. "
+"Considérez la construction d'une salle à part pour la cuisine lorsque votre "
+"station grossira."
