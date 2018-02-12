@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-12 09:03+0000\n"
-"PO-Revision-Date: 2018-02-12 17:37+0000\n"
-"Last-Translator: Carlos <info@weirdandwry.com>\n"
+"PO-Revision-Date: 2018-02-12 21:15+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: Turkish "
 "<http://translate.weirdandwry.com/projects/galactology/web/tr/>\n"
 "Language: tr\n"
@@ -149,13 +149,13 @@ msgid "com.weirdandwry.galactology.achievement.brewer_desc"
 msgstr "Micro işlemcisiz bira üretir"
 
 msgid "com.weirdandwry.galactology.achievement.builder_desc"
-msgstr "Satın alırsanız, gelecekler"
+msgstr "Kuracak olursanız, geleceklerdir"
 
 msgid "com.weirdandwry.galactology.achievement.nothingwasted_desc"
-msgstr "Tadı tabuk gibi"
+msgstr "Tadı tavuk gibi"
 
 msgid "com.weirdandwry.galactology.achievement.disco_desc"
-msgstr "Zatürenin iyi türü"
+msgstr "Başınızın ağrısı çekmenin iyi türü"
 
 msgid "com.weirdandwry.galactology.achievement.popular_desc"
 msgstr "Bu turistler gelmeden önce iyiydi"
@@ -167,19 +167,19 @@ msgid "com.weirdandwry.galactology.achievement.provider_desc"
 msgstr "Galaksi ürünlerinize bağımlı oluyor"
 
 msgid "com.weirdandwry.galactology.achievement.er_desc"
-msgstr "Keseye burada izin verilmiyor"
+msgstr "Şuruplara burada izin verilmiyor"
 
 msgid "com.weirdandwry.galactology.achievement.wateringhole_desc"
 msgstr "Güneş doğana kadar içelim"
 
 msgid "com.weirdandwry.galactology.achievement.farandwide_desc"
-msgstr "Evrenin  en uzaklarında"
+msgstr "Evrenin en uzaklarına ulaşmak"
 
 msgid "com.weirdandwry.galactology.achievement.bestdefense_desc"
 msgstr "Hücumdur"
 
 msgid "com.weirdandwry.galactology.achievement.capitalism_desc"
-msgstr "İhtiyacsızken bilmediğin şeyi sana satmak"
+msgstr "İhtiyaç yokken bilmediğin şeyi sana satması"
 
 msgid "com.weirdandwry.galactology.achievement.starfleet_desc"
 msgstr "Teklifi cesurca bir değil iki kere kullanmaktır oyunda"
@@ -188,7 +188,7 @@ msgid "com.weirdandwry.galactology.achievement.masters_desc"
 msgstr "Takdir aldı!"
 
 msgid "com.weirdandwry.galactology.achievement.pretaporter_desc"
-msgstr "Evrende en iyi giyinmiş tayfa."
+msgstr "Evrende en iyi giyinmiş tayfa"
 
 msgid "com.weirdandwry.galactology.achievement.plundering_desc"
-msgstr "Savaş ganimetleri senindir."
+msgstr "Savaş ganimetleri senindir"
