@@ -1,36 +1,155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-12 17:33+0000\n"
+"PO-Revision-Date: 2018-02-12 17:33+0000\n"
+"Last-Translator: Carlos <info@weirdandwry.com>\n"
+"Language-Team: Spanish "
+"<http://translate.weirdandwry.com/projects/galactology/web/es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.18\n"
+
 msgid "web_desc_1"
 msgstr "[h2][b]Una nueva aventura para The Spatials![/b][/h2]\n\n"
-    "Dentro de cinco mil años la humanidad ha contactado con otras cilizaciones y ha colonizado nuevos mundos. La Federación Humana junto con sus amigos El Grupo Crusantiano quieren expandirse en una nueva area de la galaxia y te han elegido como el manager de la estación. The Spatials es el nombre de tu facción y tu misión es construir la colonia con más éxito de la galaxia, al precio que sea.\n\n"
-    "Harás amigos y enemigos. Dirige tu estación como una máquina bien engrasada. No olvides los dormitorios y proveer a tu personal de todos los equipamientos que necesitan para vivir. En algún momento podrás ser tan famoso que visitantes de toda la galaxia querrán pasar unos días en tu estación, a cambio de deliciosos beneficios. Construye naves espaciales y explora otros mundos para encontrar valiosos recursos, y paga a tus civlizaciones amigas por ellos. O invade sus planetas y obtenlos por la fuerza, es tu elección. Pero prepárate para las consecuencias...\n\n"
-    "The Spatials: Galactology es The Spatials reimaginado como un juego de simulación más profundo y detallado.\n\n"
-    "[h2][b]Características principales[/b][/h2]\n"
-    "[list][*]Diseña una estación espacial y observa como tu personal la construye en tiempo real\n"
-    "[*]Coloniza la superficie de un planeta\n"
-    "[*]Más libertad para tus diseños: utiliza cualquier habitación para cualquier objeto, colorea el suelo como desees\n"
-    "[*]Paredes destruibles\n"
-    "[*]Refuerza la estación con nuevos edificios, directivas y personal\n"
-    "[*]Construye robots para ayudar a tu personal\n"
-    "[*]Explora una simulación detallada con muchos sistemas para descubrir: manufacturas, investigación, medicina, enfermedades, emociones, combate, hambre, sed, limpieza, ruina, ruido, estética, seguirdad, FUEGO!, y mucho más\n"
-    "[*]Controla logísticas complejas, incluyendo stocks e inventario\n"
-    "[*]Gana dinero para tu estación con su negocio de turismo y exportación\n"
-    "[*]Designa personal para investigación\n"
-    "[*]Turistas y personal tienen su propia mente. Asegúrate de cubrir sus necesidades!\n"
-    "[*]Construye hospitales para cuidar de los heridos y enfermos.\n"
-    "[*]Protege tu estación con cámaras, escáners y torretas\n"
-    "[*]Una galaxia aleatoria con más de 100 planetas\n"
-    "[*]Construye naves para explorar la galaxia\n"
-    "[*]Explora la superficie de planetas y asteriodes\n"
-    "[*]Combate en tiempo real, para hacer amigos o enemigos\n"
-    "[*]Encuentra recursos y civilizaciones\n"
-    "[*]Invade los planetas de tus enemigos para quedarte con sus recursos\n"
-    "[*]Establece rutas de comercio con tus aliados\n"
-    "[*]Descarga y desarrolla mods en Steam Workshop\n"
-    ""[/list]\n\n"
-    "[h2][b]Sobre Weird and Wry[/b][/h2]\n"
-    "Weird and Wry es un estudio de desarrollo de videojuegos fundado en 2014 por dos hermanos: Carlos y Max Carrasco. Carlos (el programador) y Max (el artista) comparte una pasión por los juegos de simulación y la jugabilidad clásica, que influyó claramente a [i]The Spatials[/i], su primer proyecto. Inspirado en los grandes juegos de simulación de los 90, [i]The Spatials[/i] combina un diseño clásico isométrico de construcción de bases con un sistema en tiempo real de combate y exploración. [i]The Spatials[/i] se lanzó en Steam en Marzo de 2015 y fue muy bien recibido. Gracias a su éxito y a sus fans, [i]The Spatials[/i] ahora tiene una segunda parte: [i]The Spatials: Galactology[/i], que actualiza el concepto original con una simulación más rica y detallada."
+"Dentro de cinco mil años la humanidad ha contactado con otras cilizaciones y ha colonizado nuevos mundos. La Federación Humana junto con sus amigos El Grupo Crusantiano quieren expandirse en una nueva area de la galaxia y te han elegido como el manager de la estación. The Spatials es el nombre de tu facción y tu misión es construir la colonia con más éxito de la galaxia, al precio que sea.\n\n"
+"Harás amigos y enemigos. Dirige tu estación como una máquina bien engrasada. No olvides los dormitorios y proveer a tu personal de todos los equipamientos que necesitan para vivir. En algún momento podrás ser tan famoso que visitantes de toda la galaxia querrán pasar unos días en tu estación, a cambio de deliciosos beneficios. Construye naves espaciales y explora otros mundos para encontrar valiosos recursos, y paga a tus civlizaciones amigas por ellos. O invade sus planetas y obtenlos por la fuerza, es tu elección. Pero prepárate para las consecuencias...\n\n"
+"The Spatials: Galactology es The Spatials reimaginado como un juego de simulación más profundo y detallado.\n\n"
+"[h2][b]Características principales[/b][/h2]\n"
+"[list][*]Diseña una estación espacial y observa como tu personal la construye en tiempo real\n"
+"[*]Coloniza la superficie de un planeta\n"
+"[*]Más libertad para tus diseños: utiliza cualquier habitación para cualquier objeto, colorea el suelo como desees\n"
+"[*]Paredes destruibles\n"
+"[*]Refuerza la estación con nuevos edificios, directivas y personal\n"
+"[*]Construye robots para ayudar a tu personal\n"
+"[*]Explora una simulación detallada con muchos sistemas para descubrir: manufacturas, investigación, medicina, enfermedades, emociones, combate, hambre, sed, limpieza, ruina, ruido, estética, seguirdad, FUEGO!, y mucho más\n"
+"[*]Controla logísticas complejas, incluyendo stocks e inventario\n"
+"[*]Gana dinero para tu estación con su negocio de turismo y exportación\n"
+"[*]Designa personal para investigación\n"
+"[*]Turistas y personal tienen su propia mente. Asegúrate de cubrir sus necesidades!\n"
+"[*]Construye hospitales para cuidar de los heridos y enfermos.\n"
+"[*]Protege tu estación con cámaras, escáners y torretas\n"
+"[*]Una galaxia aleatoria con más de 100 planetas\n"
+"[*]Construye naves para explorar la galaxia\n"
+"[*]Explora la superficie de planetas y asteriodes\n"
+"[*]Combate en tiempo real, para hacer amigos o enemigos\n"
+"[*]Encuentra recursos y civilizaciones\n"
+"[*]Invade los planetas de tus enemigos para quedarte con sus recursos\n"
+"[*]Establece rutas de comercio con tus aliados\n"
+"[*]Descarga y desarrolla mods en Steam Workshop\n"
+""[/list]\n\n"
+"[h2][b]Sobre Weird and Wry[/b][/h2]\n"
+"Weird and Wry es un estudio de desarrollo de videojuegos fundado en 2014 por dos hermanos: Carlos y Max Carrasco. Carlos (el programador) y Max (el artista) comparte una pasión por los juegos de simulación y la jugabilidad clásica, que influyó claramente a [i]The Spatials[/i], su primer proyecto. Inspirado en los grandes juegos de simulación de los 90, [i]The Spatials[/i] combina un diseño clásico isométrico de construcción de bases con un sistema en tiempo real de combate y exploración. [i]The Spatials[/i] se lanzó en Steam en Marzo de 2015 y fue muy bien recibido. Gracias a su éxito y a sus fans, [i]The Spatials[/i] ahora tiene una segunda parte: [i]The Spatials: Galactology[/i], que actualiza el concepto original con una simulación más rica y detallada."
 
 msgid "web_minidesc_1"
 msgstr "The Spatials han regresado con Galactology! Diseña, construye y protege tu estación de los muchos enemigos que vas a encontrar en la galaxia."
 
 msgid "web_workshop_1"
 msgstr "Busca y suscríbete a mods creados por la comunidad para The Spatials: Galactology."
+
+msgid "com.weirdandwry.galactology.achievement.chef_name"
+msgstr "Chef"
+
+msgid "com.weirdandwry.galactology.achievement.brewer_name"
+msgstr "Cervecero"
+
+msgid "com.weirdandwry.galactology.achievement.builder_name"
+msgstr "Constructor"
+
+msgid "com.weirdandwry.galactology.achievement.nothingwasted_name"
+msgstr "Nada desperdiciado"
+
+msgid "com.weirdandwry.galactology.achievement.disco_name"
+msgstr "Disco"
+
+msgid "com.weirdandwry.galactology.achievement.popular_name"
+msgstr "Popular"
+
+msgid "com.weirdandwry.galactology.achievement.wedeliver_name"
+msgstr "Cumplimos"
+
+msgid "com.weirdandwry.galactology.achievement.provider_name"
+msgstr "Proveedor"
+
+msgid "com.weirdandwry.galactology.achievement.er_name"
+msgstr "ER"
+
+msgid "com.weirdandwry.galactology.achievement.wateringhole_name"
+msgstr "Garito"
+
+msgid "com.weirdandwry.galactology.achievement.farandwide_name"
+msgstr "Lejos y a lo ancho"
+
+msgid "com.weirdandwry.galactology.achievement.bestdefense_name"
+msgstr "La mejor defensa"
+
+msgid "com.weirdandwry.galactology.achievement.capitalism_name"
+msgstr "Capitalismo"
+
+msgid "com.weirdandwry.galactology.achievement.starfleet_name"
+msgstr "Flota estelar"
+
+msgid "com.weirdandwry.galactology.achievement.masters_name"
+msgstr "Masters"
+
+msgid "com.weirdandwry.galactology.achievement.pretaporter_name"
+msgstr "Prêt-à-porter"
+
+msgid "com.weirdandwry.galactology.achievement.plundering_name"
+msgstr "Expolio"
+
+msgid "com.weirdandwry.galactology.achievement.chef_desc"
+msgstr "Trabaja duro en esas cocinas!"
+
+msgid "com.weirdandwry.galactology.achievement.brewer_desc"
+msgstr "Nada es micro en esta cervecería"
+
+msgid "com.weirdandwry.galactology.achievement.builder_desc"
+msgstr "Si tú lo construyes, acudirán"
+
+msgid "com.weirdandwry.galactology.achievement.nothingwasted_desc"
+msgstr "Sabe a pollo"
+
+msgid "com.weirdandwry.galactology.achievement.disco_desc"
+msgstr "La fiebre que mola"
+
+msgid "com.weirdandwry.galactology.achievement.popular_desc"
+msgstr "Estaba bien antes de que llegaran todos esos turistas"
+
+msgid "com.weirdandwry.galactology.achievement.wedeliver_desc"
+msgstr "Hay que mantener estos stocks saludables"
+
+msgid "com.weirdandwry.galactology.achievement.provider_desc"
+msgstr "La galaxia es adicta a tus productos"
+
+msgid "com.weirdandwry.galactology.achievement.er_desc"
+msgstr "Aquí no se permiten scrubs"
+
+msgid "com.weirdandwry.galactology.achievement.wateringhole_desc"
+msgstr "Bebamos hasta el amanecer"
+
+msgid "com.weirdandwry.galactology.achievement.farandwide_desc"
+msgstr "En los confines más remotos de la galaxia"
+
+msgid "com.weirdandwry.galactology.achievement.bestdefense_desc"
+msgstr "Es la ofensa"
+
+msgid "com.weirdandwry.galactology.achievement.capitalism_desc"
+msgstr "Vendiéndote lo que no sabías que no necesitabas"
+
+msgid "com.weirdandwry.galactology.achievement.starfleet_desc"
+msgstr ""
+"Audazmente utilizar los mismos cliches de sci-fi dos veces en el mismo juego"
+
+msgid "com.weirdandwry.galactology.achievement.masters_desc"
+msgstr "Has sacado un 10!"
+
+msgid "com.weirdandwry.galactology.achievement.pretaporter_desc"
+msgstr "La tripulación mejor vestida de la galaxia"
+
+msgid "com.weirdandwry.galactology.achievement.plundering_desc"
+msgstr "El expolio de la guerra es tuyo"
