@@ -78,7 +78,7 @@ msgid "advanced_soap"
 msgstr "Savon avancé"
 
 msgid "aesthetic_room"
-msgstr "Esthétique: %d"
+msgstr "Esthétique : %d"
 
 msgid "aesthetics"
 msgstr "Esthétique"
@@ -183,7 +183,7 @@ msgid "armory_pallet"
 msgstr "Palette d'armurerie"
 
 msgid "armory_stored_something"
-msgstr "Stocké: ~A"
+msgstr "Stocké : ~A"
 
 msgid "ascending"
 msgstr "Croissant"
@@ -201,13 +201,13 @@ msgid "attacked"
 msgstr "Attaqué"
 
 msgid "attacked_desc"
-msgstr "J'ai été attaqué!"
+msgstr "J'ai été attaqué !"
 
 msgid "attacking_desc"
 msgstr "Attaque l'ennemi"
 
 msgid "attributes_c"
-msgstr "Attributs:"
+msgstr "Attributs :"
 
 msgid "attrition_destroyed_object"
 msgstr "~A a été détruit par l'ennemi dans ~A"
@@ -237,7 +237,7 @@ msgid "auto_label"
 msgstr "AUTO"
 
 msgid "auto_owner_change"
-msgstr "Nouveau propriétaire: ~A"
+msgstr "Nouveau propriétaire : ~A"
 
 msgid "auto_translator"
 msgstr "Traducteur automatique"
@@ -258,7 +258,7 @@ msgid "bad_sleep_desc"
 msgstr "J'ai récement dormi sans lit"
 
 msgid "base_price_a"
-msgstr "Prix de base: @ui_icon_20px_credits04.png ~A"
+msgstr "Prix de base : @ui_icon_20px_credits04.png ~A"
 
 msgid "base_spec"
 msgstr "Spécialisation de base"
@@ -288,7 +288,7 @@ msgid "basic_soap"
 msgstr "Savon basique"
 
 msgid "beam_desc"
-msgstr "Cible unique; Rayon"
+msgstr "Cible unique ; Rayon"
 
 msgid "bed_plain2"
 msgstr "Lit de base"
@@ -381,10 +381,10 @@ msgid "bonbons"
 msgstr "Bonbons"
 
 msgid "bonus_amt_health"
-msgstr "Bonus: ~A santé"
+msgstr "Bonus : ~A santé"
 
 msgid "bonus_amt_power"
-msgstr "Bonus: ~A puissance"
+msgstr "Bonus : ~A puissance"
 
 msgid "bonus_health"
 msgstr "Bonus de santé"
@@ -456,7 +456,7 @@ msgid "build_collector"
 msgstr "Construisez un collecteur à proximité pour extraire cette ressource"
 
 msgid "build_color"
-msgstr "Couleur du sol de la salle:"
+msgstr "Couleur du sol de la salle :"
 
 msgid "build_corridor_desc"
 msgstr "Connecte les salles"
@@ -465,10 +465,10 @@ msgid "build_firefighter_robot"
 msgstr "Construire un robot pompier"
 
 msgid "build_floor"
-msgstr "Style du sol de la salle:"
+msgstr "Style du sol de la salle :"
 
 msgid "build_floors_label"
-msgstr "Style du sol de la salle:"
+msgstr "Style du sol de la salle :"
 
 msgid "build_groups"
 msgstr "Catégories d'objets"
@@ -501,7 +501,7 @@ msgid "build_object"
 msgstr "Construire des objets"
 
 msgid "build_objects_label"
-msgstr "Objets:"
+msgstr "Objets :"
 
 msgid "build_out_of_bounds"
 msgstr "En dehors de la zone valide de construction"
@@ -522,7 +522,7 @@ msgid "building"
 msgstr "Construction"
 
 msgid "building_info_shop"
-msgstr "Boutique: Permet aux visiteurs de payer pour les objets stockés ou pour les frais d'utilisation"
+msgstr "Boutique : Permet aux visiteurs de payer pour les objets stockés ou pour les frais d'utilisation"
 
 msgid "building_resources"
 msgstr "Ressources nécessaires"
@@ -636,7 +636,7 @@ msgid "cargo_hold"
 msgstr "Soute"
 
 msgid "cargo_n"
-msgstr "Soute: ~A unités"
+msgstr "Soute : ~A unités"
 
 msgid "cargo_robot"
 msgstr "Robot cargo"
@@ -780,7 +780,7 @@ msgid "civ_colony"
 msgstr "Colonie"
 
 msgid "civ_encountered"
-msgstr "Premier système stellaire de %s découvert! Vous pouvez à présent voir cette civilisation dans l'écran des civilisations"
+msgstr "Premier système stellaire de %s découvert ! Vous pouvez à présent voir cette civilisation dans l'écran des civilisations"
 
 msgid "civ_uninhabited"
 msgstr "Inhabité"
@@ -813,7 +813,7 @@ msgid "clone_chamber"
 msgstr "Cloneur d'assurance"
 
 msgid "clone_chamber_desc"
-msgstr "Crée automatiquement un clone de son officier assigné quand il/elle meurt, même à l'autre bout de la galaxie. L'objet est détruit après avoir produit le clone. Très fragile!"
+msgstr "Crée automatiquement un clone de son officier assigné quand il/elle meurt, même à l'autre bout de la galaxie. L'objet est détruit après avoir produit le clone. Très fragile !"
 
 msgid "cocktail"
 msgstr "Cocktail"
@@ -864,16 +864,16 @@ msgid "complete"
 msgstr "Complet"
 
 msgid "confirm_cancel_research"
-msgstr "Êtes-vous sûr? Si vous annulez cette recherche vous perdrez les points de recherche en cours."
+msgstr "Êtes-vous sûr ? Si vous annulez cette recherche vous perdrez les points de recherche en cours."
 
 msgid "confirm_cancel_ship_construction"
-msgstr "Êtes-vous sûr? Si vous annulez, tout le travail et les ressources déjà terminés seront perdus."
+msgstr "Êtes-vous sûr ? Si vous annulez, tout le travail et les ressources déjà terminés seront perdus."
 
 msgid "confirm_evolve_officer"
-msgstr "Promouvoir ~A vers ~A ne pourra pas être annulé! ~A sera incapable de faire certaines tâches mais sera meilleur dans d'autres. Êtes-vous sûr?"
+msgstr "Promouvoir ~A vers ~A ne pourra pas être annulé ! ~A sera incapable de faire certaines tâches mais sera meilleur dans d'autres. Êtes-vous sûr ?"
 
 msgid "confirm_fire_officer"
-msgstr "Renvoyer ~A ne pourra pas être annulé, l'officier partira pour toujours! Êtes-vous sûr?"
+msgstr "Renvoyer ~A ne pourra pas être annulé, l'officier partira pour toujours ! Êtes-vous sûr ?"
 
 msgid "construction"
 msgstr "Construction"
@@ -891,7 +891,7 @@ msgid "continue"
 msgstr "Continuer"
 
 msgid "contract_bonus_chance"
-msgstr "Bonus de chance lors du choix:"
+msgstr "Bonus de chance lors du choix :"
 
 msgid "contract_completed"
 msgstr "%s dans %s (N%d) à été accompli"
@@ -906,10 +906,10 @@ msgid "contract_price"
 msgstr "Prix du contrat %s"
 
 msgid "contract_resource_reward"
-msgstr "%s %s (en stock: %s)"
+msgstr "%s %s (en stock : %s)"
 
 msgid "contract_rewards"
-msgstr "Récompenses:"
+msgstr "Récompenses :"
 
 msgid "contract_xp_officer"
 msgstr "XP pour chaque officier (%s XP @N%d)"
@@ -957,10 +957,10 @@ msgid "crew_bridge_selector"
 msgstr "Choisissez l'équipage de ce vaisseau en cliquant dans les emplacements"
 
 msgid "crew_n"
-msgstr "Équipage: ~A places"
+msgstr "Équipage : ~A places"
 
 msgid "crew_n2"
-msgstr "Équipage: ~A places, prêt à ~A%"
+msgstr "Équipage : ~A places, prêt à ~A%"
 
 msgid "crowd_control"
 msgstr "Contrôle des foules"
@@ -1005,16 +1005,16 @@ msgid "cucurbian_name"
 msgstr "Cucurbiens"
 
 msgid "current_demands"
-msgstr "Demandes: "
+msgstr "Demandes : "
 
 msgid "current_game"
 msgstr "Partie en cours"
 
 msgid "current_ownership"
-msgstr "Objets possédés:"
+msgstr "Objets possédés :"
 
 msgid "current_research"
-msgstr "Recherche en cours: ~A ~A"
+msgstr "Recherche en cours : ~A ~A"
 
 msgid "current_research_none"
 msgstr "Aucune recherche ne se fait.Sélectionnez un groupe et cliquez sur Lancer la recherche."
@@ -1221,7 +1221,7 @@ msgid "deliver_from_source"
 msgstr "Source exclusive"
 
 msgid "deliver_from_source_at"
-msgstr "Source: ~A"
+msgstr "Source : ~A"
 
 msgid "deliver_from_source_cancel"
 msgstr "Annuler source exclusive"
@@ -1263,10 +1263,10 @@ msgid "description"
 msgstr "Description"
 
 msgid "desperate_critical"
-msgstr "~A est maintenant désespéré! Tout ce qui se trouvera sur son chemin est inutilement attaqué."
+msgstr "~A est maintenant désespéré ! Tout ce qui se trouvera sur son chemin est inutilement attaqué."
 
 msgid "desperate_critical_violent"
-msgstr "~A est maintenant désespéré et se sert de son arme sur ses amis!"
+msgstr "~A est maintenant désespéré et se sert de son arme sur ses amis !"
 
 msgid "desperate_warning"
 msgstr "~A se sent vraiment mal et risque de devenir désespéré"
@@ -1320,7 +1320,7 @@ msgid "disco_table_desc2"
 msgstr "Détendez-vous avec une boisson chic"
 
 msgid "disease_cured"
-msgstr "Maladie soignée: ~A"
+msgstr "Maladie soignée : ~A"
 
 msgid "dismantle"
 msgstr "Démonter"
@@ -1344,7 +1344,7 @@ msgid "dock_officer_select"
 msgstr "Sélectionner le vaisseau"
 
 msgid "docking"
-msgstr "Amarrage:"
+msgstr "Amarrage :"
 
 msgid "doctordesk"
 msgstr "Bureau de docteur"
@@ -1374,7 +1374,7 @@ msgid "door_lock_title"
 msgstr "Verrouillage total"
 
 msgid "door_lock_title_desc"
-msgstr "Cela verrouillera fermement la porte pour toute les unités; les envahisseurs violents devront la détruire."
+msgstr "Cela verrouillera fermement la porte pour toute les unités ; les envahisseurs violents devront la détruire."
 
 msgid "door_officers"
 msgstr "Officiers"
@@ -1401,7 +1401,7 @@ msgid "drunk"
 msgstr "Ivre"
 
 msgid "drunk_desc"
-msgstr "OUAIS je vais bien, hic!"
+msgstr "OUAIS je vais bien, hic !"
 
 msgid "electronics_workshop"
 msgstr "Atelier d'électronique"
@@ -1416,7 +1416,7 @@ msgid "electropet_display"
 msgstr "Présentoir à électrocompagnon"
 
 msgid "electropet_display_desc"
-msgstr "Votre nouveau compagnon haute technologie, prix moyen, faible entretient vous attends!"
+msgstr "Votre nouveau compagnon haute technologie, prix moyen, faible entretient vous attends !"
 
 msgid "embassies"
 msgstr "Ambassades"
@@ -1446,7 +1446,7 @@ msgid "enable_station_violent_events"
 msgstr "Activer les évènements violents dans la station"
 
 msgid "enable_storage"
-msgstr "Permettre le stockage de:"
+msgstr "Permettre le stockage de :"
 
 msgid "enabled"
 msgstr "Activé"
@@ -1491,7 +1491,7 @@ msgid "equip_item_no_reqs"
 msgstr "~A ne peut pas s'équiper de ~A"
 
 msgid "equip_item_replace"
-msgstr "Détruire ~A et le remplacer par ~A?"
+msgstr "Détruire ~A et le remplacer par ~A ?"
 
 msgid "equip_item_rmb"
 msgstr "Équiper ~A"
@@ -1542,22 +1542,22 @@ msgid "eraser_hint"
 msgstr "Maintenez Maj. pour le mode effacement"
 
 msgid "error_bad_save"
-msgstr "Erreur lors du chargement du jeu: impossible de lire le fichier de sauvegarde, ou il est corrompu."
+msgstr "Erreur lors du chargement du jeu : impossible de lire le fichier de sauvegarde, ou il est corrompu."
 
 msgid "error_deleting"
 msgstr "Erreur lors de la suppression de la partie"
 
 msgid "error_missing_mods_1"
-msgstr "Ce fichier de sauvegarde utilise les mods suivants, qui ne sont pas abonnés et/ou installés:\n"
+msgstr "Ce fichier de sauvegarde utilise les mods suivants, qui ne sont pas abonnés et/ou installés :\n"
 
 msgid "error_missing_mods_2"
-msgstr "Le jeu peut se bloquer ou afficher les erreurs si vous essayez de charger ce fichier de sauvegarde. Le charger quand même?"
+msgstr "Le jeu peut se bloquer ou afficher les erreurs si vous essayez de charger ce fichier de sauvegarde. Le charger quand même ?"
 
 msgid "error_saving_game"
 msgstr "Erreur lors de la sauvegarde du jeu"
 
 msgid "event_augustus_warn"
-msgstr "Augustus est là pour vous aider avec ces cuisines! Il s'occupera des tâches de cuisine tant qu'il sera dans la station."
+msgstr "Augustus est là pour vous aider avec ces cuisines ! Il s'occupera des tâches de cuisine tant qu'il sera dans la station."
 
 msgid "event_bernice_fail"
 msgstr "Le temps est écoulé et le travail n'a pas été accompli, aucune récompense n'a donc été offerte. J'espère que la situation se sera améliorée lors de la prochaine inspection."
@@ -1572,61 +1572,61 @@ msgid "event_bernice_goal_produce"
 msgstr "Bernice a déterminé qu'un taux de production plus élevé est requis. Fabriquez %d produits en deux minutes pour une récompense de %d crédits."
 
 msgid "event_bernice_succ"
-msgstr "L'objectif a été atteint! Une récompense de %d crédits a été déposé sur le compte de votre station. Bon travail et rendez-vous à la prochaine inspection!"
+msgstr "L'objectif a été atteint ! Une récompense de %d crédits a été déposé sur le compte de votre station. Bon travail et rendez-vous à la prochaine inspection !"
 
 msgid "event_bernice_warn"
-msgstr "C'est l'heure de l'inspection! Bernice est dans la station pour vérifier vos aménagements et vos stocks."
+msgstr "C'est l'heure de l'inspection ! Bernice est dans la station pour vérifier vos aménagements et vos stocks."
 
 msgid "event_breakage_warn"
-msgstr "Certaines fabriques de votre station sont tombées en panne!"
+msgstr "Certaines fabriques de votre station sont tombées en panne !"
 
 msgid "event_explodefire_warn"
-msgstr "%s a explosé et a déclenché un incendie!"
+msgstr "%s a explosé et a déclenché un incendie !"
 
 msgid "event_finished"
 msgstr "Évènement terminé"
 
 msgid "event_foodpoisoning_warn"
-msgstr "Certains habitants de la station souffrent d'empoisonnement alimentaire!"
+msgstr "Certains habitants de la station souffrent d'empoisonnement alimentaire !"
 
 msgid "event_invaderbomb_out_of_time"
-msgstr "Vous n'avez plus de temps! La bombe a explosé!"
+msgstr "Vous n'avez plus de temps ! La bombe a explosé !"
 
 msgid "event_invaderbomb_warn"
-msgstr "Un saboteur ennemi camouflé a été trouvé! Cherchez aux alentour pour trouver une bombe à retardement et détruisez-la avant qu'elle n'explose! La bombe est une unité neutre et doit être visée manuellement."
+msgstr "Un saboteur ennemi camouflé a été trouvé ! Cherchez aux alentour pour trouver une bombe à retardement et détruisez-la avant qu'elle n'explose ! La bombe est une unité neutre et doit être visée manuellement."
 
 msgid "event_invaders_alert"
-msgstr "Un groupe de pillard est arrivé! ~A Attaque notre station!"
+msgstr "Un groupe de pillard est arrivé ! ~A Attaque notre station !"
 
 msgid "event_invaders_retaliate_warn"
-msgstr "%s se venge de nous! Un groupe de pillards venant de %s approche de la station. Soyez prêts!"
+msgstr "%s se venge de nous ! Un groupe de pillards venant de %s approche de la station. Soyez prêts !"
 
 msgid "event_invaders_warn4c"
-msgstr "Nous avons reçu un rapport à propos d'un groupe de pillards %s venant de %s s'approchant notre station. Soyez prêts!"
+msgstr "Nous avons reçu un rapport à propos d'un groupe de pillards %s venant de %s s'approchant notre station. Soyez prêts !"
 
 msgid "event_kowka_warn"
-msgstr "Кошка est une chatte curieuse et elle est là pour observer les progrès de son ami. Êtes-vous toujours un ami? Son armée de robots aidera dans la base tant qu'ils seront là."
+msgstr "Кошка est une chatte curieuse et elle est là pour observer les progrès de son ami. Êtes-vous toujours un ami ? Son armée de robots aidera dans la base tant qu'ils seront là."
 
 msgid "event_liberty_warn"
-msgstr "Liberty est là! Sa présence rendra tout le monde autour d'elle heureux, visiteurs comme résidents."
+msgstr "Liberty est là ! Sa présence rendra tout le monde autour d'elle heureux, visiteurs comme résidents."
 
 msgid "event_manysick_fail"
 msgstr "Certain visiteurs %s n'ont pas été soignés, aucune récompense n'a été offerte."
 
 msgid "event_manysick_succ"
-msgstr "Tous les visiteurs %s ont été soignés! Profitez d'un bonus de %d crédits et de %d réputation."
+msgstr "Tous les visiteurs %s ont été soignés ! Profitez d'un bonus de %d crédits et de %d réputation."
 
 msgid "event_manysick_warn"
-msgstr "La civilisation %s a téléporté en urgence %d citoyens malade dans votre station! Soignez-les avant que le compteur n'atteigne 0 pour un bonus de %d crédits et de %d réputation.."
+msgstr "La civilisation %s a téléporté en urgence %d citoyens malade dans votre station ! Soignez-les avant que le compteur n'atteigne 0 pour un bonus de %d crédits et de %d réputation.."
 
 msgid "event_meteors_end"
 msgstr "La pluie de météores est terminée."
 
 msgid "event_meteors_start"
-msgstr "La pluie de météores commence!"
+msgstr "La pluie de météores commence !"
 
 msgid "event_meteors_warn"
-msgstr "Une pluie de météores est en approche! La zone cible sera durement touchée d'ici une minute."
+msgstr "Une pluie de météores est en approche ! La zone cible sera durement touchée d'ici une minute."
 
 msgid "event_miasmacloud_ended"
 msgstr "Le nuage de miasme ne s'étend plus."
@@ -1635,49 +1635,49 @@ msgid "event_miasmacloud_warn"
 msgstr "Un objet s'est brisé et crache un nuage de miasme toxique qui se répend. Réparez ou détruisez-le pour stopper le nuage."
 
 msgid "event_octopus_warn"
-msgstr "Votre fierté mal placée a réveillé une créature oubliée des profondeurs de l'espace. Une pieuvre de l'espace attaque notre station!"
+msgstr "Votre fierté mal placée a réveillé une créature oubliée des profondeurs de l'espace. Une pieuvre de l'espace attaque notre station !"
 
 msgid "event_ongoing"
 msgstr "En cours"
 
 msgid "event_pest_spawn_queen"
-msgstr "La reine des vermines est sortie de sa cachette!"
+msgstr "La reine des vermines est sortie de sa cachette !"
 
 msgid "event_pest_warn"
-msgstr "Des nuisibles envahissent votre station! Éliminez suffisament de vermines pour forcer leur reine à sortir de sa cachette. Les vermines sont des unités neutres et doivent être visées manuellement."
+msgstr "Des nuisibles envahissent votre station ! Éliminez suffisament de vermines pour forcer leur reine à sortir de sa cachette. Les vermines sont des unités neutres et doivent être visées manuellement."
 
 msgid "event_pirates_reveal"
-msgstr "Les Pirates se sont révélés au grand jour! Votre succès à attiré leur attention. Ils vont sûrement vouloir leur part, et ils n'oublient pas le « hostile » dans « aquisition hostile »."
+msgstr "Les Pirates se sont révélés au grand jour ! Votre succès à attiré leur attention. Ils vont sûrement vouloir leur part, et ils n'oublient pas le « hostile » dans « aquisition hostile »."
 
 msgid "event_progress"
-msgstr "Progression de l'évènement: %s"
+msgstr "Progression de l'évènement : %s"
 
 msgid "event_robots_reveal"
 msgstr ""
-"Les Robots se sont révélés au grand jour ! Vos normes de travail pour les "
-"robots sont-elles à la hauteur ? Ils viendront vérifier, c'est certain. Et "
+"Les Robots se sont révélés au grand jour  ! Vos normes de travail pour les "
+"robots sont-elles à la hauteur  ? Ils viendront vérifier, c'est certain. Et "
 "ils ne vont pas aimer, c'est certain."
 
 msgid "event_timer"
-msgstr "Temps restant: %s"
+msgstr "Temps restant : %s"
 
 msgid "event_waterleak_warn"
-msgstr "L'objet %s s'est brisé et a innondé ses alentours!"
+msgstr "L'objet %s s'est brisé et a innondé ses alentours !"
 
 msgid "event_worm_warn"
-msgstr "Votre fierté mal placée a réveillé une créature oubliée des profondeurs de l'espace. Un ver de l'espace attaque notre station!"
+msgstr "Votre fierté mal placée a réveillé une créature oubliée des profondeurs de l'espace. Un ver de l'espace attaque notre station !"
 
 msgid "event_xenos_spawned"
-msgstr "Les xénomorphes ont éclos!"
+msgstr "Les xénomorphes ont éclos !"
 
 msgid "event_xenos_warn"
-msgstr "Des œufs de xénomorphe ont été découverts dans votre station! Éliminez-les avant qu'ils n'éclosent ou subissez-en les conséquences. Les œufs sont des unités neutres et doivent être visés manuellement."
+msgstr "Des œufs de xénomorphe ont été découverts dans votre station ! Éliminez-les avant qu'ils n'éclosent ou subissez-en les conséquences. Les œufs sont des unités neutres et doivent être visés manuellement."
 
 msgid "excessive_machine"
 msgstr "Machine excessive"
 
 msgid "excessive_machine_desc"
-msgstr "S'occupe de tous vos besoins intimes. Ne la cassez pas!"
+msgstr "S'occupe de tous vos besoins intimes. Ne la cassez pas !"
 
 msgid "exclude"
 msgstr "Exclure"
@@ -1719,7 +1719,7 @@ msgid "explore_warn_no_ship"
 msgstr "Aucun vaisseau stationné sur cette planète. Faites glisser et déposer un vaisseau sur cette planète pour définir un ordre de voyage manuel, et lorsqu'il arrivera, vous explorer sa surface."
 
 msgid "explore_warn_no_weapons"
-msgstr "Aucun des membres d'équipage n'équipé d'une arme. Êtes-vous sûr de vouloir explorer la planète?"
+msgstr "Aucun des membres d'équipage n'équipé d'une arme. Êtes-vous sûr de vouloir explorer la planète ?"
 
 msgid "exploring"
 msgstr "Explore"
@@ -1998,7 +1998,7 @@ msgid "fun_feeling_high"
 msgstr "Excité"
 
 msgid "fun_feeling_high_desc"
-msgstr "OUAH!!!"
+msgstr "OUAH !!!"
 
 msgid "fun_feeling_low"
 msgstr "S'ennui"
@@ -2022,7 +2022,7 @@ msgid "galaxy_filter_imports"
 msgstr "Afficher les importations"
 
 msgid "galaxy_filter_imports2"
-msgstr "Produits importés: %s"
+msgstr "Produits importés : %s"
 
 msgid "galaxy_filter_none"
 msgstr "Juste la galaxie"
@@ -2034,7 +2034,7 @@ msgid "galaxy_filter_reps"
 msgstr "Civilisations"
 
 msgid "galaxy_filter_resources2"
-msgstr "Ressources exportées: %s"
+msgstr "Ressources exportées : %s"
 
 msgid "galaxy_filter_show_civ_ships"
 msgstr "Afficher/masquer les vaisseaux des civilisations"
@@ -2160,7 +2160,7 @@ msgid "gigantism"
 msgstr "Gigantisme"
 
 msgid "gigantism_desc"
-msgstr "Est-ce que je peux encore passer les portes?"
+msgstr "Est-ce que je peux encore passer les portes ?"
 
 msgid "global_max_export_amount_desc"
 msgstr "Les vaisseaux exportant des ressources depuis les planètes ignoreront cette ressource lorsque le stock de la station atteindra cette quantité"
@@ -2475,7 +2475,7 @@ msgid "goal_planet4_title"
 msgstr "Atterrir 3 fois sur des planètes de niveau 20"
 
 msgid "goal_progress"
-msgstr "Progression: ~A%"
+msgstr "Progression : ~A%"
 
 msgid "goal_ready_alert"
 msgstr "L'objectif « ~A » est maintenant disponible."
@@ -2517,7 +2517,7 @@ msgid "goal_research2_title"
 msgstr "Rechercher 500 points"
 
 msgid "goal_reward"
-msgstr "Récompense: @ui_icon_20px_credits04.png ~A"
+msgstr "Récompense : @ui_icon_20px_credits04.png ~A"
 
 msgid "goal_shipbuild1_desc"
 msgstr "Construisez un vaisseau en utilisant le planificateur de vaisseau et les bureaux de travail sur vaisseau."
@@ -2811,7 +2811,7 @@ msgid "holobooks_obj"
 msgstr "Étagères à hololivres"
 
 msgid "holobooks_obj_desc"
-msgstr "Vends toute la connaissance de la galaxie au format papier. C'est rétro!"
+msgstr "Vends toute la connaissance de la galaxie au format papier. C'est rétro !"
 
 msgid "holocomics"
 msgstr "HoloBDs"
@@ -2910,7 +2910,7 @@ msgid "hunger_feeling_high"
 msgstr "Bien nourri"
 
 msgid "hunger_feeling_high_desc"
-msgstr "Ce repas était vraiment bon!"
+msgstr "Ce repas était vraiment bon !"
 
 msgid "hunger_feeling_low"
 msgstr "Affamé"
@@ -3039,10 +3039,10 @@ msgid "import_too_low_amount"
 msgstr "Sélectionnez une quantité de ressource à livrer"
 
 msgid "imports_current_reputation"
-msgstr "Réputation actuelle: %d/%d"
+msgstr "Réputation actuelle : %d/%d"
 
 msgid "imports_donation_bonus"
-msgstr "Réputation bonus: +%d"
+msgstr "Réputation bonus : +%d"
 
 msgid "imports_donation_button"
 msgstr "Donner @ui_icon_20px_credits04.png %d"
@@ -3090,7 +3090,7 @@ msgid "info_tool"
 msgstr "Info/zoom/dépl"
 
 msgid "ingredient_of"
-msgstr "Ingrédient de:"
+msgstr "Ingrédient de :"
 
 msgid "input"
 msgstr "Entrée"
@@ -3120,7 +3120,7 @@ msgid "intro_1"
 msgstr "5781 ap. J.-C., QG de la Fédération humaine, Terre\n \nSalutaions, officier. Votre travail remarquable en tant que bureaucrate de rang 5 a été remarqué par vos supérieurs. Vous avez été choisi pour construire et diriger une nouvelle station dans un coin inconnu de la galaxie."
 
 msgid "intro_2"
-msgstr "Explorez les systèmes environnants et leurs planètes, découvez leurs ressources, et faites face à toute forme d'opposition. Vous avez la confiance de la Fédération humaine!"
+msgstr "Explorez les systèmes environnants et leurs planètes, découvez leurs ressources, et faites face à toute forme d'opposition. Vous avez la confiance de la Fédération humaine !"
 
 msgid "invaded_by"
 msgstr "Envahie par %s"
@@ -3147,10 +3147,10 @@ msgid "invasion_mission_can_invade"
 msgstr "Vous pouvez envahir cette planète hostile en détruisant suffisement d'objets ennemis. Vérifiez le compteur de progression à côté de moi, quand il atteindra 100%, la planète sera envahie. Cela nous permettra de garder nos extracteurs intacts après avoir décollé."
 
 msgid "invasion_mission_can_liberate"
-msgstr "Des hostiles se sont emparés de cette planète, et ils bloquent les échanges commerciaux et l'extraction! Détruisez leurs structures pour la libérer. Vérifiez le compteur de progression à côté de moi, quand il atteindra 100%, la planète sera libérée."
+msgstr "Des hostiles se sont emparés de cette planète, et ils bloquent les échanges commerciaux et l'extraction ! Détruisez leurs structures pour la libérer. Vérifiez le compteur de progression à côté de moi, quand il atteindra 100%, la planète sera libérée."
 
 msgid "invasion_mission_can_liberate_done"
-msgstr "Vous avez libéré cette planète! Le commerce et l'extraction sont à nouveau possibles."
+msgstr "Vous avez libéré cette planète ! Le commerce et l'extraction sont à nouveau possibles."
 
 msgid "invasion_mission_none"
 msgstr "Cette planète est amicale envers nous. Ne changeons rien sur ce point, à moins que vous n'ayez de très bonnes raisons de changer les choses..."
@@ -3162,34 +3162,34 @@ msgid "inventory"
 msgstr "Inventaire"
 
 msgid "inventory_in_shops"
-msgstr "Dans les boutiques: ~A"
+msgstr "Dans les boutiques : ~A"
 
 msgid "inventory_locked"
-msgstr "Verrouillé: ~A"
+msgstr "Verrouillé : ~A"
 
 msgid "inventory_missing_ingredients"
 msgstr "Pas assez d'un ou plusieurs ingrédients"
 
 msgid "inventory_on_pallets"
-msgstr "Sur les palettes: ~A"
+msgstr "Sur les palettes : ~A"
 
 msgid "inventory_on_storage_areas"
-msgstr "Dans les zones de stockage: ~A"
+msgstr "Dans les zones de stockage : ~A"
 
 msgid "inventory_stacks"
-msgstr "Piles: ~A"
+msgstr "Piles : ~A"
 
 msgid "inventory_total"
-msgstr "Total: ~A"
+msgstr "Total : ~A"
 
 msgid "inventory_unattended"
-msgstr "Sans surveillance: ~A"
+msgstr "Sans surveillance : ~A"
 
 msgid "item"
 msgstr "Objet"
 
 msgid "item_info_amount"
-msgstr "Quantité: ~A"
+msgstr "Quantité : ~A"
 
 msgid "item_inventory_shortcut"
 msgstr "@ui_icon_30px_cargo.png Statut de l'inventaire"
@@ -3234,7 +3234,7 @@ msgid "job_matrix_click_officer_portrait"
 msgstr "Afficher dans la liste du personnel"
 
 msgid "job_matrix_job_tip"
-msgstr "~A\nPriorité: ~A"
+msgstr "~A\nPriorité : ~A"
 
 msgid "job_matrix_per_job_prio_disabled"
 msgstr "Utiliser la priorité globale de tâche pour cet officier"
@@ -3246,7 +3246,7 @@ msgid "job_matrix_prompt_officer_prio"
 msgstr "Entrez la valeur de priorité pour la tâche, de 1 à 99, ou 0 pour la désactiver"
 
 msgid "job_speed"
-msgstr "Vitesse: ~0,2Fx"
+msgstr "Vitesse : ~0,2Fx"
 
 msgid "job_tier_1"
 msgstr "Rang 1"
@@ -3303,10 +3303,10 @@ msgid "k_thousands"
 msgstr "k"
 
 msgid "kb_build_rotate_left"
-msgstr "Construction: Rotation à gauche"
+msgstr "Construction : Rotation à gauche"
 
 msgid "kb_build_rotate_right"
-msgstr "Construction: Rotation à droite"
+msgstr "Construction : Rotation à droite"
 
 msgid "kb_combat_mode"
 msgstr "Activer/désactiver le mode combat"
@@ -3330,19 +3330,19 @@ msgid "kb_group_6"
 msgstr "Selectionner le groupe 6"
 
 msgid "kb_set_attack_target"
-msgstr "Action: Définir la/les cible(s) pour l'attaque"
+msgstr "Action : Définir la/les cible(s) pour l'attaque"
 
 msgid "kb_set_cc_target"
-msgstr "Action: Définir la/les cible(s) pour le contrôle des foules"
+msgstr "Action : Définir la/les cible(s) pour le contrôle des foules"
 
 msgid "kb_set_heal_target"
-msgstr "Action: Définir la/les cible(s) pour le soin"
+msgstr "Action : Définir la/les cible(s) pour le soin"
 
 msgid "kb_set_shield_target"
-msgstr "Action: Définir la/les cible(s) pour la protection"
+msgstr "Action : Définir la/les cible(s) pour la protection"
 
 msgid "kb_teleport_to"
-msgstr "Action: Se téléporter vers"
+msgstr "Action : Se téléporter vers"
 
 msgid "keep_slot_empty"
 msgstr "Conserver vide l'emplacement ou le siège "
@@ -3384,7 +3384,7 @@ msgid "language"
 msgstr "Langue"
 
 msgid "latest_save"
-msgstr "Dernière sauvegarde: %s"
+msgstr "Dernière sauvegarde : %s"
 
 msgid "lemurian_adjective"
 msgstr "%s lémurienne"
@@ -3471,7 +3471,7 @@ msgid "macarons"
 msgstr "Macarons"
 
 msgid "macosx_experimental"
-msgstr "Cette option est expérimentale! Elle ne fonctionnera pas correctement sur des configurations multi écran et sur certains modes mis à l'échelle."
+msgstr "Cette option est expérimentale ! Elle ne fonctionnera pas correctement sur des configurations multi écran et sur certains modes mis à l'échelle."
 
 msgid "macosx_retina"
 msgstr "Mac OS X\nSupport Retina"
@@ -3537,7 +3537,7 @@ msgid "max_3char"
 msgstr "MAX"
 
 msgid "max_stack_size"
-msgstr "Taille max de la pile: ~A"
+msgstr "Taille max de la pile : ~A"
 
 msgid "max_stock"
 msgstr "Stock max"
@@ -3648,10 +3648,10 @@ msgid "mind_feeling_low2_desc"
 msgstr "Plus rien n'a d'importance, je ne veux plus vivre"
 
 msgid "mind_feeling_low_desc"
-msgstr "JE NE PEUX PLUS EN SUPPORTER D'AVANTAGE!"
+msgstr "JE NE PEUX PLUS EN SUPPORTER D'AVANTAGE !"
 
 msgid "mind_tip"
-msgstr "Mental: %d"
+msgstr "Mental : %d"
 
 msgid "mineral_extractor"
 msgstr "Extracteur de minéraux"
@@ -3795,13 +3795,13 @@ msgid "new_game"
 msgstr "Nouvelle partie"
 
 msgid "new_game_option_events"
-msgstr "Évènements:"
+msgstr "Évènements :"
 
 msgid "new_game_option_events_desc"
 msgstr "Les options d'évènement peuvent aussi être changées à tout moment durant la partie"
 
 msgid "new_game_option_pick_planet_kind"
-msgstr "Type de planète:"
+msgstr "Type de planète :"
 
 msgid "new_game_options"
 msgstr "Options"
@@ -3855,7 +3855,7 @@ msgid "noise_interruption_desc"
 msgstr "Il y a trop de bruit dans la pièce, je ne peux pas me détendre"
 
 msgid "noise_room"
-msgstr "Bruit: %d"
+msgstr "Bruit : %d"
 
 msgid "non_walkable"
 msgstr "Ne peut pas être traversé à pied"
@@ -5046,16 +5046,16 @@ msgid "officer_from"
 msgstr "Originaire de ~A (N~A) dans ~A"
 
 msgid "officer_in_crew"
-msgstr "Vaisseau actuel: ~A"
+msgstr "Vaisseau actuel : ~A"
 
 msgid "officer_location_station"
 msgstr "Station de base"
 
 msgid "officer_single_navi_speed"
-msgstr "Contribution à la vitesse du vaisseau: +~0,2F%"
+msgstr "Contribution à la vitesse du vaisseau : +~0,2F%"
 
 msgid "officer_single_navi_speed_desc"
-msgstr "Note: Si l'officier sélectionné n'est pas le navigateur le plus expérimenté de l'équipage, il ne contribuera qu'à une petite fraction de la vitesse du vaisseau"
+msgstr "Note : Si l'officier sélectionné n'est pas le navigateur le plus expérimenté de l'équipage, il ne contribuera qu'à une petite fraction de la vitesse du vaisseau"
 
 msgid "oils"
 msgstr "Huiles"
@@ -5223,10 +5223,10 @@ msgid "planet_info_friend"
 msgstr "Nous souhaitons la bienvenue à nos amis les Spatials sur notre humble planète. Merci de ne pas tout voler."
 
 msgid "planet_info_hostile"
-msgstr "Envahisseurs détectés! Déployez toutes les unités pour le combat"
+msgstr "Envahisseurs détectés ! Déployez toutes les unités pour le combat"
 
 msgid "planet_info_neutral"
-msgstr "Salut! Attention où vous pointez ces armes, d'accord?"
+msgstr "Salut ! Attention où vous pointez ces armes, d'accord ?"
 
 msgid "planet_info_no_civ"
 msgstr "Aucun signe d'intelligence avancée détecté sur cette planète. Cela inclue aussi les arbres."
@@ -5253,7 +5253,7 @@ msgid "planet_resource_extract_enable"
 msgstr "Activer l'extraction de ce type de ressource"
 
 msgid "planet_ships_with_order"
-msgstr "Arrêt de pilote automatique pour:"
+msgstr "Arrêt de pilote automatique pour :"
 
 msgid "planet_storage"
 msgstr "Stockage"
@@ -5277,13 +5277,13 @@ msgid "planetarium_desc_friendly"
 msgstr "Mais vos bonnes relations avec la civilisation ~A vous permet plutôt de payer un tribut pour obtenir la même information, sans effusion de sang ni perte de réputation."
 
 msgid "planetarium_desc_hostile"
-msgstr "Détruire ce bâtiment débloquera le système stellaire suivant: ~A"
+msgstr "Détruire ce bâtiment débloquera le système stellaire suivant : ~A"
 
 msgid "planetarium_pay"
 msgstr "Payer le tribut"
 
 msgid "planetarium_price"
-msgstr "Prix: @ui_icon_20px_credits04.png ~A"
+msgstr "Prix : @ui_icon_20px_credits04.png ~A"
 
 msgid "planetarium_warn_rep"
 msgstr "Détruire ce bâtiment réduira massivement votre réputation auprès de la civilisation ~A"
@@ -5307,7 +5307,7 @@ msgid "plus_rep"
 msgstr "+Rép"
 
 msgid "plus_rep_c"
-msgstr "+Rép:"
+msgstr "+Rép :"
 
 msgid "plus_soap"
 msgstr "Savon plus"
@@ -5316,34 +5316,34 @@ msgid "power"
 msgstr "Puissance"
 
 msgid "power_base_absorb"
-msgstr "Aborbtion de base: ~A"
+msgstr "Aborbtion de base : ~A"
 
 msgid "power_base_control"
-msgstr "Contrôle des foules de base: ~A"
+msgstr "Contrôle des foules de base : ~A"
 
 msgid "power_base_damage"
-msgstr "Dégâts de base: ~A"
+msgstr "Dégâts de base : ~A"
 
 msgid "power_base_healing"
-msgstr "Soins de base: ~A"
+msgstr "Soins de base : ~A"
 
 msgid "power_base_health"
-msgstr "Santé de base: ~A"
+msgstr "Santé de base : ~A"
 
 msgid "power_factor_absorb"
-msgstr "Facteur d'absorbtion: x~A"
+msgstr "Facteur d'absorbtion : x~A"
 
 msgid "power_factor_control"
-msgstr "Facteur de contrôle des foules: x~A"
+msgstr "Facteur de contrôle des foules : x~A"
 
 msgid "power_factor_damage"
-msgstr "Facteur de dégâts: x~A"
+msgstr "Facteur de dégâts : x~A"
 
 msgid "power_factor_healing"
-msgstr "Facteur de soins: x~A"
+msgstr "Facteur de soins : x~A"
 
 msgid "power_factor_health"
-msgstr "Facteur de santé: x~A"
+msgstr "Facteur de santé : x~A"
 
 msgid "power_short"
 msgstr "Puissance"
@@ -5352,13 +5352,13 @@ msgid "pr"
 msgstr "VRP"
 
 msgid "pre_intro"
-msgstr "Las de votre train-train quotidien? Vous ne trouvez pas place dans l'univers? Vous vous interrogez sur les systèmes stellaires externes? Si vous avez répondu oui à l'une de ces questions, alors n'hésitez pas et REJOIGNEZ-NOUS MAINTENANT!"
+msgstr "Las de votre train-train quotidien ? Vous ne trouvez pas place dans l'univers ? Vous vous interrogez sur les systèmes stellaires externes ? Si vous avez répondu oui à l'une de ces questions, alors n'hésitez pas et REJOIGNEZ-NOUS MAINTENANT !"
 
 msgid "press_esc_cancel2"
 msgstr "\nAppuyez sur Échap. ou sur le bouton droit de la souris pour annuler"
 
 msgid "press_new_key"
-msgstr "Appuyez sur la nouvelle touche pour:\n"
+msgstr "Appuyez sur la nouvelle touche pour :\n"
 
 msgid "pretentious_foods"
 msgstr "Nourriture prétentieuse"
@@ -5373,10 +5373,10 @@ msgid "price"
 msgstr "Prix"
 
 msgid "price_bom_row"
-msgstr "BOM moy.:"
+msgstr "BOM moy. :"
 
 msgid "price_row"
-msgstr "Prix:"
+msgstr "Prix :"
 
 msgid "price_too_much"
 msgstr "Pas assez de crédit"
@@ -5400,7 +5400,7 @@ msgid "prod_local_desc"
 msgstr "Les ordres de production devront être ajoutés manuellements avec le bouton Créer"
 
 msgid "prod_production"
-msgstr "Production: "
+msgstr "Production : "
 
 msgid "prodction_queue_empty"
 msgstr "Vide"
@@ -5409,13 +5409,13 @@ msgid "producing_recipe2"
 msgstr "Produit"
 
 msgid "projectile_direct_desc"
-msgstr "Cible unique; Projectile"
+msgstr "Cible unique ; Projectile"
 
 msgid "projectile_explosive_desc"
-msgstr "Zone; Projectile"
+msgstr "Zone ; Projectile"
 
 msgid "projectile_reactive_desc"
-msgstr "Zone dans le temps; Projectile"
+msgstr "Zone dans le temps ; Projectile"
 
 msgid "purchases"
 msgstr "Achats"
@@ -5424,7 +5424,7 @@ msgid "purifier_salts"
 msgstr "Sels purifiants"
 
 msgid "quick_jump"
-msgstr "Saut rapide:"
+msgstr "Saut rapide :"
 
 msgid "quit_game"
 msgstr "Quitter le jeu"
@@ -5433,10 +5433,10 @@ msgid "random"
 msgstr "Aléatoire"
 
 msgid "range_max"
-msgstr "Portée: ~A cases"
+msgstr "Portée : ~A cases"
 
 msgid "range_min_max"
-msgstr "Portée: de ~A à ~A case"
+msgstr "Portée : de ~A à ~A case"
 
 msgid "rations_luxury"
 msgstr "Rations de luxe"
@@ -5460,19 +5460,19 @@ msgid "recipe_add_queue"
 msgstr "Ajouter à la file"
 
 msgid "recipe_difficulty"
-msgstr "Difficulté:"
+msgstr "Difficulté :"
 
 msgid "recipe_duration"
-msgstr "Durée: ~As"
+msgstr "Durée : ~As"
 
 msgid "recipe_failed"
 msgstr "~A a échoué"
 
 msgid "recipe_job_name"
-msgstr "Tâche requise: ~A"
+msgstr "Tâche requise : ~A"
 
 msgid "recipe_mini"
-msgstr "Recette:"
+msgstr "Recette :"
 
 msgid "recipe_order_amount"
 msgstr "Combien de fois produire la recette, ou -1 pour une quantité infinie"
@@ -5520,22 +5520,22 @@ msgid "recruit"
 msgstr "Recrutement"
 
 msgid "recruit_existing_xp"
-msgstr "A de l'expérience dans:"
+msgstr "A de l'expérience dans :"
 
 msgid "recruit_existing_xp_in"
-msgstr "~A: ~A XP\n"
+msgstr "~A : ~A XP\n"
 
 msgid "recruit_hire"
 msgstr "Recruter ~A"
 
 msgid "recruit_hire_price"
-msgstr "Frais de recrutement: @ui_icon_20px_credits04.png ~A"
+msgstr "Frais de recrutement : @ui_icon_20px_credits04.png ~A"
 
 msgid "recruit_hire_price_too_much"
 msgstr "Pas assez de crédit"
 
 msgid "recycle_items_level"
-msgstr "Recycler les objets en dessous du niveau:"
+msgstr "Recycler les objets en dessous du niveau :"
 
 msgid "recycled_something"
 msgstr "~A recyclé"
@@ -5625,10 +5625,10 @@ msgid "reputation"
 msgstr "Réputation"
 
 msgid "reputation_gain"
-msgstr "Gain de réputation en partant:"
+msgstr "Gain de réputation en partant :"
 
 msgid "reputation_hit"
-msgstr "Perte de réputation en partant:"
+msgstr "Perte de réputation en partant :"
 
 msgid "req_decor"
 msgstr "N'importe quel décor"
@@ -5637,10 +5637,10 @@ msgid "req_shower"
 msgstr "N'importe quelle douche"
 
 msgid "required_points"
-msgstr "Points requis: ~A"
+msgstr "Points requis : ~A"
 
 msgid "required_tokens"
-msgstr "Jetons requis: CORRIGEZMOI"
+msgstr "Jetons requis : CORRIGEZMOI"
 
 msgid "research"
 msgstr "Recherche"
@@ -5649,7 +5649,7 @@ msgid "research_completed_alert"
 msgstr "La recherche de « ~A - ~A » viens d'être terminée"
 
 msgid "research_points"
-msgstr "Points de recherche: ~A sur ~A"
+msgstr "Points de recherche : ~A sur ~A"
 
 msgid "research_remember"
 msgstr "N'oubliez pas de construire des bureaux de recherche et d'assigner des officiers au travail Recherche pour pouvoir gagner des points de recherche."
@@ -5661,7 +5661,7 @@ msgid "researcher"
 msgstr "Chercheur"
 
 msgid "researcher_desc"
-msgstr "Qui veut rester devant un ordinateur pendant des décénies? Les chercheurs. Votre technologie avancera plus vite que jamais avec une équipe de chercheurs."
+msgstr "Qui veut rester devant un ordinateur pendant des décénies ? Les chercheurs. Votre technologie avancera plus vite que jamais avec une équipe de chercheurs."
 
 msgid "researchtable"
 msgstr "Table de recherche"
@@ -5817,10 +5817,10 @@ msgid "robot_inventory"
 msgstr "Inventaire des robots"
 
 msgid "robot_inventory_max_robots"
-msgstr "Max. autorisé: %d"
+msgstr "Max. autorisé : %d"
 
 msgid "robot_inventory_total_robots"
-msgstr "Total: %d"
+msgstr "Total : %d"
 
 msgid "robot_member"
 msgstr "Robot"
@@ -5997,7 +5997,7 @@ msgid "saw_corpse_desc"
 msgstr "Quelle horreur, quelle horreur"
 
 msgid "scan_alert"
-msgstr "Intrus détecté dans la station!"
+msgstr "Intrus détecté dans la station !"
 
 msgid "scientist"
 msgstr "Scientifique"
@@ -6057,7 +6057,7 @@ msgid "select_officer_open_ship"
 msgstr "Ouvrir le pont des vaisseaux"
 
 msgid "select_recipe_order"
-msgstr "Sélectionnez une recette:"
+msgstr "Sélectionnez une recette :"
 
 msgid "select_save_slot"
 msgstr "Sélectionner un emplacement pour sauvegarder la partie"
@@ -6066,13 +6066,13 @@ msgid "select_ship"
 msgstr "Sélectionner le vaisseau"
 
 msgid "select_ship_design"
-msgstr "Sélectionnez un modèle de vaisseau:"
+msgstr "Sélectionnez un modèle de vaisseau :"
 
 msgid "selected"
 msgstr "Sélectionné"
 
 msgid "selected_recipe"
-msgstr "Recette sélectionnée:"
+msgstr "Recette sélectionnée :"
 
 msgid "self_destroy"
 msgstr "Auto-détruire dans une glorieuse explosion pour endommager les ennemis, avec un risque de déclencher un incendie"
@@ -6141,10 +6141,10 @@ msgid "shield_3_name"
 msgstr "Ultra bouclier dégâts"
 
 msgid "ship_allowed_cargo"
-msgstr "Ressources autorisées: %d/%d"
+msgstr "Ressources autorisées : %d/%d"
 
 msgid "ship_allowed_desc"
-msgstr "Selectionnez les ressources que le vaisseau sera autorisé à récupérer sur les planètes:"
+msgstr "Selectionnez les ressources que le vaisseau sera autorisé à récupérer sur les planètes :"
 
 msgid "ship_allowed_edit"
 msgstr "Changer les ressources cargo autorisées"
@@ -6168,7 +6168,7 @@ msgid "ship_busy_cannot_edit"
 msgstr "Le vaisseau n'est pas stationné à la base"
 
 msgid "ship_cargo_info"
-msgstr "Soute: ~A utilisé / ~A total"
+msgstr "Soute : ~A utilisé / ~A total"
 
 msgid "ship_construction_is_paused"
 msgstr "Construction du vaisseau en pause"
@@ -6177,13 +6177,13 @@ msgid "ship_construction_start"
 msgstr "Démarrer la construction"
 
 msgid "ship_distance_to_other"
-msgstr "Distance de %s (N%d): %0.2f parsecs"
+msgstr "Distance de %s (N%d) : %0.2f parsecs"
 
 msgid "ship_dock_assigned"
 msgstr "Quai assigné à la station de base"
 
 msgid "ship_final_destination"
-msgstr "Destination finale: %s (N%d)"
+msgstr "Destination finale : %s (N%d)"
 
 msgid "ship_kind_authority"
 msgstr "Autorité"
@@ -6282,7 +6282,7 @@ msgid "ship_order_item_tile_star"
 msgstr "Voyager vers %s (N%d)"
 
 msgid "ship_order_wait_time_dialog_label"
-msgstr "Entrez le temps d'attente en minutes, ou 0 pour une durée minimum de 10 secondes:"
+msgstr "Entrez le temps d'attente en minutes, ou 0 pour une durée minimum de 10 secondes :"
 
 msgid "ship_orders_delete_order"
 msgstr "Supprimer l'ordre selectionné"
@@ -6333,13 +6333,13 @@ msgid "ship_planner_resume"
 msgstr "Reprendre la contruction"
 
 msgid "ship_scrap_confirm"
-msgstr "Êtes-vous sûr? Ce vaiseau sera détruit et une petite quantité de ressource sera obtenue"
+msgstr "Êtes-vous sûr ? Ce vaiseau sera détruit et une petite quantité de ressource sera obtenue"
 
 msgid "ship_servicing"
 msgstr "Le vaisseau retourne à la base pour décharger et permettre à l'équipage de se rafraîchir et pourra ignorer les ordres du pilote automatique d'ici là"
 
 msgid "ship_servicing_cond"
-msgstr "Voler vers la base: Prêt à %d%% ou soute pleine"
+msgstr "Voler vers la base : Prêt à %d%% ou soute pleine"
 
 msgid "ship_servicing_depart"
 msgstr "Continue le pilote automatique lorsque prêt à %d%%"
@@ -6378,7 +6378,7 @@ msgid "ship_skill_teleport"
 msgstr "Téléportation en surface"
 
 msgid "ship_skills_l"
-msgstr "Skills: %s"
+msgstr "Skills : %s"
 
 msgid "ship_travel_approach"
 msgstr "En approche de %s (N%d)"
@@ -6396,7 +6396,7 @@ msgid "ship_travel_unknow"
 msgstr "Inconnu"
 
 msgid "ship_user_travel_msg"
-msgstr "Nouveaux ordres de voyage direct: la destination finale de %s est maintenant %s. Le pilote automatique est maintenant arrêté."
+msgstr "Nouveaux ordres de voyage direct : la destination finale de %s est maintenant %s. Le pilote automatique est maintenant arrêté."
 
 msgid "shipplanner"
 msgstr "Plannificateur de vaisseau"
@@ -6420,7 +6420,7 @@ msgid "shopping"
 msgstr "Achats"
 
 msgid "shopping_list_desc"
-msgstr "Liste des courses:"
+msgstr "Liste des courses :"
 
 msgid "show_all_ships"
 msgstr "Afficher tous les vaisseaux"
@@ -6429,7 +6429,7 @@ msgid "show_only_spatials_ships"
 msgstr "Afficher seulement les vaisseaux des Spatials"
 
 msgid "sight_range"
-msgstr "Vision: ~A cases"
+msgstr "Vision : ~A cases"
 
 msgid "sleep"
 msgstr "Repos"
@@ -6471,10 +6471,10 @@ msgid "slot_machine"
 msgstr "Machine à sous"
 
 msgid "slot_machine_desc"
-msgstr "Quel meilleur investissement pour votre argent que de faire clignoter des lumières? Utilise des jetons verts."
+msgstr "Quel meilleur investissement pour votre argent que de faire clignoter des lumières ? Utilise des jetons verts."
 
 msgid "slot_name"
-msgstr "Emplacement: ~A"
+msgstr "Emplacement : ~A"
 
 msgid "slot_need_higher_spec"
 msgstr "Nécessite une spécialisation plus élevée"
@@ -6483,7 +6483,7 @@ msgid "slowpox"
 msgstr "Traînardite"
 
 msgid "slowpox_desc"
-msgstr "Je ne peut pas aller plus vite que ça!"
+msgstr "Je ne peut pas aller plus vite que ça !"
 
 msgid "slug_pate"
 msgstr "Pâté de limace"
@@ -6492,7 +6492,7 @@ msgid "smaller_ui"
 msgstr "Plus petite"
 
 msgid "sneaker_reveal_alert"
-msgstr "Un ~A camouflé s'est infiltré sans se faire détecter dans votre base et vient de se révéler!"
+msgstr "Un ~A camouflé s'est infiltré sans se faire détecter dans votre base et vient de se révéler !"
 
 msgid "soap_maker"
 msgstr "Fabrique de savon"
@@ -6561,13 +6561,13 @@ msgid "spec"
 msgstr "Spécialisation"
 
 msgid "spec_disallows"
-msgstr "Empêche d'effectuer les tâches: "
+msgstr "Empêche d'effectuer les tâches : "
 
 msgid "spec_info_demands"
-msgstr "Demandes:"
+msgstr "Demandes :"
 
 msgid "spec_info_salary"
-msgstr "Salaire: %d @ui_icon_20px_credits04.png par min."
+msgstr "Salaire : %d @ui_icon_20px_credits04.png par min."
 
 msgid "spec_not_ready2"
 msgstr "Pour promouvoir vers %s, au moins une tâche doit avoir atteint l'XP requise"
@@ -6582,7 +6582,7 @@ msgid "specops_spec"
 msgstr "Opé spé"
 
 msgid "speed_n"
-msgstr "Vitesse: ~0,2F mParsec/s"
+msgstr "Vitesse : ~0,2F mParsec/s"
 
 msgid "speed_pause"
 msgstr "Mettre en pause"
@@ -6594,7 +6594,7 @@ msgid "spores_node"
 msgstr "Source de spores"
 
 msgid "stack_of"
-msgstr "Pile de: %s"
+msgstr "Pile de : %s"
 
 msgid "staff"
 msgstr "Personnel"
@@ -6630,7 +6630,7 @@ msgid "staff_view_counter_filtered"
 msgstr "Total %d / Filtré %d"
 
 msgid "stance_is"
-msgstr "Attitude: ~A"
+msgstr "Attitude : ~A"
 
 msgid "star"
 msgstr "Étoile"
@@ -6669,7 +6669,7 @@ msgid "stinky_cheese"
 msgstr "Fromage qui pue"
 
 msgid "stock"
-msgstr "Stock:"
+msgstr "Stock :"
 
 msgid "stocks_control"
 msgstr "Contrôle des stocks"
@@ -6693,7 +6693,7 @@ msgid "storage_filter_disabled"
 msgstr "Cette zone de stockage sert de zone de dépôt et ne permet pas le filtrage des ressource"
 
 msgid "storage_status"
-msgstr "Statut du stockage:"
+msgstr "Statut du stockage :"
 
 msgid "stored_group_clear"
 msgstr "Groupe %s effacé"
@@ -6714,13 +6714,13 @@ msgid "success"
 msgstr "Succès"
 
 msgid "sure_to_delete"
-msgstr "Êtes-vous sûr de vouloir supprimer %s?"
+msgstr "Êtes-vous sûr de vouloir supprimer %s ?"
 
 msgid "sure_to_load"
-msgstr "Êtes-vous sûr de vouloir charger %s? La progression non sauvegardée de la partie en cours sera perdue."
+msgstr "Êtes-vous sûr de vouloir charger %s ? La progression non sauvegardée de la partie en cours sera perdue."
 
 msgid "sure_to_replace"
-msgstr "Êtes-vous sûr de vouloir remplacer %s?"
+msgstr "Êtes-vous sûr de vouloir remplacer %s ?"
 
 msgid "surgeon"
 msgstr "Chirurgien"
@@ -6747,7 +6747,7 @@ msgid "system_name_level"
 msgstr "Système %s (N%d)"
 
 msgid "systems_unlocked"
-msgstr "Les systèmes suivants peuvent maintenant être explorés: ~A"
+msgstr "Les systèmes suivants peuvent maintenant être explorés : ~A"
 
 msgid "table"
 msgstr "Table"
@@ -6765,7 +6765,7 @@ msgid "tavern_bar"
 msgstr "Bar de taverne"
 
 msgid "tavern_bar_desc"
-msgstr "On se sent chez soit ici!"
+msgstr "On se sent chez soit ici !"
 
 msgid "tavern_table"
 msgstr "Table de taverne"
@@ -6858,10 +6858,10 @@ msgid "tonicx"
 msgstr "Tonique X"
 
 msgid "toogle_global_recipes"
-msgstr "Activer ou désactiver les recettes disponibles en production globale pour cet objet:"
+msgstr "Activer ou désactiver les recettes disponibles en production globale pour cet objet :"
 
 msgid "total_row"
-msgstr "Total:"
+msgstr "Total :"
 
 msgid "travel_shop"
 msgstr "Section voyages"
@@ -6873,7 +6873,7 @@ msgid "treatment"
 msgstr "Traitement médical"
 
 msgid "treatment_desc"
-msgstr "Le traitement de ~A requiert les étapes suivantes:"
+msgstr "Le traitement de ~A requiert les étapes suivantes :"
 
 msgid "try_delivery_action"
 msgstr "Tente de livrer %s"
@@ -6906,7 +6906,7 @@ msgid "tutorial_civs_basics_6"
 msgstr "Sélectionnez l'onglet Vendre à."
 
 msgid "tutorial_civs_basics_7a"
-msgstr "La fabrication n'est pas seulement pour votre usage interne! Vous pouvez aussi vendre vos excédents aux touristes dans la station, ou directement à leur planète depuis l'onglet Importations. Ici, vous pouvez sélectionner un produit, une planète avec de la demande pour ce produit, un vaisseau en attente à la base, et une quantité de produit. Vous pouvez alors donner un order de livraison et le vaisseau voyagera jusqu'à la planète, vendra les produits, puis rentrera à la base."
+msgstr "La fabrication n'est pas seulement pour votre usage interne ! Vous pouvez aussi vendre vos excédents aux touristes dans la station, ou directement à leur planète depuis l'onglet Importations. Ici, vous pouvez sélectionner un produit, une planète avec de la demande pour ce produit, un vaisseau en attente à la base, et une quantité de produit. Vous pouvez alors donner un order de livraison et le vaisseau voyagera jusqu'à la planète, vendra les produits, puis rentrera à la base."
 
 msgid "tutorial_civs_basics_7b"
 msgstr "Ce sera votre principale source de revenus d'ici à ce que vous débloquiez les quais visiteur et le tourisme, revenez donc souvent ici pour vendre vos excédents de production. Les produits dans les étals des boutiques ou les distributeurs ne sont pas comptabilisés afin que gardiez du stock pour vos besoins en interne."
@@ -6936,13 +6936,13 @@ msgid "tutorial_galaxy_autopilot_4"
 msgstr "Maintenant, cliquez sur le bouton Démarrer pour démarrer le trajet. Le vaisseau voyagera sans intervention de votre part, chargeant automatiquement les cargaisons et visitant toutes les planètes sur sa liste d'ordres. Une fois plein, ou lorsque l'équipage sera trop fatigué, il voyagera automatiquement vers la base pour décharger et attendre que l'équipage se remonte le moral."
 
 msgid "tutorial_galaxy_autopilot_5"
-msgstr "C'est tout! Faire glisser directement un vaisseau pendant qu'il est en mode pilote automatique arrêtera ce dernier et mettra le vaisseau sous vos ordres manuels directs. N'oubliez pas de redémarrer le pilote automatique si besoin dans ce cas. Quand vous vous enterez prêt, vous pourrez visiter d'autres planètes de ce systèmes pour trouver et extraire de nouvelles ressources, puis ajouter plus d'ordres au pilote automatique pour visiter les planètes et récupérer leur ressouces."
+msgstr "C'est tout ! Faire glisser directement un vaisseau pendant qu'il est en mode pilote automatique arrêtera ce dernier et mettra le vaisseau sous vos ordres manuels directs. N'oubliez pas de redémarrer le pilote automatique si besoin dans ce cas. Quand vous vous enterez prêt, vous pourrez visiter d'autres planètes de ce systèmes pour trouver et extraire de nouvelles ressources, puis ajouter plus d'ordres au pilote automatique pour visiter les planètes et récupérer leur ressouces."
 
 msgid "tutorial_galaxy_basics"
 msgstr "Les bases"
 
 msgid "tutorial_galaxy_basics_1"
-msgstr "Ah, la galaxie. Tant de choses à explorer. Ça peut paraître intimidant! Commençons petit.\nCeci est la vue la plus globale de la galaxie. Vous pouvez cliquer\nsur les étoiles pour zoomer sur leurs systèmes planétaires. Pour l'instant, seul votre système d'origine est ouvert au voyage. Cliquez dessus."
+msgstr "Ah, la galaxie. Tant de choses à explorer. Ça peut paraître intimidant ! Commençons petit.\nCeci est la vue la plus globale de la galaxie. Vous pouvez cliquer\nsur les étoiles pour zoomer sur leurs systèmes planétaires. Pour l'instant, seul votre système d'origine est ouvert au voyage. Cliquez dessus."
 
 msgid "tutorial_galaxy_basics_2"
 msgstr "À ce stade, la principale fonction de la galaxie est d'être votre source de matières premières pour vos fabriques et vos cuisines. L'option Ressources affichera les ressources disponibles sur les planètes, vous permettant de préparer votre expédition et de surveiller leurs productions."
@@ -6954,7 +6954,7 @@ msgid "tutorial_galaxy_basics_4"
 msgstr "Attendez que le vaisseau s'approche et se mette en orbite autour de la planète."
 
 msgid "tutorial_galaxy_basics_5"
-msgstr "Explorons cette planète! Cliquez sur Tutoland."
+msgstr "Explorons cette planète ! Cliquez sur Tutoland."
 
 msgid "tutorial_galaxy_basics_6"
 msgstr "Pour explorer une planète, cliquez sur le bouton Explorer. Vous passerez en vue planète et pourrez y commencer le didacticiel des bases sur les planètes."
@@ -6966,10 +6966,10 @@ msgid "tutorial_galaxy_title"
 msgstr "Didacticiel sur la galaxie"
 
 msgid "tutorial_menu_goals_hint"
-msgstr "Astuce: Si vous en avez terminé avec les didacticiels, consultez les Objectifs dans la barre d'outils du haut."
+msgstr "Astuce : Si vous en avez terminé avec les didacticiels, consultez les Objectifs dans la barre d'outils du haut."
 
 msgid "tutorial_planet_basics_1"
-msgstr "Alors vous avez atterri sur la planète didacticielle!\nLes planètes sont votre source principale de ressources, elles sont donc vitales pour votre survie. Visitez de nouvelles planètes afin de trouver toutes sortes de ressources."
+msgstr "Alors vous avez atterri sur la planète didacticielle !\nLes planètes sont votre source principale de ressources, elles sont donc vitales pour votre survie. Visitez de nouvelles planètes afin de trouver toutes sortes de ressources."
 
 msgid "tutorial_planet_basics_2"
 msgstr "Tout comme sur la station, vous pouvez vous déplacer comme vous voulez avec le bouton droit de la souris. Zoomez en avant et en arrière avec la molette de la souris."
@@ -6999,7 +6999,7 @@ msgid "tutorial_planet_extraction_1"
 msgstr "Construisons un extracteur de ressource. Ces bâtiments persistent à la surface de la planèt, et génèreron périodiquement des ressources prêtes à être récuperées par vos vaisseaux spaciaux. Vous devez les construire à proximité d'une ou plusieurs source de ressources, de manière à ce que les sources soit dans leur zone d'influence. Sélectionnez l'outil construction."
 
 msgid "tutorial_planet_extraction_2"
-msgstr "Cliquez maintenant sur l'objet en surbrillance: l'extracteur."
+msgstr "Cliquez maintenant sur l'objet en surbrillance : l'extracteur."
 
 msgid "tutorial_planet_extraction_3"
 msgstr "Ce bâtiment sert à extraire les ressources d'une planète. La case en surbrillance est à proximité de sources de fruits et de légumes, Cliquez dessus pour construire l'extracteur. Au moins une source doit se trouver à l'intérieur de sa zone d'influence. N'oubliez pas que vous pouvez sélectionner votre escouade [1] et les téléporter [T] à proximité."
@@ -7008,7 +7008,7 @@ msgid "tutorial_planet_extraction_4"
 msgstr "Cet objet doit maintenant être construit par vos officiers. Attendons qu'ils finissent le travail. N'oubliez pas que vous pouvez utilisez l'outil téléportation s'ils ont atterri loin de l'objet à construire."
 
 msgid "tutorial_planet_extraction_5"
-msgstr "Voilà! Cet extracteur va maintenant générer des fruits qui seront stockés localement. Stationnez-vous sur cette planète pour les charger sur un vaisseau, et utilisez le pilote automatique pour automatiser la livraison vers votre station. Exporter des ressources depuis les planètes habitées coûte des crédits et cela devient moins cher avec une meilleur réputation. Vérifiez dans l'écran Civilisations pour voir le taux des prix à l'exportation."
+msgstr "Voilà ! Cet extracteur va maintenant générer des fruits qui seront stockés localement. Stationnez-vous sur cette planète pour les charger sur un vaisseau, et utilisez le pilote automatique pour automatiser la livraison vers votre station. Exporter des ressources depuis les planètes habitées coûte des crédits et cela devient moins cher avec une meilleur réputation. Vérifiez dans l'écran Civilisations pour voir le taux des prix à l'exportation."
 
 msgid "tutorial_planet_extraction_6_dev"
 msgstr "[DÉV] Je vous recommande de décoller maintenant et de suivre le didacticiel sur le pilote automatique dans la galaxie."
@@ -7020,7 +7020,7 @@ msgid "tutorial_planet_planetarium_1"
 msgstr "Il arrivera un moment ou le système niveau 1 de départ avec l'astéroïde qui vous sert de base deviendra trop petit. Vous allez avoir besoin de plus ressource et de visiteurs pour faire tourner votre station. Le moyen d'ouvrir de nouveaux systèmes est de visiter un planétarium. Toutes les planètes habitées en ont un. Cliquez sur suivant pour voir le planétarium de cette planète."
 
 msgid "tutorial_planet_planetarium_2"
-msgstr "Les planétariums contiennent la connaissance locale sur la galaxie. Comme l'indique le panneau d'information, vous avez le choix entre obtenir cette connaissance par la force ou en payant. Attention aux conséquences! Après l'avoir obtenue, tous les systèmes reliés au système de cette planète deviendront accessibles."
+msgstr "Les planétariums contiennent la connaissance locale sur la galaxie. Comme l'indique le panneau d'information, vous avez le choix entre obtenir cette connaissance par la force ou en payant. Attention aux conséquences ! Après l'avoir obtenue, tous les systèmes reliés au système de cette planète deviendront accessibles."
 
 msgid "tutorial_planet_squad"
 msgstr "Les bases et les actions"
@@ -7053,7 +7053,7 @@ msgid "tutorial_station_basics"
 msgstr "Les bases"
 
 msgid "tutorial_station_basics_1"
-msgstr "Bienvenue dans The Spatials: Galactology!\nCeci est votre station. Ce n'est pas grand chose pour l'instant.\nVotre mission principale est de la construire et de la défendre pour qu'elle devienne un foyer pour les Spatials et un lieu incontournable pour les visiteurs."
+msgstr "Bienvenue dans The Spatials : Galactology !\nCeci est votre station. Ce n'est pas grand chose pour l'instant.\nVotre mission principale est de la construire et de la défendre pour qu'elle devienne un foyer pour les Spatials et un lieu incontournable pour les visiteurs."
 
 msgid "tutorial_station_basics_2"
 msgstr "Déplacez-vous autour de votre station à l'aide des touches WASD. Zoomez en avant et en arrière avec la molette de la souris."
@@ -7074,13 +7074,13 @@ msgid "tutorial_station_building_1"
 msgstr "Votre station est composée de salles. Les salles doivent toujours être délimitées par des murs ou des portes, et leurs sols doivent être entièrement recouverts de cases de sol. Une fois seulement ces conditions seront remplies le jeu considèrera une telle zone comme une salle, il sera alors possible d'y construire la majorité des objets de la station.\nSélectionnez l'outils de construction de sols"
 
 msgid "tutorial_station_building_10"
-msgstr "Bien! La salle est presque prête. Nous devons fermer la dernière case dans l'angle, mais si nous y avions construit un mur, il aurait été impossible d'entrer ou sortir. Il nous faut une porte. Sélectionnez l'outil objets."
+msgstr "Bien ! La salle est presque prête. Nous devons fermer la dernière case dans l'angle, mais si nous y avions construit un mur, il aurait été impossible d'entrer ou sortir. Il nous faut une porte. Sélectionnez l'outil objets."
 
 msgid "tutorial_station_building_11"
 msgstr "L'outil objets liste tous les objets débloqués pouvant être construit dans la station. D'abord, sélectionnons la catégorie d'objets. Cliquez sur la catégorie Sécurité."
 
 msgid "tutorial_station_building_12"
-msgstr "Maintenant, cliquez sur l'objet en surbrillance: une porte."
+msgstr "Maintenant, cliquez sur l'objet en surbrillance : une porte."
 
 msgid "tutorial_station_building_13"
 msgstr "Construisez une porte en cliquant sur la case en surbrillance. Vous pouvez tourner l'objet avant sa construction avec les touches Q et E ou en déplaçant la souris une fois que vous aurez cliqué pour la construire."
@@ -7098,19 +7098,19 @@ msgid "tutorial_station_building_2"
 msgstr "L'outil de construction des sols dessine dans la station une esquisse du sol sélectionné quand vous faites glisser avec le bouton gauche de la souris.\nDessinez entre les deux marqueurs."
 
 msgid "tutorial_station_building_2_b"
-msgstr "Astuce: Vous pouvez appuyer sur Maj. pour faire passer l'outil de construction des sols en outil d'effacement des sols. Vous pouvez appuyer sur Échap. pendant un glisser pour annuler."
+msgstr "Astuce : Vous pouvez appuyer sur Maj. pour faire passer l'outil de construction des sols en outil d'effacement des sols. Vous pouvez appuyer sur Échap. pendant un glisser pour annuler."
 
 msgid "tutorial_station_building_3"
 msgstr "L'outil sol ne fait que dessiner une esquisse. Pour que le sol soit réellement construit, une tâche a été créée pour vos officiers. Attendons qu'ils finissent."
 
 msgid "tutorial_station_building_4"
-msgstr "Fini! Mais les salles ne se limitent pas qu'aux sols, elles ont aussi besoin de murs. Sélectionnez l'outil de construction de murs."
+msgstr "Fini ! Mais les salles ne se limitent pas qu'aux sols, elles ont aussi besoin de murs. Sélectionnez l'outil de construction de murs."
 
 msgid "tutorial_station_building_5"
 msgstr "Posons les esquisses des murs autour du sol.\nTracez une ligne entre les deux marqueurs."
 
 msgid "tutorial_station_building_5_b"
-msgstr "Astuce: Vous pouvez appuyer sur Maj. pour faire passer l'outil de construction des murs en outil d'effacement des murs. Vous pouvez appuyer sur Échap. pendant un glisser pour annuler."
+msgstr "Astuce : Vous pouvez appuyer sur Maj. pour faire passer l'outil de construction des murs en outil d'effacement des murs. Vous pouvez appuyer sur Échap. pendant un glisser pour annuler."
 
 msgid "tutorial_station_building_6"
 msgstr "L'autre côté maintenant. Tracez une ligne entre les deux marqueurs."
@@ -7134,7 +7134,7 @@ msgid "tutorial_station_object_tool_2"
 msgstr "L'outil objets liste tous les objets débloqués pouvant être construit dans la station. D'abord, sélectionnons la catégorie d'objets. Cliquez sur la catégorie Restauration."
 
 msgid "tutorial_station_object_tool_3"
-msgstr "Maintenant, cliquez sur l'objet en surbrillance: la cuisine basique."
+msgstr "Maintenant, cliquez sur l'objet en surbrillance : la cuisine basique."
 
 msgid "tutorial_station_object_tool_4"
 msgstr "C'est la cuisine basique, elle peut être utilisée pour préparer de la nouriture simple et pas chère. Pour en construire une, cliquez sur une case de sol déjà construite. Vous pouvez tourner l'objet avant sa construction avec les touches Q et E ou en déplaçant la souris une fois que vous aurez cliqué pour la construire.\nConstruisez une cuisine sur la case en surbrillance."
@@ -7161,7 +7161,7 @@ msgid "tutorial_station_production_3_1"
 msgstr "Maintenant, réglons notre cuisine pour préparer un peu de nourriture. Sélectionnez-la avec l'outil information."
 
 msgid "tutorial_station_production_3_2"
-msgstr "Astuce: Appuyez sur Échap. à tout moment depuis la station pour activer l'outil Information, puis cliquez sur n'importe quel objet de la station pour voir ses propriétés."
+msgstr "Astuce : Appuyez sur Échap. à tout moment depuis la station pour activer l'outil Information, puis cliquez sur n'importe quel objet de la station pour voir ses propriétés."
 
 msgid "tutorial_station_production_4"
 msgstr "Ceci est le panneau information pour une cuisine de base. Il contient quelques informations communes, comme la partie élément vitaux, et d'autres plus spécifiques, comme l'onglet Fabrication.\nCliquez sur l'onglet Fabrication pour continuer."
@@ -7182,7 +7182,7 @@ msgid "tutorial_station_production_6"
 msgstr "Vos officiers vons maintenant commencer à cuisiner des rations, du moment qu'ils aient les ressources nécessaires, qu'il y aient la tâche cuisine activée et que la file de production a toujours des ordres à remplir.\nAttendons qu'ils aient fini une ration."
 
 msgid "tutorial_station_production_7"
-msgstr "Et voilà! La toute première ration de cet astéroïde. Mais empiler la nourriture au sol ne semble pas être une très bonne idée. Continuez avec le didacticiel sur les stocks pour en apprendre au sujet d'objets qui penvent conserver des stocks de ressources."
+msgstr "Et voilà ! La toute première ration de cet astéroïde. Mais empiler la nourriture au sol ne semble pas être une très bonne idée. Continuez avec le didacticiel sur les stocks pour en apprendre au sujet d'objets qui penvent conserver des stocks de ressources."
 
 msgid "tutorial_station_stocks"
 msgstr "Les stocks"
@@ -7209,7 +7209,7 @@ msgid "tutorial_station_stocks_2"
 msgstr "Cliquez sur la catégorie Alimentation."
 
 msgid "tutorial_station_stocks_3"
-msgstr "Maintenant, cliquez sur l'objet en surbrillance: Nourriture de cantine"
+msgstr "Maintenant, cliquez sur l'objet en surbrillance : Nourriture de cantine"
 
 msgid "tutorial_station_stocks_4"
 msgstr "Cliquez sur la case en surbrillance pour le construire."
@@ -7221,7 +7221,7 @@ msgid "tutorial_station_stocks_6_1"
 msgstr "Maintenant, passez à l'outil Information et sélectionnez le distributeur de nourriture."
 
 msgid "tutorial_station_stocks_6_2"
-msgstr "Astuce: Appuyez sur Échap. à tout moment depuis la station pour activer l'outil Information, puis cliquez sur n'importe quel objet de la station pour voir ses propriétés."
+msgstr "Astuce : Appuyez sur Échap. à tout moment depuis la station pour activer l'outil Information, puis cliquez sur n'importe quel objet de la station pour voir ses propriétés."
 
 msgid "tutorial_station_stocks_7"
 msgstr "Sélectionnez le panneau Stocks."
@@ -7262,7 +7262,7 @@ msgid "type_new_max_stock"
 msgstr "Stock maximum à conserver dans cet objet"
 
 msgid "type_officer_name"
-msgstr "Entrez le nom de l'officier:"
+msgstr "Entrez le nom de l'officier :"
 
 msgid "type_restock_at_stock"
 msgstr "Les tâches de restockage commenceront lorsque la quantité de stock sera inférieure ou égale à cette valeur, jusqu'à le stock maximum soit atteint."
@@ -7280,13 +7280,13 @@ msgid "ugc_change_desc"
 msgstr "Changelog de la mise à jour (vous pouvez coller depuis un éditeur de texte)"
 
 msgid "ugc_changelog"
-msgstr "Changelog de la mise à jour:"
+msgstr "Changelog de la mise à jour :"
 
 msgid "ugc_create_new_mod"
 msgstr "Créer un mod"
 
 msgid "ugc_desc"
-msgstr "Description:"
+msgstr "Description :"
 
 msgid "ugc_entry_desc_req"
 msgstr "La description est obligatoire"
@@ -7313,13 +7313,13 @@ msgid "ugc_error_timeout"
 msgstr "Timeout lors de la connection avec Steam"
 
 msgid "ugc_folder"
-msgstr "Dossier du contenu:"
+msgstr "Dossier du contenu :"
 
 msgid "ugc_folder_desc"
-msgstr "S?ectionnez le dossier de contenu du mod?uploader"
+msgstr "S ?ectionnez le dossier de contenu du mod ?uploader"
 
 msgid "ugc_image"
-msgstr "Image:"
+msgstr "Image :"
 
 msgid "ugc_mod_desc"
 msgstr "Description (vous pouvez coller depuis un éditeur de texte)"
@@ -7334,10 +7334,10 @@ msgid "ugc_tag_translation"
 msgstr "Traduction"
 
 msgid "ugc_tags"
-msgstr "Étiquettes:"
+msgstr "Étiquettes :"
 
 msgid "ugc_title"
-msgstr "Titre:"
+msgstr "Titre :"
 
 msgid "ugc_user_warning"
 msgstr "Ceci est un outil pour les développeurs de mods. Pour installer et activer des mods pour vos parties, utilisez le panneau Mods dans la fenêtre Nouvelle partie."
@@ -7361,7 +7361,7 @@ msgid "ugc_valid_title_too_long"
 msgstr "Le titre est trop long"
 
 msgid "ugc_vis"
-msgstr "Visibilité:"
+msgstr "Visibilité :"
 
 msgid "ugc_vis_friends"
 msgstr "Amis"
@@ -7451,7 +7451,7 @@ msgid "visitor_bored"
 msgstr "S'ennui"
 
 msgid "visitor_bored_desc"
-msgstr "Où est le fun?"
+msgstr "Où est le fun ?"
 
 msgid "visitor_departing_feeling"
 msgstr "S'en va"
@@ -7493,7 +7493,7 @@ msgid "visitor_mallrat"
 msgstr "Squatteur de magasins"
 
 msgid "visitor_mallrat_desc"
-msgstr "J'aimerai pouvoir vivre ici!"
+msgstr "J'aimerai pouvoir vivre ici !"
 
 msgid "visitor_opinion_vital"
 msgstr "Opinion"
@@ -7502,7 +7502,7 @@ msgid "visitor_party"
 msgstr "Fêtard"
 
 msgid "visitor_party_desc"
-msgstr "C'EST LA FÊTE OUAIS!!!"
+msgstr "C'EST LA FÊTE OUAIS !!!"
 
 msgid "visitor_researcher"
 msgstr "Chercheur"
@@ -7544,7 +7544,7 @@ msgid "visitor_wasted_desc"
 msgstr "Vers le bar ou la taverne la plus proche, ne jamais regarder derrière..."
 
 msgid "vital_factors"
-msgstr "Facteurs vitaux:"
+msgstr "Facteurs vitaux :"
 
 msgid "vital_satisfy_desc"
 msgstr "Satisfait le besoin ~A"
@@ -7628,7 +7628,7 @@ msgid "water_node"
 msgstr "Source d'eau"
 
 msgid "welcome_emp"
-msgstr "Bienvenue!"
+msgstr "Bienvenue !"
 
 msgid "window"
 msgstr "Fenêtré"
@@ -7643,7 +7643,7 @@ msgid "working"
 msgstr "Travaille"
 
 msgid "working_label"
-msgstr "Tâche: ~A"
+msgstr "Tâche : ~A"
 
 msgid "world_enlargement"
 msgstr "Aggrandissement du monde"
@@ -7682,7 +7682,7 @@ msgid "cant_build_needs_outside"
 msgstr "Nécessite une zone en extérieur"
 
 msgid "cargo_label"
-msgstr "Soute :"
+msgstr "Soute  :"
 
 msgid "cargo_value"
 msgstr "%d unités"
@@ -7708,7 +7708,7 @@ msgid "civ_ui_resources"
 msgstr "@ui_icon_30px_buy.png Ressources"
 
 msgid "crew_label"
-msgstr "Équipage :"
+msgstr "Équipage  :"
 
 msgid "crew_value"
 msgstr "%s emplacements"
@@ -7723,22 +7723,22 @@ msgid "event_lactian_spam_warn"
 msgstr ""
 "Des membres de l'Église de Lactus, un nouveau culte galactique vénérant une "
 "mystérieuse entité lactée, font du prosélytisme sur votre station. Ils ne "
-"semblent transporter que des prospectus (mais est-ce vraiment le cas ?). "
+"semblent transporter que des prospectus (mais est-ce vraiment le cas  ?). "
 "Occupez-vous d'eux comme bon vous semble, ou attendez simplement qu'ils s'en "
 "aillent."
 
 msgid "event_raid_alert"
-msgstr "Un groupe de pillard est arrivé ! ~A attaque notre station !"
+msgstr "Un groupe de pillard est arrivé  ! ~A attaque notre station  !"
 
 msgid "event_raid_retaliate_warn"
 msgstr ""
-"%s ripostent contre nous ! Un groupe de pillards venant de %s approche de "
-"notre station. Soyez prêts !"
+"%s ripostent contre nous  ! Un groupe de pillards venant de %s approche de "
+"notre station. Soyez prêts  !"
 
 msgid "event_raid_warn4c"
 msgstr ""
 "Nous avons reçu des rapports sur un groupe de pillards %s venant de %s "
-"approchant de notre station. Soyez prêts !"
+"approchant de notre station. Soyez prêts  !"
 
 msgid "export_rates_desc"
 msgstr ""
@@ -7749,7 +7749,7 @@ msgid "facilities_tier_9b"
 msgstr "Sécurité robotique"
 
 msgid "filter_ship_named"
-msgstr "Vaisseau : %s"
+msgstr "Vaisseau  : %s"
 
 msgid "fire_officer"
 msgstr "Renvoyer l'officier"
@@ -7820,7 +7820,7 @@ msgid "group_facilities2"
 msgstr "Aménagements"
 
 msgid "in_progress_p"
-msgstr "En cours : %d/%d"
+msgstr "En cours  : %d/%d"
 
 msgid "lactian_leaflets"
 msgstr "Prospectus lactiens"
@@ -7854,10 +7854,10 @@ msgstr ""
 "temps de récupération."
 
 msgid "ship_skills_label"
-msgstr "Compétences : "
+msgstr "Compétences  : "
 
 msgid "speed_label"
-msgstr "Vitesse :"
+msgstr "Vitesse  :"
 
 msgid "speed_value"
 msgstr "~0,2F mParsec/s"
@@ -7879,7 +7879,7 @@ msgstr "Une tourelle à gros calibre"
 
 msgid "tutorial_station_object_tool_7b"
 msgstr ""
-"À propos du bruit : Bien que cette petite combinaison d'une cuisine et d'une "
+"À propos du bruit  : Bien que cette petite combinaison d'une cuisine et d'une "
 "table passe au début d'une station, mettre deux cuisines ou plus dans la "
 "même pièce gênera les officiers voulant prendre un repas dans le calme. "
 "Considérez la construction d'une salle à part pour la cuisine lorsque votre "
