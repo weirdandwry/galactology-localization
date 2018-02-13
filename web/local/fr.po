@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-12 09:03+0000\n"
-"PO-Revision-Date: 2018-02-12 21:15+0000\n"
+"PO-Revision-Date: 2018-02-13 21:32+0000\n"
 "Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: French "
 "<http://translate.weirdandwry.com/projects/galactology/web/fr/>\n"
@@ -194,3 +194,14 @@ msgstr "L'équipage le mieux habillé de la galaxie"
 
 msgid "com.weirdandwry.galactology.achievement.plundering_desc"
 msgstr "Le butin de guerre est à vous"
+
+msgid "com.weirdandwry.galactology.achievement.starfleet_name"
+msgstr "Flotte stellaire"
+
+msgid "com.weirdandwry.galactology.achievement.pretaporter_name"
+msgstr "Prêt-à-porter"
+
+msgid "com.weirdandwry.galactology.achievement.starfleet_desc"
+msgstr ""
+"Avoir l'audace d'utiliser, non pas une, mais deux fois cette citation dans "
+"le jeu"
