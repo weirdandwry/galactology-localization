@@ -2,7 +2,7 @@ msgid "guide_first_station_intro_title"
 msgstr "Your first station"
 
 msgid "guide_first_station_intro"
-# Welcome to The Spatials: Galactology!
+Welcome to The Spatials: Galactology!
 
 In this guide you will find out how to start your first station, and then some chapters with more in depth information on the various game systems.
 
@@ -14,9 +14,9 @@ msgstr "Basics and building"
 msgid "guide_first_station_basics"
 The very first steps of any new station are building your initial rooms. Many of the objects your staff will use in their daily life and work need a proper shelter, so it is important to first learn what makes a room in Galactology.
 
-A room is well defined when its entire ground is covered in floor tiles, and its entire permimeter is composed of wall segments and/or doors.
+A room is well defined when its entire ground is covered in floor tiles, and its entire perimeter is composed of wall segments and/or doors.
 
-Conversely there are two tools related to building rooms. The Floor Tool and the Walls Tool.
+You make use of two tools for building rooms: the Floor Tool and the Walls Tool.
 
 The Floor Tool allows you to draw a floorplan either tile by tile or by dragging the mouse left button to draw a rectangle of tiles. Select the floor and room style you want from the listing, and if desired, a highlight color in the top bar. When drawing on the map you can also press Shift to toggle the eraser mode, or Alt plus clicking on an existing floor tile to copy its style and color. You can mix and match all kinds of floor tiles.
 
@@ -45,11 +45,20 @@ msgid "guide_first_station_landing"
 msgid "guide_first_station_autopilot"
         autopilot for ships
 
+msgid "guide_first_station_credits_title"
+msgstr "Making money"
+
 msgid "guide_first_station_credits"
-        making money
-            sell excess products
-            meet goals
-            open up to tourists
+
+Your initial cash will run out sooner or later. While it's not an urgent need at the very start, making money should be one of your priorities in the early game. Many actions have a price to be paid in credits, the currency of the galaxy.
+
+The most straightforward way of making money is to sell products you make in your station to other planets. This is accomplished in the Sell tab of in the Civs screen. Different civs like different products. Select a product you are stocking in your station, then a planet that has a demand for it. If you have available stock and a free ship you can send a delivery right away and get paid once the ship arrives.
+
+Goals always have a cash reward, and they hit on many different areas of the game. Completing goals will both net you some income and guide your station development.
+
+A hands on approach to riches is plain old plundering. When you visit an hostile planet and defeat enemies they will sometimes drop items. These items can be resources, equipment or some cash.
+
+Once you are confident in your production and station facilities it could be a good idea to build some visitor docks so tourists can land in your station. They will come flush with cash. The more their civ likes you, the larger their wallets.
 
 msgid "guide_officers_intro"
     officers
@@ -112,6 +121,21 @@ msgid "guide_ships"
         fleet screen, crew selection
         ship bulding
 
+msgid "guide_combat_title"
+msgstr "Combat"
+
+msgid "guide_combat"
+
+Combat in Galactology is a mostly automated afair, with some variable level of player input. Your officers will be aware of their role depending on which kind of active item they are equipped with. Healers will seek friendly units to heal, shielders will await for damage to start affecting their friends, damage dealers will seek and pursue enemies, etc.
+
+The main player input is meant to be general position orders. Select a group of officers with the Info Tool and then dragging the left mouse button. Or use the Info Tool plus shift click to add them to the selection one by one. Once you have an officer or a group selected you can issue movement orders by right clicking anywhere in the map. A Teleport action is also available to quickly transport your crew in and out of danger, with a cooldown.
+
+You can save the current officer selection by pressing Ctrl then a numeric key from 1 to 6. After you do so, pressing 1 to 6 will automatically select the saved group. When you land on a planet a group is always created and bound to 1.
+
+You also have the capability of issuing manual target orders. There's a target action for every kind of active item in the game (damage, healing, shielding and control). You can issue blanket orders in any heterogenous group and they will be issued only the the appropiate officers. Use these orders when you want more tactical control over combat. For example to focus attacks on enemy healers. Manual target orders are also required when you desire to attack neutral units. By default neither the officer AI nor the normal manual target action will work with neutral units; you must issue a manual target action while pressing shift for neutral units to be targetted.
+
+Addionally, for planet exploration, one or more ship skills may be available. Ship skills are powerful but have a long cooldown. They can require your direct input to select a target area.
+
 msgid "guide_exploration"
     exploration
         extraction
@@ -119,8 +143,9 @@ msgid "guide_exploration"
         opening systems
         other buildings
 
-msgid "guide_combat"
-    combat
+
+msgid "guide_research_title"
+msgstr "Research"
 
 msgid "guide_research"
     research
