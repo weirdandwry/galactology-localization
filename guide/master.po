@@ -38,19 +38,56 @@ msgid "guide_first_station_rations_title"
 
 msgid "guide_first_station_rations"
 
+Let's take a look at how to produce rations, as an example on how production works.
+
+One of the main tasks for your station is manufacturing products. You extract resources from planets and process them in your station into products. Those products can then be consumed by your officers, sold to visitors, or sold to planets.
+
+Basic Rations is the first food product you can make. It will satisfy the Hunger vital for your officers. Producing Basic Rations requires Fruits, of which you have a starter stack when creating a new game.
+
+To produce one or more Basic Rations you will need to build a Basic Kitchen. Once it is built, click it with the Info Tool. In the options panel you will be able to add a new production order by selecting which recipe you want to produce and which amount.
+
+A factory object like the Basic Kitchen will create tasks for your officers when it detects all the required ingredients for its current production order are in stock somewhere in the station. Then, if one of your officers has the right job enabled (and by default all redshirts have all jobs enabled), they will first load the factory object with the required ingredients and then start producing the work order, one product unit at a time.
+
+It is possilbe to automate the creation of production orders. First set one or more factory objects to global mode with the Info Tool. Then, in the Inventory Window, select the product you want to automate, and input a desired minimal stock amount. The game will try to keep that stock amount by issuing production orders to the factories set to global production.
+
+It is not enough to produce rations, you also need to provide a place for your officers to consume them. Build one or more Canteen Tables so your officers can sit down to enjoy a meal and a drink. It is also a good idea to build food dispensers nearby, like the Canteen food and drink objects.
+
+msgid "guide_first_station_landing_title"
+    Exploration and extraction
 
 msgid "guide_first_station_landing"
-        landing on tutoland and extractors
+
+The station needs a steady supply of resources to keep production going. No resources grow in your home planet, so you have to look for them in other planets. Fortunately there is an entire galaxy around you, with many star systems and planets to explore.
+
+The galaxy screen has two zoom levels. The default zoom level shows an overview of the entire galaxy, with your home system always in the center of the screen. You can zoom into discovered star systems by clicking on their star.
+
+In the system view you can see its planets orbiting the star. If any of your ships is in this system they will be parked next to a planet. Other ships will be displayed in a circle around the system, so you can always interact with your fleet from any system.
+
+To issue manual travel orders to a ship, drag and drop its icon on top of a planet. This will issue a travel order and the ship will leave your station or its current parked planet and travel to its new destination.
+
+Once a ship is parked over a planet it becomes possible to explore it. Click on a planet to open its info window, then click the Explore button.
+
+When exploring a planet your ship crew descends on to its surface and is able to move around, fight and build objects. This is important because in order to be able to extract resources, you need to build a resource extractor next to resource nodes. Resource nodes are areas on the surface of the planet with a disguishing aspect. Click on them to discover which resource they store, then build a extractor next to them, making sure you cover the entire area. Building more extractors over a given area will not make extraction go any faster.
+
+It is also a good idea to build Storage objects on planets to increase the storage capacity. Your ships may take a long time to visit back, so it is easy to exceed the small storage capacity of an extractor object.
+
+
+msgid "guide_first_station_autopilot_title"
+        Autopilot
 
 msgid "guide_first_station_autopilot"
-        autopilot for ships
+
+Delivering extracted resources with manual travel orders would be very tedius. You can make use of the ship autopilot feature to automate the delivery of extracted resources to your station.
+
+CONT...
+
 
 msgid "guide_first_station_credits_title"
 msgstr "Making money"
 
 msgid "guide_first_station_credits"
 
-Your initial cash will run out sooner or later. While it's not an urgent need at the very start, making money should be one of your priorities in the early game. Many actions have a price to be paid in credits, the currency of the galaxy.
+Your initial cash will run out sooner or later. While it is not an urgent need at the very start, making money should be one of your priorities in the early game. Many actions have a price to be paid in credits, the currency of the galaxy.
 
 The most straightforward way of making money is to sell products you make in your station to other planets. This is accomplished in the Sell tab of in the Civs screen. Different civs like different products. Select a product you are stocking in your station, then a planet that has a demand for it. If you have available stock and a free ship you can send a delivery right away and get paid once the ship arrives.
 
@@ -132,7 +169,7 @@ The main player input is meant to be general position orders. Select a group of 
 
 You can save the current officer selection by pressing Ctrl then a numeric key from 1 to 6. After you do so, pressing 1 to 6 will automatically select the saved group. When you land on a planet a group is always created and bound to 1.
 
-You also have the capability of issuing manual target orders. There's a target action for every kind of active item in the game (damage, healing, shielding and control). You can issue blanket orders in any heterogenous group and they will be issued only the the appropiate officers. Use these orders when you want more tactical control over combat. For example to focus attacks on enemy healers. Manual target orders are also required when you desire to attack neutral units. By default neither the officer AI nor the normal manual target action will work with neutral units; you must issue a manual target action while pressing shift for neutral units to be targetted.
+You also have the capability of issuing manual target orders. There is a target action for every kind of active item in the game (damage, healing, shielding and control). You can issue blanket orders in any heterogenous group and they will be issued only the the appropiate officers. Use these orders when you want more tactical control over combat. For example to focus attacks on enemy healers. Manual target orders are also required when you desire to attack neutral units. By default neither the officer AI nor the normal manual target action will work with neutral units; you must issue a manual target action while pressing shift for neutral units to be targetted.
 
 Addionally, for planet exploration, one or more ship skills may be available. Ship skills are powerful but have a long cooldown. They can require your direct input to select a target area.
 
