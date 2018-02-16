@@ -79,7 +79,13 @@ msgid "guide_first_station_autopilot"
 
 Delivering extracted resources with manual travel orders would be very tedius. You can make use of the ship autopilot feature to automate the delivery of extracted resources to your station.
 
-CONT...
+To open the autopilot orders window, go to the galaxy screen and click on a ship icon. This window displays a listing of autopilot orders. Each order is a stop the ship will make when you enable the autopilot, using the Start Autopilot button.
+
+To add orders to the autopilot click the first button in the window toolbar, Add Order. This will display a listing of all the planets you have explored and built an extractor. Select a planet to add a new autopilot order. You can add as many orders as you want to any ship, but keep in mind its cargo hold capacity and its speed. Too many orders will make for a long, slow route which can be inefficient with early model ships.
+
+Autopiloted ships automatically head back home when their cargo hold is full, or when its crew average morale falls below 25%. Once it has unloaded its cargo and its crew has rested it will resume its travels from the same point.
+
+Ship crews take their needs very seriously when they are resting in the station, and will often priorize sleeping or eating before any kind of work task. Keep it in mind!
 
 
 msgid "guide_first_station_credits_title"
