@@ -103,11 +103,20 @@ A hands on approach to riches is plain old plundering. When you visit an hostile
 
 Once you are confident in your production and station facilities it could be a good idea to build some visitor docks so tourists can land in your station. They will come flush with cash. The more their civ likes you, the larger their wallets.
 
+msgid "guide_officers_intro_title"
+    Officers
+
 msgid "guide_officers_intro"
-    officers
+Your officer staff is your most valuable asset. They will build, fight and work under your orders. But you must also provide for them by making sure their needs and demands are met. Expect a mutiny if you don't!
+
+You can recruit new officers in the Staff screen, selecting Recruit in the left column. Every officer you recruit has a contract price, and it goes up the bigger your staff is. There is no limit to the amount of officers you can have, only the capacity of your station and production to keep them happy and busy.
+
+
+msgid "guide_officers_vitals_title"
+    Vitals and mind
 
 msgid "guide_officers_vitals"
-        vitals and mind (also for other entities)
+
 
 msgid "guide_officers_specs"
         specs
@@ -117,8 +126,19 @@ msgid "guide_officers_jobs"
         jobs
             also explain job system in general
 
+msgid "guide_officers_items_title"
+    Equipment
+
 msgid "guide_officers_items"
-        wearable items?
+
+Equipping armor and weapons is the main way you can make your officers more powerful and resilient in combat. Wearable items are unique items that you can find in planet exploration loot, from dead enemies, and you can produce in your item factories.
+
+They can be equipped in different slots like the chest or the feet. When your officers progress into a higher spec new slots become available to equip new items. Items are one time use only. Once equipped they cannot be droped, only overwritten by another item.
+
+Items can enhance two properties of your officers. Hit points determine how much damage they can take from attacks. Power boosts their active item in whatever action they take. The total sum of these values is taken from all the equipped items for a given officer. Items also have a level number and optionally can also have a rarity qualifier. The level number of an item is a good indidcator of its power against same level enemies, so keep it in mind when exploring a planet.
+
+Active items are used by your officers in combat. They have four possible actions: damage, healing, control and shielding. Damage items are used for attacking enemies. Healing items heal hitpoints on friendly units. Control items can stop enemies from attacking in various ways. Shielding items create a temporary shield around friendly units that absorbs damage from enemies. Officer AI is capable of controlling and using any kind of item by itself, but so are enemies.
+
 
 msgid "guide_station_intro"
     station
