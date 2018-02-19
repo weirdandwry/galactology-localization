@@ -117,14 +117,36 @@ msgid "guide_officers_vitals_title"
 
 msgid "guide_officers_vitals"
 
+Officers (and other entities like visitors) have vital needs. They are represented as bars with a value going from 0 to 100. Vitals model basic needs like hunger, thirst or hygiene. The station facilites and production must make it possible for officers to keep their vitals at a high value. For example to make sure your officer's hunger does not get too low, provide them with food and with tables to sit down to enjoy their meal.
+
+Officers can also have a mind of their own. The Mind vital is calculated from the effect of Feelings on your officers. A wide variety of conditions can add Feelings to officers. For example, enjoying a meal and hitting a high value of Hunger will create a positive feeling. Not getting paid a salary will create a negative feeling that gets worse with time.
+
+Mind is the most important vital, and it is calculated as the total sum of the feelings. Then, instead of being applied inmmediately, its value is slowly averaged over time, so a crysis has no immediate effects.
+
+
+msgid "guide_officers_specs_title"
+Specs and demands
 
 msgid "guide_officers_specs"
-        specs
-        requests
+
+Your officers join your station because they want to live an exciting career as space adventurers, and expect to be promoted in their jobs as they get better. Performing a job will give more experience points (XP) to an officer in that job. At some point those XP will be enough to promote the officer into a new specialization (spec).
+
+Specs are very important because more specialized officers also get extra perks. They are able to equip more items, and can get even more XP in some jobs. Getting more XP also means they work faster and for some professions they will also be able to manufacture more challenging products.
+
+Specs are divided in 3 categories: redshirts, graduates and masters. Redshirts are the base spec for all officers. They are able to perform all the jobs in the station and excel at none of them. Gaining enough experience in any job will make it possible for a redshirt to be promoted into a graduate. Graduates are the first level of specialization. A graduate becomes incapable of performing some jobs, but at the same time they gain new item slots, higher XP caps, higher base hitpoints and power, higher productivity with difficult recipes, and the all important color uniform for their spec. Graduates in turn can gain enough XP to become a master. Masters are the ultimate professionals of your station. They will be several times faster than a redshirt at their jobs and have the highest multipliers.
+
+All officers have demands. Redshirts will demand a base salary and nothing else. They will be happy to pick a random bed every time they are sleepy in any room. Graduates will demand a higher salary plus a private bed, but they will be OK with sleeping in a barrack, as long as it is a nice one. Master officers will demand a private room with a luxury bed and several special decorations.
+
+msgid "guide_officers_jobs_title"
+Jobs
 
 msgid "guide_officers_jobs"
-        jobs
-            also explain job system in general
+
+There is a lot of work for your officers in the station. They will spend most of their time there working. The complete list of jobs can be accessed in the Staff screen on a per officer basis, which also displays the current XP progression for the job. There it is also possible to enable or disable a job for an officer. Check the Job matrix section for more information.
+
+Jobs are usually offered by station objects. When a job is not active or has some missing requeriments an orange warning icon is displayed over the object. Click the object for more information. Jobs often require access to one or more resources. If those resources are not available the job will not start and no officer will try to perform it. Your officers will be tasked with fetching the required resources before they start working on a job. You can speed this up by building pallets around your factory objects to directly provide them.
+
+Idle officers will try to find jobs to do, but vital needs always come before work. This is specially relevant for space ship crews on a break, which will focus much more on having their vitals at a high level compared to station dwellers.
 
 msgid "guide_officers_items_title"
     Equipment
@@ -140,13 +162,41 @@ Items can enhance two properties of your officers. Hit points determine how much
 Active items are used by your officers in combat. They have four possible actions: damage, healing, control and shielding. Damage items are used for attacking enemies. Healing items heal hitpoints on friendly units. Control items can stop enemies from attacking in various ways. Shielding items create a temporary shield around friendly units that absorbs damage from enemies. Officer AI is capable of controlling and using any kind of item by itself, but so are enemies.
 
 
-msgid "guide_station_intro"
-    station
+msgid "guide_tools_intro_title"
+Tools
 
-msgid "guide_station_tools"
-            info tool
-            build tools
-            job matrix
+msgid "guide_tools_intro"
+
+Every interaction you have with a game map is performed by the use of a tool. You will use tools to design your station, give orders, inspect objects and officers, etc. Tools are found in the toolbar to the left of the Station and Planet screens, and can display a panel in the right side of the screen and in the bottom side.
+
+msgid "guide_tools_info_title"
+Info Tool
+
+msgid "guide_tools_info"
+
+The Info Tool is the basic inspection and interaction mechanism in the game. With the Info Tool selected you can use your click on objects and entitites on the map to select them. Doing so will display an information panel in the right side of the screen. The contents of this panel will vary depending on the kind of entity you are selecting. For example officers will display a brief overview of the information displayed in the Staff screen. This panel is also divided in tabs, and many entities will have more than one. For example many objects will have a description tab with the same information displayed in the Build Tool. A fixed header area is present in most entitites and displays the name and basic information like hit points or the civilization of origin of the entity.
+
+It is possible to select more than one officer. Click an officer, then shift click on another officer to add it to the selection. It is also possible to drag the mouse while pressing the left mouse button to select more than one officer. Group selections do not display the info panels. Instead a compact listing of all the selected officers is displayed, along with their HP and weapon cooldown, grouped by combat role. This feature is meant to be used in combat situations.
+
+Some entities display an action bar in the bottom part of the screen when selected with the Info Tool. The action bar is used to give commands to these entities. For example the walk order is usually available in player entities, and it is also bound to the right mouse button. Check the Combat section for more information on combat related actions.
+
+msgid "guide_tools_build_title"
+Build tools
+
+msgid "guide_tools_build"
+
+
+msgid "guide_tools_job_matrix_title"
+Job matrix
+
+msgid "guide_tools_job_matrix"
+
+The job matrix can be accessed in the Station screen. It is a dense display of all your officers versus all possible jobs, allowing you to take a more strategic view. As with any officer listing you can apply a filter to only show some subset of officers. Click on the job names to sort the table by officer XP on that job. Click on the table cells to enable or disable a job for a given officer.
+
+The default job priority is the one shown in the table, with higher priority jobs at the left. You can also give manual per-job priorities to individual officers by clicking in the small button next to the officer name. This will replace the table cell checkboxes with a numeric input, from 0 to 99.
+
+
+
             equip matrix
             inventory
 
