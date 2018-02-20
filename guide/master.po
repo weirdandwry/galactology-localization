@@ -185,6 +185,21 @@ Build tools
 
 msgid "guide_tools_build"
 
+Building is the most basic player task, and the first to accomplish a working station. The basic building structure of your station are rooms. Rooms are enclosed spaces that must be delimited only by walls and/or doors, and their ground must be entirely covered in floor tiles. Both walls and tiles can be of any kind.
+
+The Floor Tool allows you to draw floor tiles on the map. First select the floor kind you are interested in, then click once on the map to draw a tile blueprint. You can also drag with the left mouse button to draw a tile rectangle quickly.
+
+The Wall Tool allows you to draw walls on the map. First select the wall kind you are interested in, then click once on the map to draw a wall blueprint. You can also drag with the left mouse button to draw a wall line quickly.
+
+The Object Tool allows you to draw objects on the map. There are many objects, so the tool menu is divided in categories. Select the category of the object you want to draw, then the object kind you are interested in, then click once on the map to draw an object blueprint. To change the facing angle of an object first use Q or E to change its orientation, then draw it with the left mouse button.
+
+All building tools create a blueprint. Blueprints are not a real construction. They are a placeholder that creates a task that must be completed by your officers or robots with the Building job enabled.
+
+You can toggle eraser mode by pressing Shift while using a building tool. The eraser mode of each tool will only erase objects of the same kind. Scenery props like vegetation and rocks can be erased with any building tool. Blueprints will be erased immediately, and built objects will be marked for erasing and will create a Building job for that.
+
+Pressing Alt while using a building tool toggles copy mode. Copy mode allows you to click once on an existing object of the same kind of the selected tool to select it from the tool menu. A few complex objects like shops or pallets will also copy their settings.
+
+Building tools enable a map filter to display when rooms are complete. A room is complete when it's sealed as explained earlier. When that happens the building tool map will display a green rectangle over the area of the room, with some values about its contents.
 
 msgid "guide_tools_job_matrix_title"
 Job matrix
