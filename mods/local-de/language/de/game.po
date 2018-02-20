@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-12 09:02+0000\n"
-"PO-Revision-Date: 2018-02-12 21:15+0000\n"
-"Last-Translator: anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2018-02-20 14:08+0000\n"
+"Last-Translator: Silas Coldfire <silascoldfire@gmx.de>\n"
 "Language-Team: German "
 "<http://translate.weirdandwry.com/projects/galactology/game/de/>\n"
 "Language: de\n"
@@ -36,25 +36,25 @@ msgid "active_absorb"
 msgstr "~A Absorption"
 
 msgid "active_absorb_item"
-msgstr ""
+msgstr "Aktiver Absorb-Gegenstand"
 
 msgid "active_control"
 msgstr "~A Crowd Control"
 
 msgid "active_control_item"
-msgstr ""
+msgstr "Aktiver Kontroll-Gegenstand"
 
 msgid "active_damage"
 msgstr "~A-~A Schaden"
 
 msgid "active_damage_item"
-msgstr ""
+msgstr "Aktiver Schadens-Gegenstand"
 
 msgid "active_healing"
 msgstr "~A-~A Heilung"
 
 msgid "active_healing_item"
-msgstr ""
+msgstr "Aktiver Heilungs-Gegenstand"
 
 msgid "advanced_kitchen"
 msgstr "Fortgeschrittene Küche"
@@ -63,16 +63,16 @@ msgid "advanced_kitchen_desc"
 msgstr "Bereite ein paar wirklich tolle Gerichte und Getränke zu"
 
 msgid "advanced_ship_engines_parts"
-msgstr ""
+msgstr "Fortgeschrittene Schiffsantriebsteile"
 
 msgid "advanced_ship_hull_parts"
-msgstr ""
+msgstr "Fortgeschrittene Schiffshüllenteile"
 
 msgid "advanced_ship_lifesupport_parts"
-msgstr ""
+msgstr "Fortgeschrittene Schiffslebenserhaltungsteile"
 
 msgid "advanced_ship_structure_parts"
-msgstr ""
+msgstr "Fortgeschrittene Schiffsstrukturteile"
 
 msgid "advanced_soap"
 msgstr "Fortgeschrittene Seife"
@@ -203,7 +203,7 @@ msgid "attacked"
 msgstr "Angegriffen"
 
 msgid "attacked_desc"
-msgstr "Ich wurde angegriffen"
+msgstr "Ich wurde angegriffen!"
 
 msgid "attacking_desc"
 msgstr "Greife Feind an"
@@ -275,16 +275,16 @@ msgid "basic_rations"
 msgstr "Gewöhnliche Rationen"
 
 msgid "basic_ship_engines_parts"
-msgstr ""
+msgstr "Gewöhnliche Schiffsantriebsteile"
 
 msgid "basic_ship_hull_parts"
-msgstr ""
+msgstr "Gewöhnliche Schiffshüllenteile"
 
 msgid "basic_ship_lifesupport_parts"
-msgstr ""
+msgstr "Gewöhnliche Schiffslebenserhaltungsteile"
 
 msgid "basic_ship_structure_parts"
-msgstr ""
+msgstr "Gewöhnliche Schiffsstrukturteile"
 
 msgid "basic_soap"
 msgstr "Gewöhnliche Seife"
@@ -299,10 +299,13 @@ msgid "bed_plain_desc"
 msgstr "Verringert Schlafbedürfnis. Kann von jedem Offizier verwendet werden. Kann nicht von Besuchern verwendet werden."
 
 msgid "bedofficer"
-msgstr ""
+msgstr "Meisteroffizierbett"
 
 msgid "bedofficer_desc"
 msgstr ""
+"Komfortables Bett für deine Meisteroffiziere. Es markiert den Raum als "
+"Besitzbereich des zugewiesenen Besitzers. Kann nicht von Besuchern verwendet "
+"werden."
 
 msgid "bernice"
 msgstr "Bernice"
@@ -311,7 +314,7 @@ msgid "bernice_desc"
 msgstr "Deine HQ-Stellvertreterin evaluiert deinen Fortschritt."
 
 msgid "best"
-msgstr ""
+msgstr "Beste"
 
 msgid "bigger_ui"
 msgstr "Größeres UI"
@@ -419,31 +422,35 @@ msgid "bugs_node"
 msgstr "Käfervorkommen"
 
 msgid "build_advanced_ship_engines"
-msgstr ""
+msgstr "Fortgeschrittene Schiffsantriebe bauen"
 
 msgid "build_advanced_ship_hull"
-msgstr ""
+msgstr "Fortgeschrittene Schiffshülle bauen"
 
 msgid "build_advanced_ship_lifesupport"
-msgstr ""
+msgstr "Fortgeschrittene Schiffslebenserhaltung bauen"
 
 msgid "build_advanced_ship_structure"
-msgstr ""
+msgstr "Fortgeschrittene Schiffsstruktur bauen"
 
 msgid "build_alert_attrition"
 msgstr ""
+"Dieser Planet ist im Besitz einer feindlichen Ziv. Gebäude leiden unter "
+"Abnutzung, bis sie zerstört sind. Überfalle den Planeten, um "
+"sicherzustellen, dass deine Gebäude nach deiner Abreise nicht zerstört "
+"werden."
 
 msgid "build_basic_ship_engines"
-msgstr ""
+msgstr "Gewöhnliche Schiffsantriebe bauen"
 
 msgid "build_basic_ship_hull"
-msgstr ""
+msgstr "Gewöhnliche Schiffshülle bauen"
 
 msgid "build_basic_ship_lifesupport"
-msgstr ""
+msgstr "Gewöhnliche Schiffslebenserhaltung bauen"
 
 msgid "build_basic_ship_structure"
-msgstr ""
+msgstr "Gewöhnliche Schiffsstruktur bauen"
 
 msgid "build_builder_robot"
 msgstr "Konstruktionsbot bauen"
@@ -458,7 +465,7 @@ msgid "build_collector"
 msgstr "Errichte einen Sammler in der Nähe, um diese Ressource zu extrahieren"
 
 msgid "build_color"
-msgstr ""
+msgstr "Raum-Bodenfarbe:"
 
 msgid "build_corridor_desc"
 msgstr "Verbindet Räume"
@@ -479,22 +486,22 @@ msgid "build_info_stocks"
 msgstr "Bestände"
 
 msgid "build_info_treatment_for"
-msgstr ""
+msgstr "Behandlung"
 
 msgid "build_intermediate_ship_engines"
-msgstr ""
+msgstr "Verbesserte Schiffsantriebe bauen"
 
 msgid "build_intermediate_ship_hull"
-msgstr ""
+msgstr "Verbesserte Schiffshülle bauen"
 
 msgid "build_intermediate_ship_lifesupport"
-msgstr ""
+msgstr "Verbesserte Schiffslebenserhaltung bauen"
 
 msgid "build_intermediate_ship_structure"
-msgstr ""
+msgstr "Verbesserte Schiffsstruktur bauen"
 
 msgid "build_job_warn_invalid_room"
-msgstr ""
+msgstr "Nicht in einem gültigen Raum"
 
 msgid "build_maintenance_robot"
 msgstr "Wartungsbot bauen"
@@ -545,10 +552,10 @@ msgid "buy_from"
 msgstr ""
 
 msgid "by_age"
-msgstr ""
+msgstr "Dienstalter"
 
 msgid "by_gear_level"
-msgstr ""
+msgstr "Am schlechtesten ausgerüstet"
 
 msgid "by_mind"
 msgstr "NICHT IM SPIEL GEFUNDEN"
@@ -614,7 +621,7 @@ msgid "cant_build_too_many"
 msgstr "Zu viele Objekte dieses Typs"
 
 msgid "cant_build_wrong_civ_allies"
-msgstr ""
+msgstr "Kann nur auf Menschen oder Crusantischen Planeten errichtet werden"
 
 msgid "canteen_drinks"
 msgstr "Kantinengetränke"
@@ -698,64 +705,64 @@ msgid "chemistry"
 msgstr "Chemiker"
 
 msgid "chest_01"
-msgstr ""
+msgstr "Sicherheitsweste"
 
 msgid "chest_02"
-msgstr ""
+msgstr "Nanogurte"
 
 msgid "chest_03"
-msgstr ""
+msgstr "Leichte Rüstung"
 
 msgid "chest_04"
-msgstr ""
+msgstr "Wärmer"
 
 msgid "chest_05"
-msgstr ""
+msgstr "Pilotenweste"
 
 msgid "chest_06"
-msgstr ""
+msgstr "Aufprallgeflecht"
 
 msgid "chest_07"
-msgstr ""
+msgstr "Schwerlastschutz"
 
 msgid "chest_08"
-msgstr ""
+msgstr "Cooles Shirt"
 
 msgid "chest_09"
-msgstr ""
+msgstr "SchockABS MkII"
 
 msgid "chest_10"
-msgstr ""
+msgstr "Schickes Shirt"
 
 msgid "chest_11"
-msgstr ""
+msgstr "Gepanzerter Raumanzug"
 
 msgid "chest_12"
-msgstr ""
+msgstr "Robuster Panzer"
 
 msgid "chest_13"
-msgstr ""
+msgstr "Körperschutz"
 
 msgid "chest_14"
-msgstr ""
+msgstr "Fusionsschweißermantel"
 
 msgid "chest_15"
-msgstr ""
+msgstr "Schuppenschutz"
 
 msgid "chest_16"
-msgstr ""
+msgstr "Royale Roben"
 
 msgid "chest_17"
-msgstr ""
+msgstr "Powerrüstung"
 
 msgid "chest_18"
-msgstr ""
+msgstr "Ablativrüstung"
 
 msgid "chest_19"
-msgstr ""
+msgstr "Regentruppenweste"
 
 msgid "chest_20"
-msgstr ""
+msgstr "Cyber V80"
 
 msgid "chest_item"
 msgstr "Brustgegenstand"
@@ -776,7 +783,7 @@ msgid "chuchu_name"
 msgstr "Chuchu"
 
 msgid "church_of_lactus"
-msgstr ""
+msgstr "Laktus-Kirche"
 
 msgid "civ_colony"
 msgstr "Kolonie"
@@ -794,7 +801,7 @@ msgid "civs_points"
 msgstr "%d / %d Punkten"
 
 msgid "civs_tutorial"
-msgstr ""
+msgstr "Zivs-Tutorial"
 
 msgid "claim_reward"
 msgstr "Belohnung erhalten"
@@ -812,10 +819,13 @@ msgid "click_pick_officer"
 msgstr "Klicke, um einen Offizier auszuwählen"
 
 msgid "clone_chamber"
-msgstr ""
+msgstr "Versicherungskloner"
 
 msgid "clone_chamber_desc"
 msgstr ""
+"Erschafft automatisch einen Klon des zugewiesenen Offiziers wenn er stirbt, "
+"selbst am anderen Ende der Galaxie. Das Objekt wird nach der Klonerschaffung "
+"zerstört. Ziemlich zerbrechlich!"
 
 msgid "cocktail"
 msgstr "Cocktail"
@@ -833,7 +843,7 @@ msgid "combat_mode_enabled"
 msgstr "Kampf-Modus aktiviert"
 
 msgid "combat_robot"
-msgstr ""
+msgstr "Kampfroboter"
 
 msgid "comics"
 msgstr "Holocomic-Regale"
@@ -990,6 +1000,9 @@ msgstr "Kryo-Kapsel"
 
 msgid "cryopod_desc"
 msgstr ""
+"Ermöglicht deinen Offizieren in wenigen Sekunden eine ganze Nacht voll "
+"Schlaf. Zählt hinsichtlich der Spezialisierungsbedürfnisse als "
+"Meisteroffizierbett. Kann nicht von Besuchern verwendet werden."
 
 msgid "cucurbian_adjective"
 msgstr "Cucurbische %s"
@@ -1049,7 +1062,7 @@ msgid "decor_cabinets"
 msgstr "Schränke"
 
 msgid "decor_classydivisor"
-msgstr ""
+msgstr "Stilvoller Raumteiler"
 
 msgid "decor_colorbox"
 msgstr "Farbenfrohe Würfel"
@@ -1067,7 +1080,7 @@ msgid "decor_galaxyball"
 msgstr "Galaxiekarte"
 
 msgid "decor_glassdivisor"
-msgstr ""
+msgstr "Gläserner Raumteiler"
 
 msgid "decor_holoprojector"
 msgstr "Holoprojektor"
@@ -1076,7 +1089,7 @@ msgid "decor_holoscreen"
 msgstr "Holobildschirm"
 
 msgid "decor_homelydivisor"
-msgstr ""
+msgstr "Raumteiler"
 
 msgid "decor_lamp01"
 msgstr "Lampe"
@@ -1241,7 +1254,7 @@ msgid "deliver_from_storage_yes"
 msgstr "Träger werden Ressourcen von Paletten an dieses Objekt liefern"
 
 msgid "delivery_select_ship"
-msgstr ""
+msgstr "Wähle Schiff für Lieferung aus"
 
 msgid "demand_current"
 msgstr "Aktuell"
@@ -1352,7 +1365,9 @@ msgid "doctordesk"
 msgstr "Arzttisch"
 
 msgid "doctordesk_desk"
-msgstr "Ärzte erwarten an diesem Tisch Patienten und geben ihnen eine Behandlungs-Checkliste"
+msgstr ""
+"Ärzte erwarten an diesem Tisch Patienten und geben ihnen eine Behandlungs-"
+"Checkliste."
 
 msgid "done"
 msgstr "Fertig"
@@ -1442,10 +1457,10 @@ msgid "enable_sound_effects"
 msgstr "Sound-Effekte aktivieren"
 
 msgid "enable_station_events"
-msgstr ""
+msgstr "Aktiviere Stationsereignisse"
 
 msgid "enable_station_violent_events"
-msgstr ""
+msgstr "Aktiviere gewalttätige Stationsereignisse"
 
 msgid "enable_storage"
 msgstr "Aktiviere Lagerung von:"
@@ -1545,6 +1560,8 @@ msgstr "Halte Shift für Lösch-Modus"
 
 msgid "error_bad_save"
 msgstr ""
+"Fehler beim Laden des Spiels: Kann die Datei nicht lesen, möglicherweise "
+"beschädigt."
 
 msgid "error_deleting"
 msgstr "Fehler beim Löschen"
@@ -1602,9 +1619,13 @@ msgstr "Ein Überfallkommando ist da! Greifen unsere Station an!"
 
 msgid "event_invaders_retaliate_warn"
 msgstr ""
+"%s rächen sich an uns! Ein Überfallkommando von %s nähert sich unserer "
+"Station. Sei vorbereitet!"
 
 msgid "event_invaders_warn4c"
 msgstr ""
+"Wir haben Berichte eines %s Überfallkommandos von %s erhalten, die sich "
+"unserer Station nähern. Sei vorbereitet!"
 
 msgid "event_kowka_warn"
 msgstr "Кошка ist verdammt neugierig und hier, um den Fortschritt ihres Freundes zu betrachten. Bist du noch ein Freund? Ihre Roboterarmee wird dir in der Station aushelfen, solange sie hier sind."
@@ -1650,12 +1671,19 @@ msgstr "Eine Pest infiziert deine Station! Eliminiere genügend Pestkreaturen, u
 
 msgid "event_pirates_reveal"
 msgstr ""
+"Die Piraten haben sich erstmals zu Erkennen gegeben! Dein Erfolg hat sie auf "
+"dich aufmerksam gemacht. Sie möchten vielleicht einen Anteil davon... und "
+"bei Ihnen bekommt das \"feindlich\" in \"feindliche Übernahme\" eine ganz "
+"neue Perspektive."
 
 msgid "event_progress"
 msgstr "Ereignisfortschritt: %s"
 
 msgid "event_robots_reveal"
 msgstr ""
+"Die Roboter haben sich erstmals zu Erkennen gegeben! Sind deine "
+"Arbeitsbedingungen für Roboter auf dem neuesten Stand? Sie werden gewiss ein "
+"Robo-Auge darauf werden. Und sie werden ihnen ganz gewiss nicht gefallen."
 
 msgid "event_timer"
 msgstr "Verbleibende Zeit: %s"
@@ -1724,7 +1752,7 @@ msgid "exploring"
 msgstr "Erforscht"
 
 msgid "export_current_rate"
-msgstr ""
+msgstr "Export-Preisrate"
 
 msgid "extractor_info"
 msgstr "Kann extrahieren:"
@@ -1733,46 +1761,46 @@ msgid "eyedropper_hint"
 msgstr "Alt + Klick um Vor-\nhandenes zu kopieren"
 
 msgid "facilities_tier_1"
-msgstr ""
+msgstr "Gewöhnliche Station"
 
 msgid "facilities_tier_10"
-msgstr ""
+msgstr "Ausrüstungsstufe 21-25"
 
 msgid "facilities_tier_11"
-msgstr ""
+msgstr "Ausrüstungsstufe 26-30"
 
 msgid "facilities_tier_12"
-msgstr ""
+msgstr "Ausrüstungsstufe 31-35"
 
 msgid "facilities_tier_13"
-msgstr ""
+msgstr "Ausrüstungsstufe 36-40"
 
 msgid "facilities_tier_2"
-msgstr ""
+msgstr "Ausrüstungsstufe 1-5"
 
 msgid "facilities_tier_3"
-msgstr ""
+msgstr "Einfache Robotik"
 
 msgid "facilities_tier_3b"
-msgstr ""
+msgstr "Besucherdocks"
 
 msgid "facilities_tier_4"
-msgstr ""
+msgstr "Ausrüstungsstufe 6-10"
 
 msgid "facilities_tier_5"
-msgstr ""
+msgstr "Einfache Sicherheit"
 
 msgid "facilities_tier_6"
-msgstr ""
+msgstr "Logistik"
 
 msgid "facilities_tier_7"
-msgstr ""
+msgstr "Ausrüstungsstufe 11-15"
 
 msgid "facilities_tier_8"
-msgstr ""
+msgstr "Ausrüstungsstufe 16-20"
 
 msgid "facilities_tier_9"
-msgstr ""
+msgstr "Fortgeschrittene Sicherheit"
 
 msgid "factory"
 msgstr "Fabrik"
@@ -1790,34 +1818,34 @@ msgid "fancy_clothes"
 msgstr "Schicke Klamotten"
 
 msgid "feet_01"
-msgstr ""
+msgstr "Fusionsschweißerstiefel"
 
 msgid "feet_02"
-msgstr ""
+msgstr "Raumanzugstiefel"
 
 msgid "feet_03"
-msgstr ""
+msgstr "Regentruppenstiefel"
 
 msgid "feet_04"
-msgstr ""
+msgstr "Panzerstiefel"
 
 msgid "feet_05"
-msgstr ""
+msgstr "Pilotenstiefel"
 
 msgid "feet_06"
-msgstr ""
+msgstr "Cyber V81"
 
 msgid "feet_07"
-msgstr ""
+msgstr "Powerstiefel"
 
 msgid "feet_08"
-msgstr ""
+msgstr "Ablativstiefel"
 
 msgid "feet_09"
-msgstr ""
+msgstr "Schwerlaststiefel"
 
 msgid "feet_10"
-msgstr ""
+msgstr "SchockStiefel 1.1"
 
 msgid "feet_item"
 msgstr "Fußgegenstand"
@@ -1841,10 +1869,10 @@ msgid "file_manager"
 msgstr "Datei-Manager"
 
 msgid "filter_ship_assigned"
-msgstr ""
+msgstr "Schiff zugewiesen"
 
 msgid "filter_ship_not_assigned"
-msgstr ""
+msgstr "Schiff nicht zugewiesen"
 
 msgid "filtered_water"
 msgstr "Filtriertes Wasser"
@@ -1877,7 +1905,7 @@ msgid "flee_desc"
 msgstr "Flieht panisch"
 
 msgid "flee_short_desc"
-msgstr ""
+msgstr "Weicht Gefahren aus"
 
 msgid "fleet"
 msgstr "Flotte"
@@ -1988,7 +2016,7 @@ msgid "fullscreen"
 msgstr "Vollbild"
 
 msgid "fullscreen_exclusive"
-msgstr ""
+msgstr "Exklusiv"
 
 msgid "fun"
 msgstr "Spaß"
@@ -2018,10 +2046,10 @@ msgid "galaxy_filter_cvis"
 msgstr "Zeige Zivs"
 
 msgid "galaxy_filter_imports"
-msgstr ""
+msgstr "Zeige Planetenimporte"
 
 msgid "galaxy_filter_imports2"
-msgstr ""
+msgstr "Importiertes Produkt: %s"
 
 msgid "galaxy_filter_none"
 msgstr "Nur die Galaxie"
@@ -2033,7 +2061,7 @@ msgid "galaxy_filter_reps"
 msgstr "Zivs"
 
 msgid "galaxy_filter_resources2"
-msgstr ""
+msgstr "Exportierte Ressource: %s"
 
 msgid "galaxy_filter_show_civ_ships"
 msgstr "Schalte Ziv-Schiffe um"
@@ -2163,9 +2191,11 @@ msgstr "Passe ich noch durch Türen?"
 
 msgid "global_max_export_amount_desc"
 msgstr ""
+"Schiffe, die Ressourcen von Planeten exportieren, werden diese Ressource "
+"überspringen, wenn der Stationsbestand diese Anzahl erreicht"
 
 msgid "global_max_import_amount"
-msgstr ""
+msgstr "Max. Bestand"
 
 msgid "global_min_stock_amount"
 msgstr "Min. Bestand"
@@ -2174,7 +2204,7 @@ msgid "global_min_stock_amount_desc"
 msgstr "Versuch diese Bestandszahl zu halten, indem du Befehle an Fabriken mit globaler Warteschlange erteilst"
 
 msgid "global_recipes_inv_hint"
-msgstr ""
+msgstr "Setze die globalen min. Bestandswerte im Inventarfenster"
 
 msgid "goal_bartender1_desc"
 msgstr "Deine Barkeeper müssen 42 Getränke in einer Bar servieren. Aber ernsthaft, Drinks und Drogen sind nicht die Antwort."
@@ -2246,7 +2276,7 @@ msgid "goal_buildplanet2_desc"
 msgstr "Baue ein Job-Center auf der Oberfläche eines Planeten."
 
 msgid "goal_buildplanet2_title"
-msgstr "Baue ein Job-Center auf einem Planeten."
+msgstr "Baue ein Job-Center auf einem Planeten"
 
 msgid "goal_buildplanet3_desc"
 msgstr "Baue 3 Ressourcenextraktoren auf der Oberfläche eines oder mehrerer Planeten."
@@ -2349,21 +2379,27 @@ msgstr "Erschließe 3 Sternensysteme"
 
 msgid "goal_imports1_desc"
 msgstr ""
+"Lass eines oder mehrere deiner Schiffe 50 Einheiten irgendeines Produkts an "
+"einen Ziv-Planeten verkaufen."
 
 msgid "goal_imports1_title"
-msgstr ""
+msgstr "Verkaufe 50 Frachteinheiten an einen Planeten"
 
 msgid "goal_imports2_desc"
 msgstr ""
+"Lass eines oder mehrere deiner Schiffe 500 Einheiten irgendeines Produkts an "
+"einen Ziv-Planeten verkaufen."
 
 msgid "goal_imports2_title"
-msgstr ""
+msgstr "Verkaufe 500 Frachteinheiten an einen Planeten"
 
 msgid "goal_imports3_desc"
 msgstr ""
+"Lass eines oder mehrere deiner Schiffe 5000 Einheiten irgendeines Produkts "
+"an einen Ziv-Planeten verkaufen."
 
 msgid "goal_imports3_title"
-msgstr ""
+msgstr "Verkaufe 5000 Frachteinheiten an einen Planeten"
 
 msgid "goal_itemequip1_desc"
 msgstr "Rüste 10 mal neue Gegenstände bei einer beliebigen Anzahl Offizieren aus."
@@ -2372,25 +2408,31 @@ msgid "goal_itemequip1_title"
 msgstr "Rüste 10 mal neue Gegenstände aus"
 
 msgid "goal_itemloot1_desc"
-msgstr "Loote 5 Gegenstände durch das Besiegen von Feinden, während du Planeten erkundest."
+msgstr ""
+"Erbeute 5 Gegenstände durch das Besiegen von Feinden, während du Planeten "
+"erkundest."
 
 msgid "goal_itemloot1_title"
-msgstr "Loote 5 Gegenstände"
+msgstr "Erbeute 5 Gegenstände"
 
 msgid "goal_itemloot2_desc"
-msgstr "Loote 80 Gegenstände durch das Besiegen von Feinden, während du Planeten erkundest."
+msgstr ""
+"Erbeute 80 Gegenstände durch das Besiegen von Feinden, während du Planeten "
+"erkundest."
 
 msgid "goal_itemloot2_title"
-msgstr "Loote 80 Gegenstände"
+msgstr "Erbeute 80 Gegenstände"
 
 msgid "goal_itemloot3_desc"
-msgstr "Loote 400 Gegenstände durch das Besiegen von Feinden, während du Planeten erkundest."
+msgstr ""
+"Erbeute 400 Gegenstände durch das Besiegen von Feinden, während du Planeten "
+"erkundest."
 
 msgid "goal_itemloot3_title"
-msgstr "Loote 400 Gegenstände"
+msgstr "Erbeute 400 Gegenstände"
 
 msgid "goal_itemprod1_desc"
-msgstr "Stelle 15 Gegenstände irgendeines Typs und irgendeines Levels her."
+msgstr "Erstelle 15 Gegenstände irgendeines Typs und irgendeines Levels."
 
 msgid "goal_itemprod1_title"
 msgstr "Erstelle 15 Gegenstände"
@@ -2705,34 +2747,34 @@ msgid "had_to_flee_desc"
 msgstr "Etwas hat mir Angst gemacht und ich bin weggerannt"
 
 msgid "hands_01"
-msgstr ""
+msgstr "Schwerlasthandschuhe"
 
 msgid "hands_02"
-msgstr ""
+msgstr "Cyber V82"
 
 msgid "hands_03"
-msgstr ""
+msgstr "Panzerhandschuhe"
 
 msgid "hands_04"
-msgstr ""
+msgstr "Pilotenhandschuhe"
 
 msgid "hands_05"
-msgstr ""
+msgstr "Regentruppenhandschuhe"
 
 msgid "hands_06"
-msgstr ""
+msgstr "Fusionsschweißerhandschuhe"
 
 msgid "hands_07"
-msgstr ""
+msgstr "Raumanzughandschuhe"
 
 msgid "hands_08"
-msgstr ""
+msgstr "Powerhandschuhe"
 
 msgid "hands_09"
-msgstr ""
+msgstr "Ablativhandschuhe"
 
 msgid "hands_10"
-msgstr ""
+msgstr "SchockHandschuhe Beta"
 
 msgid "hands_item"
 msgstr "Handgegenstand"
@@ -2825,7 +2867,7 @@ msgid "holohistorical"
 msgstr "HoloHistorie v24.8"
 
 msgid "holohistorical_desc"
-msgstr ""
+msgstr "Erlebe die guten, alten Zeiten erneut"
 
 msgid "home"
 msgstr "Heimat"
@@ -2843,10 +2885,10 @@ msgid "hospitality_job"
 msgstr "Wirt"
 
 msgid "hospitality_tier_1"
-msgstr ""
+msgstr "Redshirt und Gesellenbaracken"
 
 msgid "hospitality_tier_2"
-msgstr ""
+msgstr "Meisteroffizier-Schlafzimmer"
 
 msgid "hospitality_tier_3"
 msgstr "Motel"
@@ -2951,109 +2993,118 @@ msgid "hygienizer_plus_desc"
 msgstr "Hält jeden sauberer und erfrischter-er"
 
 msgid "implant_01"
-msgstr ""
+msgstr "Nerv OC"
 
 msgid "implant_02"
-msgstr ""
+msgstr "ZielTron++"
 
 msgid "implant_03"
-msgstr ""
+msgstr "ReflexPlus"
 
 msgid "implant_04"
-msgstr ""
+msgstr "ReflexPlus Light"
 
 msgid "implant_05"
-msgstr ""
+msgstr "ADRNL-Beipass"
 
 msgid "implant_06"
-msgstr ""
+msgstr "uWatch mKill"
 
 msgid "implant_07"
-msgstr ""
+msgstr "uRun mKill"
 
 msgid "implant_08"
-msgstr ""
+msgstr "Schnellader"
 
 msgid "implant_09"
-msgstr ""
+msgstr "FokusIN"
 
 msgid "implant_10"
-msgstr ""
+msgstr "Notstrom"
 
 msgid "implant_11"
-msgstr ""
+msgstr "Entspannungshelfer"
 
 msgid "implant_12"
-msgstr ""
+msgstr "GeistErweiterer"
 
 msgid "implant_13"
-msgstr ""
+msgstr "Handberuhiger"
 
 msgid "implant_14"
-msgstr ""
+msgstr "Notfallzellen"
 
 msgid "implant_15"
-msgstr ""
+msgstr "Powerinjektor"
 
 msgid "implant_16"
-msgstr ""
+msgstr "Widget 3000P"
 
 msgid "implant_17"
-msgstr ""
+msgstr "Extra Sicht"
 
 msgid "implant_18"
-msgstr ""
+msgstr "Massenmodulator"
 
 msgid "implant_19"
-msgstr ""
+msgstr "Metamodulator"
 
 msgid "implant_20"
-msgstr ""
+msgstr "Fluxmodulator"
 
 msgid "implant_item"
 msgstr "Implantatgegenstand"
 
 msgid "import_amount"
-msgstr ""
+msgstr "Gib Anzahl von %s ein, die an %s verkauft werden sollen"
 
 msgid "import_amount_over_hold"
-msgstr ""
+msgstr "Schiffs-Frachtraum ist zu klein"
 
 msgid "import_amount_over_stock"
-msgstr ""
+msgstr "Nicht genügend Nicht-Laden-Bestand in der Station"
 
 msgid "import_changed_stock"
 msgstr ""
+"Stationsbestand hat sich in der letzten Sekunde verändert und liegt nun "
+"unter deiner gewählten Anzahl"
 
 msgid "import_invaded_planet"
 msgstr ""
+"Der ausgewählte Planet wird überfallen und akzeptiert keine Produktverkäufe."
 
 msgid "import_invalid_ship_id"
-msgstr ""
+msgstr "Wähle ein Schiff"
 
 msgid "import_invalid_ship_not_home"
-msgstr ""
+msgstr "Schiff muss Zuhause geparkt sein"
 
 msgid "import_too_low_amount"
-msgstr ""
+msgstr "Wähle eine Ressource zur Lieferung"
 
 msgid "imports_current_reputation"
-msgstr ""
+msgstr "Momentaner Ruf: %d/%d"
 
 msgid "imports_donation_bonus"
-msgstr ""
+msgstr "Rufbonus: +%d"
 
 msgid "imports_donation_button"
-msgstr ""
+msgstr "Spende @ui_icon_20px_credits04.png %d"
 
 msgid "imports_hostile_donation_desc"
 msgstr ""
+"Wir sind nicht an deinem Glitzerkram interessiert, aber eine Spende für "
+"unsere Sache könnte uns dich ein wenig weniger intensiv hassen."
 
 msgid "imports_hostile_limit"
 msgstr ""
+"Wir werden dich tolerieren, aber wir denken erneut darüber nach, wenn du "
+"dich uns gegenüber wieder feindlich zeigst."
 
 msgid "imports_no_planets"
 msgstr ""
+"Eröffne neue Sternensysteme, um Planeten mit Bedarf an diesem Produkt zu "
+"entdecken"
 
 msgid "in_progress"
 msgstr "Im Gange"
@@ -3101,19 +3152,19 @@ msgid "interiorturret_desc"
 msgstr "Großes, hochkalibriges Geschütz"
 
 msgid "intermediate_ship_engines_parts"
-msgstr ""
+msgstr "Verbesserte Schiffsantriebsteile"
 
 msgid "intermediate_ship_hull_parts"
-msgstr ""
+msgstr "Verbesserte Schiffshüllenteile"
 
 msgid "intermediate_ship_lifesupport_parts"
-msgstr ""
+msgstr "Verbesserte Schiffslebenserhaltungsteile"
 
 msgid "intermediate_ship_structure_parts"
-msgstr ""
+msgstr "Verbesserte Schiffsstrukturteile"
 
 msgid "interrupted_by_noise"
-msgstr ""
+msgstr "Durch Lärm unterbrochen"
 
 msgid "intro_1"
 msgstr "5781 AD, Hauptquartier der Förderation der Menschen, Erde\n \nWillkommen, Offizier. Ihre ausgezeichnete Arbeit als Rang 5-Bürokrat wurde von Ihren Vorgesetzten zur Kenntnis genommen. Sie wurden dazu ausgewählt, eine neue Station in einem unerforschten Winkel der Galaxie zu errichten."
@@ -3122,13 +3173,18 @@ msgid "intro_2"
 msgstr "Erkunden Sie die umgebenden Systeme und ihre Planeten, entdecken Sie ihre Ressourcen und kümmern Sie sich um jegliche Opposition. Sie haben das Vertrauen der Förderation der Menschen!"
 
 msgid "invaded_by"
-msgstr ""
+msgstr "Überfallen von %s"
 
 msgid "invaded_by_other_desc"
 msgstr ""
+"Dieser Planet wurde überfallen, Extraktion oder Handel ist nicht möglich. "
+"Außerdem werden Touristen von diesem System deine Station nicht besuchen. "
+"Befreie ihn, um wieder Handel zu ermöglichen."
 
 msgid "invaded_by_spatials_desc"
 msgstr ""
+"Du hast diesen Planeten überfallen, er befindet sich nun unter deiner "
+"Kontrolle. Deine errichteten Objekte leiden nicht mehr durch Abnutzung."
 
 msgid "invaderbomb"
 msgstr "Tickende Bombe"
@@ -3138,30 +3194,47 @@ msgstr "Zerstöre diese Bombe, bevor der Ereigniszähler 0 erreicht, um eine gro
 
 msgid "invasion_happens_alert"
 msgstr ""
+"%s haben den Planeten %s überfallen, der %s gehört. Handel, Extraktion und "
+"Tourismus von diesem Planeten ist nun blockiert."
 
 msgid "invasion_happens_alert_spatials"
 msgstr ""
+"Du hast den Planeten %s überfallen. Dein Ruf mit %s hat sich um %d "
+"verringert."
 
 msgid "invasion_mission_can_invade"
 msgstr ""
+"Du kannst diesen feindlichen Planeten überfallen, indem du genügend "
+"feindliche Objekte zerstörst. Wirf einen Blick auf den Fortschrittszähler "
+"neben mir. Wenn er 100% erreicht, wird der Planet überfallen. Dies "
+"ermöglicht uns, unsere Extraktoren nach der Abreise intakt zu halten."
 
 msgid "invasion_mission_can_liberate"
 msgstr ""
+"Feinde haben diesen Planeten übernommen und blockieren sämtlichen Handel und "
+"Extraktion! Zerstöre ihre Strukturen, um ihn zu befreien. Wirf einen Blick "
+"auf den Fortschrittszähler neben mir. Wenn er 100% erreicht, wird der Planet "
+"befreit sein."
 
 msgid "invasion_mission_can_liberate_done"
 msgstr ""
+"Du hast den Planeten befreit! Handel und Extraktion sind wieder möglich."
 
 msgid "invasion_mission_none"
 msgstr ""
+"Dieser Planet ist uns freundlich gesinnt. Wir sollten es dabei belassen, "
+"ausser du hast sehr gute Gründe dafür..."
 
 msgid "invasion_mission_player_invaded"
 msgstr ""
+"Dieser Planet wurde nun überfallen. Unsere Extraktoren erleiden keinen "
+"Abnutzungsschaden."
 
 msgid "inventory"
 msgstr "Inventar"
 
 msgid "inventory_in_shops"
-msgstr ""
+msgstr "In Läden: ~A"
 
 msgid "inventory_locked"
 msgstr "Verschlossen: ~A"
@@ -3170,10 +3243,10 @@ msgid "inventory_missing_ingredients"
 msgstr "Nicht genügend von einer oder mehreren Zutaten"
 
 msgid "inventory_on_pallets"
-msgstr ""
+msgstr "Auf Paletten: ~A"
 
 msgid "inventory_on_storage_areas"
-msgstr ""
+msgstr "In Lagerbereichen: ~A"
 
 msgid "inventory_stacks"
 msgstr "Stapel: ~A"
@@ -3182,7 +3255,7 @@ msgid "inventory_total"
 msgstr "Insgesamt: ~A"
 
 msgid "inventory_unattended"
-msgstr ""
+msgstr "Ohne Aufsicht: ~A"
 
 msgid "item"
 msgstr "Gegenstand"
@@ -3362,16 +3435,16 @@ msgid "kowka_guard_desc"
 msgstr "Die persönliche Roboterarmee Кошкаs hilft dir in deiner Station aus."
 
 msgid "lactian_adjective"
-msgstr ""
+msgstr "Laktianische %s"
 
 msgid "lactian_adjective2"
-msgstr ""
+msgstr "Laktianische ~A"
 
 msgid "lactian_member"
-msgstr ""
+msgstr "Laktisch"
 
 msgid "lactians_name"
-msgstr ""
+msgstr "Laktianer"
 
 msgid "landing"
 msgstr "Lande..."
@@ -3404,10 +3477,12 @@ msgid "level_n"
 msgstr "Level %d"
 
 msgid "level_n_paren"
-msgstr ""
+msgstr " (Level %d)"
 
 msgid "liberation_happens_alert_spatials"
 msgstr ""
+"Du hast den Planeten %s erobert. Der Ruf mit %s hat sich um %d erhöht und "
+"der Ruf mit %s wurde um %d verringert."
 
 msgid "liberty_desc"
 msgstr "Freiheit und Tapferkeit. Überlebende eines 38 Jahrhunderte vergangenen Tierexperiments, bringt sie nun Freude an jeden Ort, den sie besucht."
@@ -3482,16 +3557,16 @@ msgid "maintenance_robot"
 msgstr "Wartungsbot"
 
 msgid "make_active_absorb"
-msgstr ""
+msgstr "Aktiven Absorbgegenstand L~A-L~A erstellen"
 
 msgid "make_active_control"
-msgstr ""
+msgstr "Aktiven Kontrollgegenstand L~A-L~A erstellen"
 
 msgid "make_active_damage"
-msgstr ""
+msgstr "Aktiven Schadensgegenstand L~A-L~A erstellen"
 
 msgid "make_active_healing"
-msgstr ""
+msgstr "Aktiven Heilungsgegenstand L~A-L~A erstellen"
 
 msgid "make_chest"
 msgstr "Brustgegenstand L~A-L~A erstellen"
@@ -3533,7 +3608,7 @@ msgid "master_spec"
 msgstr "Meister-Spezialisierung"
 
 msgid "max_3char"
-msgstr ""
+msgstr "MAX"
 
 msgid "max_stack_size"
 msgstr "Max. Stapelgröße: ~A"
@@ -3845,16 +3920,16 @@ msgid "nogi_tyrants"
 msgstr "Nogi-Tyrannen"
 
 msgid "noise"
-msgstr ""
+msgstr "Lärm"
 
 msgid "noise_feeling"
-msgstr ""
+msgstr "Durch Lärm unterbrochen"
 
 msgid "noise_interruption_desc"
-msgstr ""
+msgstr "Hier ist's zu laut, ich kann mich nicht entspannen"
 
 msgid "noise_room"
-msgstr ""
+msgstr "Lärm: %d"
 
 msgid "non_walkable"
 msgstr "Nicht begehbar"
@@ -4016,16 +4091,16 @@ msgid "npc_colonycrusantian04"
 msgstr "Crusantischer Kolonist"
 
 msgid "npc_colonylactian01"
-msgstr ""
+msgstr "Laktianischer Priester"
 
 msgid "npc_colonylactian02"
-msgstr ""
+msgstr "Laktianischer Diener"
 
 msgid "npc_colonylactian03"
-msgstr ""
+msgstr "Laktianischer Soldat"
 
 msgid "npc_colonylactian04"
-msgstr ""
+msgstr "Laktianischer Panzer"
 
 msgid "npc_colonylemurian01"
 msgstr "Lemurischer Sappeur"
@@ -4148,31 +4223,31 @@ msgid "npc_lemurianbox01"
 msgstr "Lemurisches Lager"
 
 msgid "npc_medus01"
-msgstr ""
+msgstr "Meductianische Besucher"
 
 msgid "npc_medus02"
-msgstr ""
+msgstr "Meductianische Besucher"
 
 msgid "npc_medus03"
-msgstr ""
+msgstr "Meductianische Besucher"
 
 msgid "npc_medus04"
-msgstr ""
+msgstr "Meductianische Besucher"
 
 msgid "npc_medus05"
-msgstr ""
+msgstr "Meductianische Besucher"
 
 msgid "npc_meduscolony01"
-msgstr ""
+msgstr "Meductianische Wache"
 
 msgid "npc_meduscolony02"
-msgstr ""
+msgstr "Meductianischer Bohrer"
 
 msgid "npc_meduscolony03"
-msgstr ""
+msgstr "Meductianischer Raketenwerfer"
 
 msgid "npc_meduscolony04"
-msgstr ""
+msgstr "Meductianischer Abreisser"
 
 msgid "npc_memorymodule"
 msgstr "Speichermodul"
@@ -4592,13 +4667,13 @@ msgid "obj_in_way"
 msgstr "Es sind Objekte im Weg, lösche sie vorher."
 
 msgid "obj_lactianbanner"
-msgstr ""
+msgstr "Laktianisches Banner"
 
 msgid "obj_lactianidol01"
-msgstr ""
+msgstr "Laktianischer Götze"
 
 msgid "obj_lactianidol02"
-msgstr ""
+msgstr "Laktianischer Götze"
 
 msgid "obj_lemurianbox01"
 msgstr "Kisten"
@@ -5006,10 +5081,10 @@ msgid "object"
 msgstr "Objekt"
 
 msgid "object_is_busy"
-msgstr ""
+msgstr "~A ist beschäftigt"
 
 msgid "object_strength"
-msgstr ""
+msgstr "Stärke"
 
 msgid "objects"
 msgstr "Objekte"
@@ -5130,6 +5205,9 @@ msgstr "Lagere einen Gegenstandstyp mit Kontrolle über min. und max. Werte, ohn
 
 msgid "pallet_info_help"
 msgstr ""
+"Jede Fabrik in einem 3x3-Bereich zentriert an der Palette kann direkt ihre "
+"Ressourcen von ihr beziehen. Sie können auch direkt ihre Produkte dort "
+"lagern, einschliesslich des 3x3-Bereichs davor."
 
 msgid "passing_out"
 msgstr "Wird bewusstlos"
@@ -5183,7 +5261,7 @@ msgid "pirates_adjective2"
 msgstr "Pirat ~A"
 
 msgid "pirates_ltd"
-msgstr "Piraten GmbH"
+msgstr "Piraten GmbH."
 
 msgid "pirates_member"
 msgstr "Pirat"
@@ -5252,7 +5330,7 @@ msgid "planet_resource_extract_enable"
 msgstr "Aktiviere Extraktion dieses Ressourcentyps"
 
 msgid "planet_ships_with_order"
-msgstr ""
+msgstr "Autopilot stoppt für:"
 
 msgid "planet_storage"
 msgstr "Lager"
@@ -5297,16 +5375,18 @@ msgid "player"
 msgstr "Spieler"
 
 msgid "player_desc"
-msgstr "Angriffe unterliegen der Spielerkontrolle. Diese Einstellung hat nur Bestand, solange die Person ausgewählt oder Teil eines Squads ist."
+msgstr ""
+"Angriffe unterliegen der Spielerkontrolle. Diese Einstellung hat nur "
+"Bestand, solange die Person ausgewählt oder Teil eines Squads ist"
 
 msgid "pleasure_program"
 msgstr "Vergnügungs-Programm"
 
 msgid "plus_rep"
-msgstr ""
+msgstr "+Ruf"
 
 msgid "plus_rep_c"
-msgstr ""
+msgstr "+Ruf:"
 
 msgid "plus_soap"
 msgstr "Plus-Seife"
@@ -5357,7 +5437,7 @@ msgid "press_esc_cancel2"
 msgstr "\nDrück Esc oder die rechte Maustaste zum Abbrechen"
 
 msgid "press_new_key"
-msgstr ""
+msgstr "Drücke die neue Taste für: "
 
 msgid "pretentious_foods"
 msgstr "Anspruchsvolle Nahrung"
@@ -5372,10 +5452,10 @@ msgid "price"
 msgstr "Preis"
 
 msgid "price_bom_row"
-msgstr ""
+msgstr "Durchschnittliche Stückliste:"
 
 msgid "price_row"
-msgstr ""
+msgstr "Preis:"
 
 msgid "price_too_much"
 msgstr "Nicht genügend Credits"
@@ -5423,7 +5503,7 @@ msgid "purifier_salts"
 msgstr "Reinigersalze"
 
 msgid "quick_jump"
-msgstr ""
+msgstr "Schnellsprung:"
 
 msgid "quit_game"
 msgstr "Spiel beenden"
@@ -5459,7 +5539,7 @@ msgid "recipe_add_queue"
 msgstr "Zur Warteschlange hinzufügen"
 
 msgid "recipe_difficulty"
-msgstr ""
+msgstr "Schwierigkeit: "
 
 msgid "recipe_duration"
 msgstr "Dauer: ~As"
@@ -5589,6 +5669,9 @@ msgstr "Im Krieg"
 
 msgid "rep_at_war_desc"
 msgstr ""
+"Im Krieg kaufen Zivs dir deine Massenproduktion nicht ab und werden "
+"versuchen, deine Station zu plündern und deine Verbündeten zu überfallen. "
+"Sie sind dir feindlich gesinnt, wenn du auf ihren Planeten landest."
 
 msgid "rep_friendly"
 msgstr "Freundlich"
@@ -5598,12 +5681,18 @@ msgstr "Feindlich"
 
 msgid "rep_hostile_desc"
 msgstr ""
+"Feindliche Zivs mögen dich nicht, kaufen dir aber deine Massenproduktion ab. "
+"Dies erhöht deinen Ruf mit ihnen. Sie werden dir feindlich gesinnt sein, "
+"wenn du auf ihren Planeten landest."
 
 msgid "rep_neutral"
 msgstr "Neutral"
 
 msgid "rep_neutral_plus_desc"
 msgstr ""
+"Diese Ziv mag dich genug, um dich in Frieden auf deiner Station zu besuchen "
+"und erlauben dir, deine Schiffe auf ihren Planeten zu landen, um "
+"Ressourcenextraktoren zu errichten."
 
 msgid "rep_uncontested"
 msgstr "Nicht umkämpft"
@@ -5621,7 +5710,7 @@ msgid "replay_introduction"
 msgstr "Wiederhole Einführung"
 
 msgid "reputation"
-msgstr "Ansehen"
+msgstr "Ruf"
 
 msgid "reputation_gain"
 msgstr "Rufgewinn bei Abreise:"
@@ -5939,13 +6028,13 @@ msgid "room_44"
 msgstr "Clockwork pomelo"
 
 msgid "room_aestehtics_amt"
-msgstr ""
+msgstr "~A Punkte"
 
 msgid "room_aesthetics"
-msgstr ""
+msgstr "Raumästhetik"
 
 msgid "room_of_aesthetics"
-msgstr ""
+msgstr "Raum mit %d Ästhetik"
 
 msgid "room_of_tiles"
 msgstr "Raum von %d Feldern"
@@ -6077,7 +6166,7 @@ msgid "self_destroy"
 msgstr "Mit Glanz und Glorie selbstzerstören, um Gegner zu beschädigen. Hat eine kleine Chance, Feuer zu entfachen"
 
 msgid "sell_to"
-msgstr ""
+msgstr "@ui_icon_30px_sell.png Verkaufen an %s"
 
 msgid "set target to ~A"
 msgstr "Lege erzwungenes Ziel auf ~A fest"
@@ -6179,7 +6268,7 @@ msgid "ship_distance_to_other"
 msgstr "Distanz zu %s (L%d): %0.2f Parsecs"
 
 msgid "ship_dock_assigned"
-msgstr ""
+msgstr "Dock in Heimatbasis zugewiesen"
 
 msgid "ship_final_destination"
 msgstr "Zielort: %s (L%d)"
@@ -6224,13 +6313,13 @@ msgid "ship_kind_intervention"
 msgstr "Intervention"
 
 msgid "ship_kind_lactian"
-msgstr "Lactisches Schiff"
+msgstr "Laktianisches Schiff"
 
 msgid "ship_kind_lemurian"
 msgstr "Lemurisches Schiff"
 
 msgid "ship_kind_medus"
-msgstr ""
+msgstr "Meductianisches Schiff"
 
 msgid "ship_kind_nogi"
 msgstr "Nogi-Schiff"
@@ -6249,6 +6338,8 @@ msgstr "Willenskraft"
 
 msgid "ship_must_parked_home2"
 msgstr ""
+"Das Schiff muss in deiner Heimatstation geparkt sein, um zerlegt werden zu "
+"können. Mindestens ein Schiff muss in deiner Flotte verbleiben."
 
 msgid "ship_not_available_empty"
 msgstr "Schiff hat keine Besatzung"
@@ -6344,40 +6435,40 @@ msgid "ship_servicing_depart"
 msgstr "Setzt Autopilot bei %d%% fort"
 
 msgid "ship_skill_healing_wave"
-msgstr ""
+msgstr "Heilwelle"
 
 msgid "ship_skill_insurance"
-msgstr ""
+msgstr "Todesfallversicherung"
 
 msgid "ship_skill_jumpdrive"
-msgstr ""
+msgstr "Sprungantrieb"
 
 msgid "ship_skill_mass_hysteria"
-msgstr ""
+msgstr "Massenhysterie"
 
 msgid "ship_skill_orbital_cannon"
-msgstr ""
+msgstr "Orbitalbombardierung"
 
 msgid "ship_skill_orbital_cannon_label"
-msgstr ""
+msgstr "Klicke, um die Orbitalkanone des Schiffs abzufeuern"
 
 msgid "ship_skill_robodrop"
-msgstr ""
+msgstr "Robowurf"
 
 msgid "ship_skill_robodrop_label"
-msgstr ""
+msgstr "Klicke, um einen Kampfrobotertrupp abzuwerfen"
 
 msgid "ship_skill_shield_dome"
-msgstr ""
+msgstr "Schildkuppel"
 
 msgid "ship_skill_shield_dome_label"
-msgstr ""
+msgstr "Klicke, um ein Schadensschild zu errichten"
 
 msgid "ship_skill_teleport"
-msgstr ""
+msgstr "Oberflächenteleport"
 
 msgid "ship_skills_l"
-msgstr ""
+msgstr "Fähigkeiten: %s"
 
 msgid "ship_travel_approach"
 msgstr "Ankunft in %s (L%d)"
@@ -6560,10 +6651,10 @@ msgid "spec"
 msgstr "Spezialisierung"
 
 msgid "spec_disallows"
-msgstr ""
+msgstr "Verbiete Arbeit an: "
 
 msgid "spec_info_demands"
-msgstr ""
+msgstr "Bedürfnisse: "
 
 msgid "spec_info_salary"
 msgstr "Gehalt: %d @ui_icon_20px_credits04.png pro Min."
@@ -6638,7 +6729,7 @@ msgid "star_map"
 msgstr "Sternenkarte"
 
 msgid "start_delivery"
-msgstr ""
+msgstr "@ui_icon_40px_sell.png Lieferung beginnen"
 
 msgid "start_game"
 msgstr "Starte Spiel"
@@ -6668,7 +6759,7 @@ msgid "stinky_cheese"
 msgstr "Stinkekäse"
 
 msgid "stock"
-msgstr ""
+msgstr "Bestand:"
 
 msgid "stocks_control"
 msgstr "Bestandskontrolle"
@@ -6773,7 +6864,7 @@ msgid "tavern_table_desc"
 msgstr "Genieß deine Drinks in einer heimeligen Atmosphäre"
 
 msgid "teleport_group_to_label"
-msgstr "Klicke, um die Gruppe an die ausgewählte Position zu teleportieren."
+msgstr "Klicke, um die Gruppe an die ausgewählte Position zu teleportieren"
 
 msgid "teleport_to"
 msgstr "Teleportieren nach"
@@ -6860,7 +6951,7 @@ msgid "toogle_global_recipes"
 msgstr "Aktiviere oder deaktiviere Rezepte zur globalen Produktion in diesem Objekt:"
 
 msgid "total_row"
-msgstr ""
+msgstr "Insgesamt:"
 
 msgid "travel_shop"
 msgstr "Reiseabteil"
@@ -6875,43 +6966,71 @@ msgid "treatment_desc"
 msgstr "Die Behandlung von ~A benötigt die folgenden Schritte:"
 
 msgid "try_delivery_action"
-msgstr ""
+msgstr "Versuche, % zu liefern"
 
 msgid "try_delivery_action_error"
-msgstr ""
+msgstr "Beschäftigt, verschlossen oder kein Raum zum Lagern"
 
 msgid "turret_name"
 msgstr "Geschütz"
 
 msgid "tutorial_civs_basics"
-msgstr ""
+msgstr "Ruf, Importe und Exporte"
 
 msgid "tutorial_civs_basics_1"
 msgstr ""
+"Der Zivs-Bildschirm zeigt alle Zivilisationen an, die du in der Galaxie "
+"entdeckt hast. Sehen wir uns an, welche Informationen und Aktionen in diesem "
+"Bildschirm zur Verfügung stehen. Klicke auf den Menschen-Eintrag in der "
+"linken Spalte."
 
 msgid "tutorial_civs_basics_2"
-msgstr ""
+msgstr "Wähle den Ruf-Reiter."
 
 msgid "tutorial_civs_basics_3"
 msgstr ""
+"Ruf ist das Maß, wie sehr dich eine Ziv mag. Weniger als 15000 Punkte "
+"bedeutet, dass sie keinen Handel mit dir treiben. Ihre Besuche in deiner "
+"Station werden nicht friedlicher Natur sein. Mehr als 15000 Punkte bedeutet, "
+"dass du mit ihnen Handel treiben kannst und sie dich als Touristen besuchen "
+"kommen. Du kannst deinen Ruf durch Botschaften und den guten Umgang mit "
+"Touristen erhöhen. Feindliche Zivs hingegen nehmen Tribute an. Ein hoher Ruf "
+"resultiert in niedrigeren Exportpreisen und höheren Importpreisen."
 
 msgid "tutorial_civs_basics_4"
-msgstr ""
+msgstr "Wähle den Kaufen-Reiter."
 
 msgid "tutorial_civs_basics_5"
 msgstr ""
+"Deine Station kann dutzende von Produkten produzieren, aber sämtliche "
+"Rohressourcen werden von Planeten extrahiert. Und die meisten Planeten sind "
+"von einer Ziv bewohnt. Extrahierte Ressourcen von Planeten einzuladen wird "
+"dich ein paar Credits kosten und je mehr eine Ziv dich mag, desto geringer "
+"der Preis. Rohressourcenpreise gelten für eine Ziv global."
 
 msgid "tutorial_civs_basics_6"
-msgstr ""
+msgstr "Wähle den Verkaufen-Reiter."
 
 msgid "tutorial_civs_basics_7a"
 msgstr ""
+"Etwas herzustellen nutzt nicht nur dir! Du kannst deinen "
+"Produktionsüberschuss an Touristen in deiner Station verkaufen oder mit "
+"HIlfe des Importe-Reiters direkt an deren Planeten. Hier kannst du ein "
+"Produkt auswählen, einen Planeten mit einem Bedarf daran, ein untätiges in "
+"der Heimat geparktes Schiff und die Produktanzahl. Dann kannst du einen "
+"Lieferbefehl geben und das Schiff wird zum Planeten reisen, das Produkt "
+"verkaufen und zurückkehren."
 
 msgid "tutorial_civs_basics_7b"
 msgstr ""
+"So wirst du hauptsächlich Geld verdienen, bis du Besucherdocks und Tourismus "
+"freischaltest. Nutze deshalb diese Möglichkeit oft, um deine überschüssige "
+"Produktion zu verkaufen. Läden- und Verteiler-Produktstapel werden beim "
+"Import nicht gezählt, um sicherzustellen, dass du einen gewissen Bestand für "
+"deine internen Bedürfnisse behältst."
 
 msgid "tutorial_civs_title"
-msgstr ""
+msgstr "Zivs-Tutorial"
 
 msgid "tutorial_ended"
 msgstr "Tutorial ist abgeschlossen"
@@ -7002,12 +7121,23 @@ msgstr "Klicke nun auf das markierte Objekt: den Extraktor."
 
 msgid "tutorial_planet_extraction_3"
 msgstr ""
+"Dieses Gebäude wird genutzt, um Ressourcen von Planeten zu extrahieren. Das "
+"markierte Feld befindet sich in der Nähe einiger Gemüse- und Früchte-"
+"Vorkommen. Klicke darauf, um den Extraktor zu errichten. Mindestens ein "
+"Vorkommen muss innerhalb des Einflusskreises liegen. Denke daran, dass du "
+"deine Truppe mit [1] auswählen und mit [T] in die Nähe teleportieren kannst."
 
 msgid "tutorial_planet_extraction_4"
 msgstr "Das Objekt muss nun von deinen Offizieren gebaut werden. Warten wir, bis sie fertig sind. Denk dran, dass du dein Teleportwerkzeug verwenden kannst, wenn sie weit vom zu errichtenden Objekt gelandet sind."
 
 msgid "tutorial_planet_extraction_5"
 msgstr ""
+"Das war's! Dieser Extraktor wird nun Früchte generieren und sie lokal "
+"lagern. Parke auf diesem Planeten, um sie in ein Raumschiff einzuladen und "
+"nutze die Autopilot-Funktion, um die Lieferung zu deiner Station zu "
+"automatisieren. Ressourcen von bewohnten Planeten zu exportieren kostet "
+"Credits. Es kostet weniger, wenn dein Ruf wächst. Um die Exportpreise zu "
+"erfahren, wirf einen Blick auf den Zivs-Bildschirm."
 
 msgid "tutorial_planet_extraction_6_dev"
 msgstr "[DEV] Ich empfehle, jetzt abzulegen und das Autopilot-Tutorial im Galaxie-Fenster zu starten."
@@ -7053,9 +7183,15 @@ msgstr "Grundlagen"
 
 msgid "tutorial_station_basics_1"
 msgstr ""
+"Willkommen zu The Spatials: Galactology!\n"
+"Dies ist deine Station. Momentan sieht sie noch nach nicht viel aus.\n"
+"Deine primäre Mission besteht darin, sie auszubauen und zu verteidigen, "
+"damit sie die Heimat der Spatials und ein Hot-Spot für Besucher wird."
 
 msgid "tutorial_station_basics_2"
 msgstr ""
+"Scrolle in deiner Raumstation mit den WASD-Tasten umher. Zoome mit dem "
+"Mausrad rein und raus."
 
 msgid "tutorial_station_basics_3_1"
 msgstr "Die linke Werkzeugleiste besitzt alle Werkzeuge, die du benötigst, um deine Station zu errichten und zu verwalten. Das erste Werkzeug ist das Info-Werkzeug. Das kannst du stets mit der Escape-Taste auswählen."
@@ -7200,9 +7336,17 @@ msgstr "Bei dem markierten Objekt handelt es sich um einen Lagerbereich. Wenn du
 
 msgid "tutorial_station_stocks_12b"
 msgstr ""
+"Du kannst deine Produkte auch direkt an andere Planeten in der Galaxie "
+"liefern und verkaufen. Wirf einen Blick auf den Importe-Reiter im Zivs-"
+"Bildschirm."
 
 msgid "tutorial_station_stocks_13b"
 msgstr ""
+"Dies sind die Grundlagen für den Bau, die Produktion und Logistik deiner "
+"Station. Aber dein Erfolg hängt auch davon ab, Ressourcen zu extrahieren und "
+"die Forschung voranzutreiben. Sieh dir nun die Tutorials für die Galaxie- "
+"und Forschungsbildschirme an, indem du auf ihre Schaltflächen in der oberen "
+"linken Werkzeugleiste klickst."
 
 msgid "tutorial_station_stocks_2"
 msgstr "Klicke auf die Getränke & Getränke-Kategorie."
@@ -7331,7 +7475,10 @@ msgid "ugc_title"
 msgstr "Titel:"
 
 msgid "ugc_user_warning"
-msgstr "Das ist ein Werkzeug für Mod-Entwickler. Um Mods für deine Spiele zu installieren und zu aktivieren, verwende bitte das Mods-Feld im Neues Spiel-Fenster"
+msgstr ""
+"Das ist ein Werkzeug für Mod-Entwickler. Um Mods für deine Spiele zu "
+"installieren und zu aktivieren, verwende bitte das Mods-Feld im Neues Spiel-"
+"Fenster."
 
 msgid "ugc_valid_desc_req"
 msgstr "Beschreibung wird benötigt"
@@ -7340,10 +7487,10 @@ msgid "ugc_valid_desc_too_long"
 msgstr "Beschreibung ist zu lang"
 
 msgid "ugc_valid_folder_req"
-msgstr "Ein Mod-Verzeichnis wird benötigt."
+msgstr "Ein Mod-Verzeichnis wird benötigt"
 
 msgid "ugc_valid_image_req"
-msgstr "Eine Bilddatei wird benötigt."
+msgstr "Eine Bilddatei wird benötigt"
 
 msgid "ugc_valid_title_req"
 msgstr "Titel wird benötigt"
@@ -7415,7 +7562,7 @@ msgid "value_lower_max"
 msgstr "Wert muss niedriger als max. Anzahl sein"
 
 msgid "value_not_number"
-msgstr ""
+msgstr "Wert ist keine Nummer"
 
 msgid "value_too_high"
 msgstr "Wert zu hoch"
@@ -7568,7 +7715,7 @@ msgid "vsync_on"
 msgstr "An"
 
 msgid "walk_group_to_label"
-msgstr "Klicke, um die Gruppe an die ausgewählte Position laufen zu lassen."
+msgstr "Klicke, um die Gruppe an die ausgewählte Position laufen zu lassen"
 
 msgid "walk_here"
 msgstr "Geh hier hin"
@@ -7602,9 +7749,18 @@ msgstr "Wände errichten"
 
 msgid "warn_autopilot_no_need_home"
 msgstr ""
+"Es gibt keinen Grund, Autopilotbefehle für die Rückkehr nach Hause zu "
+"erteilen, der Autopilot wird automatisch zurückkehren, wenn der Frachtraum "
+"voll ist oder die Besatzung es benötigt. Erzwungene Heimatbefehle werden "
+"immer darauf warten, dass die Besatzung ausgeruht ist, selbst wenn es nur "
+"kaum nötig ist und werden den Autopilot-Zeitplan verzögern."
 
 msgid "warn_no_officer_dock"
 msgstr ""
+"Eines deiner Schiffe ist Zuhause angekommen, hat aber kein zugewiesenes "
+"Offiziersdock. Deshalb hat es die Besatzung und Fracht an den Rand der Karte "
+"teleportiert. Baue ein Offiziersdock und weise ihm das Schiff zu, um das zu "
+"vermeiden."
 
 msgid "warn_no_shop"
 msgstr "Nicht in einem Shop, kostenlos eingesammelt"
@@ -7668,3 +7824,208 @@ msgstr "Rauszoomen"
 
 msgid "available"
 msgstr "Verfügbar"
+
+msgid "cant_build_needs_outside"
+msgstr "Benötigt Außenbereich"
+
+msgid "cargo_label"
+msgstr "Fracht:"
+
+msgid "cargo_value"
+msgstr "%d Einheiten"
+
+msgid "ceilingshield_1"
+msgstr "Deckenschild"
+
+msgid "ceilingshield_desc"
+msgstr ""
+"Erschafft bei Entdeckung eines Feindes ein kleines Schadensschild, mit "
+"Abklingzeit."
+
+msgid "ceilingturret_1"
+msgstr "Gewöhnliches Deckengeschütz"
+
+msgid "ceilingturret_2"
+msgstr "Erweitertes Deckengeschütz"
+
+msgid "ceilingturret_3"
+msgstr "Fortgeschrittenes Deckengeschütz"
+
+msgid "civ_ui_resources"
+msgstr "@ui_icon_30px_buy.png Ressourcen"
+
+msgid "crew_label"
+msgstr "Besatzung:"
+
+msgid "crew_value"
+msgstr "%d Slots"
+
+msgid "dock_needs_space"
+msgstr "Objekte zu nah beieinander"
+
+msgid "enable_critical_speed"
+msgstr "Setze die Spielgeschwindigkeit auf 1x bei kritischen Alarmen"
+
+msgid "event_lactian_spam_warn"
+msgstr ""
+"Die Laktus-Kirche, ein neuer galaxieweiter Kult, die eine mysteriöse "
+"Milchentität anbetet, missionieren in unserer Station. Momentan scheinen sie "
+"(hoffentlich) nur Flugblätter zu verteilen. Kümmere dich um sie, wie es dir "
+"beliebt. Oder warte, bis sie verschwunden sind."
+
+msgid "event_raid_alert"
+msgstr "Ein Überfallkommando ist angekommen! ~A greifen unsere Station an!"
+
+msgid "event_raid_retaliate_warn"
+msgstr ""
+"%s rächen sich an uns! Ein Überfallkommando von %s nähert sich unserer "
+"Station. Sei vorbereitet!"
+
+msgid "event_raid_warn4c"
+msgstr ""
+"Wir haben Berichte eines %s Überfallkommandos von %s erhalten, die sich "
+"unserer Station nähern. Sei vorbereitet!"
+
+msgid "export_rates_desc"
+msgstr ""
+"Dies sind die Einheitenpreise, die du zahlen musst, um Ressourcen von Ziv-"
+"Planeten zu extrahieren."
+
+msgid "facilities_tier_9b"
+msgstr "Robotersicherheit"
+
+msgid "filter_ship_named"
+msgstr "Schiff: %s"
+
+msgid "fire_officer"
+msgstr "Offizier feuern"
+
+msgid "goal_bartender2_desc"
+msgstr ""
+"Deine Barkeeper müssen 420 Getränke in einer Bar servieren. Aber ernsthaft, "
+"Drinks und Drogen sind nicht die Antwort."
+
+msgid "goal_bartender2_title"
+msgstr "Serviere 420 Getränke in der Bar"
+
+msgid "goal_consumerism2_desc"
+msgstr ""
+"Verkaufe mit Hilfe von Ladenobjekten 500 Dinge an Besucher. Nur "
+"Konsumentenobjekte zählen, wichtige Gegenstände wie Nahrung, wird nicht zu "
+"diesem Ziel gezählt."
+
+msgid "goal_consumerism2_title"
+msgstr "Verkaufe 500 Dinge an Besucher"
+
+msgid "goal_consumerism3_desc"
+msgstr ""
+"Verkaufe mit Hilfe von Ladenobjekten 3000 Dinge an Besucher. Nur "
+"Konsumentenobjekte zählen, wichtige Gegenstände wie Nahrung, wird nicht zu "
+"diesem Ziel gezählt."
+
+msgid "goal_consumerism3_title"
+msgstr "Verkaufe 3000 Dinge an Besucher"
+
+msgid "goal_doctor2_desc"
+msgstr "Deine Ärzte müssen 200 Patienten in einem Krankenhausbett behandeln."
+
+msgid "goal_doctor2_title"
+msgstr "Heile 200 Patienten"
+
+msgid "goal_itemprod3_desc"
+msgstr "Erstelle 200 Gegenstände irgendeines Typs und irgendeines Levels."
+
+msgid "goal_itemprod3_title"
+msgstr "Erstelle 200 Gegenstände"
+
+msgid "goal_planet5_desc"
+msgstr "Lande 3 mal auf Planeten mit Level 30 oder höher."
+
+msgid "goal_planet5_title"
+msgstr "Lande 3 mal auf Planeten mit Level 30"
+
+msgid "goal_recycle3_desc"
+msgstr ""
+"Recycle 150 Leichen. Stelle sicher, dass du mindestens einen Aufbereiter "
+"besitzt und dass der Säubern-Job bei einigen Offizieren aktiviert ist. Tja, "
+"Ruhe in Frieden."
+
+msgid "goal_recycle3_title"
+msgstr "Recycle 150 Leichen"
+
+msgid "goal_shipbuild3_desc"
+msgstr ""
+"Konstruiere 8 Schiffe mit Hilfe des Schiffbauplaners und den "
+"Schiffsbautischen."
+
+msgid "goal_shipbuild3_title"
+msgstr "Konstruiere 8 Schiffe"
+
+msgid "group_facilities2"
+msgstr "Einrichtungen"
+
+msgid "in_progress_p"
+msgstr "Im Gange: %d/%d"
+
+msgid "lactian_leaflets"
+msgstr "Laktianische Flugblätter"
+
+msgid "lactian_leaflets_desc"
+msgstr "Lobet Laktus, unsere geheiligte Milch. Kann recycled werden."
+
+msgid "object_power_level"
+msgstr "Kraft-Level"
+
+msgid "securitydoor2"
+msgstr "Kraftfeldtür"
+
+msgid "securitydoor2_desc"
+msgstr ""
+"Beinahe undurchdringbare Tür. Ermöglicht dir, Besucher von Lager- und "
+"Produktionsräumen fernzuhalten."
+
+msgid "shielder_1"
+msgstr "Gewöhnlicher Beschützer"
+
+msgid "shielder_2"
+msgstr "Verbesserter Beschützer"
+
+msgid "shielder_3"
+msgstr "Fortgeschrittener Beschützer"
+
+msgid "shielder_desc"
+msgstr ""
+"Erschafft bei Entdeckung eines Feindes ein großes Schadensschild, mit "
+"Abklingzeit."
+
+msgid "ship_skills_label"
+msgstr "Fähigkeiten:"
+
+msgid "speed_label"
+msgstr "Geschwindigkeit:"
+
+msgid "speed_value"
+msgstr "~0,2F mParsec/s"
+
+msgid "turret_1"
+msgstr "Gewöhnliches Geschütz"
+
+msgid "turret_2"
+msgstr "Verbessertes Geschütz"
+
+msgid "turret_3"
+msgstr "Fortgeschrittenes Geschütz"
+
+msgid "turret_4"
+msgstr "Ultra-Geschütz"
+
+msgid "turret_desc"
+msgstr "Großes, hochkalibriges Geschütz"
+
+msgid "tutorial_station_object_tool_7b"
+msgstr ""
+"Über Lärm: Auch wenn diese winzige Kombination einer Küche und eines Tisches "
+"ganz nett für eine Anfänger-Station ist, wird es Offizieren, die ein "
+"Mittagessen genießen wollen auf den Geist gehen, zwei oder mehr Küchen im "
+"selben Raum zu platzieren. Überlege dir, einen separaten Küchenraum zu "
+"bauen, wenn du deine Station vergrößerst."
