@@ -210,27 +210,41 @@ The job matrix can be accessed in the Station screen. It is a dense display of a
 
 The default job priority is the one shown in the table, with higher priority jobs at the left. You can also give manual per-job priorities to individual officers by clicking in the small button next to the officer name. This will replace the table cell checkboxes with a numeric input, from 0 to 99.
 
+msgid "guide_tools_equip_matrix_title"
+Equipment matrix
+
+msgid "guide_tools_equip_matrix"
+The Equipment matrix is tool in the home station screen that shows a listing of your staff along with their item slots, plus a listing of all the items in the station. You can sort and filter both listings to get a more precise selection. When you want to equip at item to an officer, drag and drop it from the item list to the officer row. Keep in mind some item slots are locked and will be made available after the officer graduates or becomes a master.
 
 
-            equip matrix
-            inventory
+msgid "guide_tools_inventory_title"
+Inventory
+
+msgid "guide_tools_inventory"
+You can access the Inventory window from the home station screen. The inventory displays a listing of all resources and unlocked products, and when selecting one, gives detailed information about its stocks in the station.
+
+Two important values can be configured here. For raw resources it is possible to set a global max amount. Once the station stocks for the selected resource reach that amount, your space ships on autopilot will ignore that resource. This allows you to not become overwhelmed by too much extraction of a single resource without having to change ship routes.
+
+The other important value is for products. It is possible to set a global desired stock value for manufactured products. The game will then give automatic production orders to factory objects set to global mode, until the desired amount is reached. This enables you to stop micromanaging build queues for products where that doesn't make sense.
+
 
 msgid "guide_station_systems"
-    FIXME cut this or group this??
-        systems
-            building rules, doors (floors, walls, objects, room definitions, ...)
-            research
-            docks
-            factories, recipes, production
-            security
-            storage and pallets
-            shops, expositors, consumption objects
-            hospitality
-            shopping
-            food/drink
-            health and hygiene
-            recreational/fun
-            robots
+        building rules, doors (floors, walls, objects, room definitions, ...)
+        research
+        docks
+        factories, recipes, production
+        security
+        storage and pallets
+        shops, expositors, consumption objects
+        hospitality
+        shopping
+        food/drink
+        health and hygiene
+        recreational/fun
+        robots
+        building atttrtion
+        noise
+        aesthetics
 
 msgid "guide_galaxy"
     galaxy
@@ -264,16 +278,62 @@ You also have the capability of issuing manual target orders. There is a target 
 
 Addionally, for planet exploration, one or more ship skills may be available. Ship skills are powerful but have a long cooldown. They can require your direct input to select a target area.
 
-msgid "guide_exploration"
-    exploration
-        extraction
-        invasions
-        opening systems
-        other buildings
+msgid "guide_exploration_intro_title"
+Planet exploration
+
+msgid "guide_exploration_intro"
+Exploring planets is a big part of the game and it is vital for the success of your station. Many game systems start from an action that happens in a planet.
+
+To explore a planet give a manual order to a ship to park on it by dragging and dropping in on the planet icon in the system map in the galaxy screen. The click the planet icon to open the planet window and click the Explore button.
+
+msgid "guide_exploration_extraction_title"
+Resource extraction
+
+msgid "guide_exploration_extraction"
+Most planets have one or more raw resource nodes on their surface. These nodes have a distinct look and resemble their resource in some way. They are usually clustered in groups of 1 to 5 nodes, with several groups on the surface.
+
+Your factories back in your home colony will need raw resources to make products. Extracting them from planets is the only realiable way. When you are exploring a planet you have access to the Object Tool. This tool offers a selection of objects that can be built on planet surfaces.
+
+The Generic Extractor, when built close to a group of nodes, will slowly extract resources from them, continously, even if you are not exploring the planet. Only one extractor is needed per resource group, building more will not make production go faster. But you can cover as many groups as you want on the same planet.
+
+These extractors also have a small storage capacity. Any excess extraction will be lost. In order save more of the production of the planet until you are ready to pick it up you can build Storage objects. These objects have a much bigger capacity and you can build many of them to their capacities together.
+
+In order to deliver the production to your home colony you need to send ships to the planet, and then send them back to home. This is best done with the autopilot feature (see the Ships section for more information).
+
+Extracting resources is not free. When your ship leaves with cargo from a planet you will pay a price per unit of resource. These prices depend on the resource kind and how much the planet civilization likes you. You can see these prices in the Civ screen, and they are the same for all planets of the same civ.
+
+msgid "guide_exploration_open_systems_title"
+Opening systems
+
+msgid "guide_exploration_open_systems"
+While visiting a planet you may come accross a Planetarium object. This object allows you to open to travel all linked systems from the planet system. There are two ways to proceed: either pay a tribute to get the information peacefully, or destroy it for a large reputation hit. Hostile civs will not give you much of an option.
+
+
+msgid "guide_exploration_invasions_title"
+Invasions
+
+msgid "guide_exploration_invasions"
+Eventually you will meet hostile civilizations that will not like it when you try to explore their planets. If you manage to build an extractor on their planets they will destroy shortly after you leave. You can go the diplomatic way (see the Civs section), or just invade the planet.
+
+Every hostile planet has an invasion counter. Click on the Bernice icon in the bottom of the screen to check the invasion %. Destroy as many buildings as you can to get to 100%. After you invade a planet their inhabitants will not destroy your extactors after you leave. But expect a vengeance from them on your own station.
+
+Sometimes you will start a war with a civ, or meet civs that are only interested in plundering. These civs will at some point invade your allies planets, specially if you have extraction operations on them. Planets invaded by NPC civs will stop extraction and their start systems will stop sending tourists to your station. If you land on these planets you can liberate them. Check the counter Bernice is keeping, and destroy the warring civ buildings to get to 100% and liberate the planet.
+
+msgid "guide_exploration_other_title"
+Other buildings
+
+msgid "guide_exploration_other"
+Recruitment center: On human and crusantian planets you can build recruitment centers. This will provide staff candidates from these planates and will increase the rate you get new candidates to choose.
+
+Embassy: Provides a slow increase of reputation with the planet civ, up to a maximum per planet.
+
+Ad Media Station: Increase the frequency of tourist ships that will visit your station starting from the planet's system.
 
 
 msgid "guide_research_title"
 msgstr "Research"
 
 msgid "guide_research"
-    research
+The basic technologies you start with will not cut it in the longer term. You will need to research new objects, item levels, recipes and space ships to progress further into the galaxy. The research screen allows you explore all the knowledge available, and decide which technology to research next. Research is divided in thematic groups, and each group into tiers. When you start research into a group you will aim to unlock the next locked tier inside that group, for the amount of research points it requires. Only a single group can be research at a time.
+
+Research points are gained by building one more research desks on your station. Officers with the research job will automatically go there to work, as long as a research group has been selected in the research screen. You can make this process faster by disabling other jobs for some officers, so they are full time researchers. Experienced Scientists and master Researchers gain research points much faster than redshirts.
