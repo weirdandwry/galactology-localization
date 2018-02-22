@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-22 11:05+0000\n"
-"PO-Revision-Date: 2018-02-22 11:33+0000\n"
-"Last-Translator: anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2018-02-22 11:35+0000\n"
+"Last-Translator: kiironosora <kiironosora@naver.com>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
 "Language: ko\n"
@@ -667,3 +667,22 @@ msgstr "휘젖지 않고 흔든다. 빨간색 토큰을 사용합니다."
 
 msgid "blood_from"
 msgstr "~A의 혈액"
+
+msgid "blorg_adjective"
+msgstr "블로그 %s"
+
+msgid "blorg_adjective2"
+msgstr "블로그 ~A"
+
+msgid "blorg_member"
+msgstr "블로그"
+
+msgid "blorg_name"
+msgstr "블로그"
+
+msgid "blorg_plutocracy"
+msgstr "블로그 재벌"
+
+#, fuzzy
+msgid "body_level_in"
+msgstr "%s (L%d) in %s"
