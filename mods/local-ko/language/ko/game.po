@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-22 11:05+0000\n"
-"PO-Revision-Date: 2018-02-22 11:05+0000\n"
-"Last-Translator: kiironosora <kiironosora@naver.com>\n"
+"PO-Revision-Date: 2018-02-22 11:06+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
 "Language: ko\n"
@@ -319,3 +319,21 @@ msgstr "전달자는 자원이 팔레트에 있으면 이 물체에 자원을 �
 
 msgid "deliver_from_storage_yes"
 msgstr "전달자는 팔레트에서 이 물체에 자원을 전달할 것입니다"
+
+msgid "Luxury_kitchen_desc"
+msgstr "우주에서 절대 최고의 요리가 여기서 준비됩니다."
+
+msgid "PR_desc"
+msgstr "그들은 매력적이고 재미있어, 잠재 고객에게 모든 것이 좋다는 것을 확신시키는 데 매우 성공적입니다."
+
+msgid "absorbtion"
+msgstr "흡착"
+
+msgid "absorbtion_short"
+msgstr "흡"
+
+msgid "accept"
+msgstr "동의"
+
+msgid "action_cooldown"
+msgstr "[~ A]는 재사용 대기 중입니다."
