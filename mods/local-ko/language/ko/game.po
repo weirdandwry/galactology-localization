@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-22 11:05+0000\n"
-"PO-Revision-Date: 2018-02-22 11:28+0000\n"
-"Last-Translator: kiironosora <kiironosora@naver.com>\n"
+"PO-Revision-Date: 2018-02-22 11:29+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
 "Language: ko\n"
@@ -586,3 +586,21 @@ msgstr "기본 선박 엔진 부품"
 
 msgid "basic_ship_hull_parts"
 msgstr "기본 선체 부품"
+
+msgid "basic_ship_lifesupport_parts"
+msgstr "기본 선박 생명 유지 부품"
+
+msgid "basic_ship_structure_parts"
+msgstr "기본 선박 구조 부품"
+
+msgid "basic_soap"
+msgstr "기본 비누"
+
+msgid "beam_desc"
+msgstr "단일 타겟, 빔"
+
+msgid "bed_plain2"
+msgstr "기본 침대"
+
+msgid "bed_plain_desc"
+msgstr "수면을 회복합니다. 모든 오피서가 사용할 수 있습니다. 방문자는 사용할 수 없습니다."
