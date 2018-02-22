@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-22 11:05+0000\n"
-"PO-Revision-Date: 2018-02-22 12:56+0000\n"
-"Last-Translator: kiironosora <kiironosora@naver.com>\n"
+"PO-Revision-Date: 2018-02-22 13:00+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
 "Language: ko\n"
@@ -994,3 +994,150 @@ msgstr "성공의 기회"
 
 msgid "change_machine"
 msgstr "교환 기계"
+
+msgid "change_machine_desc"
+msgstr "진짜 현금을 가짜 현금으로 교환"
+
+msgid "chaotic_adjective"
+msgstr "혼돈 %s"
+
+msgid "chaotic_adjective2"
+msgstr "혼돈 ~A"
+
+msgid "chaotic_enemy"
+msgstr "혼돈스러운 적"
+
+msgid "chaotic_member"
+msgstr "혼돈"
+
+msgid "chaotics"
+msgstr "혼돈"
+
+msgid "chef"
+msgstr "쉐프"
+
+msgid "chef_desc"
+msgstr "가장 복잡한 조리법을 요리 할 수 있습니다. 고급 스테이션에는 요리사가 가장 호화로운 음식과 음료를 만들기 위해 필요합니다."
+
+msgid "chemist"
+msgstr "화학자"
+
+msgid "chemist_desc"
+msgstr "거품 나는 액체와 반응제어는 이들의 하루하루입니다."
+
+msgid "chemistry"
+msgstr "화학"
+
+msgid "chest_01"
+msgstr "보안조끼"
+
+msgid "chest_02"
+msgstr "나노 스트랩"
+
+msgid "chest_03"
+msgstr "경갑"
+
+msgid "chest_04"
+msgstr "언더 워머"
+
+msgid "chest_05"
+msgstr "파일럿 조끼"
+
+msgid "chest_06"
+msgstr "충격 메쉬"
+
+msgid "chest_07"
+msgstr "헤비 듀티 커버"
+
+msgid "chest_08"
+msgstr "쿨 셔츠"
+
+msgid "chest_09"
+msgstr "ShockABS MkII"
+
+msgid "chest_10"
+msgstr "팬시 셔츠"
+
+msgid "chest_11"
+msgstr "EVA 정장 갑옷"
+
+msgid "chest_12"
+msgstr "강력한 쉘"
+
+msgid "chest_13"
+msgstr "가슴 보호대"
+
+msgid "chest_14"
+msgstr "퓨전 웰더 코트"
+
+msgid "chest_15"
+msgstr "비늘 수호자"
+
+msgid "chest_16"
+msgstr "왕실 로브"
+
+msgid "chest_17"
+msgstr "강화 갑옷"
+
+msgid "chest_18"
+msgstr "절제 갑옷"
+
+msgid "chest_19"
+msgstr "기병복 재킷"
+
+msgid "chest_20"
+msgstr "사이버 V80"
+
+msgid "chest_item"
+msgstr "가슴 아이템"
+
+msgid "chuchu_adjective"
+msgstr "추추 %s"
+
+msgid "chuchu_adjective2"
+msgstr "추추 ~A"
+
+msgid "chuchu_full"
+msgstr "추추 팩"
+
+msgid "chuchu_member"
+msgstr "추추"
+
+msgid "chuchu_name"
+msgstr "추추"
+
+msgid "church_of_lactus"
+msgstr "락토스 교회"
+
+msgid "civ_colony"
+msgstr "식민지"
+
+msgid "civ_encountered"
+msgstr "처음으로 %s 별 시스템이 발견되었습니다! 이제 문명 화면에서 이 문명를 볼 수 있습니다."
+
+msgid "civ_ui_resources"
+msgstr "@ui_icon_30px_buy.png 자원"
+
+msgid "civ_uninhabited"
+msgstr "무인"
+
+msgid "civs"
+msgstr "문명"
+
+msgid "civs_points"
+msgstr "%d / %d 점"
+
+msgid "civs_tutorial"
+msgstr "문명 튜토리얼"
+
+msgid "claim_reward"
+msgstr "보상 요구"
+
+msgid "cleaner_robot"
+msgstr "청소 로봇"
+
+msgid "cleaning"
+msgstr "청소"
+
+msgid "click_info"
+msgstr "게임에서 아무 물체를 선택하여 속성을 표시하려면 클릭하십시오."
