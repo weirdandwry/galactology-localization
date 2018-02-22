@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-22 11:05+0000\n"
 "PO-Revision-Date: 2018-02-22 11:27+0000\n"
-"Last-Translator: kiironosora <kiironosora@naver.com>\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
 "Language: ko\n"
@@ -568,3 +568,21 @@ msgstr "최근에 침대없이 잤다"
 
 msgid "base_price_a"
 msgstr "기본 가격: @ ui_icon_20px_credits04.png ~A"
+
+msgid "base_spec"
+msgstr "기본 사양"
+
+msgid "basic_kitchen"
+msgstr "기본 주방"
+
+msgid "basic_kitchen_desc"
+msgstr "싼 음식을 요리합니다"
+
+msgid "basic_rations"
+msgstr "기본 식량"
+
+msgid "basic_ship_engines_parts"
+msgstr "기본 선박 엔진 부품"
+
+msgid "basic_ship_hull_parts"
+msgstr "기본 선박 선체 부품"
