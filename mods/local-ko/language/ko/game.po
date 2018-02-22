@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-22 11:05+0000\n"
-"PO-Revision-Date: 2018-02-22 11:14+0000\n"
-"Last-Translator: kiironosora <kiironosora@naver.com>\n"
+"PO-Revision-Date: 2018-02-22 11:15+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
 "Language: ko\n"
@@ -412,3 +412,18 @@ msgstr "역겨움"
 
 msgid "aesthetics_feeling_very_low_desc"
 msgstr "주변 환경이 끔찍해"
+
+msgid "ale"
+msgstr "에일 맥주"
+
+msgid "alert_delete"
+msgstr "삭제"
+
+msgid "alert_minimize"
+msgstr "숨김"
+
+msgid "alert_reports"
+msgstr "경고 및 보고서"
+
+msgid "algae"
+msgstr "조류"
