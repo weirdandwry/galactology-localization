@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-22 11:05+0000\n"
 "PO-Revision-Date: 2018-02-22 11:22+0000\n"
-"Last-Translator: kiironosora <kiironosora@naver.com>\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
 "Language: ko\n"
@@ -514,3 +514,15 @@ msgstr "적을 공격중"
 
 msgid "attributes_c"
 msgstr "속성:"
+
+msgid "attrition_destroyed_object"
+msgstr "~A는 ~A의 적들에 의해 파괴되었습니다."
+
+msgid "audio"
+msgstr "오디오"
+
+msgid "augustus"
+msgstr "아우구스투스"
+
+msgid "augustus_desc"
+msgstr "갤럭시 유명한 요리사. 그는 마스터 레벨의 쉐프 스펙을 가지고 있으며 음식 양의 두 배를 생산합니다."
