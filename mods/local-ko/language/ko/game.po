@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-22 11:05+0000\n"
 "PO-Revision-Date: 2018-02-22 13:04+0000\n"
-"Last-Translator: anonymous <noreply@weblate.org>\n"
+"Last-Translator: kiironosora <kiironosora@naver.com>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
 "Language: ko\n"
@@ -1211,3 +1211,9 @@ msgstr ""
 
 msgid "confirm_fire_officer"
 msgstr "~A 해고는 취소 할 수 없습니다. 이 오피서는 영원히 사라질 것입니다! 확실합니까?"
+
+msgid "construction"
+msgstr "건설"
+
+msgid "contemplated"
+msgstr "감상함"
