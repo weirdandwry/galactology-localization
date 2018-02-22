@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-22 11:05+0000\n"
-"PO-Revision-Date: 2018-02-22 13:02+0000\n"
-"Last-Translator: kiironosora <kiironosora@naver.com>\n"
+"PO-Revision-Date: 2018-02-22 13:03+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
 "Language: ko\n"
@@ -1186,3 +1186,26 @@ msgstr "기본 제품 III"
 
 msgid "commercial_tier_4"
 msgstr "중급 제품 I"
+
+msgid "commercial_tier_5"
+msgstr "중급 제품 II"
+
+msgid "commercial_tier_6"
+msgstr "고급 제품 I"
+
+msgid "commercial_tier_7"
+msgstr "고급 제품 II"
+
+msgid "complete"
+msgstr "완료"
+
+msgid "confirm_cancel_research"
+msgstr "확실합니까? 이 연구를 취소하면 현재 연구 포인트를 잃게됩니다."
+
+msgid "confirm_cancel_ship_construction"
+msgstr "확실합니까? 취소하면 이미 완료된 작업과 자원이 모두 손실됩니다."
+
+msgid "confirm_evolve_officer"
+msgstr ""
+"~A에서 ~A로 업그레이드하면 취소 할 수 없습니다! ~A는 어떤 일을 할 수 없게 만들고 다른 일은 더 잘 수행 할 것입니다. "
+"확실합니까?"
