@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-22 11:05+0000\n"
 "PO-Revision-Date: 2018-02-22 12:44+0000\n"
-"Last-Translator: anonymous <noreply@weblate.org>\n"
+"Last-Translator: kiironosora <kiironosora@naver.com>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
 "Language: ko\n"
@@ -826,3 +826,9 @@ msgstr "물건 제작"
 
 msgid "build_walls"
 msgstr "벽 건설"
+
+msgid "builder_robot"
+msgstr "건설 로봇"
+
+msgid "building"
+msgstr "건설"
