@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-22 11:05+0000\n"
-"PO-Revision-Date: 2018-02-22 11:30+0000\n"
+"PO-Revision-Date: 2018-02-22 11:31+0000\n"
 "Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
@@ -616,3 +616,15 @@ msgstr "베르니스"
 
 msgid "bernice_desc"
 msgstr "진행상황을 평가하기 위해 온 본부 대리인."
+
+msgid "best"
+msgstr "베스트"
+
+msgid "bigger_ui"
+msgstr "더 큰 UI"
+
+msgid "billiard"
+msgstr "당구"
+
+msgid "billiard_desc"
+msgstr "녹색 천 테이블에 막대기로 공을 침니다. 재미 제공."
