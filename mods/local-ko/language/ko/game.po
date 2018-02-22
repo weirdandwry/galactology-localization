@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-22 11:05+0000\n"
-"PO-Revision-Date: 2018-02-22 12:41+0000\n"
-"Last-Translator: anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2018-02-22 12:42+0000\n"
+"Last-Translator: kiironosora <kiironosora@naver.com>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
 "Language: ko\n"
@@ -790,3 +790,18 @@ msgstr "재고"
 
 msgid "build_info_treatment_for"
 msgstr "치료"
+
+msgid "build_intermediate_ship_engines"
+msgstr "중급 선박 엔진 조립"
+
+msgid "build_intermediate_ship_hull"
+msgstr "중급 선체 조립"
+
+msgid "build_intermediate_ship_lifesupport"
+msgstr "중급 선박 생명 유지 조립"
+
+msgid "build_intermediate_ship_structure"
+msgstr "중급 선체 구조 조립"
+
+msgid "build_job_warn_invalid_room"
+msgstr "유효한 방 안에 있지 않습니다"
