@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-22 11:05+0000\n"
-"PO-Revision-Date: 2018-02-22 12:46+0000\n"
-"Last-Translator: kiironosora <kiironosora@naver.com>\n"
+"PO-Revision-Date: 2018-02-22 12:47+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
 "Language: ko\n"
@@ -856,3 +856,15 @@ msgstr "선임순"
 
 msgid "by_gear_level"
 msgstr "최악의 장비순"
+
+msgid "by_mind"
+msgstr "마음순으로"
+
+msgid "by_spec"
+msgstr "전문 분야별"
+
+msgid "calmed_feeling"
+msgstr "진정됨"
+
+msgid "calmed_feeling_desc"
+msgstr "그건 끔찍했지만 이제는 기분이 나아 졌어."
