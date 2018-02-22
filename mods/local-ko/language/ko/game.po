@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-22 11:05+0000\n"
-"PO-Revision-Date: 2018-02-22 13:13+0000\n"
-"Last-Translator: anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2018-02-22 23:55+0000\n"
+"Last-Translator: kiironosora <kiironosora@naver.com>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
 "Language: ko\n"
@@ -321,7 +321,7 @@ msgid "deliver_from_storage_yes"
 msgstr "전달자는 팔레트에서 이 물체에 자원을 전달할 것입니다"
 
 msgid "Luxury_kitchen_desc"
-msgstr "우주에서 절대 최고의 요리가 여기서 준비됩니다."
+msgstr "우주에서 절대 최고의 요리가 여기서 준비됩니다"
 
 msgid "PR_desc"
 msgstr "그들은 매력적이고 재미있어, 잠재 고객에게 모든 것이 좋다는 것을 확신시키는 데 매우 성공적입니다."
@@ -333,7 +333,7 @@ msgid "absorbtion_short"
 msgstr "흡"
 
 msgid "accept"
-msgstr "동의"
+msgstr "수락"
 
 msgid "action_cooldown"
 msgstr "[~ A]는 재사용 대기 중"
@@ -516,7 +516,7 @@ msgid "attributes_c"
 msgstr "속성:"
 
 msgid "attrition_destroyed_object"
-msgstr "~A는 ~A의 적들에 의해 파괴되었습니다."
+msgstr "~A는 ~A의 적들에 의해 파괴되었습니다"
 
 msgid "audio"
 msgstr "오디오"
@@ -683,9 +683,8 @@ msgstr "블로그"
 msgid "blorg_plutocracy"
 msgstr "블로그 재벌"
 
-#, fuzzy
 msgid "body_level_in"
-msgstr "%s (L%d) in %s"
+msgstr "%s 중 %s (L%d)"
 
 msgid "bonbons"
 msgstr "봉봉"
@@ -963,7 +962,7 @@ msgid "ceilingcam"
 msgstr "천장 카메라"
 
 msgid "ceilingcam_desc"
-msgstr "숨겨진 침입자를 찾습니다."
+msgstr "숨겨진 침입자를 찾습니다"
 
 msgid "ceilingshield_1"
 msgstr "천장 실더"
@@ -1053,7 +1052,7 @@ msgid "chest_08"
 msgstr "쿨 셔츠"
 
 msgid "chest_09"
-msgstr "ShockABS MkII"
+msgstr "쇼크ABS MkII"
 
 msgid "chest_10"
 msgstr "팬시 셔츠"
@@ -1274,3 +1273,445 @@ msgstr "~A의 시체"
 
 msgid "corridor"
 msgstr "복도"
+
+msgid "delivery_select_ship"
+msgstr "배송을 위해 우주선을 선택하십시오"
+
+msgid "demand_current"
+msgstr "현재"
+
+msgid "demand_one_of"
+msgstr "하나의"
+
+msgid "demand_value"
+msgstr "가치"
+
+msgid "demand_wanted"
+msgstr "원함"
+
+msgid "deposited_scroll"
+msgstr "저장됨 %d"
+
+msgid "descending"
+msgstr "내림차순"
+
+msgid "description"
+msgstr "설명"
+
+msgid "desperate_critical"
+msgstr "~A는 지금 절망적입니다! 그들은 쓸데없이 자신 앞에 있는 물건이나 사람을 때립니다."
+
+msgid "desperate_critical_violent"
+msgstr "~A 지금은 절망적이며 무기를 친구들에게 사용하고 있습니다!"
+
+msgid "desperate_warning"
+msgstr "~A는 기분이 매우 저조하며 절망적인 기분이 될수있는 위험이 있습니다"
+
+msgid "dessert"
+msgstr "디저트"
+
+msgid "developer"
+msgstr "개발자"
+
+msgid "developer_console"
+msgstr "개발자 콘솔"
+
+msgid "diner_table"
+msgstr "식당 테이블"
+
+msgid "diner_table_desc"
+msgstr "매력적인 복고풍"
+
+msgid "diplomat"
+msgstr "외교관"
+
+msgid "diplomat_desc"
+msgstr "외교관은 사회 관례, 협상, 은하에 대한 지식, 때때로 약간의 속임수에 대한 전문가입니다."
+
+msgid "direct_desc"
+msgstr "단일 타겟"
+
+msgid "dirt"
+msgstr "쓰레기"
+
+msgid "dirt_desc"
+msgstr "청소부는 이  쓰레기를 제거 할 수 있습니다"
+
+msgid "disable"
+msgstr "사용 안함"
+
+msgid "disabled"
+msgstr "사용 안함"
+
+msgid "disco_bar"
+msgstr "디스코 바"
+
+msgid "disco_bar_desc"
+msgstr "정교한 음료가 여기에 제공됩니다"
+
+msgid "disco_table"
+msgstr "디스코 테이블"
+
+msgid "disco_table_desc2"
+msgstr "멋진 음료를 마시면서 진정"
+
+msgid "disease_cured"
+msgstr "질병 치료 완료: ~A"
+
+msgid "dismantle"
+msgstr "해체"
+
+msgid "dismantled_object"
+msgstr "해체 된 물건"
+
+msgid "display"
+msgstr "디스플레이"
+
+msgid "dizzy_sick"
+msgstr "울렁울렁병"
+
+msgid "dizzy_sick_desc"
+msgstr "나는 매우 어지러워"
+
+msgid "dock_needs_space"
+msgstr "물건이 너무 가깝습니다"
+
+msgid "dock_officer_info_label"
+msgstr "여기에 도킹 할 우주선를 선택하십시오. 화물은 이 도크 주변에서 하역되며 오피서는 여기에서 하차합니다."
+
+msgid "dock_officer_select"
+msgstr "우주선 선택"
+
+msgid "docking"
+msgstr "도킹:"
+
+msgid "doctordesk"
+msgstr "의사 데스크"
+
+msgid "doctordesk_desk"
+msgstr "의사는이 책상에서 환자를 기다리고 치료 체크리스트를 제공합니다."
+
+msgid "done"
+msgstr "완료"
+
+msgid "door"
+msgstr "문"
+
+msgid "door_allowed"
+msgstr "승인 된 유닛"
+
+msgid "door_allowed_desc"
+msgstr "문에 붙어있는 정중 한 표시와 같습니다. 폭력적인 침략자들은 무시할 것입니다."
+
+msgid "door_desc"
+msgstr "스테이션 영역에 대한 액세스를 제어하십시오. 저장구역 및 생산시설 방을 방문자로부터 멀리 할 수 있습니다."
+
+msgid "door_lock"
+msgstr "잠금"
+
+msgid "door_lock_title"
+msgstr "전체 잠금"
+
+msgid "door_lock_title_desc"
+msgstr "이렇게하면 모든 유닛에게 문을 단단히 잠금할 수 있습니다. 폭력적인 침략자는 파괴해야 할 것입니다."
+
+msgid "door_officers"
+msgstr "오피서"
+
+msgid "door_robots"
+msgstr "로봇"
+
+msgid "door_tourists"
+msgstr "방문자"
+
+msgid "dps_label"
+msgstr "초당 데미지"
+
+msgid "dps_label_short"
+msgstr "DPS"
+
+msgid "drink_shop"
+msgstr "식당 음료"
+
+msgid "drink_shop_desc"
+msgstr "음료는 여기에서 제공됩니다."
+
+msgid "drunk"
+msgstr "취함"
+
+msgid "drunk_desc"
+msgstr "네, 괜찮아요 좋습니다"
+
+msgid "electronics_workshop"
+msgstr "전자 워크샵"
+
+msgid "electronics_workshop_desc"
+msgstr "가전 제품 제조"
+
+msgid "electropet"
+msgstr "전자펫"
+
+msgid "electropet_display"
+msgstr "전자펫 디스플레이"
+
+msgid "electropet_display_desc"
+msgstr "새로운 하이테크, 중간 가격, 낮은 유지 보수 친구가 기다리고 있습니다!"
+
+msgid "embassies"
+msgstr "대사관"
+
+msgid "empty"
+msgstr "비어있음"
+
+msgid "empty_slot"
+msgstr "빈 슬롯"
+
+msgid "enable"
+msgstr "사용"
+
+msgid "enable_alert_popups"
+msgstr "알림 팝업 사용"
+
+msgid "enable_critical_speed"
+msgstr "중요 알림에서 게임 속도를 1 배로 설정"
+
+msgid "enable_music"
+msgstr "음악 사용"
+
+msgid "enable_sound_effects"
+msgstr "음향 효과 사용"
+
+msgid "enable_station_events"
+msgstr "스테이션 이벤트 사용"
+
+msgid "enable_station_violent_events"
+msgstr "폭력적인 스테이션 이벤트 사용"
+
+msgid "enable_storage"
+msgstr "저장 사용:"
+
+msgid "enabled"
+msgstr "사용"
+
+msgid "enabled_user_mods"
+msgstr "유저모드 사용 :"
+
+msgid "enemy"
+msgstr "적"
+
+msgid "enemy_adjective"
+msgstr "적 %s"
+
+msgid "enemy_adjective2"
+msgstr "적 ~A"
+
+msgid "enemy_member"
+msgstr "적"
+
+msgid "enemy_name"
+msgstr "적들"
+
+msgid "energy"
+msgstr "에너지"
+
+msgid "engineer"
+msgstr "엔지니어"
+
+msgid "engineer_desc"
+msgstr "금속이 있다면 엔지니어에게 맡기십시오. 로봇 및 우주선 제작은 가장 가치있는 소질입니다."
+
+msgid "engineering"
+msgstr "엔지니어링"
+
+msgid "entrance_fee"
+msgstr "입장료"
+
+msgid "equip_item_must_station"
+msgstr "%s는 홈 스테이션에 있어야합니다"
+
+msgid "equip_item_no_reqs"
+msgstr "~A 는 ~A를 입을수 없습니다"
+
+msgid "equip_item_replace"
+msgstr "~A를 파괴하고 ~A로 대체하겠습니까?"
+
+msgid "equip_item_rmb"
+msgstr "~A 를 장비"
+
+msgid "equip_item_slot_disabled"
+msgstr "~ A는 ~A를 장비하기 위해서는 더 높은 스펙이 필요합니다"
+
+msgid "equip_matrix"
+msgstr "장비 매트릭스"
+
+msgid "equip_officer_slot_current"
+msgstr "장착 %s"
+
+msgid "equip_officer_slot_equip"
+msgstr "장착"
+
+msgid "equip_officer_slot_no_selection"
+msgstr "아이템을 선택"
+
+msgid "equip_officer_slot_none"
+msgstr "장착 안함"
+
+msgid "equip_officer_slot_selected"
+msgstr "선택됨"
+
+msgid "equip_officer_slot_stored"
+msgstr "스테이션에 저장 됨"
+
+msgid "equip_officer_slot_title"
+msgstr "%s를 위해 %s 장착"
+
+msgid "equipmatrix_available"
+msgstr "이용가능"
+
+msgid "equipmatrix_too_low_cell"
+msgstr "너무 낮음"
+
+msgid "erase_floor_tool"
+msgstr "바닥 제거"
+
+msgid "erase_objects_tool"
+msgstr "물건 제거"
+
+msgid "erase_walls_tool"
+msgstr "벽 제거"
+
+msgid "eraser_hint"
+msgstr "제거 모드는 Shift 키를 누른 상태 유지"
+
+msgid "error_bad_save"
+msgstr "게임로드 오류: 저장 파일을 읽을 수 없거나 파일이 손상되었습니다."
+
+msgid "error_deleting"
+msgstr "게임 삭제 오류"
+
+msgid "error_missing_mods_1"
+msgstr "이 저장파일은 구독 또는 설치되지 않은 다음 모드가 사용됩니다:\n"
+
+msgid "error_missing_mods_2"
+msgstr "이 저장 파일을 로드하려고 하면 게임이 충돌하거나 오류를 표시 할 수 있습니다. 어쨌든 로드 하시겠습니까?"
+
+msgid "error_saving_game"
+msgstr "게임 저장 오류"
+
+msgid "event_augustus_warn"
+msgstr "아우구스투스는 주방에서 당신을 돕기 위해 여기 있습니다! 그는 스테이션에 있는 동안 요리 작업을 맡을 것입니다."
+
+msgid "event_bernice_fail"
+msgstr "제한시간안에 작업이 완료되지 않았으므로 보상이 주어지지 않았습니다. 다음 검토에서 더 잘 수행되기를 바랍니다."
+
+msgid "event_bernice_goal_build"
+msgstr "베르니스는 더 많은 시설이 필요하다고 결정했습니다. %d 크레딧 보상을 위해 %d 개 물건을 2분 안에 건설하십시오."
+
+msgid "event_bernice_goal_floor"
+msgstr "베르니스는 더 큰 스테이션이 요구된다고 결정했다. %d 크레딧 보상을 위해 2분 안에 %d 바닥 타일을 건설하십시오."
+
+msgid "event_bernice_goal_produce"
+msgstr "베르니스는 더 높은 생산 속도가 필요하다고 결정했습니다. %d 크레딧 보상을 위해 2분 안에 %d 제품을 생산하십시오."
+
+msgid "event_bernice_succ"
+msgstr "목표가 달성되었습니다! %d 크레딧 보상은 스테이션 계정에 입금되었습니다. 잘했습니다. 다음 리뷰에서 만나요!"
+
+msgid "event_bernice_warn"
+msgstr "리뷰 시간입니다! 베르니스는 당신의 시설과 재고를 조사하기위해 왔습니다."
+
+msgid "event_breakage_warn"
+msgstr "스테이션의 일부 공장이 고장 남!"
+
+msgid "event_explodefire_warn"
+msgstr "%s 가 폭발했고 화재가 시작되었습니다!"
+
+msgid "event_finished"
+msgstr "이벤트 완료"
+
+msgid "event_foodpoisoning_warn"
+msgstr "일부 스테이션 주민들은 식중독에 빠졌습니다!"
+
+msgid "event_invaderbomb_out_of_time"
+msgstr "제한시간 초과! 폭탄이 폭발했습니다!"
+
+msgid "event_invaderbomb_warn"
+msgstr "숨겨진 적이 발견되었습니다! 폭발하기 전에 시한 폭탄을 파괴하십시오! 폭탄은 중립 유닛이며 수동 목표 주문이 필요합니다."
+
+msgid "event_invaders_alert"
+msgstr "습격자 도착했습니다! ~A 가 우리 스테이션을 공격하고 있습니다!"
+
+msgid "event_invaders_retaliate_warn"
+msgstr "%s 이 보복해옵니다! % s의 습격자가 우리 스테이션에 접근 중입니다. 준비하십시오!"
+
+msgid "event_invaders_warn4c"
+msgstr "%s 에서 온 %s 습격자가 우리 스테이션에 접근 중이라는 보고입니다. 준비하십시오!"
+
+msgid "event_kowka_warn"
+msgstr ""
+"Кошка는 호기심 많은 고양이이며 친구의 진행상황을 확인하기 위해 여기에 있습니다. 너 아직도 친구야? 그들이있는 동안 그녀의 로봇 "
+"군대가 스테이션에서 도울 것입니다."
+
+msgid "event_lactian_spam_warn"
+msgstr ""
+"신비로운 우유를 숭배하는 새로운 은하교 인 락토스 교회가 스테이션에서 개종하고 있습니다. 현재 그들은 전단지만(진짜?) 들고 다니는 "
+"것처럼 보입니다. 당신이 원하는대로 그들과 거래하거나 그들이 사라질 때까지 기다리십시오."
+
+msgid "event_liberty_warn"
+msgstr "자유가 여기에 있습니다! 그녀의 존재는 방문객과 거주자 모두를 행복하게 만듭니다."
+
+msgid "event_manysick_fail"
+msgstr "일부 %s 방문자가 치유되지 않아 보상이 제공되지 않습니다."
+
+msgid "event_manysick_succ"
+msgstr "모든 %s 명의 방문객이 치료되었습니다! %d 크레딧과 %d 평판의 보너스를 즐기십시오."
+
+msgid "event_manysick_warn"
+msgstr ""
+"%s 이 당신의 스테이션으로 %s의 아픈 시민들을 텔레포트 시켰습니다! 타이머가 0에 도달하기 전에 치료하여 %d 크레딧과 %d 평판의 "
+"보너스를 얻으십시오."
+
+msgid "event_meteors_end"
+msgstr "유성우가 끝났습니다"
+
+msgid "event_meteors_start"
+msgstr "유성우가 시작되었습니다!"
+
+msgid "event_meteors_warn"
+msgstr "유성우가 오고있습니다! 목표 영역이 1분 안에 매우 강하게 타격을 입습니다."
+
+msgid "event_miasmacloud_ended"
+msgstr "독성 구름은 더 이상 퍼지지 않습니다"
+
+msgid "event_miasmacloud_warn"
+msgstr "물건이 부서져서 퍼져나가는 독성 구름을 내뿜니다. 그것을 복구하거나 파괴하여 구름을 막으십시오."
+
+msgid "event_octopus_warn"
+msgstr "당신의 오만함은 깊은 공간에서 잊혀진 짐승을 깨웠습니다. 우주 문어가 당신의 스테이션을 공격하고 있습니다!"
+
+msgid "event_ongoing"
+msgstr "진행중"
+
+msgid "event_pest_spawn_queen"
+msgstr "해충의 여왕이 이제 나타났습니다!"
+
+msgid "event_pest_warn"
+msgstr ""
+"해충이 당신의 스테이션을 감염시키고 있습니다! 여왕이 나타날 때까지 해충을 없애십시오. 이 해충은 중립 유닛이며 수동 목표 명령이 "
+"필요합니다."
+
+msgid "event_pirates_reveal"
+msgstr ""
+"해적들은 처음으로 자신을 드러 냈습니다! 당신의 성공이 그들의 눈을 사로 잡았습니다. 그들은 그것의 몫을 원할지도 모르고, 적대적인 "
+"탈취는 진짜로 적대적입니다.."
+
+msgid "event_progress"
+msgstr "이벤트 진행상황: %s"
+
+msgid "event_raid_alert"
+msgstr "습격자 도착했습니다! ~A가 우리 스테이션을 공격하고 있습니다!"
+
+msgid "event_raid_retaliate_warn"
+msgstr "%s 이 보복해옵니다! %s 의 습격자가 우리 스테이션에 접근 중입니다. 준비하십시오!"
+
+msgid "event_raid_warn4c"
+msgstr "%s 에서 온 %s 습격자가 우리 스테이션에 접근 중이라는 보고입니다. 준비하십시오!"
