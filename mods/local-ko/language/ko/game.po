@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-22 11:05+0000\n"
 "PO-Revision-Date: 2018-02-22 11:17+0000\n"
-"Last-Translator: anonymous <noreply@weblate.org>\n"
+"Last-Translator: kiironosora <kiironosora@naver.com>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
 "Language: ko\n"
@@ -460,3 +460,6 @@ msgstr "이 문명은 적대적이며, 그들은 어떤 종류의 외교 또는 
 
 msgid "antimatter_cleaner"
 msgstr "반물질 세정제"
+
+msgid "any_power"
+msgstr "아무 파워"
