@@ -135,7 +135,7 @@ Specs are very important because more specialized officers also get extra perks.
 
 Specs are divided in 3 categories: redshirts, graduates and masters. Redshirts are the base spec for all officers. They are able to perform all the jobs in the station and excel at none of them. Gaining enough experience in any job will make it possible for a redshirt to be promoted into a graduate. Graduates are the first level of specialization. A graduate becomes incapable of performing some jobs, but at the same time they gain new item slots, higher XP caps, higher base hitpoints and power, higher productivity with difficult recipes, and the all important color uniform for their spec. Graduates in turn can gain enough XP to become a master. Masters are the ultimate professionals of your station. They will be several times faster than a redshirt at their jobs and have the highest multipliers.
 
-All officers have demands. Redshirts will demand a base salary and nothing else. They will be happy to pick a random bed every time they are sleepy in any room. Graduates will demand a higher salary plus a private bed, but they will be OK with sleeping in a barrack, as long as it is a nice one. Master officers will demand a private room with a luxury bed and several special decorations.
+All officers have demands. Redshirts will demand a base salary and nothing else. They will be happy to pick a random bed every time they are sleepy in any room. Graduates will demand a higher salary plus a private bed, but they will be OK with sleeping in a barrack, as long as it is a nice one. Master officers will demand a private room with a luxury bed, several special decorations, and a high aesthetical value.
 
 msgid "guide_officers_jobs_title"
 Jobs
@@ -228,40 +228,156 @@ Two important values can be configured here. For raw resources it is possible to
 The other important value is for products. It is possible to set a global desired stock value for manufactured products. The game will then give automatic production orders to factory objects set to global mode, until the desired amount is reached. This enables you to stop micromanaging build queues for products where that doesn't make sense.
 
 
-msgid "guide_station_systems"
-        building rules, doors (floors, walls, objects, room definitions, ...)
-        research
-        docks
-        factories, recipes, production
-        security
-        storage and pallets
-        shops, expositors, consumption objects
-        hospitality
-        shopping
-        food/drink
-        health and hygiene
-        recreational/fun
-        robots
-        building atttrtion
-        noise
-        aesthetics
+msgid "guide_systems_intro_title"
+Game systems
 
-msgid "guide_galaxy"
-    galaxy
-        filters
-        galaxy, system, planet window
+msgid "guide_systems_intro"
 
-msgid "guide_civs"
-    civs
-        reputation
-        buy/sell
+There is a wide variety of simulation systems in the game, interacting between them. Not all of then warrant an entire guide section, so you can find here a description of those that are smaller or that do not fit into other categories in this guide.
 
-msgid "guide_ships"
-    ships
-        parameters (speed vs cargo vs skills)
-        manual orders, autopilot
-        fleet screen, crew selection
-        ship bulding
+msgid "guide_systems_docks_title"
+Docks
+
+msgid "guide_systems_docks"
+Space ships will come visit your station, and you will also maintain a fleet of them for your purposes. In order to direct their landing shuttles to the spot you prefer you can make use of docks.
+
+Visitor docks are landing spots for visitor ship shuttles. Visitors will enter and exit your station via these docks automatically when a visitor ship parks on your planet. If no visitor docks are built then you will get no visiting tourists in your station, but that will not stop hostile visitors.
+
+Officer docks are for your own fleet of ships. They are not assigned automatically. After you build one you must select it and pick a ship from your fleet to asign it to it. Your fleet is capable of operation without officer docks, but it will just dump their cargo in some map border area. Use officer docks to make sure cargo is dumped in areas closer to your storage facilities and factories.
+
+
+msgid "guide_systems_production_title"
+Production, factories and recipes
+
+msgid "guide_systems_production"
+If officers are the blood of your station, factories are the heart. Factory objects include kitchens, metal presses, chemical reactors, breweries, etc. They all share a common interface to manufacture products from raw resources.
+
+In order to do so you must first unlock product recipes in the Research screen. Some products are already unlocked and a few stacks of basic resources have been dropped along with your initial 6 officers, so you have all you need to start production from the get go. Check the first station section and the station tutorial to learn more about production. Check also the inventory section in the tools chapter to learn more about global production.
+
+
+msgid "guide_systems_storage_title"
+Storage and pallets
+
+msgid "guide_systems_storage"
+Logistics are a big part of the game. They interplay with many different systems and are required as a first step for some tasks. Your officers and robots will automatically pick up the resources they need for a task or vital. Making sure those resources are accesible is important for an efficient station.
+
+Storage areas are defined by bulding a storage area controller inside and empty room. From that point forward the entire room floor will act as a storage area. The controller will issue delivery orders to resource stacks laying on the ground (it will not deliver from other areas, pallets or shops). You can also select which resources you want to store inside the area by selecting it with the info tool.
+
+Pallets are like a 1x1 storage area that can only store a single kind of resource. In turn they allow to set precise limits to trigger restocking. When located next to factories they enable them to automatically get the required resources for production, if the pallet is stocking them, or to directly deposit the manufactured products, if the pallet is configured to accept them. Pallets can will ask for deliveries from the ground, storage areas, and other pallets if explicitly configured to do so.
+
+msgid "guide_systems_security_title"
+
+Security and doors
+
+msgid "guide_systems_security"
+
+The security category offers a variety of objects to secure your station, both inside and outside. Doors are the most basic security object. They count as a wall towards the building rules, so they are in effect mandatory to be able to separate rooms from each other. Doors can also be configured to act as a filter. Only friendly units will respect the rules set in a door.
+
+Turrets are fixed defenses for your station. Conventional turrets will fire at enemies, and shielding turrets will cast a damage shield over friendly units. Cameras and scanners protect your station against sneaking enemies and impostors amongst your visitors.
+
+msgid "guide_systems_shops_title"
+
+Shops, consumption, vital objects
+
+msgid "guide_systems_shops"
+
+Shops and dispensers are a special kind of pallet. They have the same restock limit controls but only allow a small subset of products to be stored inside. What they enable is to receive a credits payment every time a visitor tourist picks one product. This is very important because products stored anywhere else can be picked for free. So if you open your station to tourism, make sure to only offer your products via shop objects, and to protect with door filters your storage and production areas.
+
+Consumtion objects like restaurant tables are mandatory for most vital tasks. For example, in order to consume a ration, an officer will require a tavern or restaurant table. Some vitals can be satisfied just by using a consumption object, like the fun vital with the use of a pinball machine, or beds for the sleep vital.
+
+Some systems are a bit more complicated. Hospitals will require several objects to properly cure all diseases. Hotels require both a check in desk and specific beds in separate rooms. Read the object descriptions and experiment when you unlock an object for the first time.
+
+msgid "guide_systems_robots_title"
+
+Robots
+
+msgid "guide_systems_robots"
+
+Robots are the perfect helpers for your station. They cannot do every kind of job, but they are very good at those they can do. After unlocking the robot factory you can build robots up to a limit, which gets raised the bigger your station is. Robots do not have many needs. Just making sure you have some robot rechargers well stocked with fuel cells will be enough to charge their energy from time to time. If attacked or too low on energy they can become broken and will require somebody else to come by and repair them.
+
+msgid "guide_systems_repair_title"
+
+Repairs and attrition
+
+msgid "guide_systems_repair"
+
+Your officers healing guns won't work with objects and robots. Inorganic objects have an extra repair mechanic. Once they fall down to certain % of hitpoints, they become broken, and are flagged for repair. Any officer or robot with the repair job can come by and repair them. It may take some time but repairs always bring back the object back to 100% hitpoints.
+
+A common cause of object damage and repairs is attrition. When an room becomes open to the outside (for example by missing a wall section or floor tile) objects inside can start suffering attrition. This will slowly damage them until they become broken and unusable. It will stop short of destroying them.
+
+msgid "guide_systems_noiseaes_title"
+
+Noise and aesthetics
+
+msgid "guide_systems_noiseaes"
+
+Some objects can produce noise. The noise of all the objects inside a room is added together and a noise value is produced, which can be consulted in the map view of any building tool. Noise in general does not bother your officers, except for a few vital tasks. Sleep is the least tolerant of noise. Reading, eating and drinking (not inebriation) are a bit more tolerant but they still need a quiet room.
+
+The aesthetical value of a room is calculated by averaging all the aesthetical values of its floor tiles, averaging all the aesthetical values of the objects contained inside, and then averaging those two. Very ugly or very nice rooms can give feelings to officers, although their influence is limited. They are also a requeriment for some rooms, like graduate barracks and master officer private bedrooms.
+
+
+msgid "guide_galaxy_intro_title"
+Galaxy and civs
+
+msgid "guide_galaxy_intro"
+Many star systems surround your home in the center of the galaxy, you are not alone. Initally you only have access to your home system, which will be populated by Human colonies. Once you start opening star systems (see Exploration - Opening systems) you will meet new civs, and you will have to deal with them to progress, be it by diplomacy, trade or war.
+
+msgid "guide_galaxy_map_title"
+Galaxy map
+
+msgid "guide_galaxy_map"
+
+The galaxy map screen has two zoom levels. In the overview zoom all stars are visible, with lines linking the systems that can be traveled. When the line is faded some exploration of the system is required to open up the linked system. Open stars have a label with their name and can be clicked to zoom into the system zoom level. In this zoom level the star is at the center and the planets orbit around it. Clicking the planets opens the planet window, which contains basic information about the planet and the current extraction status, plus an Explore button in case one of your ships is parked on it.
+
+The galaxy screen can display filters, selected with the left toolbar. The civ filter shows a map of the star systems civilizations. The resource filters can show which systems or planets demand or offer for extration any resource or product in the game.
+
+Ships are represented in the galaxy maps with icons. Your ships will always be visible on the galaxy map, either as an icon next to their current location or as a circular selector when zoomed into a star system.
+
+msgid "guide_galaxy_civs_title"
+Civs and reputation
+
+msgid "guide_galaxy_civs"
+The civs screen shows all the discovered civs in the game, and depending on your reputation, offers some interaction options. Reputation is a value from 0 to 30000 that indicates how much a civ likes you and your staff. Humans and Crusantians start at a high level of rep since they formed the alliance that makes the Spatials possible, but all other civs are reluctant your colonization efforts and start as hostile. You will need to win them over with tributes, embassies and trade.
+
+The Sell tab allows you to sell products to civs. Not just any products. Civs have markedly different tastes and will accept only a subset of them. Also not all planets want any civ product, so opening new star systems can offer new opportunities. Planet demand oscillates in time. It may be prudent to wait awhile to get a better deal. But a slow ship can take too long to deliver the products and the price may plummet again.
+
+The Resources tab shows the prices for resources extracted from the civ planets. The more a civ likes you, the cheaper those prices will become.
+
+Sometimes civs will hate you too much and it will be not possible to trade with them. Instead they will demand a tribute. Tribute payments are expensive but give a guaranteed amount of reputation.
+
+
+msgid "guide_ships_intro_title"
+Ships
+
+msgid "guide_ships_intro"
+Your space ship fleet is the workhorse of the galaxy. Your fleet will deliver all the required resources for your station, and you will send its ships to deliver products to planets when you sell to them. And you will give manual orders to land on planets and explore them. Having a big, capable and fast fleet will be an important part of your success.
+
+This guide already covered ship autopilot and manual orders in the First Station section, check it out if you want more information.
+
+msgid "guide_ships_kinds_title"
+Ship designs
+
+msgid "guide_ships_kinds"
+Ship designs are unlocked in the research screen. They diferentiate themselves along some parameters, which fit different roles. Later designs can sometimes be a sidegrade or even a downgrade for some tasks, no size fits all.
+
+Ship speed indicates how fast a ship is when traveling between systems. The faster the ship, the less time your officers spend with decreasing vitals inside that metal box.
+
+Cargo capacity indicates how many units of cargo can be carried inside the ship. Ships with very big cargo capacity are usually slow.
+
+Ship skills are usually special combat skills to be used while exploring planets. They have a long cooldown and are very powerful. All ships have at least one skill, but some of them have several, and may be lacking in other areas.
+
+
+msgid "guide_ships_fleet_title"
+Fleet screen
+
+msgid "guide_ships_fleet"
+
+The Fleet Screen shows your entire fleet in a menu in the left side. You can click on any ship in the listing to see its bridge in the right side of the screen. While the bridge is not interactive, the bridge panels offer some extra information and allow to adjust some vital parameters of the ship
+
+In the left panel you can see the current cargo hold, and select the crew of your ship. When the ship is parked at home the crew slots become buttons that can be clicked to select new officers to be part of the ship crew. Only one officer is required to pilot the ship. If you plan on using a ship to explore a planet make sure you bring more, ideally filling all six slots.
+
+All officers will get Navigation XP while as part of a ship crew. The officer with the highest Navigation can also add a very important speed bonus to the ship, up to 4x.
+
 
 msgid "guide_combat_title"
 msgstr "Combat"
