@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-22 11:05+0000\n"
-"PO-Revision-Date: 2018-02-22 11:17+0000\n"
-"Last-Translator: kiironosora <kiironosora@naver.com>\n"
+"PO-Revision-Date: 2018-02-22 11:19+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
 "Language: ko\n"
@@ -463,3 +463,18 @@ msgstr "반물질 세정제"
 
 msgid "any_power"
 msgstr "아무 파워"
+
+msgid "any_slot"
+msgstr "아무 슬롯"
+
+msgid "arcade cabinet"
+msgstr "아케이드 캐비닛"
+
+msgid "arcade_desc"
+msgstr "모든 시간의 아케이드 고전"
+
+msgid "argyria"
+msgstr "아르지리아"
+
+msgid "argyria_desc"
+msgstr "나는 순금색은에 중독되어있어"
