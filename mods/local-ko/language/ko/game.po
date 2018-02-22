@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-22 11:05+0000\n"
-"PO-Revision-Date: 2018-02-22 11:20+0000\n"
-"Last-Translator: kiironosora <kiironosora@naver.com>\n"
+"PO-Revision-Date: 2018-02-22 11:21+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
 "Language: ko\n"
@@ -478,3 +478,36 @@ msgstr "아르지리아"
 
 msgid "argyria_desc"
 msgstr "나는 순금은에 중독되어있어"
+
+msgid "arid_planet"
+msgstr "건조 행성"
+
+msgid "armory_locker_desc"
+msgstr "갑옷, 임플란트 및 무기를 보관"
+
+msgid "armory_pallet"
+msgstr "병기고 팔레트"
+
+msgid "armory_stored_something"
+msgstr "~A 보관됨"
+
+msgid "ascending"
+msgstr "오름차순"
+
+msgid "asteroid"
+msgstr "소행성"
+
+msgid "attack"
+msgstr "공격"
+
+msgid "attack_label"
+msgstr "~A를 사용하려면 클릭"
+
+msgid "attacked"
+msgstr "공격당함"
+
+msgid "attacked_desc"
+msgstr "나는 공격 당했다!"
+
+msgid "attacking_desc"
+msgstr "적을 공격중"
