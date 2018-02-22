@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-22 11:05+0000\n"
-"PO-Revision-Date: 2018-02-22 11:15+0000\n"
-"Last-Translator: kiironosora <kiironosora@naver.com>\n"
+"PO-Revision-Date: 2018-02-22 11:17+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
 "Language: ko\n"
@@ -433,3 +433,27 @@ msgstr "조류 노드"
 
 msgid "all"
 msgstr "전부"
+
+msgid "all_officers"
+msgstr "모든 오피서들"
+
+msgid "all_resources"
+msgstr "모든 자원들"
+
+msgid "alphabetically"
+msgstr "알파벳순"
+
+msgid "aluminium"
+msgstr "알류미늄"
+
+msgid "aluminium_node"
+msgstr "알류미늄 노드"
+
+msgid "aluminium_wall"
+msgstr "알류미늄 벽"
+
+msgid "amount"
+msgstr "양"
+
+msgid "antagonist_desc"
+msgstr "이것은 적대 행위자이며, 그런 이유로 그들은 어떤 종류의 외교 또는 당신과의 무역에도 관심이 없습니다."
