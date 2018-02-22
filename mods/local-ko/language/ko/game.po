@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-22 11:05+0000\n"
-"PO-Revision-Date: 2018-02-22 11:29+0000\n"
-"Last-Translator: kiironosora <kiironosora@naver.com>\n"
+"PO-Revision-Date: 2018-02-22 11:30+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
 "Language: ko\n"
@@ -604,3 +604,15 @@ msgstr "기본 침대"
 
 msgid "bed_plain_desc"
 msgstr "잠을 잠니다. 모든 오피서가 사용할 수 있습니다. 방문자는 사용할 수 없습니다."
+
+msgid "bedofficer"
+msgstr "마스터 오피서 침대"
+
+msgid "bedofficer_desc"
+msgstr "마스터 오피서를 위한 편안한 침대. 방을 할당 된 소유주의 소유권 영역으로 표시합니다. 방문자는 사용할 수 없습니다."
+
+msgid "bernice"
+msgstr "베르니스"
+
+msgid "bernice_desc"
+msgstr "진행상황을 평가하기 위해 온 본부 대리인."
