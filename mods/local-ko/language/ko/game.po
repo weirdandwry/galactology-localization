@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-22 11:05+0000\n"
-"PO-Revision-Date: 2018-02-22 11:25+0000\n"
-"Last-Translator: kiironosora <kiironosora@naver.com>\n"
+"PO-Revision-Date: 2018-02-22 11:26+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
 "Language: ko\n"
@@ -544,3 +544,24 @@ msgstr "자동"
 
 msgid "auto_owner_change"
 msgstr "새 소유자: ~A"
+
+msgid "auto_translator"
+msgstr "자동 번역기"
+
+msgid "autopilot_disabled"
+msgstr "자동 조종 장치가 비활성화 됨"
+
+msgid "autopilot_enabled"
+msgstr "자동 조종 장치가 활성화 됨"
+
+msgid "available"
+msgstr "사용 가능"
+
+msgid "back"
+msgstr "뒤로"
+
+msgid "bad_sleep"
+msgstr "나쁜 수면"
+
+msgid "bad_sleep_desc"
+msgstr "나는 최근에 침대없이 잤다"
