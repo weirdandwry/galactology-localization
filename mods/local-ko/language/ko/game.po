@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-22 11:05+0000\n"
-"PO-Revision-Date: 2018-02-22 12:54+0000\n"
-"Last-Translator: kiironosora <kiironosora@naver.com>\n"
+"PO-Revision-Date: 2018-02-22 12:55+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
 "Language: ko\n"
@@ -952,3 +952,42 @@ msgstr "화물:"
 
 msgid "cargo_n"
 msgstr "화물: ~A 단위"
+
+msgid "cargo_robot"
+msgstr "화물 로봇"
+
+msgid "cargo_value"
+msgstr "%d 단위"
+
+msgid "ceilingcam"
+msgstr "천장 카메라"
+
+msgid "ceilingcam_desc"
+msgstr "숨겨진 침입자를 찾습니다."
+
+msgid "ceilingshield_1"
+msgstr "천장 실더"
+
+msgid "ceilingshield_desc"
+msgstr "적을 탐지하면 작은 데미지 쉴드를 만듭니다. 쿨다운있음."
+
+msgid "ceilingturret"
+msgstr "천장 포탑"
+
+msgid "ceilingturret_1"
+msgstr "기본 천장 포탑"
+
+msgid "ceilingturret_2"
+msgstr "향상된 천장 포탑"
+
+msgid "ceilingturret_3"
+msgstr "고급 천장 포탑"
+
+msgid "ceilingturret_desc"
+msgstr "소형, 저전력 포탑"
+
+msgid "center_view"
+msgstr "중심보기"
+
+msgid "chance_of_success"
+msgstr "성공의 기회"
