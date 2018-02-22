@@ -511,3 +511,6 @@ msgstr "나는 공격 당했다!"
 
 msgid "attacking_desc"
 msgstr "적을 공격중"
+
+msgid "attributes_c"
+msgstr "속성 :"
