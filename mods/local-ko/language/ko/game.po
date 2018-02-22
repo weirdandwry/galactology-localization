@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-22 11:05+0000\n"
-"PO-Revision-Date: 2018-02-22 13:00+0000\n"
-"Last-Translator: kiironosora <kiironosora@naver.com>\n"
+"PO-Revision-Date: 2018-02-22 13:01+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
 "Language: ko\n"
@@ -1144,3 +1144,30 @@ msgstr "게임에서 아무 물체를 선택하여 속성을 표시하려면 클
 
 msgid "click_pick_officer"
 msgstr "오피서를 선택하려면 클릭하십시오"
+
+msgid "clone_chamber"
+msgstr "보험 클론"
+
+msgid "clone_chamber_desc"
+msgstr "지정된 오피서가 은하계의 다른 끝에서 죽어도 클론이 자동으로 생성됩니다. 클론을 생성 한 후 개체가 파괴됩니다. 매우 약함!"
+
+msgid "cocktail"
+msgstr "칵테일"
+
+msgid "combat"
+msgstr "전투"
+
+msgid "combat_busy_desc"
+msgstr "오직 전투"
+
+msgid "combat_mode_disabled"
+msgstr "전투 모드 사용 중지됨"
+
+msgid "combat_mode_enabled"
+msgstr "전투 모드 사용"
+
+msgid "combat_robot"
+msgstr "전투 로봇"
+
+msgid "comics"
+msgstr "홀로 코믹 선반"
