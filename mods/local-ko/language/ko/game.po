@@ -1,0 +1,1276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-22 11:05+0000\n"
+"PO-Revision-Date: 2018-02-22 13:13+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
+"Language-Team: Korean "
+"<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2.18\n"
+
+msgid "corridor_build_info"
+msgstr "클릭 드래그하여 복도를 그리거나, 타일을 하나씩 클릭합니다. 드래그하는 동안 Esc 키를 눌러 취소 할 수 있습니다."
+
+msgid "corridor_desc"
+msgstr "방들을 연결합니다"
+
+msgid "crafts_table"
+msgstr "공예품 작업장"
+
+msgid "crafts_table_desc"
+msgstr "옷과 작은 공예품들이 여기에서 만들어집니다"
+
+msgid "crew"
+msgstr "승무원"
+
+msgid "crew_bridge_selector"
+msgstr "슬롯을 클릭하여이 우주선의 승무원을 선택하십시오"
+
+msgid "crew_label"
+msgstr "승무원:"
+
+msgid "crew_n"
+msgstr "승무원: ~A 슬롯"
+
+msgid "crew_n2"
+msgstr "승무원: ~A 슬롯, ~A% 준비됨"
+
+msgid "crew_value"
+msgstr "%d 슬롯"
+
+msgid "crowd_control"
+msgstr "군중 제어"
+
+msgid "crowd_control_short"
+msgstr "제어"
+
+msgid "crusantian_adjective"
+msgstr "크루산션 %s"
+
+msgid "crusantian_adjective2"
+msgstr "크루산션 ~A"
+
+msgid "crusantian_bunch"
+msgstr "크루산션 다발"
+
+msgid "crusantian_member"
+msgstr "크루산션"
+
+msgid "crusantian_name"
+msgstr "크루산션"
+
+msgid "cryopod"
+msgstr "극저온 포드"
+
+msgid "cryopod_desc"
+msgstr "오피서가 잠깐 자도 굿잠을 자도록 해줍니다. 마스터 오피서 침대로 간주됩니다. 방문자는 사용할 수 없습니다."
+
+msgid "cucurbian_adjective"
+msgstr "쿠커비안 %s"
+
+msgid "cucurbian_adjective2"
+msgstr "쿠커비안 ~A"
+
+msgid "cucurbian_crop"
+msgstr "쿠커비안 무리"
+
+msgid "cucurbian_member"
+msgstr "쿠커비안"
+
+msgid "cucurbian_name"
+msgstr "쿠커비안"
+
+msgid "current_demands"
+msgstr "요구 사항:"
+
+msgid "current_game"
+msgstr "현재 게임"
+
+msgid "current_ownership"
+msgstr "소유 물건:"
+
+msgid "current_research"
+msgstr "현재 연구: ~A ~A"
+
+msgid "current_research_none"
+msgstr "연구가 진행되고 있지 않습니다. 그룹을 선택하고 연구 시작을 클릭하십시오."
+
+msgid "dance_floor"
+msgstr "댄스 플로어"
+
+msgid "dance_floor_desc"
+msgstr "물질기반 생명 형태만 사용할 수 있습니다."
+
+msgid "dancing"
+msgstr "댄스"
+
+msgid "dead"
+msgstr "사망자"
+
+msgid "decor_adscreen"
+msgstr "광고 화면"
+
+msgid "decor_balloons"
+msgstr "풍선"
+
+msgid "decor_bannerspatials"
+msgstr "스테이션 배너"
+
+msgid "decor_bust"
+msgstr "흉상"
+
+msgid "decor_cabinets"
+msgstr "금고"
+
+msgid "decor_classydivisor"
+msgstr "고상한 분배기"
+
+msgid "decor_colorbox"
+msgstr "컬러 큐브"
+
+msgid "decor_darktech01"
+msgstr "절망의 토템"
+
+msgid "decor_darktech02"
+msgstr "슬픔의 아이콘"
+
+msgid "decor_energycolumn"
+msgstr "라이트 컬럼"
+
+msgid "decor_galaxyball"
+msgstr "라이브 갤럭시지도"
+
+msgid "decor_glassdivisor"
+msgstr "유리 칸막이"
+
+msgid "decor_holoprojector"
+msgstr "홀로 프로젝터"
+
+msgid "decor_holoscreen"
+msgstr "홀로 스크린"
+
+msgid "decor_homelydivisor"
+msgstr "분배기"
+
+msgid "decor_lamp01"
+msgstr "램프"
+
+msgid "decor_lamp02"
+msgstr "램프"
+
+msgid "decor_lamp03"
+msgstr "램프"
+
+msgid "decor_lightcube"
+msgstr "빛의 큐브"
+
+msgid "decor_majesticcolumn"
+msgstr "고상한 칼럼"
+
+msgid "decor_mannequin01"
+msgstr "마네킹"
+
+msgid "decor_mannequin02"
+msgstr "마네킹"
+
+msgid "decor_mannequin03"
+msgstr "마네킹"
+
+msgid "decor_map"
+msgstr "스테이션 지도"
+
+msgid "decor_organicsamples"
+msgstr "유기물 디스플레이"
+
+msgid "decor_rocket"
+msgstr "로켓 모델"
+
+msgid "decor_rugancient"
+msgstr "고대 양탄자"
+
+msgid "decor_rugdiplomacy"
+msgstr "외교관의 양탄자"
+
+msgid "decor_rugengineering"
+msgstr "엔지니어의 양탄자"
+
+msgid "decor_ruglodge"
+msgstr "롯지 카펫"
+
+msgid "decor_rugmedicine"
+msgstr "의사의 양탄자"
+
+msgid "decor_rugredshirt"
+msgstr "싸구려 양탄자"
+
+msgid "decor_rugscience"
+msgstr "과학자의 양탄자"
+
+msgid "decor_rugsmall01"
+msgstr "매트"
+
+msgid "decor_rugsmall02"
+msgstr "매트"
+
+msgid "decor_rugsmall03"
+msgstr "매트"
+
+msgid "decor_rugspacecow"
+msgstr "우주 소 양탄자"
+
+msgid "decor_rugstrategist"
+msgstr "군인의 양탄자"
+
+msgid "decor_screens"
+msgstr "스크린"
+
+msgid "decor_shipmodel"
+msgstr "상세한 모델 선박"
+
+msgid "decor_skeleton"
+msgstr "인간의 해골"
+
+msgid "decor_statueman"
+msgstr "동상"
+
+msgid "decor_statuewoman"
+msgstr "동상"
+
+msgid "decor_table&lamp"
+msgstr "테이블과 램프"
+
+msgid "decor_table&lamp02"
+msgstr "테이블과 램프"
+
+msgid "decor_table&lamp03"
+msgstr "테이블과 램프"
+
+msgid "decor_towels"
+msgstr "수건"
+
+msgid "decor_tvcolumn"
+msgstr "영상 칼럼"
+
+msgid "decor_wardrobe"
+msgstr "옷장"
+
+msgid "decor_wardrobe02"
+msgstr "옷장"
+
+msgid "decor_wardrobe03"
+msgstr "옷장"
+
+msgid "decor_weaponsrack2"
+msgstr "전쟁 트로피"
+
+msgid "decoration"
+msgstr "장식"
+
+msgid "delete"
+msgstr "제거"
+
+msgid "delicatessen_expositor"
+msgstr "조제 식품 전시관"
+
+msgid "delicatessen_expositor_desc"
+msgstr "달콤하고 맛있는 작품을 전시합니다"
+
+msgid "delicatessen_kitchen"
+msgstr "조제 공방"
+
+msgid "delicatessen_kitchen_desc"
+msgstr "달고, 맛이 좋으며 고품질의 과자류 생산."
+
+msgid "deliver_from_action"
+msgstr "~A로부터 배달"
+
+msgid "deliver_from_ground"
+msgstr "땅바닥"
+
+msgid "deliver_from_ground_no"
+msgstr "전달자는 자원이 땅바닥에 쌓여 있거나 저장 구역 안에있을 때 이 물체에 자원을 전달하는 것을 피할 것입니다"
+
+msgid "deliver_from_ground_yes"
+msgstr "전달자는 바닥 또는 저장구역에 있는 자원스택에서 이 물체에 자원를 전달합니다"
+
+msgid "deliver_from_source"
+msgstr "독점 출처"
+
+msgid "deliver_from_source_at"
+msgstr "출처: ~A"
+
+msgid "deliver_from_source_cancel"
+msgstr "독점 배달 취소"
+
+msgid "deliver_from_source_desc"
+msgstr "팔레트 또는 저장구역 컨트롤러를 오른쪽 클릭하여 해당 물체의 자원에 대한 독점 배달로 설정하십시오."
+
+msgid "deliver_from_storage"
+msgstr "팔레트"
+
+msgid "deliver_from_storage_no"
+msgstr "전달자는 자원이 팔레트에 있으면 이 물체에 자원을 전달하지 않습니다"
+
+msgid "deliver_from_storage_yes"
+msgstr "전달자는 팔레트에서 이 물체에 자원을 전달할 것입니다"
+
+msgid "Luxury_kitchen_desc"
+msgstr "우주에서 절대 최고의 요리가 여기서 준비됩니다."
+
+msgid "PR_desc"
+msgstr "그들은 매력적이고 재미있어, 잠재 고객에게 모든 것이 좋다는 것을 확신시키는 데 매우 성공적입니다."
+
+msgid "absorbtion"
+msgstr "흡수"
+
+msgid "absorbtion_short"
+msgstr "흡"
+
+msgid "accept"
+msgstr "동의"
+
+msgid "action_cooldown"
+msgstr "[~ A]는 재사용 대기 중"
+
+msgid "active_absorb"
+msgstr "~ A 흡수"
+
+msgid "active_absorb_item"
+msgstr "액티브 흡수 아이템"
+
+msgid "active_control"
+msgstr "~A 군중 제어"
+
+msgid "active_control_item"
+msgstr "엑티브 제어 아이템"
+
+msgid "active_damage"
+msgstr "~A-~A 데미지"
+
+msgid "active_damage_item"
+msgstr "액티브 데미지 아이템"
+
+msgid "active_healing"
+msgstr "~A-~A 힐링"
+
+msgid "active_healing_item"
+msgstr "액티브 힐링 아이템"
+
+msgid "advanced_kitchen"
+msgstr "고급 주방"
+
+msgid "advanced_kitchen_desc"
+msgstr "정말 좋은 음식과 음료를 준비합니다"
+
+msgid "advanced_ship_engines_parts"
+msgstr "고급 선박 엔진 부품"
+
+msgid "advanced_ship_hull_parts"
+msgstr "고급 선체 부품"
+
+msgid "advanced_ship_lifesupport_parts"
+msgstr "고급 선박 생명 유지 부품"
+
+msgid "advanced_ship_structure_parts"
+msgstr "고급 선박 구조 부품"
+
+msgid "advanced_soap"
+msgstr "고급 비누"
+
+msgid "aesthetic_room"
+msgstr "미학: %d"
+
+msgid "aesthetics"
+msgstr "미학"
+
+msgid "aesthetics_feeling_high"
+msgstr "기쁨"
+
+msgid "aesthetics_feeling_high_desc"
+msgstr "이런 기발한 우주 정거장이라니, 맘에 들어."
+
+msgid "aesthetics_feeling_low"
+msgstr "별로임"
+
+msgid "aesthetics_feeling_low_desc"
+msgstr "추한 장소야"
+
+msgid "aesthetics_feeling_very_high"
+msgstr "감탄함"
+
+msgid "aesthetics_feeling_very_high_desc"
+msgstr "아름다움에 둘러싸여있다"
+
+msgid "aesthetics_feeling_very_low"
+msgstr "역겨움"
+
+msgid "aesthetics_feeling_very_low_desc"
+msgstr "주변 환경이 끔찍해"
+
+msgid "ale"
+msgstr "에일 맥주"
+
+msgid "alert_delete"
+msgstr "삭제"
+
+msgid "alert_minimize"
+msgstr "숨김"
+
+msgid "alert_reports"
+msgstr "경고 및 보고서"
+
+msgid "algae"
+msgstr "조류"
+
+msgid "algae_node"
+msgstr "조류 노드"
+
+msgid "all"
+msgstr "전부"
+
+msgid "all_officers"
+msgstr "모든 오피서들"
+
+msgid "all_resources"
+msgstr "모든 자원들"
+
+msgid "alphabetically"
+msgstr "알파벳순"
+
+msgid "aluminium"
+msgstr "알류미늄"
+
+msgid "aluminium_node"
+msgstr "알류미늄 노드"
+
+msgid "aluminium_wall"
+msgstr "알류미늄 벽"
+
+msgid "amount"
+msgstr "양"
+
+msgid "antagonist_desc"
+msgstr "이 문명은 적대적이며, 그들은 어떤 종류의 외교 또는 당신과의 무역에도 관심이 없습니다."
+
+msgid "antimatter_cleaner"
+msgstr "반물질 세정제"
+
+msgid "any_power"
+msgstr "아무 파워"
+
+msgid "any_slot"
+msgstr "아무 슬롯"
+
+msgid "arcade cabinet"
+msgstr "아케이드 캐비닛"
+
+msgid "arcade_desc"
+msgstr "모든 시간의 아케이드 고전"
+
+msgid "argyria"
+msgstr "아르지리아"
+
+msgid "argyria_desc"
+msgstr "나는 순금은에 중독되어있어"
+
+msgid "arid_planet"
+msgstr "건조 행성"
+
+msgid "armory_locker_desc"
+msgstr "갑옷, 임플란트 및 무기를 보관"
+
+msgid "armory_pallet"
+msgstr "병기고 팔레트"
+
+msgid "armory_stored_something"
+msgstr "~A 보관됨"
+
+msgid "ascending"
+msgstr "오름차순"
+
+msgid "asteroid"
+msgstr "소행성"
+
+msgid "attack"
+msgstr "공격"
+
+msgid "attack_label"
+msgstr "~A를 사용하려면 클릭"
+
+msgid "attacked"
+msgstr "공격당함"
+
+msgid "attacked_desc"
+msgstr "나는 공격 당했다!"
+
+msgid "attacking_desc"
+msgstr "적을 공격중"
+
+msgid "attributes_c"
+msgstr "속성:"
+
+msgid "attrition_destroyed_object"
+msgstr "~A는 ~A의 적들에 의해 파괴되었습니다."
+
+msgid "audio"
+msgstr "오디오"
+
+msgid "augustus"
+msgstr "아우구스투스"
+
+msgid "augustus_desc"
+msgstr "갤럭시의 유명한 요리사. 마스터 레벨의 쉐프 스펙을 가지고 있으며 음식 양의 두 배를 생산합니다."
+
+msgid "auto"
+msgstr "자동"
+
+msgid "auto_combat_false"
+msgstr "이 오피서가 선택되거나 분대에있는 한 ~A는 이제 당신에 의해 제어됩니다"
+
+msgid "auto_combat_true"
+msgstr "~A가 이제 자동으로 오피서에 의해 제어됩니다"
+
+msgid "auto_desc"
+msgstr "공격은 자동으로 수행됩니다"
+
+msgid "auto_label"
+msgstr "자동"
+
+msgid "auto_owner_change"
+msgstr "새 소유자: ~A"
+
+msgid "auto_translator"
+msgstr "자동 번역기"
+
+msgid "autopilot_disabled"
+msgstr "자동 조종 장치가 비활성화 됨"
+
+msgid "autopilot_enabled"
+msgstr "자동 조종 장치가 활성화 됨"
+
+msgid "available"
+msgstr "사용 가능"
+
+msgid "back"
+msgstr "뒤로"
+
+msgid "bad_sleep"
+msgstr "나쁜 수면"
+
+msgid "bad_sleep_desc"
+msgstr "최근에 침대없이 잤다"
+
+msgid "base_price_a"
+msgstr "기본 가격: @ ui_icon_20px_credits04.png ~A"
+
+msgid "base_spec"
+msgstr "기본 사양"
+
+msgid "basic_kitchen"
+msgstr "기본 주방"
+
+msgid "basic_kitchen_desc"
+msgstr "싼 음식을 요리합니다"
+
+msgid "basic_rations"
+msgstr "기본 식량"
+
+msgid "basic_ship_engines_parts"
+msgstr "기본 선박 엔진 부품"
+
+msgid "basic_ship_hull_parts"
+msgstr "기본 선체 부품"
+
+msgid "basic_ship_lifesupport_parts"
+msgstr "기본 선박 생명 유지 부품"
+
+msgid "basic_ship_structure_parts"
+msgstr "기본 선박 구조 부품"
+
+msgid "basic_soap"
+msgstr "기본 비누"
+
+msgid "beam_desc"
+msgstr "단일 타겟, 빔"
+
+msgid "bed_plain2"
+msgstr "기본 침대"
+
+msgid "bed_plain_desc"
+msgstr "잠을 잠니다. 모든 오피서가 사용할 수 있습니다. 방문자는 사용할 수 없습니다."
+
+msgid "bedofficer"
+msgstr "마스터 오피서 침대"
+
+msgid "bedofficer_desc"
+msgstr "마스터 오피서를 위한 편안한 침대. 방을 할당 된 소유주의 소유권 영역으로 표시합니다. 방문자는 사용할 수 없습니다."
+
+msgid "bernice"
+msgstr "베르니스"
+
+msgid "bernice_desc"
+msgstr "진행상황을 평가하기 위해 온 본부 대리인."
+
+msgid "best"
+msgstr "베스트"
+
+msgid "bigger_ui"
+msgstr "더 큰 UI"
+
+msgid "billiard"
+msgstr "당구"
+
+msgid "billiard_desc"
+msgstr "녹색 천 테이블위에서 막대기로 공을 때린다. 재미 제공함."
+
+msgid "bio_extractor"
+msgstr "바이오 추출기"
+
+msgid "bio_extractor_desc"
+msgstr "영향받는 영역 내에서 생물 자원을 추출합니다"
+
+msgid "bionanites"
+msgstr "바이오나노체"
+
+msgid "bistro_drinks"
+msgstr "비스트로 음료"
+
+msgid "bistro_drinks_desc"
+msgstr "프리미엄 음료에 대한 가장 멋진 연출."
+
+msgid "bistro_food"
+msgstr "비스트로 음식"
+
+msgid "bistro_food_desc"
+msgstr "음식을 제공하는 아름다운 방법."
+
+msgid "bistro_table"
+msgstr "비스트로 테이블"
+
+msgid "bistro_table_desc"
+msgstr "화려한 식사를 즐기기위한 고급 좌석"
+
+msgid "black_hole"
+msgstr "블랙홀"
+
+msgid "blackjack"
+msgstr "블랙 잭 테이블"
+
+msgid "blackjack_desc"
+msgstr "휘젖지 않고 흔든다. 빨간색 토큰을 사용합니다."
+
+msgid "blood_from"
+msgstr "~A의 혈액"
+
+msgid "blorg_adjective"
+msgstr "블로그 %s"
+
+msgid "blorg_adjective2"
+msgstr "블로그 ~A"
+
+msgid "blorg_member"
+msgstr "블로그"
+
+msgid "blorg_name"
+msgstr "블로그"
+
+msgid "blorg_plutocracy"
+msgstr "블로그 재벌"
+
+#, fuzzy
+msgid "body_level_in"
+msgstr "%s (L%d) in %s"
+
+msgid "bonbons"
+msgstr "봉봉"
+
+msgid "bonus_amt_health"
+msgstr "보너스: ~A 건강"
+
+msgid "bonus_amt_power"
+msgstr "보너스: ~A 파워"
+
+msgid "bonus_health"
+msgstr "보너스 건강"
+
+msgid "bonus_health_short"
+msgstr "+건강"
+
+msgid "bonus_power"
+msgstr "보너스 파워"
+
+msgid "bonus_power_short"
+msgstr "+파워"
+
+msgid "booking_room"
+msgstr "방 예약중"
+
+msgid "brewery"
+msgstr "양조장"
+
+msgid "brewery_desc"
+msgstr "레크리에이션용 발효 음료를 증류합니다"
+
+msgid "broken"
+msgstr "고장"
+
+msgid "bugs"
+msgstr "곤충"
+
+msgid "bugs_node"
+msgstr "곤충 노드"
+
+msgid "build_advanced_ship_engines"
+msgstr "고급 선박 엔진 조립"
+
+msgid "build_advanced_ship_hull"
+msgstr "고급 선체 조립"
+
+msgid "build_advanced_ship_lifesupport"
+msgstr "고급 선박 생명 지원 조립"
+
+msgid "build_advanced_ship_structure"
+msgstr "고급 선박 구조 조립"
+
+msgid "build_alert_attrition"
+msgstr ""
+"이 행성은 적대적인 문명이 소유하고 있습니다. 건물은 파괴 될 때까지 시간이 지남에 따라 데미지를 입습니다. 이 행성에 침입하여 떠나신 "
+"후 구조물이 파괴되지 않도록하십시오."
+
+msgid "build_basic_ship_engines"
+msgstr "기본 선박 엔진 조립"
+
+msgid "build_basic_ship_hull"
+msgstr "기본 선체 조립"
+
+msgid "build_basic_ship_lifesupport"
+msgstr "기본 선박 생명 지원 조립"
+
+msgid "build_basic_ship_structure"
+msgstr "기본 선박 구조 조립"
+
+msgid "build_builder_robot"
+msgstr "빌더 로봇 제작"
+
+msgid "build_cargo_robot"
+msgstr "화물 로봇 제작"
+
+msgid "build_cleaner_robot"
+msgstr "청소 로봇 제작"
+
+msgid "build_collector"
+msgstr "근처에 컬렉터를 세워 자원을 추출하세요"
+
+msgid "build_color"
+msgstr "방 바닥 색상:"
+
+msgid "build_corridor_desc"
+msgstr "방들을 연결"
+
+msgid "build_firefighter_robot"
+msgstr "소방 로봇 제작"
+
+msgid "build_floor"
+msgstr "바닥 건설"
+
+msgid "build_floors_label"
+msgstr "방 바닥 스타일:"
+
+msgid "build_groups"
+msgstr "물건 카테고리:"
+
+msgid "build_info_stocks"
+msgstr "재고"
+
+msgid "build_info_treatment_for"
+msgstr "치료"
+
+msgid "build_intermediate_ship_engines"
+msgstr "중급 선박 엔진 조립"
+
+msgid "build_intermediate_ship_hull"
+msgstr "중급 선체 조립"
+
+msgid "build_intermediate_ship_lifesupport"
+msgstr "중급 선박 생명 유지 조립"
+
+msgid "build_intermediate_ship_structure"
+msgstr "중급 선체 구조 조립"
+
+msgid "build_job_warn_invalid_room"
+msgstr "유효한 방 안에 있지 않습니다"
+
+msgid "build_maintenance_robot"
+msgstr "유지 보수 로봇 제작"
+
+msgid "build_object"
+msgstr "물건 제작"
+
+msgid "build_objects_label"
+msgstr "물건:"
+
+msgid "build_out_of_bounds"
+msgstr "유효한 건물 구역 바깥 쪽입니다"
+
+msgid "build_security_robot"
+msgstr "보안 로봇 제작"
+
+msgid "build_tool"
+msgstr "물건 제작"
+
+msgid "build_walls"
+msgstr "벽 건설"
+
+msgid "builder_robot"
+msgstr "건설 로봇"
+
+msgid "building"
+msgstr "건설"
+
+msgid "building_info_shop"
+msgstr "상점: 방문자가 저장된 제품 또는 사용료를 지불 할 수 있습니다"
+
+msgid "building_resources"
+msgstr "필요한 자원:"
+
+msgid "built_floor"
+msgstr "내장 바닥"
+
+msgid "built_object"
+msgstr "내장 물건"
+
+msgid "built_wall"
+msgstr "내장 벽"
+
+msgid "busy"
+msgstr "바쁨"
+
+msgid "by_age"
+msgstr "선임순"
+
+msgid "by_gear_level"
+msgstr "최악의 장비순"
+
+msgid "by_mind"
+msgstr "마음순으로"
+
+msgid "by_spec"
+msgstr "전문 분야별"
+
+msgid "calmed_feeling"
+msgstr "진정됨"
+
+msgid "calmed_feeling_desc"
+msgstr "그건 끔찍했지만 이제는 기분이 나아 졌어"
+
+msgid "cancel"
+msgstr "취소"
+
+msgid "cancel_construction"
+msgstr "건설 취소"
+
+msgid "cancel_destruction"
+msgstr "철거 취소"
+
+msgid "cancel_dismantling"
+msgstr "해체 취소"
+
+msgid "cancel_rally_point"
+msgstr "순찰 포인트 취소"
+
+msgid "cancel_research"
+msgstr "연구 취소"
+
+msgid "cant_build_blocked"
+msgstr "타일이 네면이 막혔습니다"
+
+msgid "cant_build_exists_construction"
+msgstr "물건이 이미 위치에 있습니다"
+
+msgid "cant_build_has_singleton"
+msgstr "이 방에있는 물체는 다른 어떤 건축물도 허용하지 않습니다"
+
+msgid "cant_build_invalid_floor"
+msgstr "바닥이 선택한 물건에 유효하지 않습니다"
+
+msgid "cant_build_invalid_ground"
+msgstr "땅바닥이 건설을 허용하지 않습니다"
+
+msgid "cant_build_limited_to_one"
+msgstr "이런 종류의 물건은 하나만 허용됩니다"
+
+msgid "cant_build_needs_outside"
+msgstr "야외 지역이 필요합니다"
+
+msgid "cant_build_needs_room"
+msgstr "완전한 바닥과 벽과 문으로 둘러쌓여 분리 된 공간이 필요합니다"
+
+msgid "cant_build_too_close_enemy"
+msgstr "적 건물이 너무 가깝습니다"
+
+msgid "cant_build_too_far_friendly_town"
+msgstr "물건은 중립적이거나 친근한 마을 근처에 건설되어야합니다"
+
+msgid "cant_build_too_far_town"
+msgstr "마을 근처에 물건을 세워야합니다"
+
+msgid "cant_build_too_many"
+msgstr "이런 종류의 물건이 너무 많습니다"
+
+msgid "cant_build_wrong_civ_allies"
+msgstr "인간 또는 크루산션 행성에서만 건설 될 수 있습니다"
+
+msgid "canteen_drinks"
+msgstr "캔틴 음료"
+
+msgid "canteen_drinks_desc"
+msgstr "여분의 주름없이 음료를 마실 수 있습니다."
+
+msgid "canteen_food"
+msgstr "캔틴 음식"
+
+msgid "canteen_food_desc"
+msgstr "여분의 주름없이 음식을 소비 할 수있게합니다."
+
+msgid "canteen_table"
+msgstr "캔틴 테이블"
+
+msgid "canteen_table_desc"
+msgstr "간단하고 실용적임. 앉아서 먹는다."
+
+msgid "cargo_hold"
+msgstr "화물창"
+
+msgid "cargo_label"
+msgstr "화물:"
+
+msgid "cargo_n"
+msgstr "화물: ~A 단위"
+
+msgid "cargo_robot"
+msgstr "화물 로봇"
+
+msgid "cargo_value"
+msgstr "%d 단위"
+
+msgid "ceilingcam"
+msgstr "천장 카메라"
+
+msgid "ceilingcam_desc"
+msgstr "숨겨진 침입자를 찾습니다."
+
+msgid "ceilingshield_1"
+msgstr "천장 실더"
+
+msgid "ceilingshield_desc"
+msgstr "적을 탐지하면 작은 데미지 쉴드를 만듭니다. 쿨다운있음."
+
+msgid "ceilingturret"
+msgstr "천장 포탑"
+
+msgid "ceilingturret_1"
+msgstr "기본 천장 포탑"
+
+msgid "ceilingturret_2"
+msgstr "향상된 천장 포탑"
+
+msgid "ceilingturret_3"
+msgstr "고급 천장 포탑"
+
+msgid "ceilingturret_desc"
+msgstr "소형, 저전력 포탑"
+
+msgid "center_view"
+msgstr "중심보기"
+
+msgid "chance_of_success"
+msgstr "성공의 기회"
+
+msgid "change_machine"
+msgstr "교환 기계"
+
+msgid "change_machine_desc"
+msgstr "진짜 현금을 가짜 현금으로 교환"
+
+msgid "chaotic_adjective"
+msgstr "혼돈 %s"
+
+msgid "chaotic_adjective2"
+msgstr "혼돈 ~A"
+
+msgid "chaotic_enemy"
+msgstr "혼돈스러운 적"
+
+msgid "chaotic_member"
+msgstr "혼돈"
+
+msgid "chaotics"
+msgstr "혼돈"
+
+msgid "chef"
+msgstr "쉐프"
+
+msgid "chef_desc"
+msgstr "가장 복잡한 조리법을 요리 할 수 있습니다. 고급 스테이션에는 요리사가 가장 호화로운 음식과 음료를 만들기 위해 필요합니다."
+
+msgid "chemist"
+msgstr "화학자"
+
+msgid "chemist_desc"
+msgstr "거품 나는 액체와 반응제어는 이들의 하루하루입니다."
+
+msgid "chemistry"
+msgstr "화학"
+
+msgid "chest_01"
+msgstr "보안조끼"
+
+msgid "chest_02"
+msgstr "나노 스트랩"
+
+msgid "chest_03"
+msgstr "경갑"
+
+msgid "chest_04"
+msgstr "언더 워머"
+
+msgid "chest_05"
+msgstr "파일럿 조끼"
+
+msgid "chest_06"
+msgstr "충격 메쉬"
+
+msgid "chest_07"
+msgstr "헤비 듀티 커버"
+
+msgid "chest_08"
+msgstr "쿨 셔츠"
+
+msgid "chest_09"
+msgstr "ShockABS MkII"
+
+msgid "chest_10"
+msgstr "팬시 셔츠"
+
+msgid "chest_11"
+msgstr "EVA 정장 갑옷"
+
+msgid "chest_12"
+msgstr "강력한 쉘"
+
+msgid "chest_13"
+msgstr "가슴 보호대"
+
+msgid "chest_14"
+msgstr "퓨전 웰더 코트"
+
+msgid "chest_15"
+msgstr "비늘 수호자"
+
+msgid "chest_16"
+msgstr "왕실 로브"
+
+msgid "chest_17"
+msgstr "강화 갑옷"
+
+msgid "chest_18"
+msgstr "절제 갑옷"
+
+msgid "chest_19"
+msgstr "기병복 재킷"
+
+msgid "chest_20"
+msgstr "사이버 V80"
+
+msgid "chest_item"
+msgstr "가슴 아이템"
+
+msgid "chuchu_adjective"
+msgstr "추추 %s"
+
+msgid "chuchu_adjective2"
+msgstr "추추 ~A"
+
+msgid "chuchu_full"
+msgstr "추추 팩"
+
+msgid "chuchu_member"
+msgstr "추추"
+
+msgid "chuchu_name"
+msgstr "추추"
+
+msgid "church_of_lactus"
+msgstr "락토스 교회"
+
+msgid "civ_colony"
+msgstr "식민지"
+
+msgid "civ_encountered"
+msgstr "처음으로 %s 별 시스템이 발견되었습니다! 이제 문명 화면에서 이 문명를 볼 수 있습니다."
+
+msgid "civ_ui_resources"
+msgstr "@ui_icon_30px_buy.png 자원"
+
+msgid "civ_uninhabited"
+msgstr "무인"
+
+msgid "civs"
+msgstr "문명"
+
+msgid "civs_points"
+msgstr "%d / %d 점"
+
+msgid "civs_tutorial"
+msgstr "문명 튜토리얼"
+
+msgid "claim_reward"
+msgstr "보상 요구"
+
+msgid "cleaner_robot"
+msgstr "청소 로봇"
+
+msgid "cleaning"
+msgstr "청소"
+
+msgid "click_info"
+msgstr "게임에서 아무 물체를 선택하여 속성을 표시하려면 클릭하십시오"
+
+msgid "click_pick_officer"
+msgstr "오피서를 선택하려면 클릭하십시오"
+
+msgid "clone_chamber"
+msgstr "보험 클론"
+
+msgid "clone_chamber_desc"
+msgstr "지정된 오피서가 은하계의 다른 끝에서 죽어도 클론이 자동으로 생성됩니다. 클론을 생성 한 후 개체가 파괴됩니다. 매우 약함!"
+
+msgid "cocktail"
+msgstr "칵테일"
+
+msgid "combat"
+msgstr "전투"
+
+msgid "combat_busy_desc"
+msgstr "오직 전투"
+
+msgid "combat_mode_disabled"
+msgstr "전투 모드 사용 중지됨"
+
+msgid "combat_mode_enabled"
+msgstr "전투 모드 사용"
+
+msgid "combat_robot"
+msgstr "전투 로봇"
+
+msgid "comics"
+msgstr "홀로 코믹 선반"
+
+msgid "comics_desc"
+msgstr "옛날 방식의 재미를 팔아요"
+
+msgid "commercial_tier_1"
+msgstr "기본 제품 I"
+
+msgid "commercial_tier_2"
+msgstr "기본 제품 II"
+
+msgid "commercial_tier_3"
+msgstr "기본 제품 III"
+
+msgid "commercial_tier_4"
+msgstr "중급 제품 I"
+
+msgid "commercial_tier_5"
+msgstr "중급 제품 II"
+
+msgid "commercial_tier_6"
+msgstr "고급 제품 I"
+
+msgid "commercial_tier_7"
+msgstr "고급 제품 II"
+
+msgid "complete"
+msgstr "완료"
+
+msgid "confirm_cancel_research"
+msgstr "확실합니까? 이 연구를 취소하면 현재 연구 포인트를 잃게됩니다."
+
+msgid "confirm_cancel_ship_construction"
+msgstr "확실합니까? 취소하면 이미 완료된 작업과 자원이 모두 손실됩니다."
+
+msgid "confirm_evolve_officer"
+msgstr ""
+"~A에서 ~A로 업그레이드하면 취소 할 수 없습니다! ~A는 어떤 일을 할 수 없게 되고 다른 일은 더 잘 수행 할 것입니다. 확실합니까?"
+
+msgid "confirm_fire_officer"
+msgstr "~A 해고는 취소 할 수 없습니다. 이 오피서는 영원히 사라질 것입니다! 확실합니까?"
+
+msgid "construction"
+msgstr "건설"
+
+msgid "contemplated"
+msgstr "감상함"
+
+msgid "contemplated_desc"
+msgstr "이런 아름다운 물건이라니"
+
+msgid "contemplation"
+msgstr "묵상"
+
+msgid "continue"
+msgstr "계속"
+
+msgid "contract_bonus_chance"
+msgstr "딸때 보너스 기회:"
+
+msgid "contract_completed"
+msgstr "%s(L%d) 의 %s 이 완료되었습니다"
+
+msgid "contract_extra_xp_desc"
+msgstr "추가 XP는 오피서의 %d 의 %d%% 만큼이다 (%s XP)"
+
+msgid "contract_name_diff_place_level"
+msgstr "%s 난이도 %s (L%d) 에서"
+
+msgid "contract_price"
+msgstr "%s 계약 금액"
+
+msgid "contract_resource_reward"
+msgstr "%s %s (재고: %s)"
+
+msgid "contract_rewards"
+msgstr "보상:"
+
+msgid "contract_xp_officer"
+msgstr "모든 오피서에 XP (%s XP @L%d)"
+
+msgid "controlled_stock"
+msgstr "통제 재고"
+
+msgid "controls"
+msgstr "통제 수단"
+
+msgid "cooking"
+msgstr "요리"
+
+msgid "cooldown_amt"
+msgstr "~0,1Fs 쿨다운"
+
+msgid "corpse"
+msgstr "시체"
+
+msgid "corpse_desc"
+msgstr "이 시체는 재활용 할 수 있습니다. 닭고기 맛남."
+
+msgid "corpse_of"
+msgstr "~A의 시체"
+
+msgid "corridor"
+msgstr "복도"
