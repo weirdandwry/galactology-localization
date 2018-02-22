@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-22 11:05+0000\n"
-"PO-Revision-Date: 2018-02-22 13:06+0000\n"
-"Last-Translator: anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2018-02-22 13:11+0000\n"
+"Last-Translator: kiironosora <kiironosora@naver.com>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
 "Language: ko\n"
@@ -1226,3 +1226,15 @@ msgstr "묵상"
 
 msgid "continue"
 msgstr "계속"
+
+msgid "contract_bonus_chance"
+msgstr "딸때 보너스 기회:"
+
+msgid "contract_completed"
+msgstr "%s(L%d) 의 %s 이 완료되었습니다"
+
+msgid "contract_extra_xp_desc"
+msgstr "추가 XP는 오피서의 %d 의 %d%% 만큼이다 (%s XP)"
+
+msgid "contract_name_diff_place_level"
+msgstr "%s 난이도 %s (L%d) 에서"
