@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-22 11:05+0000\n"
-"PO-Revision-Date: 2018-02-22 12:45+0000\n"
-"Last-Translator: kiironosora <kiironosora@naver.com>\n"
+"PO-Revision-Date: 2018-02-22 12:46+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
 "Language: ko\n"
@@ -838,3 +838,18 @@ msgstr "상점: 방문자가 저장된 제품 또는 사용료를 지불 할 수
 
 msgid "building_resources"
 msgstr "필요한 자원:"
+
+msgid "built_floor"
+msgstr "내장 바닥"
+
+msgid "built_object"
+msgstr "내장 물건"
+
+msgid "built_wall"
+msgstr "내장 벽"
+
+msgid "busy"
+msgstr "바쁨"
+
+msgid "by_age"
+msgstr "선임"
