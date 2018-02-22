@@ -1,0 +1,321 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-22 11:05+0000\n"
+"PO-Revision-Date: 2018-02-22 11:05+0000\n"
+"Last-Translator: kiironosora <kiironosora@naver.com>\n"
+"Language-Team: Korean "
+"<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2.18\n"
+
+msgid "corridor_build_info"
+msgstr "클릭 드래그하여 복도를 그리거나, 타일을 하나씩 클릭합니다. 드래그하는 동안 Esc 키를 눌러 취소 할 수 있습니다."
+
+msgid "corridor_desc"
+msgstr "방들을 연결합니다"
+
+msgid "crafts_table"
+msgstr "공예품 작업장"
+
+msgid "crafts_table_desc"
+msgstr "옷과 작은 공예품들이 여기에서 만들어집니다"
+
+msgid "crew"
+msgstr "승무원"
+
+msgid "crew_bridge_selector"
+msgstr "슬롯을 클릭하여이 우주선의 승무원을 선택하십시오"
+
+msgid "crew_label"
+msgstr "승무원:"
+
+msgid "crew_n"
+msgstr "승무원: ~A 슬롯"
+
+msgid "crew_n2"
+msgstr "승무원: ~A 슬롯, ~A% 준비됨"
+
+msgid "crew_value"
+msgstr "%d 슬롯"
+
+msgid "crowd_control"
+msgstr "군중 제어"
+
+msgid "crowd_control_short"
+msgstr "제어"
+
+msgid "crusantian_adjective"
+msgstr "크루산션 %s"
+
+msgid "crusantian_adjective2"
+msgstr "크루산션 ~A"
+
+msgid "crusantian_bunch"
+msgstr "크루산션 다발"
+
+msgid "crusantian_member"
+msgstr "크루산션"
+
+msgid "crusantian_name"
+msgstr "크루산션"
+
+msgid "cryopod"
+msgstr "극저온 포드"
+
+msgid "cryopod_desc"
+msgstr "오피서가 잠깐 자도 굿잠을 자도록 해줍니다. 마스터 오피서 침대로 간주됩니다. 방문자는 사용할 수 없습니다."
+
+msgid "cucurbian_adjective"
+msgstr "쿠커비안 %s"
+
+msgid "cucurbian_adjective2"
+msgstr "쿠커비안 ~A"
+
+msgid "cucurbian_crop"
+msgstr "쿠커비안 무리"
+
+msgid "cucurbian_member"
+msgstr "쿠커비안"
+
+msgid "cucurbian_name"
+msgstr "쿠커비안"
+
+msgid "current_demands"
+msgstr "요구 사항:"
+
+msgid "current_game"
+msgstr "현재 게임"
+
+msgid "current_ownership"
+msgstr "소유 물건:"
+
+msgid "current_research"
+msgstr "현재 연구: ~A ~A"
+
+msgid "current_research_none"
+msgstr "연구가 진행되고 있지 않습니다. 그룹을 선택하고 연구 시작을 클릭하십시오."
+
+msgid "dance_floor"
+msgstr "댄스 플로어"
+
+msgid "dance_floor_desc"
+msgstr "물질기반 생명 형태만 사용할 수 있습니다."
+
+msgid "dancing"
+msgstr "댄스"
+
+msgid "dead"
+msgstr "사망자"
+
+msgid "decor_adscreen"
+msgstr "광고 화면"
+
+msgid "decor_balloons"
+msgstr "풍선"
+
+msgid "decor_bannerspatials"
+msgstr "스테이션 배너"
+
+msgid "decor_bust"
+msgstr "흉상"
+
+msgid "decor_cabinets"
+msgstr "금고"
+
+msgid "decor_classydivisor"
+msgstr "고상한 분배기"
+
+msgid "decor_colorbox"
+msgstr "컬러 큐브"
+
+msgid "decor_darktech01"
+msgstr "절망의 토템"
+
+msgid "decor_darktech02"
+msgstr "슬픔의 아이콘"
+
+msgid "decor_energycolumn"
+msgstr "라이트 컬럼"
+
+msgid "decor_galaxyball"
+msgstr "라이브 갤럭시지도"
+
+msgid "decor_glassdivisor"
+msgstr "유리 칸막이"
+
+msgid "decor_holoprojector"
+msgstr "홀로 프로젝터"
+
+msgid "decor_holoscreen"
+msgstr "홀로 스크린"
+
+msgid "decor_homelydivisor"
+msgstr "분배기"
+
+msgid "decor_lamp01"
+msgstr "램프"
+
+msgid "decor_lamp02"
+msgstr "램프"
+
+msgid "decor_lamp03"
+msgstr "램프"
+
+msgid "decor_lightcube"
+msgstr "빛의 큐브"
+
+msgid "decor_majesticcolumn"
+msgstr "고상한 칼럼"
+
+msgid "decor_mannequin01"
+msgstr "마네킹"
+
+msgid "decor_mannequin02"
+msgstr "마네킹"
+
+msgid "decor_mannequin03"
+msgstr "마네킹"
+
+msgid "decor_map"
+msgstr "스테이션 지도"
+
+msgid "decor_organicsamples"
+msgstr "유기물 디스플레이"
+
+msgid "decor_rocket"
+msgstr "로켓 모델"
+
+msgid "decor_rugancient"
+msgstr "고대 양탄자"
+
+msgid "decor_rugdiplomacy"
+msgstr "외교관의 양탄자"
+
+msgid "decor_rugengineering"
+msgstr "엔지니어의 양탄자"
+
+msgid "decor_ruglodge"
+msgstr "롯지 카펫"
+
+msgid "decor_rugmedicine"
+msgstr "의사의 양탄자"
+
+msgid "decor_rugredshirt"
+msgstr "싸구려 양탄자"
+
+msgid "decor_rugscience"
+msgstr "과학자의 양탄자"
+
+msgid "decor_rugsmall01"
+msgstr "매트"
+
+msgid "decor_rugsmall02"
+msgstr "매트"
+
+msgid "decor_rugsmall03"
+msgstr "매트"
+
+msgid "decor_rugspacecow"
+msgstr "우주 소 양탄자"
+
+msgid "decor_rugstrategist"
+msgstr "군인의 양탄자"
+
+msgid "decor_screens"
+msgstr "스크린"
+
+msgid "decor_shipmodel"
+msgstr "상세한 모델 선박"
+
+msgid "decor_skeleton"
+msgstr "인간의 해골"
+
+msgid "decor_statueman"
+msgstr "동상"
+
+msgid "decor_statuewoman"
+msgstr "동상"
+
+msgid "decor_table&lamp"
+msgstr "테이블과 램프"
+
+msgid "decor_table&lamp02"
+msgstr "테이블과 램프"
+
+msgid "decor_table&lamp03"
+msgstr "테이블과 램프"
+
+msgid "decor_towels"
+msgstr "수건"
+
+msgid "decor_tvcolumn"
+msgstr "영상 칼럼"
+
+msgid "decor_wardrobe"
+msgstr "옷장"
+
+msgid "decor_wardrobe02"
+msgstr "옷장"
+
+msgid "decor_wardrobe03"
+msgstr "옷장"
+
+msgid "decor_weaponsrack2"
+msgstr "전쟁 트로피"
+
+msgid "decoration"
+msgstr "장식"
+
+msgid "delete"
+msgstr "제거"
+
+msgid "delicatessen_expositor"
+msgstr "조제 식품 전시관"
+
+msgid "delicatessen_expositor_desc"
+msgstr "달콤하고 맛있는 작품을 전시합니다"
+
+msgid "delicatessen_kitchen"
+msgstr "조제 공방"
+
+msgid "delicatessen_kitchen_desc"
+msgstr "달고, 맛이 좋으며 고품질의 과자류 생산."
+
+msgid "deliver_from_action"
+msgstr "~A로부터 배달"
+
+msgid "deliver_from_ground"
+msgstr "땅바닥"
+
+msgid "deliver_from_ground_no"
+msgstr "전달자는 자원이 땅바닥에 쌓여 있거나 저장 구역 안에있을 때 이 물체에 자원을 전달하는 것을 피할 것입니다"
+
+msgid "deliver_from_ground_yes"
+msgstr "전달자는 바닥 또는 저장구역에 있는 자원스택에서 이 물체에 자원를 전달합니다"
+
+msgid "deliver_from_source"
+msgstr "독점 출처"
+
+msgid "deliver_from_source_at"
+msgstr "출처: ~A"
+
+msgid "deliver_from_source_cancel"
+msgstr "독점 배달 취소"
+
+msgid "deliver_from_source_desc"
+msgstr "팔레트 또는 저장구역 컨트롤러를 오른쪽 클릭하여 해당 물체의 자원에 대한 독점 배달로 설정하십시오."
+
+msgid "deliver_from_storage"
+msgstr "팔레트"
+
+msgid "deliver_from_storage_no"
+msgstr "전달자는 자원이 팔레트에 있으면 이 물체에 자원을 전달하지 않습니다"
+
+msgid "deliver_from_storage_yes"
+msgstr "전달자는 팔레트에서 이 물체에 자원을 전달할 것입니다"
