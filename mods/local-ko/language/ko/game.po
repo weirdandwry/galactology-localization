@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-22 11:05+0000\n"
-"PO-Revision-Date: 2018-02-22 13:11+0000\n"
-"Last-Translator: kiironosora <kiironosora@naver.com>\n"
+"PO-Revision-Date: 2018-02-22 13:13+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
 "Language: ko\n"
@@ -1238,3 +1238,39 @@ msgstr "추가 XP는 오피서의 %d 의 %d%% 만큼이다 (%s XP)"
 
 msgid "contract_name_diff_place_level"
 msgstr "%s 난이도 %s (L%d) 에서"
+
+msgid "contract_price"
+msgstr "%s 계약 금액"
+
+msgid "contract_resource_reward"
+msgstr "%s %s (재고: %s)"
+
+msgid "contract_rewards"
+msgstr "보상:"
+
+msgid "contract_xp_officer"
+msgstr "모든 오피서에 XP (%s XP @L%d)"
+
+msgid "controlled_stock"
+msgstr "통제 재고"
+
+msgid "controls"
+msgstr "통제 수단"
+
+msgid "cooking"
+msgstr "요리"
+
+msgid "cooldown_amt"
+msgstr "~0,1Fs 쿨다운"
+
+msgid "corpse"
+msgstr "시체"
+
+msgid "corpse_desc"
+msgstr "이 시체는 재활용 할 수 있습니다. 닭고기 맛남."
+
+msgid "corpse_of"
+msgstr "~A의 시체"
+
+msgid "corridor"
+msgstr "복도"
