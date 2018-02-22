@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-22 11:05+0000\n"
 "PO-Revision-Date: 2018-02-22 11:31+0000\n"
-"Last-Translator: kiironosora <kiironosora@naver.com>\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
 "Language: ko\n"
@@ -628,3 +628,9 @@ msgstr "당구"
 
 msgid "billiard_desc"
 msgstr "녹색 천 테이블위에서 막대기로 공을 때린다. 재미 제공함."
+
+msgid "bio_extractor"
+msgstr "바이오 추출기"
+
+msgid "bio_extractor_desc"
+msgstr "영향받는 영역 내에서 생물 자원을 추출합니다."
