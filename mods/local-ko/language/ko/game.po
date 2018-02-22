@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-22 11:05+0000\n"
-"PO-Revision-Date: 2018-02-22 11:13+0000\n"
-"Last-Translator: kiironosora <kiironosora@naver.com>\n"
+"PO-Revision-Date: 2018-02-22 11:14+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
 "Language: ko\n"
@@ -397,3 +397,12 @@ msgstr "이런 기발한 우주 정거장이라니, 맘에 들어."
 
 msgid "aesthetics_feeling_low"
 msgstr "별로임"
+
+msgid "aesthetics_feeling_low_desc"
+msgstr "추한 장소야"
+
+msgid "aesthetics_feeling_very_high"
+msgstr "감탄함"
+
+msgid "aesthetics_feeling_very_high_desc"
+msgstr "아름다움에 둘러싸여있다."
