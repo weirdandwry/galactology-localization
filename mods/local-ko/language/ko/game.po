@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-22 11:05+0000\n"
-"PO-Revision-Date: 2018-02-22 13:01+0000\n"
-"Last-Translator: kiironosora <kiironosora@naver.com>\n"
+"PO-Revision-Date: 2018-02-22 13:02+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
 "Language: ko\n"
@@ -1174,3 +1174,12 @@ msgstr "홀로 코믹 선반"
 
 msgid "comics_desc"
 msgstr "옛날 방식의 재미를 팔아요"
+
+msgid "commercial_tier_1"
+msgstr "기본 제품 I"
+
+msgid "commercial_tier_2"
+msgstr "기본 제품 II"
+
+msgid "commercial_tier_3"
+msgstr "기본 제품 III"
