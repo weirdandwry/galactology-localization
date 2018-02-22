@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-22 11:05+0000\n"
-"PO-Revision-Date: 2018-02-22 12:42+0000\n"
-"Last-Translator: kiironosora <kiironosora@naver.com>\n"
+"PO-Revision-Date: 2018-02-22 12:43+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
 "Language: ko\n"
@@ -805,3 +805,15 @@ msgstr "중급 선체 구조 조립"
 
 msgid "build_job_warn_invalid_room"
 msgstr "유효한 방 안에 있지 않습니다"
+
+msgid "build_maintenance_robot"
+msgstr "유지 보수 로봇 제작"
+
+msgid "build_object"
+msgstr "물건 제작"
+
+msgid "build_objects_label"
+msgstr "물건:"
+
+msgid "build_out_of_bounds"
+msgstr "유효한 건물 구역 바깥 쪽"
