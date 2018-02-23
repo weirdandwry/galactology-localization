@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-22 11:05+0000\n"
-"PO-Revision-Date: 2018-02-22 23:55+0000\n"
+"PO-Revision-Date: 2018-02-23 19:24+0000\n"
 "Last-Translator: kiironosora <kiironosora@naver.com>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
@@ -1715,3 +1715,2006 @@ msgstr "%s 이 보복해옵니다! %s 의 습격자가 우리 스테이션에 �
 
 msgid "event_raid_warn4c"
 msgstr "%s 에서 온 %s 습격자가 우리 스테이션에 접근 중이라는 보고입니다. 준비하십시오!"
+
+msgid "event_robots_reveal"
+msgstr ""
+"로봇이 처음으로 자신을 공개했습니다! 로봇의 노동 기준은 사양에 맞습니까? 그들은 확실히 확인하러 올 것이다. 그리고 그들은 그것을 "
+"좋아하지 않을 것입니다."
+
+msgid "event_timer"
+msgstr "남은 시간: %s"
+
+msgid "event_waterleak_warn"
+msgstr "%s 이 고장나서 주변이 물에 잠겼습니다!"
+
+msgid "event_worm_warn"
+msgstr "당신의 오만함은 깊은 공간에서 잊혀진 짐승을 깨웠습니다. 우주 웜이 당신의 스테이션을 공격하고 있습니다!"
+
+msgid "event_xenos_spawned"
+msgstr "이종형체가 산란했습니다!"
+
+msgid "event_xenos_warn"
+msgstr ""
+"이종형체의 알이 스테이션에서 발견되었습니다! 그들이 산란하기 전에 제거하거나 결과에 대처하십시오. 알은 중립 유닛이며 수동 목표 명령이 "
+"필요합니다."
+
+msgid "excessive_machine"
+msgstr "과도한 기계"
+
+msgid "excessive_machine_desc"
+msgstr "당신의 친밀 욕구를 충족시켜줍니다. 망가뜨리지 마세요!"
+
+msgid "exclude"
+msgstr "제외"
+
+msgid "exhausted"
+msgstr "지침"
+
+msgid "exotic_infusion"
+msgstr "이국적인 인퓨전"
+
+msgid "expectations_high"
+msgstr "높은 기대"
+
+msgid "expectations_huge"
+msgstr "엄청나게 기대"
+
+msgid "expectations_low"
+msgstr "낮은 기대"
+
+msgid "expectations_meet"
+msgstr "~A (~A% 만족)"
+
+msgid "expectations_normal"
+msgstr "보통 기대"
+
+msgid "expectations_very_high"
+msgstr "매우 높은 기대"
+
+msgid "exploration"
+msgstr "탐험"
+
+msgid "explore"
+msgstr "탐험"
+
+msgid "explore_warn_already_exploring_other"
+msgstr "한 번에 한 행성만 탐험 할 수 있습니다."
+
+msgid "explore_warn_no_ship"
+msgstr ""
+"우주선이 행성에 주차되어 있지 않습니다. 이 행성에 우주선을 드래그 앤 드롭하여 수동으로 명령을 내려 도착하면 그 표면을 탐색 할 수 "
+"있습니다."
+
+msgid "explore_warn_no_weapons"
+msgstr "우주선 승무원이 아무도 무기가 장착되어 있지 않습니다. 행성을 탐험시겠습니까?"
+
+msgid "exploring"
+msgstr "탐험"
+
+msgid "export_current_rate"
+msgstr "수출 가격 비율"
+
+msgid "export_rates_desc"
+msgstr "이 문명의 행성에서 자원을 추출하기 위해 지불할 단가입니다."
+
+msgid "extractor_info"
+msgstr "추출 가능:"
+
+msgid "eyedropper_hint"
+msgstr "복사하려면 Alt + 클릭하세요"
+
+msgid "facilities_tier_1"
+msgstr "기본 스테이션"
+
+msgid "facilities_tier_10"
+msgstr "장비 등급 21-25"
+
+msgid "facilities_tier_11"
+msgstr "장비 등급 26-30"
+
+msgid "facilities_tier_12"
+msgstr "장비 등급 31-35"
+
+msgid "facilities_tier_13"
+msgstr "장비 등급 36-40"
+
+msgid "facilities_tier_2"
+msgstr "장비 등급 1-5"
+
+msgid "facilities_tier_3"
+msgstr "기본 로봇학"
+
+msgid "facilities_tier_3b"
+msgstr "방문자 선창"
+
+msgid "facilities_tier_4"
+msgstr "장비 등급 6-10"
+
+msgid "facilities_tier_5"
+msgstr "기본 보안"
+
+msgid "facilities_tier_6"
+msgstr "물류"
+
+msgid "facilities_tier_7"
+msgstr "장비 등급 11-15"
+
+msgid "facilities_tier_8"
+msgstr "장비 등급 16-20"
+
+msgid "facilities_tier_9"
+msgstr "고급 보안"
+
+msgid "facilities_tier_9b"
+msgstr "로봇 보안"
+
+msgid "factory"
+msgstr "공장"
+
+msgid "factory_info_no_recipes"
+msgstr "이 공장에서 사용가능한 레시피가 없습니다. 더 많은 연구를 통해 레시피을 열 수 있습니다."
+
+msgid "failure"
+msgstr "실패"
+
+msgid "fake_relic"
+msgstr "가짜 유물"
+
+msgid "fancy_clothes"
+msgstr "멋진 옷"
+
+msgid "feet_01"
+msgstr "퓨전 웰더 부츠"
+
+msgid "feet_02"
+msgstr "EVA 정장 부츠"
+
+msgid "feet_03"
+msgstr "기수병 부츠"
+
+msgid "feet_04"
+msgstr "쉘 부추"
+
+msgid "feet_05"
+msgstr "파일럿 부츠"
+
+msgid "feet_06"
+msgstr "사이버 V81"
+
+msgid "feet_07"
+msgstr "강화된 부츠"
+
+msgid "feet_08"
+msgstr "절제 부츠"
+
+msgid "feet_09"
+msgstr "헤비 듀티 부츠"
+
+msgid "feet_10"
+msgstr "쇼크Boots 1.1"
+
+msgid "feet_item"
+msgstr "하체 아이템"
+
+msgid "fibers"
+msgstr "섬유"
+
+msgid "fibers_node"
+msgstr "섬유 노드"
+
+msgid "fiction_program"
+msgstr "소설 프로그램"
+
+msgid "field_medic"
+msgstr "필드 메딕"
+
+msgid "field_medic_desc"
+msgstr "전투의 열기 속에서 오직 피드 메딕만이 삶과 죽음 사이에 서있습니다."
+
+msgid "file_manager"
+msgstr "파일 관리자"
+
+msgid "filter_ship_assigned"
+msgstr "우주선에 할당됨"
+
+msgid "filter_ship_named"
+msgstr "우주선: %s"
+
+msgid "filter_ship_not_assigned"
+msgstr "우주선에 할당안됨"
+
+msgid "filtered_water"
+msgstr "정수 된 물"
+
+msgid "fine_grape_must"
+msgstr "좋은 포도액"
+
+msgid "fine_soup"
+msgstr "좋은 스프"
+
+msgid "finish_other_research"
+msgstr "이 연구를 시작하려면 현재 연구를 마무리하거나 취소하여야 합니다"
+
+msgid "fire"
+msgstr "화재"
+
+msgid "fire_desc"
+msgstr ""
+"확장하려는 경향이 있는 급격한 산화를 겪고 있는 물질. 로봇과 유기체 생물 모두 두려워 할 것입니다. 소방관이 근처에 있고 물 아이템 "
+"스택에 접근 할 수 있는지 확인하십시오."
+
+msgid "fire_officer"
+msgstr "소방관"
+
+msgid "firefighter"
+msgstr "소방관"
+
+msgid "firefighter_robot"
+msgstr "소방 로봇"
+
+msgid "flag_broken"
+msgstr "강제 수리를 위해 표시"
+
+msgid "flee_desc"
+msgstr "공포에 빠짐"
+
+msgid "flee_short_desc"
+msgstr "위험 피하기"
+
+msgid "fleet"
+msgstr "함대"
+
+msgid "fleet_too_many"
+msgstr "함대 용량이 제한에 도달되어 더 많은 선박을 건조 할 수 없습니다"
+
+msgid "floor_build_info"
+msgstr ""
+"클릭하고 드래그하여 직사각형 룸을 그리거나를 클릭하여 타일별로 타일을 페인트합니다. 드래그하는 동안 Esc 키를 눌러 사각형을 취소 할 "
+"수 있습니다."
+
+msgid "floor_color_black"
+msgstr "검정"
+
+msgid "floor_color_cyan"
+msgstr "시안"
+
+msgid "floor_color_dark_blue"
+msgstr "다크 블루"
+
+msgid "floor_color_dark_green"
+msgstr "다크 그린"
+
+msgid "floor_color_grey"
+msgstr "회색"
+
+msgid "floor_color_light_blue"
+msgstr "라이트 블루"
+
+msgid "floor_color_light_green"
+msgstr "연한 초록색"
+
+msgid "floor_color_lilac"
+msgstr "라일락"
+
+msgid "floor_color_none"
+msgstr "없음"
+
+msgid "floor_color_orange"
+msgstr "주황색"
+
+msgid "floor_color_pink"
+msgstr "핑크"
+
+msgid "floor_color_red"
+msgstr "빨간색"
+
+msgid "floor_color_torquoise"
+msgstr "청록색"
+
+msgid "floor_color_violet"
+msgstr "보라색"
+
+msgid "floor_color_white"
+msgstr "흰색"
+
+msgid "floor_color_yellow"
+msgstr "노란색"
+
+msgid "floor_tool"
+msgstr "바닥 건설"
+
+msgid "fluid_extractor"
+msgstr "유체 추출기"
+
+msgid "fluid_extractor_desc"
+msgstr "영향을 받는 영역 내에서 액체 및 기체 자원을 추출합니다"
+
+msgid "freaking_out"
+msgstr "놀람"
+
+msgid "frozen_planet"
+msgstr "얼어 붙은 행성"
+
+msgid "fruits"
+msgstr "과일"
+
+msgid "fruits_node"
+msgstr "과일 노드"
+
+msgid "fs_delete_file"
+msgstr "파일 삭제"
+
+msgid "fs_load_file"
+msgstr "파일 로드"
+
+msgid "fs_new_file"
+msgstr "새로운 파일"
+
+msgid "fs_new_file_name"
+msgstr "새 저장 파일의 이름 입력하세요"
+
+msgid "fs_new_file_name_too_long"
+msgstr "이름이 너무 깁니다"
+
+msgid "fs_new_file_name_too_short"
+msgstr "이름이 너무 짧습니다"
+
+msgid "fs_overwrite_file"
+msgstr "파일 덮어 쓰기"
+
+msgid "fs_prompt_select"
+msgstr "파일 선택"
+
+msgid "fuel_cell"
+msgstr "연료 전지"
+
+msgid "fullscreen"
+msgstr "전체 화면"
+
+msgid "fullscreen_exclusive"
+msgstr "독점적"
+
+msgid "fun"
+msgstr "재미"
+
+msgid "fun_feeling_high"
+msgstr "흥분함"
+
+msgid "fun_feeling_high_desc"
+msgstr "와우!!!"
+
+msgid "fun_feeling_low"
+msgstr "지루함"
+
+msgid "fun_feeling_low_desc"
+msgstr "여기 삶은 매우 단조로워"
+
+msgid "gaia_planet"
+msgstr "가이아 행성"
+
+msgid "galaxy"
+msgstr "은하계"
+
+msgid "galaxy_filter_cargo"
+msgstr "행성 수출 보기"
+
+msgid "galaxy_filter_cvis"
+msgstr "문명 보기"
+
+msgid "galaxy_filter_imports"
+msgstr "행성 수입 보기"
+
+msgid "galaxy_filter_imports2"
+msgstr "수입된 제품: %s"
+
+msgid "galaxy_filter_none"
+msgstr "은하계만"
+
+msgid "galaxy_filter_none_show"
+msgstr "은하계 레이블만 보기"
+
+msgid "galaxy_filter_reps"
+msgstr "문명"
+
+msgid "galaxy_filter_resources2"
+msgstr "수출된 자원 %s"
+
+msgid "galaxy_filter_show_civ_ships"
+msgstr "문명 우주선 토글하기"
+
+msgid "galaxy_name"
+msgstr "은하계 %s"
+
+msgid "gambling"
+msgstr "도박"
+
+msgid "game_coins"
+msgstr "게임 코인"
+
+msgid "game_guide"
+msgstr "게임 가이드"
+
+msgid "game_speed_1x"
+msgstr "게임 속도 1x"
+
+msgid "game_speed_3x"
+msgstr "게임 속도 3x"
+
+msgid "game_speed_6x"
+msgstr "게임 속도 6x"
+
+msgid "garden_bamboopot"
+msgstr "대나무"
+
+msgid "garden_bush01"
+msgstr "덤불"
+
+msgid "garden_bush02"
+msgstr "덤불"
+
+msgid "garden_flowerpot"
+msgstr "꽃 화분"
+
+msgid "garden_plantpot01"
+msgstr "식물 화분"
+
+msgid "garden_plantpot02"
+msgstr "식물 화분"
+
+msgid "garden_plantpot03"
+msgstr "식물 화분"
+
+msgid "garden_plantpot04"
+msgstr "식물 화분"
+
+msgid "garden_plantpot05"
+msgstr "식물 화분"
+
+msgid "garden_plantpot06"
+msgstr "식물 화분"
+
+msgid "garden_plantpot07"
+msgstr "식물 화분"
+
+msgid "garden_plantpot08"
+msgstr "식물 화분"
+
+msgid "garden_pond"
+msgstr "연못"
+
+msgid "garden_tree01"
+msgstr "나무"
+
+msgid "garden_tree02"
+msgstr "나무"
+
+msgid "garden_tree03"
+msgstr "나무"
+
+msgid "garden_tree04"
+msgstr "나무"
+
+msgid "garden_tree05"
+msgstr "나무"
+
+msgid "garden_tree06"
+msgstr "나무"
+
+msgid "garden_tree07"
+msgstr "나무"
+
+msgid "garden_tree08"
+msgstr "나무"
+
+msgid "garden_tree09"
+msgstr "나무"
+
+msgid "garden_tree10"
+msgstr "나무"
+
+msgid "garden_zengarden"
+msgstr "젠 가든"
+
+msgid "gardening"
+msgstr "원예"
+
+msgid "gas_planet"
+msgstr "가스 행성"
+
+msgid "gastrodisaster"
+msgstr "위장 재해"
+
+msgid "gastrodisaster_desc"
+msgstr "내 위장이 엉망이야"
+
+msgid "gems"
+msgstr "보석"
+
+msgid "gems_node"
+msgstr "보석 노드"
+
+msgid "generic_extractor"
+msgstr "일반 추출기"
+
+msgid "generic_extractor_desc"
+msgstr "영향받는 영역 내에서 자원을 추출합니다"
+
+msgid "gigantism"
+msgstr "거인증"
+
+msgid "gigantism_desc"
+msgstr "나는 아직도 문을 통과 할 수 있을까?"
+
+msgid "global_max_export_amount_desc"
+msgstr "행성에서 자원을 내보내는 선박은 이 양에 도달하면이 이 자원을 건너 뜁니다"
+
+msgid "global_max_import_amount"
+msgstr "최대 재고"
+
+msgid "global_min_stock_amount"
+msgstr "최소 재고"
+
+msgid "global_min_stock_amount_desc"
+msgstr "글로벌 큐로 설정된 공장에 주문하여 이 양을 유지합니다"
+
+msgid "global_recipes_inv_hint"
+msgstr "인벤토리 창에서 글로벌 최소 재고 값 설정"
+
+msgid "goal_bartender1_desc"
+msgstr "바텐더는 바에서 42 잔을 제공하여야 합니다. 그러나 실제로, 음료와 마약은 우주에 대한 해답이 아닙니다."
+
+msgid "goal_bartender1_title"
+msgstr "바에서 42 잔의 술을 제공"
+
+msgid "goal_bartender2_desc"
+msgstr "바텐더는 바에서 420 잔을 제공하여야 합니다. 그러나 실제로, 음료와 마약은 우주에 대한 해답이 아닙니다."
+
+msgid "goal_bartender2_title"
+msgstr "바에서 420 잔의 술을 제공"
+
+msgid "goal_buildany1_desc"
+msgstr "15 개의 물건와 135 개의 바닥 타일을 건설."
+
+msgid "goal_buildany1_title"
+msgstr "스테이션을 건설 시작"
+
+msgid "goal_buildany2_desc"
+msgstr "75 개의 물건와 675 개의 바닥 타일을 건설."
+
+msgid "goal_buildany2_title"
+msgstr "중규모 스테이션 건설"
+
+msgid "goal_buildany3_desc"
+msgstr "200 개의 물건와 1800 개의 바닥 타일을 건설."
+
+msgid "goal_buildany3_title"
+msgstr "거대 스테이션 건설"
+
+msgid "goal_buildbar1_desc"
+msgstr "디스코 바 1개, 디스코 테이블 3 개, 댄스 플로어 2 개 건설."
+
+msgid "goal_buildbar1_title"
+msgstr "댄스 클럽 건설"
+
+msgid "goal_builddecorations1_desc"
+msgstr "장식 10 개 건설."
+
+msgid "goal_builddecorations1_title"
+msgstr "장식 10 개 건설"
+
+msgid "goal_buildfactory1_desc"
+msgstr "비누 제조기, 금속 프레스 및 의료 워크샵을 만듭니다."
+
+msgid "goal_buildfactory1_title"
+msgstr "기본 워크샵 영역 건설"
+
+msgid "goal_buildhospital1_desc"
+msgstr "병원 침대 1 개 와 약 분배기를 건설하고 10 개의 약을 제조합니다."
+
+msgid "goal_buildhospital1_title"
+msgstr "초기 병원 건설"
+
+msgid "goal_buildliving1_desc"
+msgstr "평범한 침대 3 개와 위생 3000 한 개를 만듭니다."
+
+msgid "goal_buildliving1_title"
+msgstr "기본 생활 공간 건설"
+
+msgid "goal_buildlogistics1_desc"
+msgstr "저장 구역 1 개, 팔레트 1 개 및 리사이클러 1개 건설하십시오."
+
+msgid "goal_buildlogistics1_title"
+msgstr "기본 물류 물건 건설"
+
+msgid "goal_buildplanet1_desc"
+msgstr "행성 표면에 대사관을 건설하십시오."
+
+msgid "goal_buildplanet1_title"
+msgstr "행성에 대사관 건설"
+
+msgid "goal_buildplanet2_desc"
+msgstr "행성 표면에 모집 센터를 건설하십시오."
+
+msgid "goal_buildplanet2_title"
+msgstr "행성에 모집 센터 건설"
+
+msgid "goal_buildplanet3_desc"
+msgstr "하나 이상의 행성의 표면에 3 개의 자원 추출기를 건설하십시오."
+
+msgid "goal_buildplanet3_title"
+msgstr "행성에 추출기 3 개 건설"
+
+msgid "goal_buildsecurity1_desc"
+msgstr "카메라 1 개 와 보안 문 1 개 를 건설하십시오."
+
+msgid "goal_buildsecurity1_title"
+msgstr "기본 보안 시스템 건설"
+
+msgid "goal_cargo1_desc"
+msgstr "한 대 이상의 우주선에서 60 개 유닛의 화물을 내렸다."
+
+msgid "goal_cargo1_title"
+msgstr "화물 유닛 60 개를 내림"
+
+msgid "goal_cargo2_desc"
+msgstr "한 대 이상의 우주선에서 800 개 유닛의 화물을 내렸다."
+
+msgid "goal_cargo2_title"
+msgstr "화물 유닛 800 개를 내림"
+
+msgid "goal_cargo3_desc"
+msgstr "한 대 이상의 우주선에서 12000 개 유닛의 화물을 내렸다."
+
+msgid "goal_cargo3_title"
+msgstr "화물 유닛 12000 개를 내림"
+
+msgid "goal_clean1_desc"
+msgstr "100 개의 쓰레기를 청소하십시오. 오피서 중 일부가 청소 작업을 사용할 수 있는지 확인하십시오."
+
+msgid "goal_clean1_title"
+msgstr "쓰레기 100 개 청소"
+
+msgid "goal_completed_alert"
+msgstr "<<~A>> 목표가 완료되었습니다. 목표 창에서 보상을 받으십시오."
+
+msgid "goal_consumerism1_desc"
+msgstr ""
+"상점 물건을 사용하여 방문자에게 아무 제품 100 개를 판매하십시오. 소비자 아이템만 포함되며 음식과 같은 아이템은 이 목표에 포함되지 "
+"않습니다."
+
+msgid "goal_consumerism1_title"
+msgstr "방문자에게 제품 100 개 판매"
+
+msgid "goal_consumerism2_desc"
+msgstr ""
+"상점 물건을 사용하여 방문자에게 아무 제품 500 개를 판매하십시오. 소비자 아이템만 포함되며 음식과 같은 아이템은 이 목표에 포함되지 "
+"않습니다."
+
+msgid "goal_consumerism2_title"
+msgstr "방문자에게 제품 500 개 판매"
+
+msgid "goal_consumerism3_desc"
+msgstr ""
+"상점 물건을 사용하여 방문자에게 아무 제품 3000 개를 판매하십시오. 소비자 아이템만 포함되며 음식과 같은 아이템은 이 목표에 포함되지 "
+"않습니다."
+
+msgid "goal_consumerism3_title"
+msgstr "방문자에게 제품 3000 개 판매"
+
+msgid "goal_cook1_desc"
+msgstr "주방에서 아무 식량 10 개 요리하십시오."
+
+msgid "goal_cook1_title"
+msgstr "아무 식량 10개 요리"
+
+msgid "goal_cook2_desc"
+msgstr "주방에서 아무 식량 150 개 요리하십시오."
+
+msgid "goal_cook2_title"
+msgstr "아무 식량 150개 요리"
+
+msgid "goal_cook3_desc"
+msgstr "주방에서 아무 식량 1000 개 요리하십시오."
+
+msgid "goal_cook3_title"
+msgstr "아무 식량 1000개 요리"
+
+msgid "goal_crew1_desc"
+msgstr "함대 보기창에서 하나 이상의 선박의 선원 슬롯을 적어도 10 번 변경하십시오."
+
+msgid "goal_crew1_title"
+msgstr "우주선 승무원 섞기"
+
+msgid "goal_dance1_desc"
+msgstr "이 스테이션에서 200 번의 춤을 보았습니다."
+
+msgid "goal_dance1_title"
+msgstr "댄스 열풍"
+
+msgid "goal_dock1_desc"
+msgstr "스테이션에서 우주선 셔틀이 최소한 10 번 도킹했습니다"
+
+msgid "goal_dock1_title"
+msgstr "우주선 셔틀 도킹"
+
+msgid "goal_doctor1_desc"
+msgstr "의사는 병원 침대에서 10 명의 환자를 돌봐야합니다."
+
+msgid "goal_doctor1_title"
+msgstr "환자 10 명 치료"
+
+msgid "goal_doctor2_desc"
+msgstr "의사는 병원 침대에서 200 명의 환자를 돌봐야합니다."
+
+msgid "goal_doctor2_title"
+msgstr "환자 200 명 치료"
+
+msgid "goal_extract1_desc"
+msgstr ""
+"행성 추출기가 하나 이상의 행성에 100 개의 생물 자원, 100 개의 광물 자원 및 100 개의 자원 자원을 추출하도록 하십시오."
+
+msgid "goal_extract1_title"
+msgstr "다른 자원 추출"
+
+msgid "goal_galaxy1_desc"
+msgstr "은하계 화면에서 3 개의 태양계를 엽니다."
+
+msgid "goal_galaxy1_title"
+msgstr "태양계 3 개 열기"
+
+msgid "goal_imports1_desc"
+msgstr "한 대 이상의 우주선이 문명 행성에 제품 50 개 를 판매하도록하십시오."
+
+msgid "goal_imports1_title"
+msgstr "행성에 제품 50 개 판매"
+
+msgid "goal_imports2_desc"
+msgstr "한 대 이상의 우주선이 문명 행성에 제품 500 개 를 판매하도록하십시오."
+
+msgid "goal_imports2_title"
+msgstr "행성에 제품 500 개 판매"
+
+msgid "goal_imports3_desc"
+msgstr "한 대 이상의 우주선이 문명 행성에 제품 5000 개 를 판매하도록하십시오."
+
+msgid "goal_imports3_title"
+msgstr "행성에 제품 5000 개 판매"
+
+msgid "goal_itemequip1_desc"
+msgstr "오피서에게 새로운 아이템 10 번 장착."
+
+msgid "goal_itemequip1_title"
+msgstr "새로운 아이템 10 번 장착"
+
+msgid "goal_itemloot1_desc"
+msgstr "행성을 탐험하면서 적을 물리 치고 아이템 5 개를 약탈하십시오."
+
+msgid "goal_itemloot1_title"
+msgstr "아이템 5 개 약탈"
+
+msgid "goal_itemloot2_desc"
+msgstr "행성을 탐험하면서 적을 물리 치고 아이템 80 개를 약탈하십시오."
+
+msgid "goal_itemloot2_title"
+msgstr "아이템 80 개 약탈"
+
+msgid "goal_itemloot3_desc"
+msgstr "행성을 탐험하면서 적을 물리 치고 아이템 400 개를 약탈하십시오."
+
+msgid "goal_itemloot3_title"
+msgstr "아이템 400 개 약탈"
+
+msgid "goal_itemprod1_desc"
+msgstr "아무 종류의 아무 등급의 아이템 15 개를 만드십시오."
+
+msgid "goal_itemprod1_title"
+msgstr "아이템 15 개 제조"
+
+msgid "goal_itemprod2_desc"
+msgstr "가슴 아이템, 액티브 아이템, 손 아이템, 발 아이템 및 임플란트 아이템을 만듭니다."
+
+msgid "goal_itemprod2_title"
+msgstr "다른 슬롯 아이템 5 개 제조"
+
+msgid "goal_itemprod3_desc"
+msgstr "아무 종류의 아무 등급의 아이템 200 개를 만드십시오."
+
+msgid "goal_itemprod3_title"
+msgstr "아이템 200 개 제조"
+
+msgid "goal_jobs1_desc"
+msgstr "스테이션에서 작업 매트릭스를 사용하여 작업 지정을 10 번 변경하십시오."
+
+msgid "goal_jobs1_title"
+msgstr "작업 매트릭스 바꾸기"
+
+msgid "goal_kill1_desc"
+msgstr "당신과 전쟁 중이거나 적대적인 문명 20 명을 죽이십시오."
+
+msgid "goal_kill1_title"
+msgstr "적 20 명 처리"
+
+msgid "goal_kill2_desc"
+msgstr "당신과 전쟁 중이거나 적대적인 문명 140 명을 죽이십시오."
+
+msgid "goal_kill2_title"
+msgstr "적 140 명 처리"
+
+msgid "goal_kill3_desc"
+msgstr "당신과 전쟁 중이거나 적대적인 문명 900 명을 죽이십시오."
+
+msgid "goal_kill3_title"
+msgstr "적 900 명 처리"
+
+msgid "goal_makedrink1_desc"
+msgstr "주방에서 주스 10개 요리하십시오."
+
+msgid "goal_makedrink1_title"
+msgstr "주스 10 개 요리"
+
+msgid "goal_makedrink2_desc"
+msgstr "주방에서 음료 150 개 요리하십시오."
+
+msgid "goal_makedrink2_title"
+msgstr "음료 150 개 요리"
+
+msgid "goal_makedrink3_desc"
+msgstr "주방에서 음료 1000 개 요리하십시오."
+
+msgid "goal_makedrink3_title"
+msgstr "음료 1000 개 요리"
+
+msgid "goal_makerobot1_desc"
+msgstr "로봇 공장에서 로봇 1 대를 만드십시오."
+
+msgid "goal_makerobot1_title"
+msgstr "로봇 1 대 제조"
+
+msgid "goal_planet1_desc"
+msgstr "레벨에 관계없이 행성에 적어도 3 번 상륙하십시오."
+
+msgid "goal_planet1_title"
+msgstr "행성에 3 번 상륙"
+
+msgid "goal_planet2_desc"
+msgstr "레벨 10 이상의 행성에서 적어도 3 번 상륙하십시오."
+
+msgid "goal_planet2_title"
+msgstr "레벨 5 이상의 행성에 3 번 상륙"
+
+msgid "goal_planet3_desc"
+msgstr "레벨 10 이상의 행성에서 적어도 3 번 상륙하십시오."
+
+msgid "goal_planet3_title"
+msgstr "레벨 10 이상의 행성에 3 번 상륙"
+
+msgid "goal_planet4_desc"
+msgstr "레벨 20 이상의 행성에서 적어도 3 번 상륙하십시오."
+
+msgid "goal_planet4_title"
+msgstr "레벨 20 이상의 행성에 3 번 상륙"
+
+msgid "goal_planet5_desc"
+msgstr "레벨 30 이상의 행성에서 적어도 3 번 상륙하십시오."
+
+msgid "goal_planet5_title"
+msgstr "레벨 20 이상의 행성에 3 번 상륙"
+
+msgid "goal_progress"
+msgstr "진행 상황: ~A%"
+
+msgid "goal_ready_alert"
+msgstr "<<~A>> 목표가 달성가능합니다."
+
+msgid "goal_recruit1_desc"
+msgstr "직원 화면에서 5 명의 신규 오피서를 모집하십시오."
+
+msgid "goal_recruit1_title"
+msgstr "신규 오피서 5 명 모집"
+
+msgid "goal_recycle1_desc"
+msgstr "50 개의 쓰레기를 재활용하십시오. 하나 이상의 리사이클러가 있어야하고 일부 오피서에게 청소 작업이 가능해야합니다."
+
+msgid "goal_recycle1_title"
+msgstr "쓰레기 50개 재활용"
+
+msgid "goal_recycle2_desc"
+msgstr "5 시체를 재활용하십시오. 하나 이상의 리사이클러가 있어야 하고 일부 오피서에게 청소 작업이 가능해야합니다. 그래 RIP."
+
+msgid "goal_recycle2_title"
+msgstr "시체 5 번 재활용"
+
+msgid "goal_recycle3_desc"
+msgstr "150번 시체를 재활용하십시오. 하나 이상의 리사이클러가 있어야 하고 일부 오피서에게 청소 작업이 가능해야합니다. 그래 RIP."
+
+msgid "goal_recycle3_title"
+msgstr "시체 150 번 재활용"
+
+msgid "goal_repair1_desc"
+msgstr "전투 중에 또는 오작동으로 인해 손상된 20 개의 물건 또는 로봇을 수리하십시오."
+
+msgid "goal_repair1_title"
+msgstr "물건 또는 로봇 20 번 수리"
+
+msgid "goal_research1_desc"
+msgstr "아무 종류의 기술 등급 연구를 완료하십시오."
+
+msgid "goal_research1_title"
+msgstr "등급 1 번 연구"
+
+msgid "goal_research2_desc"
+msgstr "연구 데스크에서 500 연구 포인트를 생산하십시오."
+
+msgid "goal_research2_title"
+msgstr "연구 500 포인트 생산"
+
+msgid "goal_reward"
+msgstr "보상: @ui_icon_20px_credits04.png ~A"
+
+msgid "goal_shipbuild1_desc"
+msgstr "우주선 조립 플래너와 우주선 작업용 데스크를 사용하여 우주선을 만듭니다."
+
+msgid "goal_shipbuild1_title"
+msgstr "우주선 조립"
+
+msgid "goal_shipbuild2_desc"
+msgstr "새로운 우주선을 조립하는 동안 우주선 작업 데스크에서 100 개의 우주선 조립 주문 작업을 수행하십시오."
+
+msgid "goal_shipbuild2_title"
+msgstr "우주선 조립 주문 100 번"
+
+msgid "goal_shipbuild3_desc"
+msgstr "우주선 조립 플래너와 우주선 작업 데스크를 사용하여 우주선 8 척을 조립하십시오."
+
+msgid "goal_shipbuild3_title"
+msgstr "우주선 8 척 조립"
+
+msgid "goal_specs1_desc"
+msgstr "충분히 숙련된 오피서를 선택하고 중급 스펙으로 업그레이드하십시오."
+
+msgid "goal_specs1_title"
+msgstr "오피서 중급 스펙으로 업그레이드"
+
+msgid "goal_specs2_desc"
+msgstr "충분히 숙련된 오피서 6 명을 선택하여 중급 스펙으로 업그레이드하십시오."
+
+msgid "goal_specs2_title"
+msgstr "오피서 6 명 중급 스펙으로 업그레이드"
+
+msgid "goal_specs3_desc"
+msgstr "충분히 숙련된 오피서를 선택하여 마스터 스펙으로 업그레이드하십시오."
+
+msgid "goal_specs3_title"
+msgstr "오피서 마스터 스펙으로 업그레이드"
+
+msgid "goal_specs4_desc"
+msgstr "충분히 숙련된 오피서 6 명을 선택하여 마스터 스펙으로 업그레이드하십시오."
+
+msgid "goal_specs4_title"
+msgstr "오피서 6 명 마스터 스펙으로 업그레이드"
+
+msgid "goal_visitors1_desc"
+msgstr "10 명의 방문자가 스테이션에 착륙하게 하십시오"
+
+msgid "goal_visitors1_title"
+msgstr "10 명의 방문자 받기"
+
+msgid "goal_visitors2_desc"
+msgstr "100 명의 방문자가 스테이션에 착륙하게 하십시오"
+
+msgid "goal_visitors2_title"
+msgstr "100 명의 방문자 받기"
+
+msgid "goal_visitors3_desc"
+msgstr "1000 명의 방문자가 스테이션에 착륙하게 하십시오"
+
+msgid "goal_visitors3_title"
+msgstr "1000 명의 방문자 받기"
+
+msgid "goal_vitals1_desc"
+msgstr "오피서들이 자고 먹고 마시고 샤워를 각각 25 번 이상 했다."
+
+msgid "goal_vitals1_title"
+msgstr "기본 중요 욕구 충족"
+
+msgid "goals"
+msgstr "목표"
+
+msgid "goals_why"
+msgstr ""
+"자신 만의 속도로 목표를 완료하여 원하는대로 도구와 시스템을 탐색하십시오. 본부는 목표를 완료 할 때 당신에게 보상 할 것입니다."
+
+msgid "gogobot"
+msgstr "고고봇"
+
+msgid "gogobot_desc"
+msgstr "완벽한 춤 동작, 나노 미터 수준으로 정확"
+
+msgid "gold_token"
+msgstr "골드 토큰"
+
+msgid "graduate_spec"
+msgstr "중급 스펙"
+
+msgid "green_token"
+msgstr "녹색 토큰"
+
+msgid "group_commercial"
+msgstr "상업용"
+
+msgid "group_control"
+msgstr "@ui_icon_30px_lupa.png 군중 제어"
+
+msgid "group_damage"
+msgstr "@ui_icon_30px_lupa.png 데미지"
+
+msgid "group_decor"
+msgstr "장식 및 원예"
+
+msgid "group_eating"
+msgstr "음식과 음료"
+
+msgid "group_facilities"
+msgstr "시설 및 보안"
+
+msgid "group_facilities2"
+msgstr "시설"
+
+msgid "group_factory"
+msgstr "생산"
+
+msgid "group_gardening"
+msgstr "원예"
+
+msgid "group_healing"
+msgstr "@ui_icon_30px_lupa.png 힐링"
+
+msgid "group_health"
+msgstr "건강 및 위생"
+
+msgid "group_hygiene"
+msgstr "위생"
+
+msgid "group_misc"
+msgstr "기타"
+
+msgid "group_recreational"
+msgstr "레크리에이션"
+
+msgid "group_security"
+msgstr "보안"
+
+msgid "group_shielding"
+msgstr "@ui_icon_30px_lupa.png 쉴딩"
+
+msgid "group_ships"
+msgstr "우주선 조립"
+
+msgid "group_sleeping"
+msgstr "환대"
+
+msgid "gun_beamgun_name"
+msgstr "빔 건"
+
+msgid "gun_blaster_name"
+msgstr "블래스터"
+
+msgid "gun_blorg_name"
+msgstr "블로그 파괴자"
+
+msgid "gun_crus_name"
+msgstr "크루산션 표준"
+
+msgid "gun_cucur_name"
+msgstr "쿠커비안 표준"
+
+msgid "gun_disruptor_name"
+msgstr "디스럽터"
+
+msgid "gun_laser_name"
+msgstr "레이저 총"
+
+msgid "gun_lemur_name"
+msgstr "레뮤리안 표준"
+
+msgid "gun_medus_name"
+msgstr "표준"
+
+msgid "gun_nogi_name"
+msgstr "노기 표준"
+
+msgid "gun_phaser_name"
+msgstr "페이저"
+
+msgid "gun_pirates_name"
+msgstr "해적 표준"
+
+msgid "gun_pistol_name"
+msgstr "권총"
+
+msgid "gun_raygun_name"
+msgstr "광선총"
+
+msgid "gun_robots_name"
+msgstr "로봇 표준"
+
+msgid "gun_zapper_name"
+msgstr "스턴 레이"
+
+msgid "had_to_flee"
+msgstr "패닉에 빠져 도망침"
+
+msgid "had_to_flee_desc"
+msgstr "무서워서 도망쳤어"
+
+msgid "hands_01"
+msgstr "헤비 듀티 장갑"
+
+msgid "hands_02"
+msgstr "사이버 V82"
+
+msgid "hands_03"
+msgstr "쉘 장갑"
+
+msgid "hands_04"
+msgstr "파일럿 장갑"
+
+msgid "hands_05"
+msgstr "기수병 장갑"
+
+msgid "hands_06"
+msgstr "퓨전 웰더 장갑"
+
+msgid "hands_07"
+msgstr "EVA 정장 장갑"
+
+msgid "hands_08"
+msgstr "강화 장갑"
+
+msgid "hands_09"
+msgstr "절제 장갑"
+
+msgid "hands_10"
+msgstr "쇼크 장갑 베타"
+
+msgid "hands_item"
+msgstr "손 아이템"
+
+msgid "hard"
+msgstr "어려움"
+
+msgid "heal_1"
+msgstr "프로시 힐"
+
+msgid "heal_2"
+msgstr "프록시 힐 플러스"
+
+msgid "heal_3"
+msgstr "파 힐 고급"
+
+msgid "heal_4"
+msgstr "메디탐험"
+
+msgid "heal_nearby"
+msgstr "근거리 힐"
+
+msgid "healing_desc"
+msgstr "힐 친구"
+
+msgid "health"
+msgstr "건강"
+
+msgid "health_feeling_low"
+msgstr "부상당함"
+
+msgid "health_feeling_low_desc"
+msgstr "상처땜에 아파"
+
+msgid "health_feeling_very_low"
+msgstr "심하게 부상당함"
+
+msgid "health_feeling_very_low_desc"
+msgstr "상처가 매우 아파"
+
+msgid "health_tier_1"
+msgstr "기본 건강"
+
+msgid "health_tier_2"
+msgstr "고급 건강"
+
+msgid "health_tier_3"
+msgstr "고급 위생"
+
+msgid "health_tier_4"
+msgstr "수술"
+
+msgid "health_tier_5"
+msgstr "온천 웰빙"
+
+msgid "health_tier_6"
+msgstr "토탈 리제너레이션"
+
+msgid "helium"
+msgstr "헬륨"
+
+msgid "helium_node"
+msgstr "헬륨 노드"
+
+msgid "historic_program"
+msgstr "역사 프로그램"
+
+msgid "holo"
+msgstr "홀로"
+
+msgid "holobooks"
+msgstr "홀로 북"
+
+msgid "holobooks_obj"
+msgstr "홀로 북 선반"
+
+msgid "holobooks_obj_desc"
+msgstr "은하계의 모든 지식을 종이 형식으로 판매합니다. 복고풍이야!"
+
+msgid "holocomics"
+msgstr "홀로 코믹"
+
+msgid "holofiction"
+msgstr "홀로 픽션 v19.2"
+
+msgid "holofiction_desc"
+msgstr "놀라운 4D 재미"
+
+msgid "holohistorical"
+msgstr "홀로 스토리 v24.8"
+
+msgid "holohistorical_desc"
+msgstr "옛날 구경하십시오"
+
+msgid "home"
+msgstr "홈"
+
+msgid "home_station"
+msgstr "홈 스테이션"
+
+msgid "hospital_bed"
+msgstr "병원 침대"
+
+msgid "hospital_bed_desc"
+msgstr "의사가 필요한 고급 의료 시스템 포함합니다"
+
+msgid "hospitality_job"
+msgstr "환대"
+
+msgid "hospitality_tier_1"
+msgstr "빨간 셔츠와 중급 병영"
+
+msgid "hospitality_tier_2"
+msgstr "마스터 오피서 침실"
+
+msgid "hospitality_tier_3"
+msgstr "모텔"
+
+msgid "hospitality_tier_4"
+msgstr "럭셔리 호텔"
+
+msgid "hospitality_tier_5"
+msgstr "극저온 휴식"
+
+msgid "hostile"
+msgstr "적대적인"
+
+msgid "hotel_bed_must_single"
+msgstr "모텔 또는 호텔 방당 하나의 침대만 가능합니다"
+
+msgid "hotel_checkin"
+msgstr "호텔 체크인"
+
+msgid "hotel_checkin_desc"
+msgstr "이제 호텔 방을 쓸 수있어"
+
+msgid "hotelbed"
+msgstr "호텔 침대"
+
+msgid "hotelbed_desc"
+msgstr "부자 방문자를 위한 호화로운 침대. 사용하려면 호텔 체크인 데스크가 필요합니다. 오피서는 사용할 수 없습니다."
+
+msgid "hotelcheckin"
+msgstr "호텔 리셉션"
+
+msgid "hotelcheckin_desc"
+msgstr "방문자는 호텔 침대를 사용하기 전에 여기에 체크인하여 지불해야합니다."
+
+msgid "hps_label"
+msgstr "초당 힐링"
+
+msgid "hps_label_short"
+msgstr "HPS"
+
+msgid "human_federation"
+msgstr "인간 민간인"
+
+msgid "humans_adjective"
+msgstr "인간 %s"
+
+msgid "humans_adjective2"
+msgstr "인간 ~A"
+
+msgid "humans_member"
+msgstr "인간"
+
+msgid "humans_name"
+msgstr "인간"
+
+msgid "hunger"
+msgstr "굶주림"
+
+msgid "hunger_feeling_high"
+msgstr "잘 먹음"
+
+msgid "hunger_feeling_high_desc"
+msgstr "그 식사는 정말로 좋았어!"
+
+msgid "hunger_feeling_low"
+msgstr "굶주림"
+
+msgid "hunger_feeling_low_desc"
+msgstr "굶주려서 아파"
+
+msgid "hygiene"
+msgstr "위생"
+
+msgid "hygiene_feeling_high"
+msgstr "상쾌"
+
+msgid "hygiene_feeling_high_desc"
+msgstr "깨끗하니 매우 즐거워"
+
+msgid "hygiene_feeling_low"
+msgstr "심한 냄새"
+
+msgid "hygiene_feeling_low_desc"
+msgstr "사람들이 나를 피햐, 샤워햐야겠어"
+
+msgid "hygienizer_basic"
+msgstr "위생 3000"
+
+msgid "hygienizer_basic_desc"
+msgstr "깨끗하게 상쾌하게"
+
+msgid "hygienizer_max"
+msgstr "메가 샤워 5000"
+
+msgid "hygienizer_max_desc"
+msgstr "너무 깨끗해져 버려 자신을 못 알아볼수도"
+
+msgid "hygienizer_plus"
+msgstr "샤워 디럭스"
+
+msgid "hygienizer_plus_desc"
+msgstr "더 깨끗하게 더 상쾌하게"
+
+msgid "implant_01"
+msgstr "신경 OC"
+
+msgid "implant_02"
+msgstr "터겟트론++"
+
+msgid "implant_03"
+msgstr "리플렉스플러스"
+
+msgid "implant_04"
+msgstr "리플렉스플러스 라이트"
+
+msgid "implant_05"
+msgstr "ADRNL 우회"
+
+msgid "implant_06"
+msgstr "유와치 엠킬"
+
+msgid "implant_07"
+msgstr "유런 엠킬"
+
+msgid "implant_08"
+msgstr "핫 리로더"
+
+msgid "implant_09"
+msgstr "포커스인"
+
+msgid "implant_10"
+msgstr "백업 파워"
+
+msgid "implant_11"
+msgstr "스트레스릴리버"
+
+msgid "implant_12"
+msgstr "마인드익스펜더"
+
+msgid "implant_13"
+msgstr "핸드스테디어"
+
+msgid "implant_14"
+msgstr "응급 전지"
+
+msgid "implant_15"
+msgstr "파워 인젝터"
+
+msgid "implant_16"
+msgstr "위젯 3000p"
+
+msgid "implant_17"
+msgstr "엑스트라 사이트"
+
+msgid "implant_18"
+msgstr "매스 모듈레이터"
+
+msgid "implant_19"
+msgstr "메타 모듈레이터"
+
+msgid "implant_20"
+msgstr "플럭스 모듈레이터"
+
+msgid "implant_item"
+msgstr "임플란트 아이템"
+
+msgid "import_amount"
+msgstr "%s 에게 팔 %s 의 양을 입력하세요"
+
+msgid "import_amount_over_hold"
+msgstr "우주선 화물창이 너무 작습니다"
+
+msgid "import_amount_over_stock"
+msgstr "스테이션에 상점에 있는 재고를 제외한 재고가 충분하지 않습니다"
+
+msgid "import_changed_stock"
+msgstr "마지막 순간에 스테이션 재고가 변경되었으며 현재 선택한 양 미만입니다"
+
+msgid "import_invaded_planet"
+msgstr "선택한 행성이 침입을 당해서 제품을 팔 수 없습니다."
+
+msgid "import_invalid_ship_id"
+msgstr "우주선를 선택하십시오"
+
+msgid "import_invalid_ship_not_home"
+msgstr "우주선이 홈에 주차되어야 합니다"
+
+msgid "import_too_low_amount"
+msgstr "배달할 자원 양 선택"
+
+msgid "imports_current_reputation"
+msgstr "현재 명성: %d/%d"
+
+msgid "imports_donation_bonus"
+msgstr "명성 보너스: +%d"
+
+msgid "imports_donation_button"
+msgstr "기부 @ui_icon_20px_credits04.png %d"
+
+msgid "imports_hostile_donation_desc"
+msgstr "우리는 당신의 빛나는 싸구려에 관심이 없지만, 우리의 대의에 대한 기부는 우리가 당신을 조금 덜 싫어하게 만듭니다."
+
+msgid "imports_hostile_limit"
+msgstr "우리는 당신을 용납 할 것이지만, 또다시 적대적인 행동을 하면 우리의 입장을 재고 할 것입니다."
+
+msgid "imports_no_planets"
+msgstr "더 많은 태양계를 열어 이 제품에 대한 수요가 있는 행성을 발견하십시오"
+
+msgid "in_progress"
+msgstr "진행 중"
+
+msgid "in_progress_p"
+msgstr "진행 중: %d/%d"
+
+msgid "in_stasis"
+msgstr "스테이시스 중"
+
+msgid "in_storage_area"
+msgstr "저장 구역에 있음"
+
+msgid "in_use"
+msgstr "사용 중"
+
+msgid "include"
+msgstr "포함"
+
+msgid "industrialist"
+msgstr "산업 전문가"
+
+msgid "industrialist_desc2"
+msgstr "산업 전문가는 최고의 기술로 스테이션의 중공업에서 뼈 빠지게 일하며 시간을 보냅니다."
+
+msgid "inebriation"
+msgstr "취 함"
+
+msgid "infinity"
+msgstr "무한대"
+
+msgid "infinity_short"
+msgstr "무한대"
+
+msgid "info_tool"
+msgstr "정보/줌/팬"
+
+msgid "ingredient_of"
+msgstr "성분:"
+
+msgid "input"
+msgstr "투입"
+
+msgid "interiorturret"
+msgstr "큰 포탑"
+
+msgid "interiorturret_desc"
+msgstr "대형, 높은 구경 터렛"
+
+msgid "intermediate_ship_engines_parts"
+msgstr "중급 우주선 엔진 부품"
+
+msgid "intermediate_ship_hull_parts"
+msgstr "중급 우주선 선체 부품"
+
+msgid "intermediate_ship_lifesupport_parts"
+msgstr "중급 우주선 생명 유지 부품"
+
+msgid "intermediate_ship_structure_parts"
+msgstr "중급 우주선 구조 부품"
+
+msgid "interrupted_by_noise"
+msgstr "소음에 의해 중단됨"
+
+msgid "intro_1"
+msgstr ""
+"5781 AD, 인간 연합 본부, 지구\n"
+" \n"
+"반갑습니다, 오피서. 랭크 5 관료로서의 탁월한 업적이 상사에게 알려졌습니다. 당신은 은하의 미지의 한 구석에 새로운 스테이션을 건설하고 "
+"이끌도록 선택되었습니다."
+
+msgid "intro_2"
+msgstr "주변 시스템과 행성을 탐험하고, 자원을 찾고, 역경을 이겨내세요. 당신은 인간 연맹의 신뢰를 가지고 있습니다!"
+
+msgid "invaded_by"
+msgstr "%s 가 침입중"
+
+msgid "invaded_by_other_desc"
+msgstr ""
+"이 행성은 침입당했으며 자원 추출이나 상거래는 불가능합니다. 방문자들은 그 시스템에서 당신의 스테이션을 방문하지 않을 것입니다. 그것을 "
+"다시 상업화 할 수 있도록 해방하십시오."
+
+msgid "invaded_by_spatials_desc"
+msgstr "당신은 이 행성을 침입했고 당신의 통제하에 있습니다. 지어진 물건들은 더 이상 제미지를 입지 않습니다."
+
+msgid "invaderbomb"
+msgstr "시한 폭탄"
+
+msgid "invaderbomb_desc"
+msgstr "큰 폭발을 피하기 위해 이벤트 타이머가 0에 도달하기 전에 이 폭탄을 파괴하십시오"
+
+msgid "invasion_happens_alert"
+msgstr "%s 가 %s 의 %s 행성을 침입했습니다. 이 행성의 무역, 자원 추출 및 관광은 이제 봉쇄됩니다."
+
+msgid "invasion_happens_alert_spatials"
+msgstr "당신은 %s 행성에 침입했습니다. %s 의 평판은 %d만큼 감소했습니다."
+
+msgid "invasion_mission_can_invade"
+msgstr ""
+"적의 대상을 충분히 파괴하여 적대적인 행성를 침입할 수 있습니다. 옆에 진행 카운터를 확인하십시오, 100 %에 도달하면 행성이 침입 "
+"당할 것입니다. 이렇게하면 이륙 후 추출기를 그대로 유지할 수 있습니다."
+
+msgid "invasion_mission_can_liberate"
+msgstr ""
+"적들은 이 행성을 점령했으며, 모든 무역과 자원 추출을 봉쇄하고 있습니다! 그것을 해방시키기 위해 구조를 파괴하십시오. 옆에 진행 "
+"카운터를 확인하십시오, 100 %에 도달하면, 행성은 해방 될 것입니다."
+
+msgid "invasion_mission_can_liberate_done"
+msgstr "당신은 행성을 해방 시켰습니다! 거래와 자원 추출이 다시 가능합니다."
+
+msgid "invasion_mission_none"
+msgstr "이 행성은 우리와 친구입니다. 아주 좋은 이유가 없는 한 이대로 둡시다..."
+
+msgid "invasion_mission_player_invaded"
+msgstr "이 행성은 이제 침입되었습니다. 추출기는 데미지를 입지 않습니다."
+
+msgid "inventory"
+msgstr "인벤토리"
+
+msgid "inventory_in_shops"
+msgstr "상점에: ~A"
+
+msgid "inventory_locked"
+msgstr "잠김: ~A"
+
+msgid "inventory_missing_ingredients"
+msgstr "하나 이상의 성분이 충분하지 않음"
+
+msgid "inventory_on_pallets"
+msgstr "팔레트 위에: ~A"
+
+msgid "inventory_on_storage_areas"
+msgstr "저장구역: ~A"
+
+msgid "inventory_stacks"
+msgstr "스택: ~A"
+
+msgid "inventory_total"
+msgstr "총: ~A"
+
+msgid "inventory_unattended"
+msgstr "모름: ~A"
+
+msgid "item"
+msgstr "아이템"
+
+msgid "item_info_amount"
+msgstr "양: ~A"
+
+msgid "item_inventory_shortcut"
+msgstr "@ui_icon_30px_cargo.png 인벤토리 상태"
+
+msgid "item_level"
+msgstr "레벨 ~A"
+
+#, fuzzy
+msgid "item_power_single"
+msgstr "~A ~A"
+
+msgid "item_prefix_epic"
+msgstr "에픽"
+
+msgid "item_prefix_legendary"
+msgstr "전설"
+
+msgid "item_prefix_powerful"
+msgstr "강한"
+
+msgid "item_prefix_rare"
+msgstr "레어"
+
+msgid "item_prefix_strong"
+msgstr "힘센"
+
+msgid "itemforge"
+msgstr "아이템 단조"
+
+msgid "itemforge_desc"
+msgstr "갑옷, 임플란트 및 무기 제조"
+
+msgid "jewellery"
+msgstr "보석류"
+
+msgid "job_matrix"
+msgstr "작업 매트릭스"
+
+msgid "job_matrix_click_officer_name"
+msgstr "지도에서 보기"
+
+msgid "job_matrix_click_officer_portrait"
+msgstr "스태프 보기"
+
+msgid "job_matrix_job_tip"
+msgstr ""
+"~A\n"
+"우선 순위: ~A"
+
+msgid "job_matrix_per_job_prio_disabled"
+msgstr "이 오피서에 글로벌 작업 우선 순위를 사용"
+
+msgid "job_matrix_per_job_prio_enabled"
+msgstr "이 오피서에 개별 직업 우선 순위 사용"
+
+msgid "job_matrix_prompt_officer_prio"
+msgstr "작업 우선 순위 값을 입력하십시오 (1 - 99 또는 0)."
+
+msgid "job_speed"
+msgstr "속도: ~0,2Fx"
+
+msgid "job_tier_1"
+msgstr "등급 1"
+
+msgid "job_tier_2"
+msgstr "등급 2"
+
+msgid "job_tier_3"
+msgstr "등급 3"
+
+msgid "job_tier_current_xp"
+msgstr "현재 XP"
+
+msgid "job_tier_rating"
+msgstr "등급"
+
+msgid "job_tier_speed"
+msgstr "속도"
+
+msgid "job_warn_no_credits"
+msgstr "크레딧이 충분하지 않습니다."
+
+msgid "job_warn_no_recipe"
+msgstr "생산을 활성화하려면 레시피를 선택하십시오."
+
+msgid "job_warn_no_resources3"
+msgstr "~A 의 재고가 없거나 경로가 없습니다"
+
+msgid "job_warn_no_resources4"
+msgstr "자원의 재고가 없거나 경로가 없습니다"
+
+msgid "job_warn_wait_worker"
+msgstr "자격을 갖춘 오피서를 기다리는 중입니다."
+
+msgid "job_warning"
+msgstr "경고"
+
+msgid "jobs"
+msgstr "직업"
+
+msgid "jobs_enable_manual_prio"
+msgstr "수동 우선 순위 사용"
+
+msgid "juice"
+msgstr "주스"
+
+msgid "jukebox"
+msgstr "쥬크 박스"
+
+msgid "jukebox_desc"
+msgstr "아무도 보지 않는 것처럼 좋아하는 노래와 춤을 선택하십시오"
+
+msgid "k_thousands"
+msgstr "K"
+
+msgid "kb_build_rotate_left"
+msgstr "건설: 왼쪽으로 회전"
+
+msgid "kb_build_rotate_right"
+msgstr "건설: 오른쪽으로 회전"
+
+msgid "kb_combat_mode"
+msgstr "전투 모드 토글"
+
+msgid "kb_group_1"
+msgstr "그룹 1 선택"
+
+msgid "kb_group_2"
+msgstr "그룹 2 선택"
+
+msgid "kb_group_3"
+msgstr "그룹 3 선택"
+
+msgid "kb_group_4"
+msgstr "그룹 4 선택"
+
+msgid "kb_group_5"
+msgstr "그룹 5 선택"
+
+msgid "kb_group_6"
+msgstr "그룹 6 선택"
+
+msgid "kb_set_attack_target"
+msgstr "액션: 공격 목표 설정"
+
+msgid "kb_set_cc_target"
+msgstr "액션: 군중 제어 타겟을 설정"
+
+msgid "kb_set_heal_target"
+msgstr "액션: 힐링 목표 설정"
+
+msgid "kb_set_shield_target"
+msgstr "액션: 쉴딩 타겟을 설정"
+
+msgid "kb_teleport_to"
+msgstr "액션: 순간 이동"
+
+msgid "keep_slot_empty"
+msgstr "선택한 슬롯 또는 시트를 비워 두십시오"
+
+msgid "key_unbind"
+msgstr "바인딩 해제"
+
+msgid "knowledge"
+msgstr "지식"
+
+msgid "kowka_desc"
+msgstr ""
+"사회주의 노동의 영웅. 그녀는 20 세기에 실험으로 우주로 보내졌지만 신비하게도 38 세기 동안 살아 남았고 이제는 그녀 주위의 로봇을 "
+"모은다."
+
+msgid "kowka_guard"
+msgstr "코와카 가드"
+
+msgid "kowka_guard_desc"
+msgstr "코와카의 개인 로봇 군대가 스테이션에서 돕고 있습니다."
+
+msgid "lactian_adjective"
+msgstr "락티안 %s"
+
+msgid "lactian_adjective2"
+msgstr "락티안 ~A"
+
+msgid "lactian_leaflets"
+msgstr "락티안 전단지"
+
+msgid "lactian_leaflets_desc"
+msgstr "락투스 숭배, 우리의 신성한 우유. 재활용 가능."
+
+msgid "lactian_member"
+msgstr "락티안"
+
+msgid "lactians_name"
+msgstr "락티안"
+
+msgid "landing"
+msgstr "착륙..."
+
+msgid "landing_start"
+msgstr "@ui_icon_30px_aterrizaje.png 탐험"
+
+msgid "language"
+msgstr "언어"
+
+msgid "latest_save"
+msgstr "최근 저장: %s"
+
+msgid "lemurian_adjective"
+msgstr "레뮤리안 %s"
+
+msgid "lemurian_adjective2"
+msgstr "레뮤리안 ~A"
+
+msgid "lemurian_domain"
+msgstr "레뮤리안 영역"
+
+msgid "lemurian_member"
+msgstr "레뮤리안"
+
+msgid "lemurian_name"
+msgstr "레뮤리안"
+
+msgid "level_n"
+msgstr "레벨 %d"
+
+msgid "level_n_paren"
+msgstr " (레벨 %d)"
+
+msgid "liberation_happens_alert_spatials"
+msgstr "당신은 %s 행성을 해방 시켰습니다. %s의 평판은 %d만큼 증가했으며 %s의 평판은 %d만큼 감소했습니다."
+
+msgid "liberty_desc"
+msgstr "자유와 용기. 생존자는 동물 실험을 해본 38 년 동안 오래 전에 지켜 보았지만 지금은 어디에서나 기쁨을 선사합니다."
+
+msgid "libery_name"
+msgstr "리버티"
+
+msgid "library_table"
+msgstr "도서관 테이블"
+
+msgid "library_table_desc"
+msgstr "독서를 위한 고요하고 조용한 탁자"
+
+msgid "list"
+msgstr "리스트"
+
+msgid "litter"
+msgstr "쓰레기"
+
+msgid "litter_desc"
+msgstr "리사이클러에 접근 할 수있는 클리너는 이 쓰레기를 제거 할 수 있습니다"
+
+msgid "load_game"
+msgstr "게임 로드"
+
+msgid "local"
+msgstr "지역"
+
+msgid "locked"
+msgstr "잠김"
+
+msgid "lunch_shop"
+msgstr "식당 음식"
+
+msgid "lunch_shop_desc"
+msgstr "음식이 여기에서 제공됩니다."
+
+msgid "luxury_clothes"
+msgstr "고급 옷"
+
+msgid "luxury_clothes_desc"
+msgstr "생명공학으로 만든 고급 섬유덕에 의도적으로 멸종했습니다"
+
+msgid "luxury_dinner"
+msgstr "럭셔리 디너"
+
+msgid "luxury_display"
+msgstr "럭셔리 디스플레이"
+
+msgid "luxury_display_desc"
+msgstr "귀중한 보석 및 유물"
+
+msgid "luxury_kitchen"
+msgstr "럭셔리 주방"
+
+msgid "m_millions"
+msgstr "M"
+
+msgid "macarons"
+msgstr "마카롱"
+
+msgid "macosx_experimental"
+msgstr "이 옵션은 실험중입니다! 다중 모니터 설정 및 일부 확장 모드에서는 올바르게 작동하지 않습니다."
+
+msgid "macosx_retina"
+msgstr ""
+"Mac OS X\n"
+"Retina 지원"
+
+msgid "main_menu"
+msgstr "메인 메뉴"
+
+msgid "maintenance_robot"
+msgstr "유지 보수 로봇"
+
+msgid "make_active_absorb"
+msgstr "엑티브 흡수 아이템 L~A-L~A 제조"
+
+msgid "make_active_control"
+msgstr "엑티브 제어 아이템 L~A-L~A 제조"
+
+msgid "make_active_damage"
+msgstr "엑티브 데미지 아이템 L~A-L~A 제조"
+
+msgid "make_active_healing"
+msgstr "엑티브 힐링 아이템 L~A-L~A 제조"
+
+msgid "make_chest"
+msgstr "가슴 아이템 L~A-L~A 제조"
+
+msgid "make_feet"
+msgstr "발 아이템 L~A-L~A 제조"
+
+msgid "make_fuel_cell"
+msgstr "연료 전지 제조"
+
+msgid "make_hands"
+msgstr "손 아이템 L~A-L~A 제조"
+
+msgid "make_implant"
+msgstr "임플란트 아이템 L~A-L~A 제조"
+
+msgid "make_owned_action"
+msgstr "~A 소유"
+
+msgid "make_owner_action"
+msgstr "~A 소유"
+
+msgid "make_repair_part"
+msgstr "수리 부품 제조"
+
+msgid "map_scroll_down"
+msgstr "지도 스크롤 다운"
+
+msgid "map_scroll_left"
+msgstr "지도 왼쪽 스크롤"
+
+msgid "map_scroll_right"
+msgstr "지도 오른쪽 스크롤"
+
+msgid "map_scroll_up"
+msgstr "지도 스크롤 업"
+
+msgid "master_spec"
+msgstr "마스터 스펙"
+
+msgid "max_3char"
+msgstr "최대"
+
+msgid "max_stack_size"
+msgstr "최대 재고 사이즈: ~A"
+
+msgid "max_stock"
+msgstr "최대 재고"
+
+msgid "mead"
+msgstr "벌꿀 술"
+
+msgid "meat"
+msgstr "고기"
+
+msgid "meat_node"
+msgstr "고기 노드"
