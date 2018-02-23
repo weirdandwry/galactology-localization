@@ -2,454 +2,334 @@ msgid "guide_first_station_intro_title"
 msgstr "Your first station"
 
 msgid "guide_first_station_intro"
-Welcome to The Spatials: Galactology!
-
-In this guide you will find out how to start your first station, and then some chapters with more in depth information on the various game systems.
-
-If your game has just been started you can also follow the tutorial windows in each game screen. They replicate many of the first steps described here. If you ignored them and are confused it would be a good idea to start a new game from scratch and follow all the tutorials before you start a station for good.
+msgstr "Welcome to The Spatials: Galactology!\n\n"
+"In this guide you will find out how to start your first station, and then some chapters with more in depth information on the various game systems.\n\n"
+"If your game has just been started you can also follow the tutorial windows in each game screen. They replicate many of the first steps described here. If you ignored them and are confused it would be a good idea to start a new game from scratch and follow all the tutorials before you start a station for good."
 
 msgid "guide_first_station_basics_title"
 msgstr "Basics and building"
 
 msgid "guide_first_station_basics"
-The very first steps of any new station are building your initial rooms. Many of the objects your staff will use in their daily life and work need a proper shelter, so it is important to first learn what makes a room in Galactology.
-
-A room is well defined when its entire ground is covered in floor tiles, and its entire perimeter is composed of wall segments and/or doors.
-
-You make use of two tools for building rooms: the Floor Tool and the Walls Tool.
-
-The Floor Tool allows you to draw a floorplan either tile by tile or by dragging the mouse left button to draw a rectangle of tiles. Select the floor and room style you want from the listing, and if desired, a highlight color in the top bar. When drawing on the map you can also press Shift to toggle the eraser mode, or Alt plus clicking on an existing floor tile to copy its style and color. You can mix and match all kinds of floor tiles.
-
-The Wall Tool allows you to draw a wall blueprint either tile by tile or by dragging the mouse left button to draw an axis aligned line of tiles. Select the wall kind. Shift for eraser, and Alt for copying also works with the Wall Tool. And you can also mix any kind of wall.
-
-Both tools produce a blueprint. This blueprint serves a workplace indicator for your officers and it is not functional as a part of a room.
-
-The build mode visualization is active while a build tool is selected. In this mode a grid is displayed over the map, and the game will also overlay a green color over areas detected to be a properly formed room. A noise and aesthetical value will be assigned to each room depending on its contents and floor tile choices.
-
-An empty but well formed room is only the start. Next you will need to build some objects and that is the job of the Object Tool.
-
-The Object Tool allows you to place an object blueprint. Select an object category, then select an object from the list. Shift and Alt perform the same functions as in the other building tools.
-
-Placing a blueprint will create a construction job most of the time, even if some conditions are not meet for a valid construction. Clicking on the blueprint will reveal any errors and why a construction job is stopped, if that is the case.
-
+msgstr "The very first steps of any new station are building your initial rooms. Many of the objects your staff will use in their daily life and work need a proper shelter, so it is important to first learn what makes a room in Galactology.\n\n"
+"A room is well defined when its entire ground is covered in floor tiles, and its entire perimeter is composed of wall segments and/or doors.\n\n"
+"You make use of two tools for building rooms: the Floor Tool and the Walls Tool.\n\n"
+"The Floor Tool allows you to draw a floorplan either tile by tile or by dragging the mouse left button to draw a rectangle of tiles. Select the floor and room style you want from the listing, and if desired, a highlight color in the top bar. When drawing on the map you can also press Shift to toggle the eraser mode, or Alt plus clicking on an existing floor tile to copy its style and color. You can mix and match all kinds of floor tiles.\n\n"
+"The Wall Tool allows you to draw a wall blueprint either tile by tile or by dragging the mouse left button to draw an axis aligned line of tiles. Select the wall kind. Shift for eraser, and Alt for copying also works with the Wall Tool. And you can also mix any kind of wall.\n\n"
+"Both tools produce a blueprint. This blueprint serves a workplace indicator for your officers and it is not functional as a part of a room.\n\n"
+"The build mode visualization is active while a build tool is selected. In this mode a grid is displayed over the map, and the game will also overlay a green color over areas detected to be a properly formed room. A noise and aesthetical value will be assigned to each room depending on its contents and floor tile choices.\n\n"
+"An empty but well formed room is only the start. Next you will need to build some objects and that is the job of the Object Tool.\n\n"
+"The Object Tool allows you to place an object blueprint. Select an object category, then select an object from the list. Shift and Alt perform the same functions as in the other building tools.\n\n"
+"Placing a blueprint will create a construction job most of the time, even if some conditions are not meet for a valid construction. Clicking on the blueprint will reveal any errors and why a construction job is stopped, if that is the case."
 
 msgid "guide_first_station_rations_title"
-        Setting up rations
+msgstr "Setting up rations"
 
 msgid "guide_first_station_rations"
-
-Let's take a look at how to produce rations, as an example on how production works.
-
-One of the main tasks for your station is manufacturing products. You extract resources from planets and process them in your station into products. Those products can then be consumed by your officers, sold to visitors, or sold to planets.
-
-Basic Rations is the first food product you can make. It will satisfy the Hunger vital for your officers. Producing Basic Rations requires Fruits, of which you have a starter stack when creating a new game.
-
-To produce one or more Basic Rations you will need to build a Basic Kitchen. Once it is built, click it with the Info Tool. In the options panel you will be able to add a new production order by selecting which recipe you want to produce and which amount.
-
-A factory object like the Basic Kitchen will create tasks for your officers when it detects all the required ingredients for its current production order are in stock somewhere in the station. Then, if one of your officers has the right job enabled (and by default all redshirts have all jobs enabled), they will first load the factory object with the required ingredients and then start producing the work order, one product unit at a time.
-
-It is possilbe to automate the creation of production orders. First set one or more factory objects to global mode with the Info Tool. Then, in the Inventory Window, select the product you want to automate, and input a desired minimal stock amount. The game will try to keep that stock amount by issuing production orders to the factories set to global production.
-
-It is not enough to produce rations, you also need to provide a place for your officers to consume them. Build one or more Canteen Tables so your officers can sit down to enjoy a meal and a drink. It is also a good idea to build food dispensers nearby, like the Canteen food and drink objects.
+msgstr "Let's take a look at how to produce rations, as an example on how production works.\n\n"
+"One of the main tasks for your station is manufacturing products. You extract resources from planets and process them in your station into products. Those products can then be consumed by your officers, sold to visitors, or sold to planets.\n\n"
+"Basic Rations is the first food product you can make. It will satisfy the Hunger vital for your officers. Producing Basic Rations requires Fruits, of which you have a starter stack when creating a new game.\n\n"
+"To produce one or more Basic Rations you will need to build a Basic Kitchen. Once it is built, click it with the Info Tool. In the options panel you will be able to add a new production order by selecting which recipe you want to produce and which amount.\n\n"
+"A factory object like the Basic Kitchen will create tasks for your officers when it detects all the required ingredients for its current production order are in stock somewhere in the station. Then, if one of your officers has the right job enabled (and by default all redshirts have all jobs enabled), they will first load the factory object with the required ingredients and then start producing the work order, one product unit at a time.\n\n"
+"It is possible to automate the creation of production orders. First set one or more factory objects to global mode with the Info Tool. Then, in the Inventory Window, select the product you want to automate, and input a desired minimal stock amount. The game will try to keep that stock amount by issuing production orders to the factories set to global production.\n\n"
+"It is not enough to produce rations, you also need to provide a place for your officers to consume them. Build one or more Canteen Tables so your officers can sit down to enjoy a meal and a drink. It is also a good idea to build food dispensers nearby, like the Canteen food and drink objects."
 
 msgid "guide_first_station_landing_title"
-    Exploration and extraction
+msgstr "Exploration and extraction"
 
 msgid "guide_first_station_landing"
-
-The station needs a steady supply of resources to keep production going. No resources grow in your home planet, so you have to look for them in other planets. Fortunately there is an entire galaxy around you, with many star systems and planets to explore.
-
-The galaxy screen has two zoom levels. The default zoom level shows an overview of the entire galaxy, with your home system always in the center of the screen. You can zoom into discovered star systems by clicking on their star.
-
-In the system view you can see its planets orbiting the star. If any of your ships is in this system they will be parked next to a planet. Other ships will be displayed in a circle around the system, so you can always interact with your fleet from any system.
-
-To issue manual travel orders to a ship, drag and drop its icon on top of a planet. This will issue a travel order and the ship will leave your station or its current parked planet and travel to its new destination.
-
-Once a ship is parked over a planet it becomes possible to explore it. Click on a planet to open its info window, then click the Explore button.
-
-When exploring a planet your ship crew descends on to its surface and is able to move around, fight and build objects. This is important because in order to be able to extract resources, you need to build a resource extractor next to resource nodes. Resource nodes are areas on the surface of the planet with a disguishing aspect. Click on them to discover which resource they store, then build a extractor next to them, making sure you cover the entire area. Building more extractors over a given area will not make extraction go any faster.
-
-It is also a good idea to build Storage objects on planets to increase the storage capacity. Your ships may take a long time to visit back, so it is easy to exceed the small storage capacity of an extractor object.
-
+msgstr "The station needs a steady supply of resources to keep production going. No resources grow in your home planet, so you have to look for them in other planets. Fortunately there is an entire galaxy around you, with many star systems and planets to explore.\n\n"
+"The galaxy screen has two zoom levels. The default zoom level shows an overview of the entire galaxy, with your home system always in the center of the screen. You can zoom into discovered star systems by clicking on their star.\n\n"
+"In the system view you can see its planets orbiting the star. If any of your ships is in this system they will be parked next to a planet. Other ships will be displayed in a circle around the system, so you can always interact with your fleet from any system.\n\n"
+"To issue manual travel orders to a ship, drag and drop its icon on top of a planet. This will issue a travel order and the ship will leave your station or its current parked planet and travel to its new destination.\n\n"
+"Once a ship is parked over a planet it becomes possible to explore it. Click on a planet to open its info window, then click the Explore button.\n\n"
+"When exploring a planet your ship crew descends on to its surface and is able to move around, fight and build objects. This is important because in order to be able to extract resources, you need to build a resource extractor next to resource nodes. Resource nodes are areas on the surface of the planet with a distinguishing aspect. Click on them to discover which resource they store, then build a extractor next to them, making sure you cover the entire area. Building more extractors over a given area will not make extraction go any faster.\n\n"
+"It is also a good idea to build Storage objects on planets to increase the storage capacity. Your ships may take a long time to visit back, so it is easy to exceed the small storage capacity of an extractor object."
 
 msgid "guide_first_station_autopilot_title"
-        Autopilot
+msgstr "Autopilot"
 
 msgid "guide_first_station_autopilot"
-
-Delivering extracted resources with manual travel orders would be very tedius. You can make use of the ship autopilot feature to automate the delivery of extracted resources to your station.
-
-To open the autopilot orders window, go to the galaxy screen and click on a ship icon. This window displays a listing of autopilot orders. Each order is a stop the ship will make when you enable the autopilot, using the Start Autopilot button.
-
-To add orders to the autopilot click the first button in the window toolbar, Add Order. This will display a listing of all the planets you have explored and built an extractor. Select a planet to add a new autopilot order. You can add as many orders as you want to any ship, but keep in mind its cargo hold capacity and its speed. Too many orders will make for a long, slow route which can be inefficient with early model ships.
-
-Autopiloted ships automatically head back home when their cargo hold is full, or when its crew average morale falls below 25%. Once it has unloaded its cargo and its crew has rested it will resume its travels from the same point.
-
-Ship crews take their needs very seriously when they are resting in the station, and will often priorize sleeping or eating before any kind of work task. Keep it in mind!
-
+msgstr "Delivering extracted resources with manual travel orders would be very tedious. You can make use of the ship autopilot feature to automate the delivery of extracted resources to your station.\n\n"
+"To open the autopilot orders window, go to the galaxy screen and click on a ship icon. This window displays a listing of autopilot orders. Each order is a stop the ship will make when you enable the autopilot, using the Start Autopilot button.\n\n"
+"To add orders to the autopilot click the first button in the window toolbar, Add Order. This will display a listing of all the planets you have explored and built an extractor. Select a planet to add a new autopilot order. You can add as many orders as you want to any ship, but keep in mind its cargo hold capacity and its speed. Too many orders will make for a long, slow route which can be inefficient with early model ships.\n\n"
+"Autopiloted ships automatically head back home when their cargo hold is full, or when its crew average morale falls below 25%. Once it has unloaded its cargo and its crew has rested it will resume its travels from the same point.\n\n"
+"Ship crews take their needs very seriously when they are resting in the station, and will often prioritize sleeping or eating before any kind of work task. Keep it in mind!"
 
 msgid "guide_first_station_credits_title"
 msgstr "Making money"
 
 msgid "guide_first_station_credits"
-
-Your initial cash will run out sooner or later. While it is not an urgent need at the very start, making money should be one of your priorities in the early game. Many actions have a price to be paid in credits, the currency of the galaxy.
-
-The most straightforward way of making money is to sell products you make in your station to other planets. This is accomplished in the Sell tab of in the Civs screen. Different civs like different products. Select a product you are stocking in your station, then a planet that has a demand for it. If you have available stock and a free ship you can send a delivery right away and get paid once the ship arrives.
-
-Goals always have a cash reward, and they hit on many different areas of the game. Completing goals will both net you some income and guide your station development.
-
-A hands on approach to riches is plain old plundering. When you visit an hostile planet and defeat enemies they will sometimes drop items. These items can be resources, equipment or some cash.
-
-Once you are confident in your production and station facilities it could be a good idea to build some visitor docks so tourists can land in your station. They will come flush with cash. The more their civ likes you, the larger their wallets.
+msgstr "Your initial cash will run out sooner or later. While it is not an urgent need at the very start, making money should be one of your priorities in the early game. Many actions have a price to be paid in credits, the currency of the galaxy.\n\n"
+"The most straightforward way of making money is to sell products you make in your station to other planets. This is accomplished in the Sell tab of in the Civs screen. Different civs like different products. Select a product you are stocking in your station, then a planet that has a demand for it. If you have available stock and a free ship you can send a delivery right away and get paid once the ship arrives.\n\n"
+"Goals always have a cash reward, and they hit on many different areas of the game. Completing goals will both net you some income and guide your station development.\n\n"
+"A hands on approach to riches is plain old plundering. When you visit an hostile planet and defeat enemies they will sometimes drop items. These items can be resources, equipment or some cash.\n\n"
+"Once you are confident in your production and station facilities it could be a good idea to build some visitor docks so tourists can land in your station. They will come flush with cash. The more their civ likes you, the larger their wallets."
 
 msgid "guide_officers_intro_title"
-    Officers
+msgstr "Officers"
 
 msgid "guide_officers_intro"
-Your officer staff is your most valuable asset. They will build, fight and work under your orders. But you must also provide for them by making sure their needs and demands are met. Expect a mutiny if you don't!
-
-You can recruit new officers in the Staff screen, selecting Recruit in the left column. Every officer you recruit has a contract price, and it goes up the bigger your staff is. There is no limit to the amount of officers you can have, only the capacity of your station and production to keep them happy and busy.
+msgstr "Your officer staff is your most valuable asset. They will build, fight and work under your orders. But you must also provide for them by making sure their needs and demands are met. Expect a mutiny if you don't!\n\n"
+"You can recruit new officers in the Staff screen, selecting Recruit in the left column. Every officer you recruit has a contract price, and it goes up the bigger your staff is. There is no limit to the amount of officers you can have, only the capacity of your station and production to keep them happy and busy."
 
 
 msgid "guide_officers_vitals_title"
-    Vitals and mind
+msgstr "Vitals and mind"
 
 msgid "guide_officers_vitals"
-
-Officers (and other entities like visitors) have vital needs. They are represented as bars with a value going from 0 to 100. Vitals model basic needs like hunger, thirst or hygiene. The station facilites and production must make it possible for officers to keep their vitals at a high value. For example to make sure your officer's hunger does not get too low, provide them with food and with tables to sit down to enjoy their meal.
-
-Officers can also have a mind of their own. The Mind vital is calculated from the effect of Feelings on your officers. A wide variety of conditions can add Feelings to officers. For example, enjoying a meal and hitting a high value of Hunger will create a positive feeling. Not getting paid a salary will create a negative feeling that gets worse with time.
-
-Mind is the most important vital, and it is calculated as the total sum of the feelings. Then, instead of being applied inmmediately, its value is slowly averaged over time, so a crysis has no immediate effects.
+msgstr "Officers (and other entities like visitors) have vital needs. They are represented as bars with a value going from 0 to 100. Vitals model basic needs like hunger, thirst or hygiene. The station facilities and production must make it possible for officers to keep their vitals at a high value. For example to make sure your officer's hunger does not get too low, provide them with food and with tables to sit down to enjoy their meal.\n\n"
+"Officers can also have a mind of their own. The Mind vital is calculated from the effect of Feelings on your officers. A wide variety of conditions can add Feelings to officers. For example, enjoying a meal and hitting a high value of Hunger will create a positive feeling. Not getting paid a salary will create a negative feeling that gets worse with time.\n\n"
+"Mind is the most important vital, and it is calculated as the total sum of the feelings. Then, instead of being applied immediately, its value is slowly averaged over time, so a crisis has no immediate effects."
 
 
 msgid "guide_officers_specs_title"
-Specs and demands
+msgstr "Specs and demands"
 
 msgid "guide_officers_specs"
-
-Your officers join your station because they want to live an exciting career as space adventurers, and expect to be promoted in their jobs as they get better. Performing a job will give more experience points (XP) to an officer in that job. At some point those XP will be enough to promote the officer into a new specialization (spec).
-
-Specs are very important because more specialized officers also get extra perks. They are able to equip more items, and can get even more XP in some jobs. Getting more XP also means they work faster and for some professions they will also be able to manufacture more challenging products.
-
-Specs are divided in 3 categories: redshirts, graduates and masters. Redshirts are the base spec for all officers. They are able to perform all the jobs in the station and excel at none of them. Gaining enough experience in any job will make it possible for a redshirt to be promoted into a graduate. Graduates are the first level of specialization. A graduate becomes incapable of performing some jobs, but at the same time they gain new item slots, higher XP caps, higher base hitpoints and power, higher productivity with difficult recipes, and the all important color uniform for their spec. Graduates in turn can gain enough XP to become a master. Masters are the ultimate professionals of your station. They will be several times faster than a redshirt at their jobs and have the highest multipliers.
-
-All officers have demands. Redshirts will demand a base salary and nothing else. They will be happy to pick a random bed every time they are sleepy in any room. Graduates will demand a higher salary plus a private bed, but they will be OK with sleeping in a barrack, as long as it is a nice one. Master officers will demand a private room with a luxury bed, several special decorations, and a high aesthetical value.
+msgstr "Your officers join your station because they want to live an exciting career as space adventurers, and expect to be promoted in their jobs as they get better. Performing a job will give more experience points (XP) to an officer in that job. At some point those XP will be enough to promote the officer into a new specialization (spec).\n\n"
+"Specs are very important because more specialized officers also get extra perks. They are able to equip more items, and can get even more XP in some jobs. Getting more XP also means they work faster and for some professions they will also be able to manufacture more challenging products.\n\n"
+"Specs are divided in 3 categories: redshirts, graduates and masters. Redshirts are the base spec for all officers. They are able to perform all the jobs in the station and excel at none of them. Gaining enough experience in any job will make it possible for a redshirt to be promoted into a graduate. Graduates are the first level of specialization. A graduate becomes incapable of performing some jobs, but at the same time they gain new item slots, higher XP caps, higher base hitpoints and power, higher productivity with difficult recipes, and the all important color uniform for their spec. Graduates in turn can gain enough XP to become a master. Masters are the ultimate professionals of your station. They will be several times faster than a redshirt at their jobs and have the highest multipliers.\n\n"
+"All officers have demands. Redshirts will demand a base salary and nothing else. They will be happy to pick a random bed every time they are sleepy in any room. Graduates will demand a higher salary plus a private bed, but they will be OK with sleeping in a barrack, as long as it is a nice one. Master officers will demand a private room with a luxury bed, several special decorations, and a high aesthetical value."
 
 msgid "guide_officers_jobs_title"
-Jobs
+msgstr "Jobs"
 
 msgid "guide_officers_jobs"
-
-There is a lot of work for your officers in the station. They will spend most of their time there working. The complete list of jobs can be accessed in the Staff screen on a per officer basis, which also displays the current XP progression for the job. There it is also possible to enable or disable a job for an officer. Check the Job matrix section for more information.
-
-Jobs are usually offered by station objects. When a job is not active or has some missing requeriments an orange warning icon is displayed over the object. Click the object for more information. Jobs often require access to one or more resources. If those resources are not available the job will not start and no officer will try to perform it. Your officers will be tasked with fetching the required resources before they start working on a job. You can speed this up by building pallets around your factory objects to directly provide them.
-
-Idle officers will try to find jobs to do, but vital needs always come before work. This is specially relevant for space ship crews on a break, which will focus much more on having their vitals at a high level compared to station dwellers.
+msgstr "There is a lot of work for your officers in the station. They will spend most of their time there working. The complete list of jobs can be accessed in the Staff screen on a per officer basis, which also displays the current XP progression for the job. There it is also possible to enable or disable a job for an officer. Check the Job matrix section for more information.\n\n"
+msgstr "Jobs are usually offered by station objects. When a job is not active or has some missing requirements an orange warning icon is displayed over the object. Click the object for more information. Jobs often require access to one or more resources. If those resources are not available the job will not start and no officer will try to perform it. Your officers will be tasked with fetching the required resources before they start working on a job. You can speed this up by building pallets around your factory objects to directly provide them.\n\n"
+"Idle officers will try to find jobs to do, but vital needs always come before work. This is specially relevant for space ship crews on a break, which will focus much more on having their vitals at a high level compared to station dwellers."
 
 msgid "guide_officers_items_title"
-    Equipment
+msgstr "Equipment"
 
 msgid "guide_officers_items"
-
-Equipping armor and weapons is the main way you can make your officers more powerful and resilient in combat. Wearable items are unique items that you can find in planet exploration loot, from dead enemies, and you can produce in your item factories.
-
-They can be equipped in different slots like the chest or the feet. When your officers progress into a higher spec new slots become available to equip new items. Items are one time use only. Once equipped they cannot be droped, only overwritten by another item.
-
-Items can enhance two properties of your officers. Hit points determine how much damage they can take from attacks. Power boosts their active item in whatever action they take. The total sum of these values is taken from all the equipped items for a given officer. Items also have a level number and optionally can also have a rarity qualifier. The level number of an item is a good indidcator of its power against same level enemies, so keep it in mind when exploring a planet.
-
-Active items are used by your officers in combat. They have four possible actions: damage, healing, control and shielding. Damage items are used for attacking enemies. Healing items heal hitpoints on friendly units. Control items can stop enemies from attacking in various ways. Shielding items create a temporary shield around friendly units that absorbs damage from enemies. Officer AI is capable of controlling and using any kind of item by itself, but so are enemies.
-
+msgstr "Equipping armor and weapons is the main way you can make your officers more powerful and resilient in combat. Wearable items are unique items that you can find in planet exploration loot, from dead enemies, and you can produce in your item factories.\n\n"
+"They can be equipped in different slots like the chest or the feet. When your officers progress into a higher spec new slots become available to equip new items. Items are one time use only. Once equipped they cannot be dropped, only overwritten by another item.\n\n"
+"Items can enhance two properties of your officers. Hit points determine how much damage they can take from attacks. Power boosts their active item in whatever action they take. The total sum of these values is taken from all the equipped items for a given officer. Items also have a level number and optionally can also have a rarity qualifier. The level number of an item is a good indicator of its power against same level enemies, so keep it in mind when exploring a planet.\n\n"
+"Active items are used by your officers in combat. They have four possible actions: damage, healing, control and shielding. Damage items are used for attacking enemies. Healing items heal hitpoints on friendly units. Control items can stop enemies from attacking in various ways. Shielding items create a temporary shield around friendly units that absorbs damage from enemies. Officer AI is capable of controlling and using any kind of item by itself, but so are enemies."
 
 msgid "guide_tools_intro_title"
-Tools
+msgstr "Tools"
 
 msgid "guide_tools_intro"
-
-Every interaction you have with a game map is performed by the use of a tool. You will use tools to design your station, give orders, inspect objects and officers, etc. Tools are found in the toolbar to the left of the Station and Planet screens, and can display a panel in the right side of the screen and in the bottom side.
+msgstr "Every interaction you have with a game map is performed by the use of a tool. You will use tools to design your station, give orders, inspect objects and officers, etc. Tools are found in the toolbar to the left of the Station and Planet screens, and can display a panel in the right side of the screen and in the bottom side."
 
 msgid "guide_tools_info_title"
-Info Tool
+msgstr "Info Tool"
 
 msgid "guide_tools_info"
-
-The Info Tool is the basic inspection and interaction mechanism in the game. With the Info Tool selected you can use your click on objects and entitites on the map to select them. Doing so will display an information panel in the right side of the screen. The contents of this panel will vary depending on the kind of entity you are selecting. For example officers will display a brief overview of the information displayed in the Staff screen. This panel is also divided in tabs, and many entities will have more than one. For example many objects will have a description tab with the same information displayed in the Build Tool. A fixed header area is present in most entitites and displays the name and basic information like hit points or the civilization of origin of the entity.
-
-It is possible to select more than one officer. Click an officer, then shift click on another officer to add it to the selection. It is also possible to drag the mouse while pressing the left mouse button to select more than one officer. Group selections do not display the info panels. Instead a compact listing of all the selected officers is displayed, along with their HP and weapon cooldown, grouped by combat role. This feature is meant to be used in combat situations.
-
-Some entities display an action bar in the bottom part of the screen when selected with the Info Tool. The action bar is used to give commands to these entities. For example the walk order is usually available in player entities, and it is also bound to the right mouse button. Check the Combat section for more information on combat related actions.
+msgstr "The Info Tool is the basic inspection and interaction mechanism in the game. With the Info Tool selected you can use your click on objects and entities on the map to select them. Doing so will display an information panel in the right side of the screen. The contents of this panel will vary depending on the kind of entity you are selecting. For example officers will display a brief overview of the information displayed in the Staff screen. This panel is also divided in tabs, and many entities will have more than one. For example many objects will have a description tab with the same information displayed in the Build Tool. A fixed header area is present in most entities and displays the name and basic information like hit points or the civilization of origin of the entity.\n\n"
+"It is possible to select more than one officer. Click an officer, then shift click on another officer to add it to the selection. It is also possible to drag the mouse while pressing the left mouse button to select more than one officer. Group selections do not display the info panels. Instead a compact listing of all the selected officers is displayed, along with their HP and weapon cooldown, grouped by combat role. This feature is meant to be used in combat situations.\n\n"
+"Some entities display an action bar in the bottom part of the screen when selected with the Info Tool. The action bar is used to give commands to these entities. For example the walk order is usually available in player entities, and it is also bound to the right mouse button. Check the Combat section for more information on combat related actions."
 
 msgid "guide_tools_build_title"
-Build tools
+msgstr "Build tools"
 
 msgid "guide_tools_build"
-
-Building is the most basic player task, and the first to accomplish a working station. The basic building structure of your station are rooms. Rooms are enclosed spaces that must be delimited only by walls and/or doors, and their ground must be entirely covered in floor tiles. Both walls and tiles can be of any kind.
-
-The Floor Tool allows you to draw floor tiles on the map. First select the floor kind you are interested in, then click once on the map to draw a tile blueprint. You can also drag with the left mouse button to draw a tile rectangle quickly.
-
-The Wall Tool allows you to draw walls on the map. First select the wall kind you are interested in, then click once on the map to draw a wall blueprint. You can also drag with the left mouse button to draw a wall line quickly.
-
-The Object Tool allows you to draw objects on the map. There are many objects, so the tool menu is divided in categories. Select the category of the object you want to draw, then the object kind you are interested in, then click once on the map to draw an object blueprint. To change the facing angle of an object first use Q or E to change its orientation, then draw it with the left mouse button.
-
-All building tools create a blueprint. Blueprints are not a real construction. They are a placeholder that creates a task that must be completed by your officers or robots with the Building job enabled.
-
-You can toggle eraser mode by pressing Shift while using a building tool. The eraser mode of each tool will only erase objects of the same kind. Scenery props like vegetation and rocks can be erased with any building tool. Blueprints will be erased immediately, and built objects will be marked for erasing and will create a Building job for that.
-
-Pressing Alt while using a building tool toggles copy mode. Copy mode allows you to click once on an existing object of the same kind of the selected tool to select it from the tool menu. A few complex objects like shops or pallets will also copy their settings.
-
-Building tools enable a map filter to display when rooms are complete. A room is complete when it's sealed as explained earlier. When that happens the building tool map will display a green rectangle over the area of the room, with some values about its contents.
+msgstr "Building is the most basic player task, and the first to accomplish a working station. The basic building structure of your station are rooms. Rooms are enclosed spaces that must be delimited only by walls and/or doors, and their ground must be entirely covered in floor tiles. Both walls and tiles can be of any kind.\n\n"
+"The Floor Tool allows you to draw floor tiles on the map. First select the floor kind you are interested in, then click once on the map to draw a tile blueprint. You can also drag with the left mouse button to draw a tile rectangle quickly.\n\n"
+"The Wall Tool allows you to draw walls on the map. First select the wall kind you are interested in, then click once on the map to draw a wall blueprint. You can also drag with the left mouse button to draw a wall line quickly.\n\n"
+"The Object Tool allows you to draw objects on the map. There are many objects, so the tool menu is divided in categories. Select the category of the object you want to draw, then the object kind you are interested in, then click once on the map to draw an object blueprint. To change the facing angle of an object first use Q or E to change its orientation, then draw it with the left mouse button.\n\n"
+"All building tools create a blueprint. Blueprints are not a real construction. They are a placeholder that creates a task that must be completed by your officers or robots with the Building job enabled.\n\n"
+"You can toggle eraser mode by pressing Shift while using a building tool. The eraser mode of each tool will only erase objects of the same kind. Scenery props like vegetation and rocks can be erased with any building tool. Blueprints will be erased immediately, and built objects will be marked for erasing and will create a Building job for that.\n\n"
+"Pressing Alt while using a building tool toggles copy mode. Copy mode allows you to click once on an existing object of the same kind of the selected tool to select it from the tool menu. A few complex objects like shops or pallets will also copy their settings.\n\n"
+"Building tools enable a map filter to display when rooms are complete. A room is complete when it's sealed as explained earlier. When that happens the building tool map will display a green rectangle over the area of the room, with some values about its contents."
 
 msgid "guide_tools_job_matrix_title"
-Job matrix
+msgstr "Job matrix"
 
 msgid "guide_tools_job_matrix"
-
-The job matrix can be accessed in the Station screen. It is a dense display of all your officers versus all possible jobs, allowing you to take a more strategic view. As with any officer listing you can apply a filter to only show some subset of officers. Click on the job names to sort the table by officer XP on that job. Click on the table cells to enable or disable a job for a given officer.
-
-The default job priority is the one shown in the table, with higher priority jobs at the left. You can also give manual per-job priorities to individual officers by clicking in the small button next to the officer name. This will replace the table cell checkboxes with a numeric input, from 0 to 99.
+msgstr "The job matrix can be accessed in the Station screen. It is a dense display of all your officers versus all possible jobs, allowing you to take a more strategic view. As with any officer listing you can apply a filter to only show some subset of officers. Click on the job names to sort the table by officer XP on that job. Click on the table cells to enable or disable a job for a given officer.\n\n"
+"The default job priority is the one shown in the table, with higher priority jobs at the left. You can also give manual per-job priorities to individual officers by clicking in the small button next to the officer name. This will replace the table cell checkboxes with a numeric input, from 0 to 99."
 
 msgid "guide_tools_equip_matrix_title"
-Equipment matrix
+msgstr "Equipment matrix"
 
 msgid "guide_tools_equip_matrix"
-The Equipment matrix is tool in the home station screen that shows a listing of your staff along with their item slots, plus a listing of all the items in the station. You can sort and filter both listings to get a more precise selection. When you want to equip at item to an officer, drag and drop it from the item list to the officer row. Keep in mind some item slots are locked and will be made available after the officer graduates or becomes a master.
+msgstr "The Equipment matrix is tool in the home station screen that shows a listing of your staff along with their item slots, plus a listing of all the items in the station. You can sort and filter both listings to get a more precise selection. When you want to equip at item to an officer, drag and drop it from the item list to the officer row. Keep in mind some item slots are locked and will be made available after the officer graduates or becomes a master."
 
 
 msgid "guide_tools_inventory_title"
-Inventory
+msgstr "Inventory"
 
 msgid "guide_tools_inventory"
-You can access the Inventory window from the home station screen. The inventory displays a listing of all resources and unlocked products, and when selecting one, gives detailed information about its stocks in the station.
-
-Two important values can be configured here. For raw resources it is possible to set a global max amount. Once the station stocks for the selected resource reach that amount, your space ships on autopilot will ignore that resource. This allows you to not become overwhelmed by too much extraction of a single resource without having to change ship routes.
-
-The other important value is for products. It is possible to set a global desired stock value for manufactured products. The game will then give automatic production orders to factory objects set to global mode, until the desired amount is reached. This enables you to stop micromanaging build queues for products where that doesn't make sense.
+msgstr "You can access the Inventory window from the home station screen. The inventory displays a listing of all resources and unlocked products, and when selecting one, gives detailed information about its stocks in the station.\n\n"
+"Two important values can be configured here. For raw resources it is possible to set a global max amount. Once the station stocks for the selected resource reach that amount, your space ships on autopilot will ignore that resource. This allows you to not become overwhelmed by too much extraction of a single resource without having to change ship routes.\n\n"
+"The other important value is for products. It is possible to set a global desired stock value for manufactured products. The game will then give automatic production orders to factory objects set to global mode, until the desired amount is reached. This enables you to stop micromanaging build queues for products where that doesn't make sense."
 
 
 msgid "guide_systems_intro_title"
-Game systems
+msgstr "Game systems"
 
 msgid "guide_systems_intro"
-
-There is a wide variety of simulation systems in the game, interacting between them. Not all of then warrant an entire guide section, so you can find here a description of those that are smaller or that do not fit into other categories in this guide.
+msgstr "There is a wide variety of simulation systems in the game, interacting between them. Not all of then warrant an entire guide section, so you can find here a description of those that are smaller or that do not fit into other categories in this guide."
 
 msgid "guide_systems_docks_title"
-Docks
+msgstr "Docks"
 
 msgid "guide_systems_docks"
-Space ships will come visit your station, and you will also maintain a fleet of them for your purposes. In order to direct their landing shuttles to the spot you prefer you can make use of docks.
-
-Visitor docks are landing spots for visitor ship shuttles. Visitors will enter and exit your station via these docks automatically when a visitor ship parks on your planet. If no visitor docks are built then you will get no visiting tourists in your station, but that will not stop hostile visitors.
-
-Officer docks are for your own fleet of ships. They are not assigned automatically. After you build one you must select it and pick a ship from your fleet to asign it to it. Your fleet is capable of operation without officer docks, but it will just dump their cargo in some map border area. Use officer docks to make sure cargo is dumped in areas closer to your storage facilities and factories.
+msgstr "Space ships will come visit your station, and you will also maintain a fleet of them for your purposes. In order to direct their landing shuttles to the spot you prefer you can make use of docks.\n\n"
+"Visitor docks are landing spots for visitor ship shuttles. Visitors will enter and exit your station via these docks automatically when a visitor ship parks on your planet. If no visitor docks are built then you will get no visiting tourists in your station, but that will not stop hostile visitors.\n\n"
+"Officer docks are for your own fleet of ships. They are not assigned automatically. After you build one you must select it and pick a ship from your fleet to assign it to it. Your fleet is capable of operation without officer docks, but it will just dump their cargo in some map border area. Use officer docks to make sure cargo is dumped in areas closer to your storage facilities and factories."
 
 
 msgid "guide_systems_production_title"
-Production, factories and recipes
+msgstr "Production, factories and recipes"
 
 msgid "guide_systems_production"
-If officers are the blood of your station, factories are the heart. Factory objects include kitchens, metal presses, chemical reactors, breweries, etc. They all share a common interface to manufacture products from raw resources.
-
-In order to do so you must first unlock product recipes in the Research screen. Some products are already unlocked and a few stacks of basic resources have been dropped along with your initial 6 officers, so you have all you need to start production from the get go. Check the first station section and the station tutorial to learn more about production. Check also the inventory section in the tools chapter to learn more about global production.
+msgstr "If officers are the blood of your station, factories are the heart. Factory objects include kitchens, metal presses, chemical reactors, breweries, etc. They all share a common interface to manufacture products from raw resources.\n\n"
+"In order to do so you must first unlock product recipes in the Research screen. Some products are already unlocked and a few stacks of basic resources have been dropped along with your initial 6 officers, so you have all you need to start production from the get go. Check the first station section and the station tutorial to learn more about production. Check also the inventory section in the tools chapter to learn more about global production."
 
 
 msgid "guide_systems_storage_title"
-Storage and pallets
+msgstr "Storage and pallets"
 
 msgid "guide_systems_storage"
-Logistics are a big part of the game. They interplay with many different systems and are required as a first step for some tasks. Your officers and robots will automatically pick up the resources they need for a task or vital. Making sure those resources are accesible is important for an efficient station.
-
-Storage areas are defined by bulding a storage area controller inside and empty room. From that point forward the entire room floor will act as a storage area. The controller will issue delivery orders to resource stacks laying on the ground (it will not deliver from other areas, pallets or shops). You can also select which resources you want to store inside the area by selecting it with the info tool.
-
-Pallets are like a 1x1 storage area that can only store a single kind of resource. In turn they allow to set precise limits to trigger restocking. When located next to factories they enable them to automatically get the required resources for production, if the pallet is stocking them, or to directly deposit the manufactured products, if the pallet is configured to accept them. Pallets can will ask for deliveries from the ground, storage areas, and other pallets if explicitly configured to do so.
+msgstr "Logistics are a big part of the game. They interplay with many different systems and are required as a first step for some tasks. Your officers and robots will automatically pick up the resources they need for a task or vital. Making sure those resources are accessible is important for an efficient station.\n\n"
+"Storage areas are defined by building a storage area controller inside and empty room. From that point forward the entire room floor will act as a storage area. The controller will issue delivery orders to resource stacks laying on the ground (it will not deliver from other areas, pallets or shops). You can also select which resources you want to store inside the area by selecting it with the info tool.\n\n"
+"Pallets are like a 1x1 storage area that can only store a single kind of resource. In turn they allow to set precise limits to trigger restocking. When located next to factories they enable them to automatically get the required resources for production, if the pallet is stocking them, or to directly deposit the manufactured products, if the pallet is configured to accept them. Pallets can will ask for deliveries from the ground, storage areas, and other pallets if explicitly configured to do so."
 
 msgid "guide_systems_security_title"
-
-Security and doors
+msgstr "Security and doors"
 
 msgid "guide_systems_security"
-
-The security category offers a variety of objects to secure your station, both inside and outside. Doors are the most basic security object. They count as a wall towards the building rules, so they are in effect mandatory to be able to separate rooms from each other. Doors can also be configured to act as a filter. Only friendly units will respect the rules set in a door.
-
-Turrets are fixed defenses for your station. Conventional turrets will fire at enemies, and shielding turrets will cast a damage shield over friendly units. Cameras and scanners protect your station against sneaking enemies and impostors amongst your visitors.
+msgstr "The security category offers a variety of objects to secure your station, both inside and outside. Doors are the most basic security object. They count as a wall towards the building rules, so they are in effect mandatory to be able to separate rooms from each other. Doors can also be configured to act as a filter. Only friendly units will respect the rules set in a door.\n\n"
+"Turrets are fixed defenses for your station. Conventional turrets will fire at enemies, and shielding turrets will cast a damage shield over friendly units. Cameras and scanners protect your station against sneaking enemies and impostors amongst your visitors."
 
 msgid "guide_systems_shops_title"
-
-Shops, consumption, vital objects
+msgstr "Shops, consumption, vital objects"
 
 msgid "guide_systems_shops"
-
-Shops and dispensers are a special kind of pallet. They have the same restock limit controls but only allow a small subset of products to be stored inside. What they enable is to receive a credits payment every time a visitor tourist picks one product. This is very important because products stored anywhere else can be picked for free. So if you open your station to tourism, make sure to only offer your products via shop objects, and to protect with door filters your storage and production areas.
-
-Consumtion objects like restaurant tables are mandatory for most vital tasks. For example, in order to consume a ration, an officer will require a tavern or restaurant table. Some vitals can be satisfied just by using a consumption object, like the fun vital with the use of a pinball machine, or beds for the sleep vital.
-
-Some systems are a bit more complicated. Hospitals will require several objects to properly cure all diseases. Hotels require both a check in desk and specific beds in separate rooms. Read the object descriptions and experiment when you unlock an object for the first time.
+msgstr "Shops and dispensers are a special kind of pallet. They have the same restock limit controls but only allow a small subset of products to be stored inside. What they enable is to receive a credits payment every time a visitor tourist picks one product. This is very important because products stored anywhere else can be picked for free. So if you open your station to tourism, make sure to only offer your products via shop objects, and to protect with door filters your storage and production areas.\n\n"
+"Consumption objects like restaurant tables are mandatory for most vital tasks. For example, in order to consume a ration, an officer will require a tavern or restaurant table. Some vitals can be satisfied just by using a consumption object, like the fun vital with the use of a pinball machine, or beds for the sleep vital.\n\n"
+"Some systems are a bit more complicated. Hospitals will require several objects to properly cure all diseases. Hotels require both a check in desk and specific beds in separate rooms. Read the object descriptions and experiment when you unlock an object for the first time."
 
 msgid "guide_systems_robots_title"
-
-Robots
+msgstr "Robots"
 
 msgid "guide_systems_robots"
-
-Robots are the perfect helpers for your station. They cannot do every kind of job, but they are very good at those they can do. After unlocking the robot factory you can build robots up to a limit, which gets raised the bigger your station is. Robots do not have many needs. Just making sure you have some robot rechargers well stocked with fuel cells will be enough to charge their energy from time to time. If attacked or too low on energy they can become broken and will require somebody else to come by and repair them.
+msgstr "Robots are the perfect helpers for your station. They cannot do every kind of job, but they are very good at those they can do. After unlocking the robot factory you can build robots up to a limit, which gets raised the bigger your station is. Robots do not have many needs. Just making sure you have some robot chargers well stocked with fuel cells will be enough to charge their energy from time to time. If attacked or too low on energy they can become broken and will require somebody else to come by and repair them."
 
 msgid "guide_systems_repair_title"
-
-Repairs and attrition
+msgstr "Repairs and attrition"
 
 msgid "guide_systems_repair"
-
-Your officers healing guns won't work with objects and robots. Inorganic objects have an extra repair mechanic. Once they fall down to certain % of hitpoints, they become broken, and are flagged for repair. Any officer or robot with the repair job can come by and repair them. It may take some time but repairs always bring back the object back to 100% hitpoints.
-
-A common cause of object damage and repairs is attrition. When an room becomes open to the outside (for example by missing a wall section or floor tile) objects inside can start suffering attrition. This will slowly damage them until they become broken and unusable. It will stop short of destroying them.
+msgstr "Your officers healing guns won't work with objects and robots. Inorganic objects have an extra repair mechanic. Once they fall down to certain % of hitpoints, they become broken, and are flagged for repair. Any officer or robot with the repair job can come by and repair them. It may take some time but repairs always bring back the object back to 100% hitpoints.\n\n"
+"A common cause of object damage and repairs is attrition. When an room becomes open to the outside (for example by missing a wall section or floor tile) objects inside can start suffering attrition. This will slowly damage them until they become broken and unusable. It will stop short of destroying them."
 
 msgid "guide_systems_noiseaes_title"
-
-Noise and aesthetics
+msgstr "Noise and aesthetics"
 
 msgid "guide_systems_noiseaes"
-
-Some objects can produce noise. The noise of all the objects inside a room is added together and a noise value is produced, which can be consulted in the map view of any building tool. Noise in general does not bother your officers, except for a few vital tasks. Sleep is the least tolerant of noise. Reading, eating and drinking (not inebriation) are a bit more tolerant but they still need a quiet room.
-
-The aesthetical value of a room is calculated by averaging all the aesthetical values of its floor tiles, averaging all the aesthetical values of the objects contained inside, and then averaging those two. Very ugly or very nice rooms can give feelings to officers, although their influence is limited. They are also a requeriment for some rooms, like graduate barracks and master officer private bedrooms.
+msgstr "Some objects can produce noise. The noise of all the objects inside a room is added together and a noise value is produced, which can be consulted in the map view of any building tool. Noise in general does not bother your officers, except for a few vital tasks. Sleep is the least tolerant of noise. Reading, eating and drinking (not inebriation) are a bit more tolerant but they still need a quiet room.\n\n"
+"The aesthetical value of a room is calculated by averaging all the aesthetical values of its floor tiles, averaging all the aesthetical values of the objects contained inside, and then averaging those two. Very ugly or very nice rooms can give feelings to officers, although their influence is limited. They are also a requirement for some rooms, like graduate barracks and master officer private bedrooms."
 
 
 msgid "guide_galaxy_intro_title"
-Galaxy and civs
+msgstr "Galaxy and civs"
 
 msgid "guide_galaxy_intro"
-Many star systems surround your home in the center of the galaxy, you are not alone. Initally you only have access to your home system, which will be populated by Human colonies. Once you start opening star systems (see Exploration - Opening systems) you will meet new civs, and you will have to deal with them to progress, be it by diplomacy, trade or war.
+msgstr "Many star systems surround your home in the center of the galaxy, you are not alone. Initially you only have access to your home system, which will be populated by Human colonies. Once you start opening star systems (see Exploration - Opening systems) you will meet new civs, and you will have to deal with them to progress, be it by diplomacy, trade or war."
 
 msgid "guide_galaxy_map_title"
-Galaxy map
+msgstr "Galaxy map"
 
 msgid "guide_galaxy_map"
-
-The galaxy map screen has two zoom levels. In the overview zoom all stars are visible, with lines linking the systems that can be traveled. When the line is faded some exploration of the system is required to open up the linked system. Open stars have a label with their name and can be clicked to zoom into the system zoom level. In this zoom level the star is at the center and the planets orbit around it. Clicking the planets opens the planet window, which contains basic information about the planet and the current extraction status, plus an Explore button in case one of your ships is parked on it.
-
-The galaxy screen can display filters, selected with the left toolbar. The civ filter shows a map of the star systems civilizations. The resource filters can show which systems or planets demand or offer for extration any resource or product in the game.
-
-Ships are represented in the galaxy maps with icons. Your ships will always be visible on the galaxy map, either as an icon next to their current location or as a circular selector when zoomed into a star system.
+msgstr "The galaxy map screen has two zoom levels. In the overview zoom all stars are visible, with lines linking the systems that can be traveled. When the line is faded some exploration of the system is required to open up the linked system. Open stars have a label with their name and can be clicked to zoom into the system zoom level. In this zoom level the star is at the center and the planets orbit around it. Clicking the planets opens the planet window, which contains basic information about the planet and the current extraction status, plus an Explore button in case one of your ships is parked on it.\n\n"
+"The galaxy screen can display filters, selected with the left toolbar. The civ filter shows a map of the star systems civilizations. The resource filters can show which systems or planets demand or offer for extraction any resource or product in the game.\n\n"
+"Ships are represented in the galaxy maps with icons. Your ships will always be visible on the galaxy map, either as an icon next to their current location or as a circular selector when zoomed into a star system."
 
 msgid "guide_galaxy_civs_title"
-Civs and reputation
+msgstr "Civs and reputation"
 
 msgid "guide_galaxy_civs"
-The civs screen shows all the discovered civs in the game, and depending on your reputation, offers some interaction options. Reputation is a value from 0 to 30000 that indicates how much a civ likes you and your staff. Humans and Crusantians start at a high level of rep since they formed the alliance that makes the Spatials possible, but all other civs are reluctant your colonization efforts and start as hostile. You will need to win them over with tributes, embassies and trade.
-
-The Sell tab allows you to sell products to civs. Not just any products. Civs have markedly different tastes and will accept only a subset of them. Also not all planets want any civ product, so opening new star systems can offer new opportunities. Planet demand oscillates in time. It may be prudent to wait awhile to get a better deal. But a slow ship can take too long to deliver the products and the price may plummet again.
-
-The Resources tab shows the prices for resources extracted from the civ planets. The more a civ likes you, the cheaper those prices will become.
-
-Sometimes civs will hate you too much and it will be not possible to trade with them. Instead they will demand a tribute. Tribute payments are expensive but give a guaranteed amount of reputation.
+msgstr "The civs screen shows all the discovered civs in the game, and depending on your reputation, offers some interaction options. Reputation is a value from 0 to 30000 that indicates how much a civ likes you and your staff. Humans and Crusantians start at a high level of rep since they formed the alliance that makes the Spatials possible, but all other civs are reluctant your colonization efforts and start as hostile. You will need to win them over with tributes, embassies and trade.\n\n"
+"The Sell tab allows you to sell products to civs. Not just any products. Civs have markedly different tastes and will accept only a subset of them. Also not all planets want any civ product, so opening new star systems can offer new opportunities. Planet demand oscillates in time. It may be prudent to wait awhile to get a better deal. But a slow ship can take too long to deliver the products and the price may plummet again.\n\n"
+"The Resources tab shows the prices for resources extracted from the civ planets. The more a civ likes you, the cheaper those prices will become.\n\n"
+"Sometimes civs will hate you too much and it will be not possible to trade with them. Instead they will demand a tribute. Tribute payments are expensive but give a guaranteed amount of reputation."
 
 
 msgid "guide_ships_intro_title"
-Ships
+msgstr "Ships"
 
 msgid "guide_ships_intro"
-Your space ship fleet is the workhorse of the galaxy. Your fleet will deliver all the required resources for your station, and you will send its ships to deliver products to planets when you sell to them. And you will give manual orders to land on planets and explore them. Having a big, capable and fast fleet will be an important part of your success.
-
-This guide already covered ship autopilot and manual orders in the First Station section, check it out if you want more information.
+msgstr "Your space ship fleet is the workhorse of the galaxy. Your fleet will deliver all the required resources for your station, and you will send its ships to deliver products to planets when you sell to them. And you will give manual orders to land on planets and explore them. Having a big, capable and fast fleet will be an important part of your success.\n\n"
+"This guide already covered ship autopilot and manual orders in the First Station section, check it out if you want more information."
 
 msgid "guide_ships_kinds_title"
-Ship designs
+msgstr "Ship designs"
 
 msgid "guide_ships_kinds"
-Ship designs are unlocked in the research screen. They diferentiate themselves along some parameters, which fit different roles. Later designs can sometimes be a sidegrade or even a downgrade for some tasks, no size fits all.
-
-Ship speed indicates how fast a ship is when traveling between systems. The faster the ship, the less time your officers spend with decreasing vitals inside that metal box.
-
-Cargo capacity indicates how many units of cargo can be carried inside the ship. Ships with very big cargo capacity are usually slow.
-
-Ship skills are usually special combat skills to be used while exploring planets. They have a long cooldown and are very powerful. All ships have at least one skill, but some of them have several, and may be lacking in other areas.
+msgstr "Ship designs are unlocked in the research screen. They differentiate themselves along some parameters, which fit different roles. Later designs can sometimes be a sidegrade or even a downgrade for some tasks, no size fits all.\n\n"
+"Ship speed indicates how fast a ship is when traveling between systems. The faster the ship, the less time your officers spend with decreasing vitals inside that metal box.\n\n"
+"Cargo capacity indicates how many units of cargo can be carried inside the ship. Ships with very big cargo capacity are usually slow.\n\n"
+"Ship skills are usually special combat skills to be used while exploring planets. They have a long cooldown and are very powerful. All ships have at least one skill, but some of them have several, and may be lacking in other areas."
 
 
 msgid "guide_ships_fleet_title"
-Fleet screen
+msgstr "Fleet screen"
 
 msgid "guide_ships_fleet"
-
-The Fleet Screen shows your entire fleet in a menu in the left side. You can click on any ship in the listing to see its bridge in the right side of the screen. While the bridge is not interactive, the bridge panels offer some extra information and allow to adjust some vital parameters of the ship
-
-In the left panel you can see the current cargo hold, and select the crew of your ship. When the ship is parked at home the crew slots become buttons that can be clicked to select new officers to be part of the ship crew. Only one officer is required to pilot the ship. If you plan on using a ship to explore a planet make sure you bring more, ideally filling all six slots.
-
-All officers will get Navigation XP while as part of a ship crew. The officer with the highest Navigation can also add a very important speed bonus to the ship, up to 4x.
+msgstr "The Fleet Screen shows your entire fleet in a menu in the left side. You can click on any ship in the listing to see its bridge in the right side of the screen. While the bridge is not interactive, the bridge panels offer some extra information and allow to adjust some vital parameters of the ship\n\n"
+"In the left panel you can see the current cargo hold, and select the crew of your ship. When the ship is parked at home the crew slots become buttons that can be clicked to select new officers to be part of the ship crew. Only one officer is required to pilot the ship. If you plan on using a ship to explore a planet make sure you bring more, ideally filling all six slots.\n\n"
+"All officers will get Navigation XP while as part of a ship crew. The officer with the highest Navigation can also add a very important speed bonus to the ship, up to 4x."
 
 
 msgid "guide_combat_title"
 msgstr "Combat"
 
 msgid "guide_combat"
-
-Combat in Galactology is a mostly automated afair, with some variable level of player input. Your officers will be aware of their role depending on which kind of active item they are equipped with. Healers will seek friendly units to heal, shielders will await for damage to start affecting their friends, damage dealers will seek and pursue enemies, etc.
-
-The main player input is meant to be general position orders. Select a group of officers with the Info Tool and then dragging the left mouse button. Or use the Info Tool plus shift click to add them to the selection one by one. Once you have an officer or a group selected you can issue movement orders by right clicking anywhere in the map. A Teleport action is also available to quickly transport your crew in and out of danger, with a cooldown.
-
-You can save the current officer selection by pressing Ctrl then a numeric key from 1 to 6. After you do so, pressing 1 to 6 will automatically select the saved group. When you land on a planet a group is always created and bound to 1.
-
-You also have the capability of issuing manual target orders. There is a target action for every kind of active item in the game (damage, healing, shielding and control). You can issue blanket orders in any heterogenous group and they will be issued only the the appropiate officers. Use these orders when you want more tactical control over combat. For example to focus attacks on enemy healers. Manual target orders are also required when you desire to attack neutral units. By default neither the officer AI nor the normal manual target action will work with neutral units; you must issue a manual target action while pressing shift for neutral units to be targetted.
-
-Addionally, for planet exploration, one or more ship skills may be available. Ship skills are powerful but have a long cooldown. They can require your direct input to select a target area.
+msgstr "Combat in Galactology is a mostly automated affair, with some variable level of player input. Your officers will be aware of their role depending on which kind of active item they are equipped with. Healers will seek friendly units to heal, shielders will await for damage to start affecting their friends, damage dealers will seek and pursue enemies, etc.\n\n"
+"The main player input is meant to be general position orders. Select a group of officers with the Info Tool and then dragging the left mouse button. Or use the Info Tool plus shift click to add them to the selection one by one. Once you have an officer or a group selected you can issue movement orders by right clicking anywhere in the map. A Teleport action is also available to quickly transport your crew in and out of danger, with a cooldown.\n\n"
+"You can save the current officer selection by pressing Ctrl then a numeric key from 1 to 6. After you do so, pressing 1 to 6 will automatically select the saved group. When you land on a planet a group is always created and bound to 1.\n\n"
+"You also have the capability of issuing manual target orders. There is a target action for every kind of active item in the game (damage, healing, shielding and control). You can issue blanket orders in any heterogeneous group and they will be issued only the the appropriate officers. Use these orders when you want more tactical control over combat. For example to focus attacks on enemy healers. Manual target orders are also required when you desire to attack neutral units. By default neither the officer AI nor the normal manual target action will work with neutral units; you must issue a manual target action while pressing shift for neutral units to be targeted.\n\n"
+"Additionally, for planet exploration, one or more ship skills may be available. Ship skills are powerful but have a long cooldown. They can require your direct input to select a target area."
 
 msgid "guide_exploration_intro_title"
-Planet exploration
+msgstr "Planet exploration"
 
 msgid "guide_exploration_intro"
-Exploring planets is a big part of the game and it is vital for the success of your station. Many game systems start from an action that happens in a planet.
-
-To explore a planet give a manual order to a ship to park on it by dragging and dropping in on the planet icon in the system map in the galaxy screen. The click the planet icon to open the planet window and click the Explore button.
+msgstr "Exploring planets is a big part of the game and it is vital for the success of your station. Many game systems start from an action that happens in a planet.\n\n"
+"To explore a planet give a manual order to a ship to park on it by dragging and dropping in on the planet icon in the system map in the galaxy screen. The click the planet icon to open the planet window and click the Explore button."
 
 msgid "guide_exploration_extraction_title"
-Resource extraction
+msgstr "Resource extraction"
 
 msgid "guide_exploration_extraction"
-Most planets have one or more raw resource nodes on their surface. These nodes have a distinct look and resemble their resource in some way. They are usually clustered in groups of 1 to 5 nodes, with several groups on the surface.
-
-Your factories back in your home colony will need raw resources to make products. Extracting them from planets is the only realiable way. When you are exploring a planet you have access to the Object Tool. This tool offers a selection of objects that can be built on planet surfaces.
-
-The Generic Extractor, when built close to a group of nodes, will slowly extract resources from them, continously, even if you are not exploring the planet. Only one extractor is needed per resource group, building more will not make production go faster. But you can cover as many groups as you want on the same planet.
-
-These extractors also have a small storage capacity. Any excess extraction will be lost. In order save more of the production of the planet until you are ready to pick it up you can build Storage objects. These objects have a much bigger capacity and you can build many of them to their capacities together.
-
-In order to deliver the production to your home colony you need to send ships to the planet, and then send them back to home. This is best done with the autopilot feature (see the Ships section for more information).
-
-Extracting resources is not free. When your ship leaves with cargo from a planet you will pay a price per unit of resource. These prices depend on the resource kind and how much the planet civilization likes you. You can see these prices in the Civ screen, and they are the same for all planets of the same civ.
+msgstr "Most planets have one or more raw resource nodes on their surface. These nodes have a distinct look and resemble their resource in some way. They are usually clustered in groups of 1 to 5 nodes, with several groups on the surface.\n\n"
+"Your factories back in your home colony will need raw resources to make products. Extracting them from planets is the only reliable way. When you are exploring a planet you have access to the Object Tool. This tool offers a selection of objects that can be built on planet surfaces.\n\n"
+"The Generic Extractor, when built close to a group of nodes, will slowly extract resources from them, continuously, even if you are not exploring the planet. Only one extractor is needed per resource group, building more will not make production go faster. But you can cover as many groups as you want on the same planet.\n\n"
+"These extractors also have a small storage capacity. Any excess extraction will be lost. In order save more of the production of the planet until you are ready to pick it up you can build Storage objects. These objects have a much bigger capacity and you can build many of them to their capacities together.\n\n"
+"In order to deliver the production to your home colony you need to send ships to the planet, and then send them back to home. This is best done with the autopilot feature (see the Ships section for more information).\n\n"
+"Extracting resources is not free. When your ship leaves with cargo from a planet you will pay a price per unit of resource. These prices depend on the resource kind and how much the planet civilization likes you. You can see these prices in the Civ screen, and they are the same for all planets of the same civ."
 
 msgid "guide_exploration_open_systems_title"
-Opening systems
+msgstr "Opening systems"
 
 msgid "guide_exploration_open_systems"
-While visiting a planet you may come accross a Planetarium object. This object allows you to open to travel all linked systems from the planet system. There are two ways to proceed: either pay a tribute to get the information peacefully, or destroy it for a large reputation hit. Hostile civs will not give you much of an option.
+msgstr "While visiting a planet you may come across a Planetarium object. This object allows you to open to travel all linked systems from the planet system. There are two ways to proceed: either pay a tribute to get the information peacefully, or destroy it for a large reputation hit. Hostile civs will not give you much of an option."
 
 
 msgid "guide_exploration_invasions_title"
-Invasions
+msgstr "Invasions"
 
 msgid "guide_exploration_invasions"
-Eventually you will meet hostile civilizations that will not like it when you try to explore their planets. If you manage to build an extractor on their planets they will destroy shortly after you leave. You can go the diplomatic way (see the Civs section), or just invade the planet.
-
-Every hostile planet has an invasion counter. Click on the Bernice icon in the bottom of the screen to check the invasion %. Destroy as many buildings as you can to get to 100%. After you invade a planet their inhabitants will not destroy your extactors after you leave. But expect a vengeance from them on your own station.
-
-Sometimes you will start a war with a civ, or meet civs that are only interested in plundering. These civs will at some point invade your allies planets, specially if you have extraction operations on them. Planets invaded by NPC civs will stop extraction and their start systems will stop sending tourists to your station. If you land on these planets you can liberate them. Check the counter Bernice is keeping, and destroy the warring civ buildings to get to 100% and liberate the planet.
+msgstr "Eventually you will meet hostile civilizations that will not like it when you try to explore their planets. If you manage to build an extractor on their planets they will destroy shortly after you leave. You can go the diplomatic way (see the Civs section), or just invade the planet.\n\n"
+"Every hostile planet has an invasion counter. Click on the Bernice icon in the bottom of the screen to check the invasion %. Destroy as many buildings as you can to get to 100%. After you invade a planet their inhabitants will not destroy your extractors after you leave. But expect a vengeance from them on your own station.\n\n"
+"Sometimes you will start a war with a civ, or meet civs that are only interested in plundering. These civs will at some point invade your allies planets, specially if you have extraction operations on them. Planets invaded by NPC civs will stop extraction and their start systems will stop sending tourists to your station. If you land on these planets you can liberate them. Check the counter Bernice is keeping, and destroy the warring civ buildings to get to 100% and liberate the planet."
 
 msgid "guide_exploration_other_title"
-Other buildings
+msgstr "Other buildings"
 
 msgid "guide_exploration_other"
-Recruitment center: On human and crusantian planets you can build recruitment centers. This will provide staff candidates from these planates and will increase the rate you get new candidates to choose.
-
-Embassy: Provides a slow increase of reputation with the planet civ, up to a maximum per planet.
-
-Ad Media Station: Increase the frequency of tourist ships that will visit your station starting from the planet's system.
+msgstr "Recruitment center: On Human and Crusantian planets you can build recruitment centers. This will provide staff candidates from these planets and will increase the rate you get new candidates to choose.\n\n"
+"Embassy: Provides a slow increase of reputation with the planet civ, up to a maximum per planet.\n\n"
+"Ad Media Station: Increase the frequency of tourist ships that will visit your station starting from the planet's system."
 
 
 msgid "guide_research_title"
 msgstr "Research"
 
 msgid "guide_research"
-The basic technologies you start with will not cut it in the longer term. You will need to research new objects, item levels, recipes and space ships to progress further into the galaxy. The research screen allows you explore all the knowledge available, and decide which technology to research next. Research is divided in thematic groups, and each group into tiers. When you start research into a group you will aim to unlock the next locked tier inside that group, for the amount of research points it requires. Only a single group can be research at a time.
-
-Research points are gained by building one more research desks on your station. Officers with the research job will automatically go there to work, as long as a research group has been selected in the research screen. You can make this process faster by disabling other jobs for some officers, so they are full time researchers. Experienced Scientists and master Researchers gain research points much faster than redshirts.
+msgstr "The basic technologies you start with will not cut it in the longer term. You will need to research new objects, item levels, recipes and space ships to progress further into the galaxy. The research screen allows you explore all the knowledge available, and decide which technology to research next. Research is divided in thematic groups, and each group into tiers. When you start research into a group you will aim to unlock the next locked tier inside that group, for the amount of research points it requires. Only a single group can be research at a time.\n\n"
+"Research points are gained by building one more research desks on your station. Officers with the research job will automatically go there to work, as long as a research group has been selected in the research screen. You can make this process faster by disabling other jobs for some officers, so they are full time researchers. Experienced Scientists and master Researchers gain research points much faster than redshirts."
