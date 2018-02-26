@@ -8058,3 +8058,6 @@ msgstr "예"
 
 msgid "zoom_in"
 msgstr "확대"
+
+msgid "zoom_out"
+msgstr "축소"
