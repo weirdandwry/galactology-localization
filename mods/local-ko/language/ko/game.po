@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-22 11:05+0000\n"
-"PO-Revision-Date: 2018-02-26 07:53+0000\n"
-"Last-Translator: anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2018-02-26 08:33+0000\n"
+"Last-Translator: kiironosora <kiironosora@naver.com>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
 "Language: ko\n"
@@ -348,7 +348,7 @@ msgid "active_control"
 msgstr "~A 군중 제어"
 
 msgid "active_control_item"
-msgstr "엑티브 제어 아이템"
+msgstr "액티브 제어 아이템"
 
 msgid "active_damage"
 msgstr "~A-~A 데미지"
@@ -1894,7 +1894,7 @@ msgid "feet_10"
 msgstr "쇼크Boots 1.1"
 
 msgid "feet_item"
-msgstr "하체 아이템"
+msgstr "발 아이템"
 
 msgid "fibers"
 msgstr "섬유"
@@ -1940,8 +1940,8 @@ msgstr "화재"
 
 msgid "fire_desc"
 msgstr ""
-"확장하려는 경향이 있는 급격한 산화를 겪고 있는 물질. 로봇과 유기체 생물 모두 두려워 할 것입니다. 소방관이 근처에 있고 물 아이템 "
-"스택에 접근 할 수 있는지 확인하십시오."
+"확장하려는 경향이 있는 급격한 산화를 겪고 있는 물질. 로봇과 유기체 생물 모두 두려워 할 것입니다. 소방관이 근처에 있고 물 더미에 "
+"접근 할 수 있는지 확인하십시오."
 
 msgid "fire_officer"
 msgstr "소방관"
@@ -2379,24 +2379,24 @@ msgstr "<<~A>> 목표가 완료되었습니다. 목표 창에서 보상을 받�
 
 msgid "goal_consumerism1_desc"
 msgstr ""
-"상점 물건을 사용하여 방문자에게 아무 제품 100 개를 판매하십시오. 소비 아이템만 포함되며 음식과 같은 아이템은 이 목표에 포함되지 "
-"않습니다."
+"상점 물건을 사용하여 방문자에게 아무 제품 100 개를 판매하십시오. 소비 아이템만 포함되며 음식과 같은 바이탈 아이템은 이 목표에 "
+"포함되지 않습니다."
 
 msgid "goal_consumerism1_title"
 msgstr "방문자에게 제품 100 개 판매"
 
 msgid "goal_consumerism2_desc"
 msgstr ""
-"상점 물건을 사용하여 방문자에게 아무 제품 500 개를 판매하십시오. 소비 아이템만 포함되며 음식과 같은 아이템은 이 목표에 포함되지 "
-"않습니다."
+"상점 물건을 사용하여 방문자에게 아무 제품 500 개를 판매하십시오. 소비 아이템만 포함되며 음식과 같은 바이탈 아이템은 이 목표에 "
+"포함되지 않습니다."
 
 msgid "goal_consumerism2_title"
 msgstr "방문자에게 제품 500 개 판매"
 
 msgid "goal_consumerism3_desc"
 msgstr ""
-"상점 물건을 사용하여 방문자에게 아무 제품 3000 개를 판매하십시오. 소비 아이템만 포함되며 음식과 같은 아이템은 이 목표에 포함되지 "
-"않습니다."
+"상점 물건을 사용하여 방문자에게 아무 제품 3000 개를 판매하십시오. 소비 아이템만 포함되며 음식과 같은 바이탈 아이템은 이 목표에 "
+"포함되지 않습니다."
 
 msgid "goal_consumerism3_title"
 msgstr "방문자에게 제품 3000 개 판매"
@@ -3650,16 +3650,16 @@ msgid "maintenance_robot"
 msgstr "유지 보수 로봇"
 
 msgid "make_active_absorb"
-msgstr "엑티브 흡수 아이템 L~A-L~A 제조"
+msgstr "액티브 흡수 아이템 L~A-L~A 제조"
 
 msgid "make_active_control"
-msgstr "엑티브 제어 아이템 L~A-L~A 제조"
+msgstr "액티브 제어 아이템 L~A-L~A 제조"
 
 msgid "make_active_damage"
-msgstr "엑티브 데미지 아이템 L~A-L~A 제조"
+msgstr "액티브 데미지 아이템 L~A-L~A 제조"
 
 msgid "make_active_healing"
-msgstr "엑티브 힐링 아이템 L~A-L~A 제조"
+msgstr "액티브 힐링 아이템 L~A-L~A 제조"
 
 msgid "make_chest"
 msgstr "가슴 아이템 L~A-L~A 제조"
@@ -5302,7 +5302,7 @@ msgid "pallet"
 msgstr "팔레트"
 
 msgid "pallet_desc"
-msgstr "한 가지 자원 저장하면 최대값과 최소값을 제어 할 수있습니다"
+msgstr "한 가지 자원을 저장하며 최대값과 최소값을 제어 할 수있습니다"
 
 msgid "pallet_info_help"
 msgstr ""
@@ -5934,7 +5934,7 @@ msgid "resource_tag_power_generic"
 msgstr "보너스 파워"
 
 msgid "resource_tag_power_healing"
-msgstr "엑티브 힐링"
+msgstr "액티브 힐링"
 
 msgid "resource_tag_power_health"
 msgstr "보너스 건강"
@@ -5949,7 +5949,7 @@ msgid "resource_tag_shielding"
 msgstr "쉴딩"
 
 msgid "resource_tag_slot_active"
-msgstr "엑티브"
+msgstr "액티브"
 
 msgid "resource_tag_slot_chest"
 msgstr "가슴"
@@ -6665,7 +6665,7 @@ msgid "slime_node"
 msgstr "슬라임 노드"
 
 msgid "slot_active"
-msgstr "엑티브"
+msgstr "액티브"
 
 msgid "slot_chest"
 msgstr "가슴"
@@ -7247,7 +7247,7 @@ msgstr "스테이션에서와 마찬가지로 WASD 키를 사용하여 언제든
 
 msgid "tutorial_planet_basics_3"
 msgstr ""
-"오피서에게 명령을 내리려면 정보 도구로 명령을 선택하고 화면 하단의 주문 패널을 사용하여 텔레포트하거나 활성 항목을 사용하십시오. 해 "
+"오피서에게 명령을 내리려면 정보 도구로 명령을 선택하고 화면 하단의 주문 패널을 사용하여 텔레포트하거나 액티브 아이템을 사용하십시오. 해 "
 "보자. 정보 도구로 아무 오피서를 선택하십시오."
 
 msgid "tutorial_planet_basics_4"
@@ -7576,7 +7576,8 @@ msgstr ""
 msgid "tutorial_station_stocks_12"
 msgstr ""
 "강조 표시된 물건은 저장소 영역입니다. 방 안에 지으며, 방의 바닥은 제품과 자원을 위한 유효한 저장 구역이됩니다. 또한 해당 구역에 "
-"저장될 자원의 종류를 결정할 수 있지만 재고 양을 관리할 수는 없습니다. 벌크화물 및 생산물을 저장하기 위해 저장 구역을 사용하십시오."
+"저장될 자원의 종류를 결정할 수 있지만 재고 양을 관리할 수는 없습니다. 많은 야의 화물 및 제품을 저장하기 위해 저장 구역을 "
+"사용하십시오."
 
 msgid "tutorial_station_stocks_12b"
 msgstr "또한 은하계의 다른 행성에 직접 제품을 배달하고 판매 할 수 있습니다. 문명 화면에서 수입 탭을 확인하십시오."
