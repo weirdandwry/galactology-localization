@@ -1,0 +1,174 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-26 08:33+0000\n"
+"PO-Revision-Date: 2018-02-26 08:33+0000\n"
+"Last-Translator: kiironosora <kiironosora@naver.com>\n"
+"Language-Team: Korean "
+"<http://translate.weirdandwry.com/projects/galactology/web/ko/>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2.18\n"
+
+msgid "web_desc_1"
+msgstr ""
+"[/h2][h2][b]스페이숄스를 위한 새로운 모험![/b][/h2]\n"
+"\n"
+"미래에 5 천년 동안 인류는 다른 문명과 접촉하고 새로운 세계에 정착했습니다. 인간 연맹은 그들의 친구인 크루산션과 함께 은하계의 새로운 "
+"영역으로 확장하고, 당신을 스테이션 관리자로 선출했습니다. 스페이셜스는 당신의 파벌의 이름이고, 당신의 임무는 어떤 대가를 치르던 가장 "
+"성공적인 은하계 식민지를 건설하는 것입니다.\n"
+"\n"
+"도중에 친구와 적을 만들 것입니다. 스테이션에 잘 굴러가는 생산 기계를 운영하십시오. 숙소도 잊지 말고 직원이 필요로 하는 모든 바이탈 "
+"제품과 시설을 제공하십시오. 시간이 지나면 당신은 은하계 전역의 방문객들이 당신의 스테이션에 머무르고 싶어 할 정도로 유명해질 것입니다. "
+"우주선을 제작하고 다른 세계를 탐구하여 귀중한 자원을 찾고 친구로 부터 구입할 수 있습니다. 또는 행성에 침입하여 무력으로 가져갈수도 "
+"있습니다. 그것은 선택입니다. 그러나 결과에 대비해야합니다 ...\n"
+"\n"
+"더 스페이셜스: 갈락톨로지는 더 깊고 보람있는 시뮬레이션 게임으로 재창조 된 더 스페이셜스입니다. 크게 확장 된 컨텐츠, 시스템 및 인공 "
+"지능은 게임을 더욱 자세하게 만듭니다.\n"
+"\n"
+"[h2][b]주요 특징들[/b][/h2]\n"
+"[list][*]실시간으로 스테이션을 설계하고 승무원을 관찰하십시오.\n"
+"[*]행성 표면을 식민지화\n"
+"[*]자유로운 디자인: 어떤 물건이든 방이든, 원하는대로 바닥 타일을 채 웁니다\n"
+"[*]파괴 할 수있는 벽\n"
+"[*]새로운 건물, 관리 결정 및 직원으로 스테이션을 강화하십시오.\n"
+"[*]스테이션의 잡무를 위한 로봇 조립\n"
+"[*]제조, 연구, 건강 관리, 질병, 정서적 붕괴, 전투, 배고픔, 갈증, 청소, 부패, 보안, 소음, 미학, 화재 등 많은 시스템을 "
+"갖춘 벙교한 시뮬레이션을 탐색하십시오\n"
+"[*]재입고 및 재고 관리가 필요한 복잡한 물류 처리\n"
+"[*]스테이션의 환대 비즈니스를 성장시켜 게임 내 현금을 얻으십시오\n"
+"[*]술집 또는 연구실 직원 지정\n"
+"[*]방문객과 오피서는 독자적인 생각을 가지고 있습니다. 그들의 요구가 충족되는지 확인하십시오!\n"
+"[*]부상 당하고 병에 걸린 사람들을 돌보는 병원을 건설하십시오\n"
+"[*]카메라, 스캐너 및 포탑으로 스테이션 보안\n"
+"[*]무작위로 생성 된 100 개 이상의 행성을 가진 은하계\n"
+"[*]우주선을 만들고 은하계를 탐험하십시오.\n"
+"[*]행성과 소행성의 표면 탐험\n"
+"[*]동맹을 맺고 새로운 적을 만들기 위해 실시간 전투에 참여하십시오.\n"
+"[*]천연 자원과 문명 찾기\n"
+"[*]적의 행성을 침략하여 자원을 확보\n"
+"[*] 동맹국과의 무역로 확립\n"
+"[*] Steam Workshop에서 게임 플레이 모드 개발 및 다운로드\n"
+"[/list]\n"
+"\n"
+"[h2][b]Weird and Wry에 대해서[/b][/h2]\n"
+"Weird and Wry는 2014 년에 Carlos와 Max Carrasco가 설립 한 바르셀로나 게임 개발 스튜디오입니다. "
+"Carlos (프로그래머)와 Max (예술가)는 시뮬레이션 게임과 클래식 게임에 대한 애정을 공유합니다. 이는 첫 번째 프로젝트 인 [i]"
+"The Spatials[/i]에 크게 영향을 줬습니다.  90 년대의 위대한 고전적인 sim 게임에서 영감을 얻은  [i]The "
+"Spatials[/i] 는 실시간 전투 시스템과 탐험 캠페인으로 고전적인 베이스 빌딩 게임 플레이 (아이소 메트릭 타일 룸 제작 기반)를 "
+"결합했습니다.  [i]The Spatials[/i] 는 2015 년 3 월 Steam에서 출시되었습니다! 그 성공과 팬 증가 덕분에 [i]"
+"The Spatials[/i] 의 후속작 내놓습니다. [i]The Spatials: Galactology[/i] 는 우주 스테이션 관리 "
+"사업울 더 깊은 게임 플레이와 새로운 개념의 게임을 통해 원래의 개념을 업데이트합니다."
+
+msgid "web_minidesc_1"
+msgstr ""
+"더 스페이셜스가 갈락톨로지로 돌아 왔습니다! 은하계를 탐험하고 고향을 폭발시키면서 많은 적들로부터 스테이션을 설계, 건설 및 보호하십시오."
+
+msgid "web_workshop_1"
+msgstr "The Spatials : Galactology의 커뮤니티에서 만든 모드를 찾아보고 구독하십시오."
+
+msgid "com.weirdandwry.galactology.achievement.chef_name"
+msgstr "쉐프"
+
+msgid "com.weirdandwry.galactology.achievement.brewer_name"
+msgstr "양조자"
+
+msgid "com.weirdandwry.galactology.achievement.builder_name"
+msgstr "건축업자"
+
+msgid "com.weirdandwry.galactology.achievement.nothingwasted_name"
+msgstr "버릴건 없다"
+
+msgid "com.weirdandwry.galactology.achievement.disco_name"
+msgstr "디스코"
+
+msgid "com.weirdandwry.galactology.achievement.popular_name"
+msgstr "인기인"
+
+msgid "com.weirdandwry.galactology.achievement.wedeliver_name"
+msgstr "배달해드립니다"
+
+msgid "com.weirdandwry.galactology.achievement.provider_name"
+msgstr "공급자"
+
+msgid "com.weirdandwry.galactology.achievement.er_name"
+msgstr "응급실"
+
+msgid "com.weirdandwry.galactology.achievement.wateringhole_name"
+msgstr "급수 구멍"
+
+msgid "com.weirdandwry.galactology.achievement.farandwide_name"
+msgstr "널리"
+
+msgid "com.weirdandwry.galactology.achievement.bestdefense_name"
+msgstr "최고의 수비"
+
+msgid "com.weirdandwry.galactology.achievement.capitalism_name"
+msgstr "자본주의"
+
+msgid "com.weirdandwry.galactology.achievement.starfleet_name"
+msgstr "스타 플릿"
+
+msgid "com.weirdandwry.galactology.achievement.masters_name"
+msgstr "마스터"
+
+msgid "com.weirdandwry.galactology.achievement.pretaporter_name"
+msgstr "프레타포르테"
+
+msgid "com.weirdandwry.galactology.achievement.plundering_name"
+msgstr "약탈"
+
+msgid "com.weirdandwry.galactology.achievement.chef_desc"
+msgstr "주방에서 열심히!"
+
+msgid "com.weirdandwry.galactology.achievement.brewer_desc"
+msgstr "이 양조장에 관해서는 아무것도 없다"
+
+msgid "com.weirdandwry.galactology.achievement.builder_desc"
+msgstr "당신이 그것을 지으면 그들은 올 것이다"
+
+msgid "com.weirdandwry.galactology.achievement.nothingwasted_desc"
+msgstr "치킨 같은 맛"
+
+msgid "com.weirdandwry.galactology.achievement.disco_desc"
+msgstr "좋은 종류의 흥분"
+
+msgid "com.weirdandwry.galactology.achievement.popular_desc"
+msgstr "모든 관광객이 나타나기 전에 시원했다"
+
+msgid "com.weirdandwry.galactology.achievement.wedeliver_desc"
+msgstr "그 재고을 신선하게 유지해야 해"
+
+msgid "com.weirdandwry.galactology.achievement.provider_desc"
+msgstr "은하계는 당신의 제품에 중독되어 있습니다"
+
+msgid "com.weirdandwry.galactology.achievement.er_desc"
+msgstr "문지르기는 허용되지 않습니다"
+
+msgid "com.weirdandwry.galactology.achievement.wateringhole_desc"
+msgstr "일출까지 마셔 보자"
+
+msgid "com.weirdandwry.galactology.achievement.farandwide_desc"
+msgstr "은하계의 가장 먼 곳에 도달"
+
+msgid "com.weirdandwry.galactology.achievement.bestdefense_desc"
+msgstr "공격"
+
+msgid "com.weirdandwry.galactology.achievement.capitalism_desc"
+msgstr "당신이 필요 없다는 걸 모르는 것을 팔아요"
+
+msgid "com.weirdandwry.galactology.achievement.starfleet_desc"
+msgstr "대담하게도 한 번이 아니라 두 번이나 이 단어를 게임에서 사용합니다"
+
+msgid "com.weirdandwry.galactology.achievement.masters_desc"
+msgstr "A 받음!"
+
+msgid "com.weirdandwry.galactology.achievement.pretaporter_desc"
+msgstr "은하계 최고로 잘 입은 승무원"
+
+msgid "com.weirdandwry.galactology.achievement.plundering_desc"
+msgstr "전쟁의 전리품은 너의 것이다"
