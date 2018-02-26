@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-22 11:05+0000\n"
-"PO-Revision-Date: 2018-02-25 21:00+0000\n"
+"PO-Revision-Date: 2018-02-26 07:53+0000\n"
 "Last-Translator: kiironosora <kiironosora@naver.com>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
@@ -1731,11 +1731,11 @@ msgid "event_worm_warn"
 msgstr "당신의 오만함은 깊은 공간에서 잊혀진 짐승을 깨웠습니다. 우주 웜이 당신의 스테이션을 공격하고 있습니다!"
 
 msgid "event_xenos_spawned"
-msgstr "이종형체가 산란했습니다!"
+msgstr "지노모프가 산란했습니다!"
 
 msgid "event_xenos_warn"
 msgstr ""
-"이종형체의 알이 스테이션에서 발견되었습니다! 그들이 산란하기 전에 제거하거나 결과에 대처하십시오. 알은 중립 유닛이며 수동 목표 명령이 "
+"지노모프의 알이 스테이션에서 발견되었습니다! 그들이 산란하기 전에 제거하거나 결과에 대처하십시오. 알은 중립 유닛이며 수동 목표 명령이 "
 "필요합니다."
 
 msgid "excessive_machine"
@@ -5448,7 +5448,7 @@ msgid "planet_travel"
 msgstr "@ui_icon_30px_fleet2.png 여행"
 
 msgid "planetarium"
-msgstr "별자리 투영기"
+msgstr "천체 투영관"
 
 msgid "planetarium_desc_friendly"
 msgstr "유혈 사태나 명성 손실없이 동일한 정보를 얻을 수있는 공물을 지불 할 수도 있습니다."
@@ -7270,7 +7270,7 @@ msgid "tutorial_planet_extraction"
 msgstr "추출"
 
 msgid "tutorial_planet_extraction_2"
-msgstr "이제 강조 표시된 물건을 클릭하십시오: 추출기"
+msgstr "이제 강조 표시된 물건을 클릭하십시오: 추출기."
 
 msgid "tutorial_planet_extraction_5"
 msgstr ""
@@ -7343,3 +7343,715 @@ msgstr ""
 
 msgid "visitor_researcher"
 msgstr "연구자"
+
+msgid "tutorial_planet_basics_7b"
+msgstr ""
+"모든 오피서는 무장하고 준비가 되어 있으며 완전 자동 모드입니다. 그들은 당신의 명령없이 범위 안의 적과 교전하거나 아군을 치료할 "
+"것입니다. 액션 바에 있는 수동 목표 액션을 사용하여 현재 선택된 오피서에게 다른 목표를 공격하거나 치표 할 것을 지시 할 수 있습니다."
+
+msgid "tutorial_planet_basics_8b"
+msgstr ""
+"마지막으로 빠른 그룹 선택으로 1에서 6까지의 키 (기본 키 바인딩에서)를 설정할 수도 있습니다. 오피서 선택을 한 다음 Ctrl-1을 "
+"눌러 첫 번째 빠른 그룹을 현재 선택 항목으로 설정합니다. 그 시점에서 1 을 누르면 같은 그룹이 선택됩니다. 이 게임은 행성을 탐험 할 "
+"때 그룹 1을 전체 상륙 승무원으로 자동 설정합니다."
+
+msgid "tutorial_planet_extraction_1"
+msgstr ""
+"자원 추출기를 건설해 보겠습니다. 이 건물들은 행성 표면에 건설하며, 우주선이 배달 할 자원을 주기적으로 생산합니다. 노드가 영향 영역 "
+"내에 있도록 자원 노드 근처에 건설해야합니다. 건설 도구를 선택하십시오."
+
+msgid "tutorial_planet_extraction_3"
+msgstr ""
+"이 건물은 지구에서 자원을 추출하는 데 사용됩니다. 강조 표시된 타일은 과일 노드 근처에 있으며 추출기를 만들기 위해 클릭하십시오. "
+"적어도 하나의 노드는 영향 영역의 원 안에 있어야합니다. 분대를 선택하고 [1] 텔레포트 [T] 할 수 있습니다."
+
+msgid "tutorial_planet_extraction_4"
+msgstr ""
+"이제 물건이 오피서에 의해 만들어 져야합니다. 그들이 일을 끝내기를 기다려 봅시다. 그들이 건설할 물건으로부터 멀리 떨어지면 텔레포트 "
+"도구를 사용할 수 있다는 것을 기억하십시오."
+
+msgid "tutorial_planet_extraction_6_dev"
+msgstr "[DEV] 지금 이륙하여 은하계에서 자동 조종 튜토리얼을 해보세요."
+
+msgid "tutorial_planet_planetarium_1"
+msgstr ""
+"시간이 지나면 홈이라고 불리는 소행성이 있는 레벨 1 태양계가 너무 작아집니다. 스테이션을 계속 유지하려면 새로운 자원과 더 많은 "
+"방문자가 필요합니다. 새로운 시스템을 여는 방법은 천체 투영관을 방문하는 것입니다. 모든 유인 행성에는 하나 씩 있습니다. 이 행성의 "
+"천체 투영관을 보려면 다음을 클릭하십시오."
+
+msgid "tutorial_planet_planetarium_2"
+msgstr ""
+"천체 투영관에는 지역 은하에 대한 지식이 포함되어 있습니다. 정보 패널에 적힌것 처럼, 힘 또는 돈으로 그 지식을  얻는 것은 당신의 "
+"선택입니다. 그 결과를 조심하십시오! 그 지식을 얻으면 그 행성이 속한 태양계로부터 연결된 모든 태양계가 여행을 위해 열릴 것입니다."
+
+msgid "tutorial_station_basics_1"
+msgstr ""
+"더 스페이셜스: 갈락톨로지 에 오신 것을 환영합니다!\n"
+"당신의 스테이션입니다. 지금은 별볼일 없죠.\n"
+"당신의 기본 임무는 건설하고 방어하는 것입니다. 그래서 스페이셜스의 집이되고 방문자들에게는 인기있는 곳으로 만드세요."
+
+msgid "tutorial_station_basics_2"
+msgstr "WASD 키를 사용하여 스테이션 주변을 스크롤하십시오. 마우스 휠을 사용하여 확대 및 축소하십시오."
+
+msgid "tutorial_station_basics_3_1"
+msgstr ""
+"왼쪽 툴바에는 스테이션을 만들고 관리하는 데 필요한 모든 도구가 있습니다. 첫 번째 도구는 정보 도구입니다. Esc 키를 사용하여 "
+"언제든지 이 도구를 선택할 수 있습니다."
+
+msgid "tutorial_station_basics_4"
+msgstr ""
+"정보 도구는 선택한 물건에 대한 정보를 표시합니다. 또한 주방에서 레시피을 설정하는 것과 같이 해당 물건의 상태을 변경하기 위한 추가 "
+"제어 기능을 제공 할 수도 있습니다.\n"
+"클릭하려는 항목이 다른 항목 뒤에 있는 경우 동일한 지점을 한 번 이상 클릭하여 해당 지점의 모든 항목을 순환합니다."
+
+msgid "tutorial_station_building_1"
+msgstr ""
+"스테이션은 방으로 구성되어 있습니다. 방은 항상 벽이나 문으로 구분되어야 하며 바닥은 바닥 타일로 완전히 덮여 있어야 합니다. 이 "
+"조건들이 충족 될 때만 방이라고 인식되며, 그 다음에만 대다수의 스테이션 물건을 건설할 수 있습니다.\n"
+"바닥 건설 도구 선택하십시오"
+
+msgid "tutorial_station_building_10"
+msgstr ""
+"좋습니다! 방이 거의 준비가 되었습니다. 모퉁이에 있는 마지막 타일을 닫아야합니다. 벽만 지었을 때 들어가거나 나가는 것은 불가능합니다. "
+"문이 필요합니다. 물건 도구를 선택하십시오."
+
+msgid "tutorial_station_building_11"
+msgstr ""
+"물건 도구는 스테이션에 건설 할 수있는 모든 잠금 해제 된 물건을 나열합니다. 먼저 물건 카테고리를 선택합니다. 보안 카테고리를 "
+"클릭하십시오."
+
+msgid "tutorial_station_building_12"
+msgstr "이제 강조 표시된 물건을 클릭하십시오: 문."
+
+msgid "tutorial_station_building_13"
+msgstr ""
+"강조 표시된 타일을 클릭하여 문을 건설하십시오. Q 및 E 를 사용하여 생성 전에 물건을 회전하거나 마우스를 클릭앤 드래그하여 물건을 "
+"건설할 수 있습니다."
+
+msgid "tutorial_station_building_14"
+msgstr ""
+"바닥이나 벽 도구와 마찬가지로 물건 도구는 청사진을 배치하기 만하면 물건이 오피서에 의해 만들어 져야합니다. 그들이 일을 끝내기를 기다려 "
+"봅시다."
+
+msgid "tutorial_station_building_15"
+msgstr ""
+"이것은 이제 완전하고 유효한 방입니다. 건설 도구는 실내 공간에 유효한 바닥임을 나타내는 녹색 음영으로 바닥 면적을 표시합니다. 방이 "
+"바닥 타일을 잃거나 벽이 파괴되어 외부에 노출되면 물건이 손상되어 파괴 될 수 있습니다."
+
+msgid "tutorial_station_building_16"
+msgstr "유효하지만 빈 방은 별로 유용하지 않습니다. 다음 튜토리얼에서는 식품 생산 및 시설에 대한 몇 가지 기본 물건을 보여줍니다."
+
+msgid "tutorial_station_building_2"
+msgstr ""
+"건설 바닥 도구는 마우스 왼쪽 버튼으로 드래그하면 스테이션에서 선택된 바닥 청사진을 그립니다.\n"
+"마우스 왼쪽 버튼으로 두 마커 사이를 드래그하십시오."
+
+msgid "tutorial_station_building_2_b"
+msgstr ""
+"팁: Shift 키를 눌러 건설 바닥 도구를 바닥 지우개로 전환 할 수 있습니다. 드래그하는 동안 Esc 키를 눌러 취소 할 수 있습니다."
+
+msgid "tutorial_station_building_3"
+msgstr ""
+"바닥 도구는 청사진만을 그립니다. 실제 바닥을 건설하기 위해 오피서를 위해 일자리가 만들어집니다. 그들이 끝날 때까지 기다려 봅시다."
+
+msgid "tutorial_station_building_4"
+msgstr "끝났습니다! 그러나 방은 단순히 바닥뿐만이 아니라 벽도 필요합니다. 벽 도구 선택하십시오"
+
+msgid "tutorial_station_building_5"
+msgstr ""
+"바닥 주위에 벽 청사진을 놓아 보자.\n"
+"마우스 왼쪽 버튼으로 두 마커 사이를 드래그하십시오."
+
+msgid "tutorial_station_building_5_b"
+msgstr ""
+"팁: Shift 키를 눌러 건설 벽 도구를 벽 지우개로 전환 할 수 있습니다. 드래그하는 동안 Esc 키를 눌러 취소 할 수 있습니다."
+
+msgid "tutorial_station_building_6"
+msgstr "이제 또 다른 편. 마우스 왼쪽 버튼으로 두 마커 사이를 드래그하십시오."
+
+msgid "tutorial_station_building_7"
+msgstr "한 번 더. 마우스 왼쪽 버튼으로 두 마커 사이를 드래그하십시오."
+
+msgid "tutorial_station_building_8"
+msgstr "그리고 마지막 벽 부분. 타일 하나를 남겨두고 나중에 문을 지으려고합니다. 마우스 왼쪽 버튼으로 두 마커 사이를 드래그하십시오."
+
+msgid "tutorial_station_building_9"
+msgstr "벽이 지어 질 때까지 기다려 봅시다."
+
+msgid "tutorial_station_object_tool"
+msgstr "시설"
+
+msgid "tutorial_station_object_tool_1"
+msgstr ""
+"방만으로는 오피서들과 방문객들에게 서비스하기에 충분하지 않습니다. 이제 몇 가지 물건을 만들어 봅시다.\n"
+"건설 물건 도구를 선택하십시오."
+
+msgid "tutorial_station_object_tool_2"
+msgstr ""
+"물건 도구는 스테이션에 건설 할 수있는 모든 잠금 해제 된 물건을 나열합니다. 먼저 물건 카테고리를 선택합니다. 음식 및 음료 카테고리를 "
+"클릭하십시오."
+
+msgid "tutorial_station_object_tool_3"
+msgstr "이제 강조 표시된 물건을 클릭하십시오: 기본 주방."
+
+msgid "tutorial_station_object_tool_4"
+msgstr ""
+"기본 주방은 싸고 간단한 음식을 요리하는데 사용될 수 있습니다. 건설하려면 건설된 바닥 타일을 클릭하십시오. Q 및  E를 사용하여 생성 "
+"전에 물건을 회전하거나 마우스를 클릭 앤 드래그하여 물건을 건설할 수 있습니다."
+
+msgid "tutorial_station_object_tool_5"
+msgstr ""
+"바닥 도구와 마찬가지로 물건 도구는 청사진만을 그리며 물건은 오피서에 의해 건설되어야 합니다. 그들이 일을 끝내기를 기다려 봅시다."
+
+msgid "tutorial_station_object_tool_6"
+msgstr ""
+"그러나 오피서와 방문객은 바닥에서 음식을 먹거나 마시지 않습니다. 그들이 식사를 즐길 수있는 테이블을 만들어야합니다. 식당 테이블을 "
+"선택하고 강조 표시된 타일에 건설하십시오."
+
+msgid "tutorial_station_object_tool_7"
+msgstr ""
+"이제 우리는 음식과 음료를 위한 아주 기본적인 시설을 갖추고 있습니다. 그러나 우리는 여전히 주방에 생산 명령을 내리고 재고 개념을 "
+"배워야 해야합니다. 재고 및 생산 튜토리얼에서 더 자세히 읽어보십시오."
+
+msgid "tutorial_station_object_tool_7b"
+msgstr ""
+"소음에 대해서: 주방과 테이블의 조그마한 조합이 처음에는 적합하지만 2 개 이상의 부엌을 같은 방에 설치하는 것은 오피서가 조용한 점심을 "
+"먹으려 고 할 때 거슬립니다. 스테이션이 커지면 별도의 주방을 마련하는 것을 고려하십시오."
+
+msgid "tutorial_station_production"
+msgstr "생산"
+
+msgid "tutorial_station_production_1"
+msgstr ""
+"많은 자원은 오피서가 사용하기 전에 정제되어야 합니다. 스테이션의 다른 업무와 마찬가지로 오피서는 주방을 작동시킬 수있는 적절한 직업을 "
+"가져야합니다. 작업 매트릭스 도구를 클릭하십시오."
+
+msgid "tutorial_station_production_2"
+msgstr ""
+"여기서 왼쪽에 나열된 오피서를 볼 수 있습니다. 오른쪽에는 모든 오피서와 직업의 조합에는 하나의 칸이 있습니다. 최소한 한 명의 오피서가 "
+"요리 기능을 사용하도록 설정했는지 확인하고 다음을 클릭하십시오."
+
+msgid "tutorial_station_production_3_1"
+msgstr "이제 우리 주방에서 요리하기 위해 설정을 해봅시다. 정보 도구로 선택하십시오."
+
+msgid "tutorial_station_production_3_2"
+msgstr "팁: 스테이션에서 언제든지 Esc를 눌러 정보 도구를 활성화 한 다음 스테이션 물건를 클릭하여 해당 속성을 볼 수 있습니다."
+
+msgid "tutorial_station_production_4"
+msgstr ""
+"이것은 기본 주방에 대한 정보 패널입니다. 여기에는 바이탈 탭과 같은 일부 일반 정보와 공장 탭과 같은 특정 정보가 포함되어 있습니다.\n"
+"계속하려면 공장 탭을 클릭하십시오."
+
+msgid "tutorial_station_production_5_2"
+msgstr ""
+"공장 정보 패널이 주문 생성보기로 변경되었습니다. 먼저 레시피를 선택하고 일부 식량을 요리하십시오. 기본 식량 레시피를 클릭하여 "
+"선택하십시오."
+
+msgid "tutorial_station_production_5_3"
+msgstr "이제 우리는 이 레시피를 만들 반복횟수를 설정해야합니다. 번호 레이블을 클릭하고 메시지가 나타나면 3을 입력하십시오."
+
+msgid "tutorial_station_production_7"
+msgstr ""
+"여기있습니다! 첫 번째 식량이 이 소행성에서 요리되었습니다. 그러나 바닥에 음식을 쌓아두는 것은 좋은 생각처럼 보이지 않습니다. 재고를 "
+"관리 유지할 수있는 물건에 대해서는 재고 튜토리얼을 계속하십시오."
+
+msgid "tutorial_station_stocks"
+msgstr "재고"
+
+msgid "tutorial_station_stocks_1"
+msgstr ""
+"바닥에 자원 더미를 놓아 둬도 되지만, 제어가 어렵습니다. 이러한 이유로 자원의 내부 재고를 관리하는 물건이 있습니다. 그들 중 작동하기 "
+"위해 재고를 요구할 수도 있습니다.\n"
+"음식 벤더를 만들어 봅시다. 물건 도구를 선택하십시오."
+
+msgid "tutorial_station_stocks_10"
+msgstr "이제 시설 카테고리를 선택하십시오."
+
+msgid "tutorial_station_stocks_11"
+msgstr ""
+"강조 표시된 물건은 팔레트입니다. 팔레트는 상점과 같은 단일 종류의 자원에 대한 재고 관리 물건이지만 물류에 사용될 수 있습니다. 예를 "
+"들어, 공장 옆에 팔레트를 만들면 자동으로 팔레트를 사용할 수있게 됩니다. 단일 자원 스택의 정확한 재고 관리가 필요한 경우 팔레트를 "
+"사용하십시오."
+
+msgid "tutorial_station_stocks_12"
+msgstr ""
+"강조 표시된 물건은 저장소 영역입니다. 방 안에 지으며, 방의 바닥은 제품과 자원을 위한 유효한 저장 구역이됩니다. 또한 해당 구역에 "
+"저장될 자원의 종류를 결정할 수 있지만 재고 양을 관리할 수는 없습니다. 벌크화물 및 생산물을 저장하기 위해 저장 구역을 사용하십시오."
+
+msgid "tutorial_station_stocks_12b"
+msgstr "또한 은하계의 다른 행성에 직접 제품을 배달하고 판매 할 수 있습니다. 문명 화면에서 수입 탭을 확인하십시오."
+
+msgid "tutorial_station_stocks_2"
+msgstr "음식 및 음료 카테고리를 클릭하십시오."
+
+msgid "tutorial_station_stocks_3"
+msgstr "이제 강조 표시된 개체를 클릭하십시오: 캔틴 음식."
+
+msgid "tutorial_station_stocks_4"
+msgstr "강조 표시된 타일을 클릭하여 건설하십시오."
+
+msgid "tutorial_station_stocks_5"
+msgstr "그것이 건설 될 때까지 기다리십시오."
+
+msgid "tutorial_station_stocks_6_1"
+msgstr "이제 정보 도구로 전환하고 음식 벤더를 선택하십시오."
+
+msgid "tutorial_station_stocks_6_2"
+msgstr "팁: 스테이션에서 언제든지 Esc를 눌러 정보 도구를 활성화 한 다음 스테이션 물건를 클릭하여 해당 속성을 볼 수 있습니다."
+
+msgid "tutorial_station_stocks_7"
+msgstr "재고 패널을 선택하십시오."
+
+msgid "tutorial_station_stocks_8"
+msgstr ""
+"이 패널에서이 음식 벤더의 재고 관리 시스템에 대한 매개 변수를 조정할 수 있습니다. 그것은 이미 기본적으로 재고량으로 설정되어 있지만 "
+"원한다면 변경할 수 있습니다."
+
+msgid "tutorial_station_stocks_9"
+msgstr ""
+"이 음식점은 이제 음식을 재고로 가지기 시작할 것입니다. 오피서는 지정된 최대 재고량까지 음식을 배달합니다. 재고 관리 물건은는 생산 "
+"센터에서 멀리 떨어져 있을 때 제품과 자원을 효율적으로 배포하는 데 도움이됩니다. 그들은 또한 스테이션에서 방문자들에게 제품을 판매 할 "
+"수있게 합니다.\n"
+"두 가지를 더 보도록하겠습니다.\n"
+"건설 물건 도구를 선택하십시오."
+
+msgid "tutorial_station_title"
+msgstr "스테이션 튜토리얼"
+
+msgid "tutorial_station_vitals"
+msgstr "바이탈"
+
+msgid "tutorial_station_vitals_1"
+msgstr ""
+"스테이션의 주요 기능은 오피서들을 잘 살려 두는 것입니다. 그들은 여기서 일하며 은하계를 탐험 한 후에 이곳으로 돌아올 것이며 그들의 "
+"바이탈을 만족시켜야 할 것입니다. 그것들을 살펴 봅시다. 정보 도구를 선택한 다음 오피서를 클릭하십시오 (앞에 가로막는 것이 있으면 두 "
+"번 이상 클릭하십시오)."
+
+msgid "tutorial_station_vitals_2"
+msgstr ""
+"선택되지 않은 경우에는 바이탈 패널을 선택하십시오.\n"
+"이 패널은 선택된 오피서의 모든 바이탈을 표시합니다. 음식, 음료, 여가 구역 및 기타 시스템을 사용하여 너무 낮아지면 오피서가 바를 "
+"채울 수 있습니다. 너무 낮게하지 마십시오. 그렇지 않으면 마음에 영향을 주거나 신체에 손상을 줄 수 있습니다."
+
+msgid "tutorial_station_vitals_4"
+msgstr ""
+"오피서의 마음은 많은 종류의 것들에 영향을 받을 수 있습니다. 예를 들어, 배고프기 만하면 오피서를 해칠 뿐만 아니라 부정적인 느낌을 "
+"갖게 됩니다. 바에 열거 된 감정들을 볼 수 있습니다. 오피서의 마음 바가 너무 낮아지면, 의지를 잃어 버릴 수도 있고 폭력적이 될 수도 "
+"있습니다.\n"
+"다음 튜토리얼을 계속 진행하여 오피서를 돌볼 주방을 짓기 시작하십시오."
+
+msgid "tutorial_waiting"
+msgstr "기다리는 중..."
+
+msgid "type_new_max_stock"
+msgstr "이 물건에 보관할 최대 재고량"
+
+msgid "type_officer_name"
+msgstr "오피서의 이름을 입력:"
+
+msgid "type_restock_at_stock"
+msgstr "재입고 작업은 재고의 양이 최대 재고량에 도달 할 때까지이 값과 같거나 낮을 때 시작됩니다."
+
+msgid "type_ship_name"
+msgstr "우주선의 이름을 입력:"
+
+msgid "ugc_but_create"
+msgstr "만들기"
+
+msgid "ugc_but_update"
+msgstr "업데이트"
+
+msgid "ugc_change_desc"
+msgstr "변경 로그 업데이트 (실제 텍스트 편집기에서 붙여 넣기 가능)"
+
+msgid "ugc_changelog"
+msgstr "변경 로그 업데이트:"
+
+msgid "ugc_create_new_mod"
+msgstr "새 모드 만들기"
+
+msgid "ugc_desc"
+msgstr "설명:"
+
+msgid "ugc_entry_desc_req"
+msgstr "설명이 필요합니다"
+
+msgid "ugc_entry_desc_too_log"
+msgstr "설명이 너무 깁니다"
+
+msgid "ugc_entry_title_req"
+msgstr "제목이 필요합니다"
+
+msgid "ugc_entry_title_too_log"
+msgstr "제목이 너무 깁니다"
+
+msgid "ugc_error_conn"
+msgstr "Steamworks와 연결하는 동안 오류가 발생했습니다"
+
+msgid "ugc_error_logged"
+msgstr "이 작업을 수행하려면 Steam에 로그인해야합니다"
+
+msgid "ugc_error_priv"
+msgstr "Steam의 현재 사용자 계정에 대한 권한이 충분하지 않습니다"
+
+msgid "ugc_error_timeout"
+msgstr "Steam으로 연결하는 동안 시간 초과"
+
+msgid "ugc_folder"
+msgstr "콘텐츠 폴더:"
+
+msgid "ugc_folder_desc"
+msgstr "업로드할 모드 콘텐츠 폴더를 선택"
+
+msgid "ugc_image"
+msgstr "이미지:"
+
+msgid "ugc_mod_desc"
+msgstr "모드 설명 (당신은 실제 텍스트 편집기에서 붙여 넣을 수 있습니다)"
+
+msgid "ugc_mod_title"
+msgstr "모드 제목"
+
+msgid "ugc_my_workshop"
+msgstr "내 워크숍"
+
+msgid "ugc_tag_translation"
+msgstr "번역"
+
+msgid "ugc_tags"
+msgstr "태그:"
+
+msgid "ugc_title"
+msgstr "타이틀:"
+
+msgid "ugc_user_warning"
+msgstr "이것은 모드 개발자를위한 도구입니다. 게임의 모드를 설치하고 활성화하려면 새 게임 창의 모드 패널을 사용하십시오."
+
+msgid "ugc_valid_desc_req"
+msgstr "설명이 필요합니다"
+
+msgid "ugc_valid_desc_too_long"
+msgstr "설명이 너무 깁니다"
+
+msgid "ugc_valid_folder_req"
+msgstr "콘텐츠 폴더가 필요합니다"
+
+msgid "ugc_valid_image_req"
+msgstr "이미지 파일이 필요합니다"
+
+msgid "ugc_valid_title_req"
+msgstr "제목이 필요합니다"
+
+msgid "ugc_valid_title_too_long"
+msgstr "제목이 너무 깁니다"
+
+msgid "ugc_vis"
+msgstr "공개 설정:"
+
+msgid "ugc_vis_friends"
+msgstr "친구"
+
+msgid "ugc_vis_private"
+msgstr "비공개"
+
+msgid "ugc_vis_public"
+msgstr "공개"
+
+msgid "ugc_warn_already"
+msgstr "모드가 아직 생성 및 / 또는 업데이트 중입니다. 잠시 기다려주십시오"
+
+msgid "ui_color"
+msgstr "UI 색상"
+
+msgid "ui_scale"
+msgstr "UI 스케일"
+
+msgid "unassigned"
+msgstr "할당되지 않음"
+
+msgid "unavailable"
+msgstr "사용할 수 없음"
+
+msgid "uncompensated"
+msgstr "보상되지 않음"
+
+msgid "universal_printer"
+msgstr "유니버설 프린터"
+
+msgid "universal_printer_desc"
+msgstr "레크리에이션 시설에 필요한 모든 것을 인쇄합니다"
+
+msgid "unlocked"
+msgstr "잠금 해제 됨"
+
+msgid "unowned"
+msgstr "소유되지 않음"
+
+msgid "unowned_desc"
+msgstr "이 물건은 소유자가 없으므로 누구든지 사용할 수 있습니다."
+
+msgid "unowned_keep"
+msgstr "이 물건을 다른 사람이 사용할 수있게 만들기"
+
+msgid "v_xp"
+msgstr "%d XP"
+
+msgid "vaccine"
+msgstr "백신"
+
+msgid "valid_sources"
+msgstr "유효한 출처:"
+
+msgid "value_higher_min"
+msgstr "이 값은 최소량보다 커야합니다"
+
+msgid "value_lower_max"
+msgstr "이 값은 최대량보다 낮아야합니다"
+
+msgid "value_not_number"
+msgstr "값이 숫자가 아닙니다"
+
+msgid "value_too_high"
+msgstr "값이 너무 높습니다"
+
+msgid "value_too_high_res"
+msgstr "%s 의 최대 재고 크기는 %d 입니다"
+
+msgid "value_too_low"
+msgstr "값이 너무 낮습니다"
+
+msgid "vegan_feast"
+msgstr "채식 축제"
+
+msgid "video"
+msgstr "비디오"
+
+msgid "video_restart"
+msgstr "비디오 변경 사항을 적용하려면 다시 시작해야합니다."
+
+msgid "visit_thespatials_com"
+msgstr "thespatials.com 방문해 보세요"
+
+msgid "visitor_bored"
+msgstr "지루함"
+
+msgid "visitor_bored_desc"
+msgstr "재미는 어디?"
+
+msgid "visitor_departing_feeling"
+msgstr "출발"
+
+msgid "visitor_departing_feeling_desc"
+msgstr "집에 가는 중"
+
+msgid "visitor_dock"
+msgstr "방문자 도크"
+
+msgid "visitor_dock_desc"
+msgstr "방문자 우주선은 여기에 도킹 할 수 있습니다"
+
+msgid "visitor_docking_disabled"
+msgstr "방문자 우주선이 여기에 도킹하지 못하게 하십시오"
+
+msgid "visitor_docking_enabled"
+msgstr "방문자 우주선이 여기에 도킹 할 수있게 허용합니다"
+
+msgid "visitor_gambler"
+msgstr "도박꾼"
+
+msgid "visitor_gambler_desc"
+msgstr "한. 번. 더. 자러 갈 때까지... 쎈 술이 필요해."
+
+msgid "visitor_gourmet"
+msgstr "미식가"
+
+msgid "visitor_gourmet_desc"
+msgstr "나는이 스테이션에서 제공 할 수있는 식사와 음료에 관심이있다"
+
+msgid "visitor_holiday"
+msgstr "휴일에 휴가 옴"
+
+msgid "visitor_holiday_desc"
+msgstr "나는 모든 것을 할 수있는 충분한 시간이 있기를 희망한다!"
+
+msgid "visitor_mallrat"
+msgstr "몰링족"
+
+msgid "visitor_mallrat_desc"
+msgstr "내가 여기서 살 수 있으면 좋겠다!"
+
+msgid "visitor_opinion_vital"
+msgstr "의견"
+
+msgid "visitor_party"
+msgstr "파티광"
+
+msgid "visitor_party_desc"
+msgstr "파~~~~~티 오~~~~예!"
+
+msgid "visitor_researcher_desc"
+msgstr "지식을 추구"
+
+msgid "visitor_shopper"
+msgstr "쇼퍼"
+
+msgid "visitor_shopper_desc"
+msgstr "최고의 거래를 찾고 있습니다"
+
+msgid "visitor_sick"
+msgstr "아픔"
+
+msgid "visitor_sick_desc"
+msgstr "의료가 필요"
+
+msgid "visitor_timer_feeling"
+msgstr "방문자"
+
+msgid "visitor_timer_feeling_desc"
+msgstr "일시적으로 여기에 옴"
+
+msgid "visitor_tired"
+msgstr "피곤함"
+
+msgid "visitor_tired_desc"
+msgstr "그냥 쉬고 나 자신을 돌봐 줘야 해"
+
+msgid "visitor_usage"
+msgstr "방문자 사용"
+
+msgid "visitor_wasted"
+msgstr "지나감"
+
+msgid "visitor_wasted_desc"
+msgstr "가장 가까운 선술집이나 술집으로... 되돌아 보지 말고. ..."
+
+msgid "vital_factors"
+msgstr "바이탈 요소:"
+
+msgid "vital_satisfy_desc"
+msgstr "~A 충족중"
+
+msgid "vitals"
+msgstr "바이탈"
+
+msgid "vitamin_water"
+msgstr "비타민 워터"
+
+msgid "volcanic_planet"
+msgstr "화산 행성"
+
+msgid "vomit_from"
+msgstr "~A 의 구토"
+
+msgid "vsync"
+msgstr "VSync"
+
+msgid "vsync_default"
+msgstr "기본값"
+
+msgid "vsync_late"
+msgstr "늦게"
+
+msgid "vsync_off"
+msgstr "오프"
+
+msgid "vsync_on"
+msgstr "온"
+
+msgid "walk_group_to_label"
+msgstr "그룹을 선택한 위치로 이동하려면 클릭하십시오"
+
+msgid "walk_here"
+msgstr "여기로 걸어"
+
+msgid "walk_order_desc"
+msgstr "걷기 명령"
+
+msgid "walk_to"
+msgstr "여기로 걷기"
+
+msgid "walk_to_label"
+msgstr "클릭하여 ~A 를 선택한 위치로 걸어가게 합니다"
+
+msgid "walkable"
+msgstr "통과 가능"
+
+msgid "wall_construction_job"
+msgstr "벽 건설"
+
+msgid "wall_destruction_job"
+msgstr "벽 파괴"
+
+msgid "wallet"
+msgstr "지갑"
+
+msgid "walls_build_info"
+msgstr ""
+"선을 클릭 앤 드래그하여 벽 청사진을 그리거나 클릭하여 타일별로 칠합니다. 드래그하는 동안 Esc 키를 눌러 취소 할 수 있습니다."
+
+msgid "walls_tool"
+msgstr "벽 건설"
+
+msgid "warn_autopilot_no_need_home"
+msgstr ""
+"집으로 돌아 가기 위해 자동 조종 명령을 추가 할 필요가 없습니다. 자동 조종 장치는 화물칸이 가득 차거나 승무원이 필요할 때 자동으로 "
+"돌아옴니다. 승무원들의 휴식을 기다리고 자동 조종 일정을 늦출 것입니다."
+
+msgid "warn_no_officer_dock"
+msgstr ""
+"우주선 하나가 집에 도착했지만 배정된 오피서 도크가 없어서 승무원과 화물을 지도 가장자리로 순간이동 시켰습니다. 오피서 도크를 건설하고 "
+"이를 우주선에 지정하여 이를 피하십시오."
+
+msgid "warn_no_shop"
+msgstr "상점에 있지않아 공짜로 가져감"
+
+msgid "water"
+msgstr "물"
+
+msgid "water_leak"
+msgstr "물 샘"
+
+msgid "water_node"
+msgstr "물 노드"
+
+msgid "welcome_emp"
+msgstr "환영합니다!"
+
+msgid "window"
+msgstr "창"
+
+msgid "window_size"
+msgstr "창 크기"
+
+msgid "work_on_action"
+msgstr "~A 하는 중"
+
+msgid "working"
+msgstr "일하는 중"
+
+msgid "working_label"
+msgstr "일하는 중: ~A"
+
+msgid "world_enlargement"
+msgstr "세상 확대"
+
+msgid "world_enlargement_desc"
+msgstr "모든게 거대하다!"
+
+msgid "xeno_egg"
+msgstr "지노모프의 알"
+
+msgid "xeno_egg_desc"
+msgstr "이벤트 타이머가 0에 도달하기 전에 이 알을 파괴하여 지노모프의 산란을 방지하세요"
+
+msgid "xenomorph"
+msgstr "지노모프"
+
+msgid "xray"
+msgstr "엑스레이"
+
+msgid "xray_desc"
+msgstr "의학 진단을 위해 환자 몸의 내부 이미지를 만듭니다."
+
+msgid "yes"
+msgstr "예"
