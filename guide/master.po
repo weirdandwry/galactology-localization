@@ -174,7 +174,7 @@ msgstr "Space ships will come visit your station, and you will also maintain a f
 
 
 msgid "guide_systems_production_title"
-msgstr "Production, factories and recipes"
+msgstr "Production and recipes"
 
 msgid "guide_systems_production"
 msgstr "If officers are the blood of your station, factories are the heart. Factory objects include kitchens, metal presses, chemical reactors, breweries, etc. They all share a common interface to manufacture products from raw resources.\n\n"
@@ -197,7 +197,7 @@ msgstr "The security category offers a variety of objects to secure your station
 "Turrets are fixed defenses for your station. Conventional turrets will fire at enemies, and shielding turrets will cast a damage shield over friendly units. Cameras and scanners protect your station against sneaking enemies and impostors amongst your visitors."
 
 msgid "guide_systems_shops_title"
-msgstr "Shops, consumption, vital objects"
+msgstr "Shops and vital objects"
 
 msgid "guide_systems_shops"
 msgstr "Shops and dispensers are a special kind of pallet. They have the same restock limit controls but only allow a small subset of products to be stored inside. What they enable is to receive a credits payment every time a visitor tourist picks one product. This is very important because products stored anywhere else can be picked for free. So if you open your station to tourism, make sure to only offer your products via shop objects, and to protect with door filters your storage and production areas.\n\n"
