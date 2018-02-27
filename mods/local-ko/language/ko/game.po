@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-22 11:05+0000\n"
-"PO-Revision-Date: 2018-02-26 08:33+0000\n"
+"PO-Revision-Date: 2018-02-27 05:50+0000\n"
 "Last-Translator: kiironosora <kiironosora@naver.com>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
@@ -57,7 +57,7 @@ msgid "crusantian_adjective2"
 msgstr "크루산션 ~A"
 
 msgid "crusantian_bunch"
-msgstr "크루산션 다발"
+msgstr "크루산션"
 
 msgid "crusantian_member"
 msgstr "크루산션"
@@ -234,7 +234,7 @@ msgid "decor_shipmodel"
 msgstr "상세한 모델 선박"
 
 msgid "decor_skeleton"
-msgstr "인간의 해골"
+msgstr "인간 골격 모형"
 
 msgid "decor_statueman"
 msgstr "동상"
@@ -294,10 +294,10 @@ msgid "deliver_from_ground"
 msgstr "땅바닥"
 
 msgid "deliver_from_ground_no"
-msgstr "전달자는 자원이 땅바닥에 쌓여 있거나 저장 구역 안에있을 때 이 물체에 자원을 전달하는 것을 피할 것입니다"
+msgstr "전달자는 자원이 땅바닥에 쌓여 있거나 저장 구역 안에 있을 때 이 물체에 자원을 전달하는 것을 피할 것입니다"
 
 msgid "deliver_from_ground_yes"
-msgstr "전달자는 바닥 또는 저장구역에 있는 자원스택에서 이 물체에 자원를 전달합니다"
+msgstr "전달자는 바닥 또는 저장구역에 있는 자원 스택에서 이 물체에 자원를 전달합니다"
 
 msgid "deliver_from_source"
 msgstr "독점 출처"
@@ -321,10 +321,10 @@ msgid "deliver_from_storage_yes"
 msgstr "전달자는 팔레트에서 이 물체에 자원을 전달할 것입니다"
 
 msgid "Luxury_kitchen_desc"
-msgstr "우주에서 절대 최고의 요리가 여기서 준비됩니다"
+msgstr "우주에서 절대적으로 최고의 요리가 여기서 준비됩니다"
 
 msgid "PR_desc"
-msgstr "그들은 매력적이고 재미있어, 잠재 고객에게 모든 것이 좋다는 것을 확신시키는 데 매우 성공적입니다."
+msgstr "그들은 매력적이고 재미있어, 잠재적 고객에게 모든 것이 좋다는 것을 확신시키는 데 매우 성공적입니다."
 
 msgid "absorbtion"
 msgstr "흡수"
@@ -336,10 +336,10 @@ msgid "accept"
 msgstr "수락"
 
 msgid "action_cooldown"
-msgstr "[~ A]는 재사용 대기 중"
+msgstr "[~A]는 재사용 대기 중"
 
 msgid "active_absorb"
-msgstr "~ A 흡수"
+msgstr "~A 흡수"
 
 msgid "active_absorb_item"
 msgstr "액티브 흡수 아이템"
@@ -405,7 +405,7 @@ msgid "aesthetics_feeling_very_high"
 msgstr "감탄함"
 
 msgid "aesthetics_feeling_very_high_desc"
-msgstr "아름다움에 둘러싸여있다"
+msgstr "아름다움에 둘러 쌓여있다"
 
 msgid "aesthetics_feeling_very_low"
 msgstr "역겨움"
@@ -531,7 +531,7 @@ msgid "auto"
 msgstr "자동"
 
 msgid "auto_combat_false"
-msgstr "이 오피서가 선택되거나 분대에있는 한 ~A는 이제 당신에 의해 제어됩니다"
+msgstr "이 오피서가 선택되거나 분대에 있는 한 ~A는 이제 당신에 의해 제어됩니다"
 
 msgid "auto_combat_true"
 msgstr "~A가 이제 자동으로 오피서에 의해 제어됩니다"
@@ -567,7 +567,7 @@ msgid "bad_sleep_desc"
 msgstr "최근에 침대없이 잤다"
 
 msgid "base_price_a"
-msgstr "기본 가격: @ ui_icon_20px_credits04.png ~A"
+msgstr "기본 가격: @ui_icon_20px_credits04.png ~A"
 
 msgid "base_spec"
 msgstr "기본 사양"
@@ -684,7 +684,7 @@ msgid "blorg_plutocracy"
 msgstr "블로그 재벌"
 
 msgid "body_level_in"
-msgstr "%s 중 %s (L%d)"
+msgstr "%s (L%d) in %s"
 
 msgid "bonbons"
 msgstr "봉봉"
@@ -764,7 +764,7 @@ msgid "build_cleaner_robot"
 msgstr "청소 로봇 제작"
 
 msgid "build_collector"
-msgstr "근처에 컬렉터를 세워 자원을 추출하세요"
+msgstr "근처에 추출기를 세워 자원을 추출하세요"
 
 msgid "build_color"
 msgstr "방 바닥 색상:"
@@ -809,7 +809,7 @@ msgid "build_maintenance_robot"
 msgstr "유지 보수 로봇 제작"
 
 msgid "build_object"
-msgstr "물건 제작"
+msgstr "물건 건설"
 
 msgid "build_objects_label"
 msgstr "물건:"
@@ -821,7 +821,7 @@ msgid "build_security_robot"
 msgstr "보안 로봇 제작"
 
 msgid "build_tool"
-msgstr "물건 제작"
+msgstr "물건 건설"
 
 msgid "build_walls"
 msgstr "벽 건설"
@@ -1016,7 +1016,7 @@ msgid "chef"
 msgstr "쉐프"
 
 msgid "chef_desc"
-msgstr "가장 복잡한 조리법을 요리 할 수 있습니다. 고급 스테이션에는 요리사가 가장 호화로운 음식과 음료를 만들기 위해 필요합니다."
+msgstr "가장 복잡한 레시피를 요리 할 수 있습니다. 고급 스테이션에는 요리사가 가장 호화로운 음식과 음료를 만들기 위해 필요합니다."
 
 msgid "chemist"
 msgstr "화학자"
@@ -1112,10 +1112,10 @@ msgid "civ_colony"
 msgstr "식민지"
 
 msgid "civ_encountered"
-msgstr "처음으로 %s 별 시스템이 발견되었습니다! 이제 문명 화면에서 이 문명를 볼 수 있습니다."
+msgstr "처음으로 %s 태양계가 발견되었습니다! 이제 문명 화면에서 이 문명를 볼 수 있습니다."
 
 msgid "civ_ui_resources"
-msgstr "@ui_icon_30px_buy.png 자원"
+msgstr "@ui_icon_30px_buy.png 자원 구매"
 
 msgid "civ_uninhabited"
 msgstr "무인"
@@ -1206,7 +1206,8 @@ msgstr "확실합니까? 취소하면 이미 완료된 작업과 자원이 모�
 
 msgid "confirm_evolve_officer"
 msgstr ""
-"~A에서 ~A로 업그레이드하면 취소 할 수 없습니다! ~A는 어떤 일을 할 수 없게 되고 다른 일은 더 잘 수행 할 것입니다. 확실합니까?"
+"~A(을)를 ~A(으)로 업그레이드하면 취소 할 수 없습니다! ~A(은)는 어떤 일을 할 수 없게 되고 다른 일은 더 잘 수행 할 "
+"것입니다. 확실합니까?"
 
 msgid "confirm_fire_officer"
 msgstr "~A 해고는 취소 할 수 없습니다. 이 오피서는 영원히 사라질 것입니다! 확실합니까?"
@@ -1230,10 +1231,10 @@ msgid "contract_bonus_chance"
 msgstr "딸때 보너스 기회:"
 
 msgid "contract_completed"
-msgstr "%s(L%d) 의 %s 이 완료되었습니다"
+msgstr "%s in %s (L%d)이 완료되었습니다"
 
 msgid "contract_extra_xp_desc"
-msgstr "추가 XP는 오피서의 %d 의 %d%% 만큼이다 (%s XP)"
+msgstr "추가 XP는 %d%%만큼 입니다. %d experience for every officer (%s XP)"
 
 msgid "contract_name_diff_place_level"
 msgstr "%s 난이도 %s (L%d) 에서"
@@ -1302,7 +1303,7 @@ msgid "desperate_critical"
 msgstr "~A는 지금 절망적입니다! 그들은 쓸데없이 자신 앞에 있는 물건이나 사람을 때립니다."
 
 msgid "desperate_critical_violent"
-msgstr "~A 지금은 절망적이며 무기를 친구들에게 사용하고 있습니다!"
+msgstr "~A는 지금은 절망적이며 무기를 친구들에게 사용하고 있습니다!"
 
 msgid "desperate_warning"
 msgstr "~A는 기분이 매우 저조하며 절망적인 기분이 될수있는 위험이 있습니다"
@@ -1413,7 +1414,7 @@ msgid "door_lock_title"
 msgstr "전체 잠금"
 
 msgid "door_lock_title_desc"
-msgstr "이렇게하면 모든 유닛에게 문을 단단히 잠금할 수 있습니다. 폭력적인 침략자는 파괴해야 할 것입니다."
+msgstr "이렇게 하면 모든 유닛에게 문을 단단히 잠금할 수 있습니다. 폭력적인 침략자는 파괴해야 할 것입니다."
 
 msgid "door_officers"
 msgstr "오피서"
@@ -1530,16 +1531,16 @@ msgid "equip_item_must_station"
 msgstr "%s는 홈 스테이션에 있어야합니다"
 
 msgid "equip_item_no_reqs"
-msgstr "~A 는 ~A를 입을수 없습니다"
+msgstr "~A는 ~A를 입을수 없습니다"
 
 msgid "equip_item_replace"
 msgstr "~A를 파괴하고 ~A로 대체하겠습니까?"
 
 msgid "equip_item_rmb"
-msgstr "~A 를 장비"
+msgstr "~A를 장비"
 
 msgid "equip_item_slot_disabled"
-msgstr "~ A는 ~A를 장비하기 위해서는 더 높은 스펙이 필요합니다"
+msgstr "~A는 ~A를 장비하기 위해서는 더 높은 스펙이 필요합니다"
 
 msgid "equip_matrix"
 msgstr "장비 매트릭스"
@@ -1563,7 +1564,7 @@ msgid "equip_officer_slot_stored"
 msgstr "스테이션에 저장 됨"
 
 msgid "equip_officer_slot_title"
-msgstr "%s를 위해 %s 장착"
+msgstr "%s for %s 장착"
 
 msgid "equipmatrix_available"
 msgstr "이용가능"
@@ -1581,7 +1582,7 @@ msgid "erase_walls_tool"
 msgstr "벽 제거"
 
 msgid "eraser_hint"
-msgstr "제거 모드는 Shift 키를 누른 상태 유지"
+msgstr "지우개 모드는 Shift 키를 누른 상태 유지"
 
 msgid "error_bad_save"
 msgstr "게임로드 오류: 저장 파일을 읽을 수 없거나 파일이 손상되었습니다."
@@ -1605,13 +1606,13 @@ msgid "event_bernice_fail"
 msgstr "제한시간안에 작업이 완료되지 않았으므로 보상이 주어지지 않았습니다. 다음 검토에서 더 잘 수행되기를 바랍니다."
 
 msgid "event_bernice_goal_build"
-msgstr "베르니스는 더 많은 시설이 필요하다고 결정했습니다. %d 크레딧 보상을 위해 %d 개 물건을 2분 안에 건설하십시오."
+msgstr "베르니스는 더 많은 시설이 필요하다고 결정했습니다. %d 크레딧 보상을 위해 %d개 물건을 2분 안에 건설하십시오."
 
 msgid "event_bernice_goal_floor"
-msgstr "베르니스는 더 큰 스테이션이 요구된다고 결정했다. %d 크레딧 보상을 위해 2분 안에 %d 바닥 타일을 건설하십시오."
+msgstr "베르니스는 더 큰 스테이션이 요구된다고 결정했다. 2분 안에 %d 바닥 타일을 %d 크레딧 보상을 위해 건설하십시오."
 
 msgid "event_bernice_goal_produce"
-msgstr "베르니스는 더 높은 생산 속도가 필요하다고 결정했습니다. %d 크레딧 보상을 위해 2분 안에 %d 제품을 생산하십시오."
+msgstr "베르니스는 더 높은 생산 속도가 필요하다고 결정했습니다. 2분 안에 %d 제품을 %d 크레딧 보상을 위해 생산하십시오."
 
 msgid "event_bernice_succ"
 msgstr "목표가 달성되었습니다! %d 크레딧 보상은 스테이션 계정에 입금되었습니다. 잘했습니다. 다음 리뷰에서 만나요!"
@@ -1623,7 +1624,7 @@ msgid "event_breakage_warn"
 msgstr "스테이션의 일부 공장이 고장 남!"
 
 msgid "event_explodefire_warn"
-msgstr "%s 가 폭발했고 화재가 시작되었습니다!"
+msgstr "%s가 폭발했고 화재가 시작되었습니다!"
 
 msgid "event_finished"
 msgstr "이벤트 완료"
@@ -1638,13 +1639,13 @@ msgid "event_invaderbomb_warn"
 msgstr "숨겨진 적이 발견되었습니다! 폭발하기 전에 시한 폭탄을 파괴하십시오! 폭탄은 중립 유닛이며 수동 목표 주문이 필요합니다."
 
 msgid "event_invaders_alert"
-msgstr "습격자 도착했습니다! ~A 가 우리 스테이션을 공격하고 있습니다!"
+msgstr "습격자 도착했습니다! ~A가 우리 스테이션을 공격하고 있습니다!"
 
 msgid "event_invaders_retaliate_warn"
-msgstr "%s 이 보복해옵니다! % s의 습격자가 우리 스테이션에 접근 중입니다. 준비하십시오!"
+msgstr "%s이 보복해옵니다! %s의 습격자가 우리 스테이션에 접근 중입니다. 준비하십시오!"
 
 msgid "event_invaders_warn4c"
-msgstr "%s 에서 온 %s 습격자가 우리 스테이션에 접근 중이라는 보고입니다. 준비하십시오!"
+msgstr "%s from %s 습격자가 우리 스테이션에 접근 중이라는 보고입니다. 준비하십시오!"
 
 msgid "event_kowka_warn"
 msgstr ""
@@ -1663,11 +1664,11 @@ msgid "event_manysick_fail"
 msgstr "일부 %s 방문자가 치유되지 않아 보상이 제공되지 않습니다."
 
 msgid "event_manysick_succ"
-msgstr "모든 %s 명의 방문객이 치료되었습니다! %d 크레딧과 %d 명성의 보너스를 즐기십시오."
+msgstr "모든 %s 방문자가 치료되었습니다! %d 크레딧과 %d 명성의 보너스를 즐기십시오."
 
 msgid "event_manysick_warn"
 msgstr ""
-"%s 이 당신의 스테이션으로 %s의 아픈 시민들을 텔레포트 시켰습니다! 타이머가 0에 도달하기 전에 치료하여 %d 크레딧과 %d 명성의 "
+"%s이 당신의 스테이션으로 %d명의 아픈 시민들을 텔레포트 시켰습니다! 타이머가 0에 도달하기 전에 치료하여 %d 크레딧과 %d 명성의 "
 "보너스를 얻으십시오."
 
 msgid "event_meteors_end"
@@ -1711,10 +1712,10 @@ msgid "event_raid_alert"
 msgstr "습격자 도착했습니다! ~A가 우리 스테이션을 공격하고 있습니다!"
 
 msgid "event_raid_retaliate_warn"
-msgstr "%s 이 보복해옵니다! %s 의 습격자가 우리 스테이션에 접근 중입니다. 준비하십시오!"
+msgstr "%s이 보복해옵니다! %s의 습격자가 우리 스테이션에 접근 중입니다. 준비하십시오!"
 
 msgid "event_raid_warn4c"
-msgstr "%s 에서 온 %s 습격자가 우리 스테이션에 접근 중이라는 보고입니다. 준비하십시오!"
+msgstr "%s from %s 습격자가 우리 스테이션에 접근 중이라는 보고입니다. 준비하십시오!"
 
 msgid "event_robots_reveal"
 msgstr ""
@@ -1725,7 +1726,7 @@ msgid "event_timer"
 msgstr "남은 시간: %s"
 
 msgid "event_waterleak_warn"
-msgstr "%s 이 고장나서 주변이 물에 잠겼습니다!"
+msgstr "%s이 고장나서 주변이 물에 잠겼습니다!"
 
 msgid "event_worm_warn"
 msgstr "당신의 오만함은 깊은 공간에서 잊혀진 짐승을 깨웠습니다. 우주 웜이 당신의 스테이션을 공격하고 있습니다!"
@@ -2117,7 +2118,7 @@ msgid "galaxy_filter_reps"
 msgstr "문명"
 
 msgid "galaxy_filter_resources2"
-msgstr "수출된 자원 %s"
+msgstr "수출된 자원: %s"
 
 msgid "galaxy_filter_show_civ_ships"
 msgstr "문명 우주선 토글하기"
@@ -3031,7 +3032,7 @@ msgid "hps_label_short"
 msgstr "HPS"
 
 msgid "human_federation"
-msgstr "인간 민간인"
+msgstr "인간"
 
 msgid "humans_adjective"
 msgstr "인간 %s"
@@ -3073,7 +3074,7 @@ msgid "hygiene_feeling_low"
 msgstr "심한 냄새"
 
 msgid "hygiene_feeling_low_desc"
-msgstr "사람들이 나를 피햐, 샤워햐야겠어"
+msgstr "사람들이 나를 피해, 샤워햐야겠어"
 
 msgid "hygienizer_basic"
 msgstr "위생 3000"
@@ -3157,7 +3158,7 @@ msgid "implant_item"
 msgstr "임플란트 아이템"
 
 msgid "import_amount"
-msgstr "%s 에게 팔 %s 의 양을 입력하세요"
+msgstr "%s의 양을 %s에게 팔 만큼 입력하세요"
 
 msgid "import_amount_over_hold"
 msgstr "우주선 화물창이 너무 작습니다"
@@ -3269,10 +3270,10 @@ msgstr ""
 "이끌도록 선택되었습니다."
 
 msgid "intro_2"
-msgstr "주변 시스템과 행성을 탐험하고, 자원을 찾고, 역경을 이겨내세요. 당신은 인간 연맹의 신뢰를 가지고 있습니다!"
+msgstr "주변 시스템과 행성을 탐험하고, 자원을 찾고, 역경을 이겨내세요. 당신은 인간 연맹의 신뢰를 받고 있습니다!"
 
 msgid "invaded_by"
-msgstr "%s 가 침입중"
+msgstr "%s가 침입중"
 
 msgid "invaded_by_other_desc"
 msgstr ""
@@ -3289,10 +3290,10 @@ msgid "invaderbomb_desc"
 msgstr "큰 폭발을 피하기 위해 이벤트 타이머가 0에 도달하기 전에 이 폭탄을 파괴하십시오"
 
 msgid "invasion_happens_alert"
-msgstr "%s 가 %s 의 %s 행성을 침입했습니다. 이 행성의 무역, 자원 추출 및 관광은 이제 봉쇄됩니다."
+msgstr "%s가 %s(%s 소유) 행성을 침입했습니다. 이 행성의 무역, 자원 추출 및 관광은 이제 봉쇄됩니다."
 
 msgid "invasion_happens_alert_spatials"
-msgstr "당신은 %s 행성에 침입했습니다. %s 의 명성은 %d만큼 감소했습니다."
+msgstr "당신은 %s 행성에 침입했습니다. %s와의 명성은 %d만큼 감소했습니다."
 
 msgid "invasion_mission_can_invade"
 msgstr ""
@@ -3430,7 +3431,7 @@ msgid "job_warn_no_recipe"
 msgstr "생산을 활성화하려면 레시피를 선택하십시오."
 
 msgid "job_warn_no_resources3"
-msgstr "~A 의 재고가 없거나 경로가 없습니다"
+msgstr "~A의 재고가 없거나 경로가 없습니다"
 
 msgid "job_warn_no_resources4"
 msgstr "자원의 재고가 없거나 경로가 없습니다"
@@ -3573,7 +3574,7 @@ msgid "level_n_paren"
 msgstr " (레벨 %d)"
 
 msgid "liberation_happens_alert_spatials"
-msgstr "당신은 %s 행성을 해방 시켰습니다. %s의 명성은 %d만큼 증가했으며 %s의 명성은 %d만큼 감소했습니다."
+msgstr "당신은 %s 행성을 해방 시켰습니다. %s와의 명성은 %d만큼 증가했으며 %s와의 명성은 %d만큼 감소했습니다."
 
 msgid "liberty_desc"
 msgstr "자유와 용기. 생존자는 동물 실험을 해본 38 년 동안 오래 전에 지켜 보았지만 지금은 어디에서나 기쁨을 선사합니다."
@@ -3793,7 +3794,7 @@ msgid "microbiota_node"
 msgstr "미생물 노드"
 
 msgid "mind"
-msgstr "마인드"
+msgstr "마음"
 
 msgid "mind_combat"
 msgstr "전투 초점"
@@ -3805,7 +3806,7 @@ msgid "mind_crew"
 msgstr "우주선 승무원"
 
 msgid "mind_crew_desc"
-msgstr "나는 나의 필요를 진지하게 생각해"
+msgstr "나는 나의 욕구를 진지하게 생각해"
 
 msgid "mind_feeling_low"
 msgstr "내 마음의 아웃"
@@ -3820,7 +3821,7 @@ msgid "mind_feeling_low_desc"
 msgstr "나는 더이상 참을 수 없어!"
 
 msgid "mind_tip"
-msgstr "마인드: %d"
+msgstr "마음: %d"
 
 msgid "mineral_extractor"
 msgstr "미네랄 추출기"
@@ -3844,7 +3845,7 @@ msgid "missing_demands_desc"
 msgstr "내 요구 중 일부가 충족되지 않았어"
 
 msgid "mod_outdated"
-msgstr "선택한 모드가이 게임 버전과 호환되지 않습니다"
+msgstr "선택한 모드가 이 게임 버전과 호환되지 않습니다"
 
 msgid "mods"
 msgstr "모드"
@@ -3944,7 +3945,7 @@ msgid "need_booking"
 msgstr "예약 필요"
 
 msgid "need_booking_desc"
-msgstr "나는 잠잘 방을 예약해야한다"
+msgstr "나는 잠잘 방을 예약해야 한다"
 
 msgid "neutral"
 msgstr "중립"
@@ -5177,7 +5178,7 @@ msgid "object"
 msgstr "물건"
 
 msgid "object_is_busy"
-msgstr "~A 는 바쁩니다"
+msgstr "~A는 바쁩니다"
 
 msgid "object_power_level"
 msgstr "파워 레벨"
@@ -5198,7 +5199,7 @@ msgid "off"
 msgstr "오프"
 
 msgid "offcer_can_evolve"
-msgstr "~A 는 ~A 가 되기에 충분한 경험이 있습니다. 직원 화면에서 이 오피서를 승진시킬 수 있습니다."
+msgstr "~A는 ~A(이)가 되기에 충분한 경험이 있습니다. 직원 화면에서 이 오피서를 승진시킬 수 있습니다."
 
 msgid "officer"
 msgstr "오피서"
@@ -5216,7 +5217,7 @@ msgid "officer_dock_desc"
 msgstr "스테이션 소유 우주선은 여기에 도킹 할수 있습니다"
 
 msgid "officer_from"
-msgstr "~A 의 ~A (L~A) 출신"
+msgstr "~A (L~A) in ~A 출신"
 
 msgid "officer_in_crew"
 msgstr "현재 우주선: ~A"
@@ -5306,7 +5307,7 @@ msgstr "한 가지 자원을 저장하며 최대값과 최소값을 제어 할 �
 
 msgid "pallet_info_help"
 msgstr ""
-"팔레트를 중심으로 3x3 지역의 모든 공장은 그 원료를 직접 공급할 수 있습니다. 또한 3x3 영역을 포함한 제품을 직접 입금 할 수도 "
+"팔레트 중심으로 3x3 영역의 모든 공장은 그 원료를 직접 공급받을 수 있습니다. 또한 3x3 영역을 포함한 제품을 직접 저장 할 수도 "
 "있습니다."
 
 msgid "passing_out"
@@ -5328,7 +5329,7 @@ msgid "pharmacist"
 msgstr "제약사"
 
 msgid "pharmacist_desc"
-msgstr "의사는 약을 필요하고 제약사는 약만드는 달인이다."
+msgstr "의사는 약이 필요하고 제약사는 약 만드는 달인이다."
 
 msgid "pharmacy"
 msgstr "약조제"
@@ -5397,7 +5398,7 @@ msgid "planet_embassy_desc"
 msgstr "지역 문명에 대한 명성을 리미트까지 천천히 높입니다."
 
 msgid "planet_info_friend"
-msgstr "우리는 우리의 겸손한 행성에 The Spatials 를 환영합니다. 도둑질은 하지 마십시오."
+msgstr "우리의 누추한 행성에 The Spatials를 환영합니다. 도둑질은 하지 마십시오."
 
 msgid "planet_info_hostile"
 msgstr "침입자가 감지되었습니다! 모든 유닛을 전투에 배치하십시오!"
@@ -5451,7 +5452,7 @@ msgid "planetarium"
 msgstr "천체 투영관"
 
 msgid "planetarium_desc_friendly"
-msgstr "유혈 사태나 명성 손실없이 동일한 정보를 얻을 수있는 공물을 지불 할 수도 있습니다."
+msgstr "유혈 사태나 명성 손실없이 ~A와 잘 지낸다면 동일한 정보를 얻을 수 있도록 공물을 지불 할 수도 있습니다."
 
 msgid "planetarium_desc_hostile"
 msgstr "이 건물을 파괴하면 다음 태양계가 잠금 해제됩니다: ~A"
@@ -5463,7 +5464,7 @@ msgid "planetarium_price"
 msgstr "가격: ~A @ui_icon_20px_credits04.png"
 
 msgid "planetarium_warn_rep"
-msgstr "이 건물을 파괴하면 ~ A 와의 명성이 크게 떨어집니다."
+msgstr "이 건물을 파괴하면 ~A와의 명성이 크게 떨어집니다."
 
 msgid "platinum"
 msgstr "플래티늄"
@@ -5530,8 +5531,8 @@ msgstr "PR"
 
 msgid "pre_intro"
 msgstr ""
-"일상에 지쳤습니까? 당신이 아직 우주에서 당신의 자리를 찾지 못했던 것처럼 느껴지십니까? 바깥 태양계에 관심이 있습니까? 당신이 그 질문 "
-"중 하나에 예라고 대답했다면 주저하지 말고 지금 가입하십시오!"
+"혹시 일상에 지쳤습니까? 당신이 아직 우주에서 당신의 자리를 찾지 못했던 것처럼 느껴지십니까? 머나 먼 태양계에 관심이 있습니까? 당신이 "
+"그 질문 중 하나라도 예라고 대답했다면 주저하지 말고 지금 가입하십시오!"
 
 msgid "press_esc_cancel2"
 msgstr ""
@@ -5662,7 +5663,7 @@ msgid "recipe_order_amount_tip"
 msgstr "레시피를 만드는 횟수"
 
 msgid "recipe_order_create"
-msgstr "주문 추가"
+msgstr "주문 만들기"
 
 msgid "recipe_order_delete"
 msgstr "주문 삭제"
@@ -5719,7 +5720,7 @@ msgid "recycle_items_level"
 msgstr "이 레벨 미만 아이템 재활용:"
 
 msgid "recycled_something"
-msgstr "재활용 ~A"
+msgstr "~A 재활용"
 
 msgid "recycler"
 msgstr "리싸이클러"
@@ -5755,7 +5756,7 @@ msgid "remains_desc"
 msgstr "잔여물은 리사이클러에서 재활용 될 수 있습니다"
 
 msgid "remains_of"
-msgstr "~A 의 잔여물"
+msgstr "~A의 잔여물"
 
 msgid "removed_floor"
 msgstr "제거된 바닥"
@@ -5828,10 +5829,10 @@ msgid "research"
 msgstr "연구"
 
 msgid "research_completed_alert"
-msgstr "<< ~ A ~ A >> 연구가 완료되었습니다."
+msgstr "<<~A ~A>> 연구가 완료되었습니다."
 
 msgid "research_points"
-msgstr "연구 포인트: ~A 중 ~A"
+msgstr "연구 포인트: ~A of ~A"
 
 msgid "research_remember"
 msgstr "연구 포인트를 얻기 위해 연구 책상을 만들고 오피서에게 연구 직업를 배정하는 것을 잊지 마십시오."
@@ -5982,7 +5983,7 @@ msgid "robot_adjective"
 msgstr "로봇 %s"
 
 msgid "robot_adjective2"
-msgstr "로봇 ~A"
+msgstr "~A 로봇"
 
 msgid "robot_charger"
 msgstr "로봇 충전기"
@@ -6267,10 +6268,10 @@ msgid "self_destroy"
 msgstr "스스로를 화염의 불길로 파괴하여 적을 공격합니다. 불이 날수 있습니다"
 
 msgid "sell_to"
-msgstr "@ui_icon_30px_sell.png 판매 %s"
+msgstr "@ui_icon_30px_sell.png  %s에게 판매"
 
 msgid "set target to ~A"
-msgstr "~A 를 Set forced target to"
+msgstr "~A를 강제 목표 설정"
 
 msgid "set_group_target_cc_label"
 msgstr ""
@@ -6292,14 +6293,14 @@ msgid "set_rally_point"
 msgstr "순찰 지점 설정"
 
 msgid "set_rally_point_label"
-msgstr "클릭하여 ~A 기본 순찰대 설정"
+msgstr "클릭하여 ~A를 기본 순찰 설정"
 
 msgid "set_target_cc"
 msgstr "군중 제어 대상"
 
 msgid "set_target_cc_label"
 msgstr ""
-"왼쪽 클릭 또는 왼쪽 드래그로 ~A 를 우선 군중 제어 대상으로 설정\n"
+"왼쪽 클릭 또는 왼쪽 드래그로 ~A를 우선 군중 제어 대상으로 설정\n"
 "중립 유닛을 제어하려면 Shift 키를 누릅니다"
 
 msgid "set_target_damage"
@@ -6307,20 +6308,20 @@ msgstr "공격 대상"
 
 msgid "set_target_damage_label"
 msgstr ""
-"왼쪽 클릭 또는 왼쪽 드래그로 ~A 를 우선 공격 대상으로 설정\n"
+"왼쪽 클릭 또는 왼쪽 드래그로 ~A를 우선 공격 대상으로 설정\n"
 "중립 유닛을 제어하려면 Shift 키를 누릅니다"
 
 msgid "set_target_heal"
 msgstr "힐링 대상"
 
 msgid "set_target_heal_label"
-msgstr "왼쪽 클릭 또는 왼쪽 드래그로 ~A 를 우선 힐링 대상으로 설정"
+msgstr "왼쪽 클릭 또는 왼쪽 드래그로 ~A를 우선 힐링 대상으로 설정"
 
 msgid "set_target_shield"
 msgstr "쉴링 대상"
 
 msgid "set_target_shield_label"
-msgstr "왼쪽 클릭 또는 왼쪽 드래그로 ~A 를 우선 쉴딩 대상으로 설정"
+msgstr "왼쪽 클릭 또는 왼쪽 드래그로 ~A를 우선 쉴딩 대상으로 설정"
 
 msgid "shell_autosaving"
 msgstr "자동 저장 중..."
@@ -6362,7 +6363,7 @@ msgid "ship_approach_progress"
 msgstr "~A% 진행"
 
 msgid "ship_arrived_info"
-msgstr "%s 는 이제 %s 입니다"
+msgstr "%s는 이제 %s 입니다"
 
 msgid "ship_auto_status_run"
 msgstr "자동 조종 중"
@@ -6386,7 +6387,7 @@ msgid "ship_construction_start"
 msgstr "조립 시작"
 
 msgid "ship_distance_to_other"
-msgstr "거리 %s (L%d): %0.2f 파섹"
+msgstr "%s (L%d)와의 거리 : %0.2f 파섹"
 
 msgid "ship_dock_assigned"
 msgstr "도크는 홈 베이스에 할당 됨"
@@ -6485,16 +6486,16 @@ msgid "ship_order_item_subtile_other"
 msgstr "화물 로드"
 
 msgid "ship_order_item_tile"
-msgstr "%s 의 %s (L%d) 로 여행"
+msgstr "%s (L%d) in %s 으로 여행"
 
 msgid "ship_order_item_tile_star"
-msgstr "%s (L%d) 로 여행"
+msgstr "%s (L%d)으로 여행"
 
 msgid "ship_order_wait_time_dialog_label"
 msgstr "대기 시간을 분 단위로 입력하거나, 최소 10 초로 하려면 0을 입력하십시오:"
 
 msgid "ship_orders_delete_order"
-msgstr "선택한 주문 삭제"
+msgstr "선택한 명령 삭제"
 
 msgid "ship_orders_drag_icon"
 msgstr "새로운 주문을 만들려면 이 아이콘을 행성이나 별에 드래그하십시오"
@@ -6503,16 +6504,16 @@ msgid "ship_orders_go_bridge"
 msgstr "함교 보기 열기"
 
 msgid "ship_orders_move_down"
-msgstr "선택한 주문을 아래로 이동"
+msgstr "선택한 명령을 아래로 이동"
 
 msgid "ship_orders_move_up"
-msgstr "선택한 주문을 위로 이동"
+msgstr "선택한 명령을 위로 이동"
 
 msgid "ship_orders_set_time"
-msgstr "선택한 주문 대기 시간 설정"
+msgstr "선택한 명령 대기 시간 설정"
 
 msgid "ship_orders_show_target"
-msgstr "선택한 주문 타겟으로 확대"
+msgstr "선택한 명령 타겟으로 확대"
 
 msgid "ship_orders_start"
 msgstr "자동 조종 장치 시작"
@@ -6593,22 +6594,22 @@ msgid "ship_skills_label"
 msgstr "스킬:"
 
 msgid "ship_travel_approach"
-msgstr "접근 중 %s (L%d)"
+msgstr "%s (L%d)에 접근 중"
 
 msgid "ship_travel_parked"
-msgstr "주차 %s (L%d)"
+msgstr "%s (L%d)에 주차"
 
 msgid "ship_travel_progress"
 msgstr "~0,2F 파섹 / 예상 도착 시간 ~As"
 
 msgid "ship_travel_traveling"
-msgstr "%s (L%d) 로 여행중"
+msgstr "%s (L%d)으로 여행중"
 
 msgid "ship_travel_unknow"
 msgstr "알 수 없음"
 
 msgid "ship_user_travel_msg"
-msgstr "새로운 직접 여행 명령: %s 의 최종 목적지가 이제 %s 입니다. 자동 조종 장치가 이제 중지되었습니다."
+msgstr "새로운 직접 여행 명령: %s의 최종 목적지가 이제 %s입니다. 자동 조종 장치가 이제 중지되었습니다."
 
 msgid "shipplanner"
 msgstr "우주선 플래너"
@@ -6689,7 +6690,7 @@ msgid "slot_name"
 msgstr "슬롯: ~A"
 
 msgid "slot_need_higher_spec"
-msgstr "높은 스펙이 필요합니다"
+msgstr "더 높은 스펙이 필요합니다"
 
 msgid "slowpox"
 msgstr "느림보 수두"
@@ -6704,7 +6705,7 @@ msgid "smaller_ui"
 msgstr "작은 UI"
 
 msgid "sneaker_reveal_alert"
-msgstr "숨겨진 ~A 가 당신의 스테이션에 탐지되지 않고 침투하여 스스로를  드러냈습니다!"
+msgstr "숨어있던 ~A가 당신의 스테이션에 탐지되지 않고 침투하여 스스로를  드러냈습니다!"
 
 msgid "soap_maker"
 msgstr "비누 제조기"
@@ -6752,19 +6753,19 @@ msgid "space_worm"
 msgstr "우주 벌레"
 
 msgid "spatials_adjective"
-msgstr "스페이셜스 %s"
+msgstr "Spatials %s"
 
 msgid "spatials_adjective2"
-msgstr "스페이셜스 ~A"
+msgstr "Spatials ~A"
 
 msgid "spatials_crew"
-msgstr "스페이셜스"
+msgstr "The Spatials"
 
 msgid "spatials_member"
-msgstr "스페이셜"
+msgstr "Spatial"
 
 msgid "spatials_name"
-msgstr "스페이셜스"
+msgstr "The Spatials"
 
 msgid "spatials_shuttle"
 msgstr "Spatials 상륙 셔틀"
@@ -6776,16 +6777,16 @@ msgid "spec_disallows"
 msgstr "작업 금지: "
 
 msgid "spec_info_demands"
-msgstr "욕구: "
+msgstr "요구사항: "
 
 msgid "spec_info_salary"
 msgstr "급여: %d @ui_icon_20px_credits04.png 분당."
 
 msgid "spec_not_ready2"
-msgstr "%s (으)로 승진하려면 적어도 하나의 작업이 요구된 XP에 도달해야합니다"
+msgstr "%s(으)로 승진하려면 적어도 하나의 작업이 요구된 XP에 도달해야합니다"
 
 msgid "spec_promote_to"
-msgstr "%s 로 승진"
+msgstr "%s(으)로 승진"
 
 msgid "specops_desc"
 msgstr "무자비한 효율성으로 무기를 다루는 전문 보안 오피서."
@@ -6818,7 +6819,7 @@ msgid "staff"
 msgstr "직원"
 
 msgid "staff_gui_basics_panel_demands"
-msgstr "욕구"
+msgstr "요구사항"
 
 msgid "staff_gui_basics_panel_equipment"
 msgstr "장비"
@@ -6848,7 +6849,7 @@ msgid "staff_view_counter_filtered"
 msgstr "총 %d / 필터링 됨 %d"
 
 msgid "stance_is"
-msgstr "위치: ~A"
+msgstr "입장: ~A"
 
 msgid "star"
 msgstr "스타"
@@ -6927,7 +6928,7 @@ msgid "stored_group_set"
 msgstr "저장된 그룹 %s"
 
 msgid "stored_scroll"
-msgstr "저장됨 %d"
+msgstr "%d 저장됨"
 
 msgid "striking_warning"
 msgstr "~A는 욕구가 충족되지 않아 잠시 파업을 시작합니다. 그들은 일하기를 거절하고 스테이션 장비를 파괴 할 수 있습니다."
@@ -6936,13 +6937,13 @@ msgid "success"
 msgstr "성공"
 
 msgid "sure_to_delete"
-msgstr "%s 을 (를) 삭제 하시겠습니까?"
+msgstr "%s을(를) 삭제 하시겠습니까?"
 
 msgid "sure_to_load"
-msgstr "%s을 (를)로드 하시겠습니까? 현재 게임의 저장되지 않은 진행 상태가 손실됩니다."
+msgstr "%s을(를) 로드 하시겠습니까? 현재 게임의 저장되지 않은 진행 상태가 손실됩니다."
 
 msgid "sure_to_replace"
-msgstr "%s을 (를) 대체 하시겠습니까?"
+msgstr "%s을(를) 대체 하시겠습니까?"
 
 msgid "surgeon"
 msgstr "외과 의사"
@@ -6966,7 +6967,7 @@ msgid "system_name"
 msgstr "~A 시스템"
 
 msgid "system_name_level"
-msgstr "시스템 %s (L%d)"
+msgstr "%s (L%d) 시스템"
 
 msgid "systems_unlocked"
 msgstr "이제 다음 시스템을 탐험할 수 있습니다: ~A"
@@ -6975,7 +6976,7 @@ msgid "table"
 msgstr "테이블"
 
 msgid "take_off_tool"
-msgstr "이륙하다"
+msgstr "이륙하기"
 
 msgid "talked_feeling"
 msgstr "잡담함"
@@ -7002,10 +7003,10 @@ msgid "teleport_to"
 msgstr "텔레포트"
 
 msgid "teleport_to_label"
-msgstr "클릭하여 ~A 를 선택한 위치로 순간 이동합니다"
+msgstr "클릭하여 ~A를 선택한 위치로 순간 이동합니다"
 
 msgid "tending_workplace_action"
-msgstr "~A 지킴"
+msgstr "~A 참여 중"
 
 msgid "terra_planet"
 msgstr "테라 행성"
@@ -7095,7 +7096,7 @@ msgid "treatment"
 msgstr "치료"
 
 msgid "treatment_desc"
-msgstr "~ A 의 치료에는 다음 단계가 필요합니다:"
+msgstr "~A의 치료에는 다음 단계가 필요합니다:"
 
 msgid "try_delivery_action"
 msgstr "%s 배달 시도"
@@ -7158,8 +7159,8 @@ msgstr ""
 
 msgid "tutorial_civs_basics_7b"
 msgstr ""
-"여행자용 독킹 및 관광 상품을 연구할 때까지 주된 돈벌이가 될 것이며, 일부는 초과 생산물을 판매하기 위해 이곳으로 자주 돌아옵니다. "
-"매장 및 디스펜서 제품 스택은 고려하지 않으므로 내부 필요에 맞게 재고를 유지해야 합니다."
+"방문자 도크 및 관광 상품을 연구할 때까지 주된 돈벌이가 될 것이며, 일부는 초과 생산물을 판매하기 위해 이곳으로 자주 돌아옵니다. 매장 "
+"및 디스펜서 제품 스택은 고려하지 않으므로 내부 필요에 맞게 재고를 유지해야 합니다."
 
 msgid "tutorial_civs_title"
 msgstr "문명 튜토리얼"
@@ -7183,9 +7184,9 @@ msgstr ""
 
 msgid "tutorial_galaxy_autopilot_2"
 msgstr ""
-"이것이 우주선 자동 조종 장치 창입니다. 목록에 명령을 추가하고 재정렬한 다음 자동 조종 장치를 시작하고 중 할 수 있습니다.\n"
+"이것이 우주선 자동 조종 장치 창입니다. 목록에 명령을 추가하고 재정렬한 다음 자동 조종 장치를 시작하고 중지 할 수 있습니다.\n"
 "튜토리얼 행성으로 경로를 설정해 보겠습니다.\n"
-"강조 표시된 아이콘을 튜토랜드로 드래그하십시오. 타겟을 차단하면 제목 표시 줄로 창을 이동할 수 있습니다."
+"강조 표시된 아이콘을 Tutoland로 드래그하십시오. 타겟이 가려 않보이면 제목 표시 줄로 창을 이동할 수 있습니다."
 
 msgid "tutorial_galaxy_autopilot_4"
 msgstr ""
@@ -7214,8 +7215,8 @@ msgstr ""
 
 msgid "tutorial_galaxy_basics_3"
 msgstr ""
-"튜토리얼 행성으로 여행합시다. 직접 여행 주문을 하려면 강조 표시된 우주선을 튜토랜드 행성으로 드래그 앤 드롭하십시오. 타겟을 차단하면 "
-"제목 표시 줄로 창을 이동할 수 있습니다."
+"튜토리얼 행성으로 여행합시다. 직접 여행 명령을 내리려면 강조 표시된 우주선을 Tutoland 행성으로 드래그 앤 드롭하십시오. 타겟이 "
+"가려 않보이면 제목 표시 줄로 창을 이동할 수 있습니다."
 
 msgid "tutorial_galaxy_basics_4"
 msgstr "우주선이 행성 궤도에 접근하고 주차 할 때까지 기다리십시오."
@@ -7252,14 +7253,14 @@ msgstr ""
 
 msgid "tutorial_planet_basics_4"
 msgstr ""
-"선택한 개체가 직접 주문이 가능하면 작업 표시 줄이 표시됩니다. 오피서의 경우 가장 직접적인 명령은 마우스 오른쪽 버튼에 항상 "
-"바인딩되어있는 어떤 지점으로 이동하는 것입니다. 직접 작업 지시와 같은 마우스 오른쪽 버튼을 사용할 때 컨텍스트 메뉴에 다른 작업이 표시 "
-"될 수 있습니다."
+"선택한 개체가 직접 명령이 가능하면 작업 표시 줄이 표시됩니다. 오피서의 경우 가장 직접적인 명령은 마우스 오른쪽 버튼에 항상 바인딩되어 "
+"있는 어떤 지점으로 이동하는 것입니다. 직접 작업 지시와 같은 마우스 오른쪽 버튼을 사용할 때 컨텍스트 메뉴에 다른 작업이 표시 될 수 "
+"있습니다."
 
 msgid "tutorial_planet_basics_5"
 msgstr ""
 "오피서가 어려운 지점에 도달하기를 원하면 언제든지 텔레포터 도구를 사용할 수 있습니다. 이 액션과 다른 액션이 툴팁에 키 바인드를 "
-"표시하는 방법에 주목하십시오 (기본적으로 T는 텔레포트입니다). 키보드 바인딩을 사용하여 신속하게 주문을 발행하십시오."
+"표시하는 방법에 주목하십시오 (기본값으로 T는 텔레포트입니다). 키보드 바인딩을 사용하여 신속하게 명령을 내리십시오."
 
 msgid "tutorial_planet_basics_6b"
 msgstr ""
@@ -7274,8 +7275,8 @@ msgstr "이제 강조 표시된 물건을 클릭하십시오: 추출기."
 
 msgid "tutorial_planet_extraction_5"
 msgstr ""
-"그겁니다! 이 추출기는 이제 과일을 생성하고 로컬에 저장됩니다. 이 행성에 주차하여 우주선에 로드하고 은하계 화면에서 자동 조종 장치 "
-"기능을 사용하여 스테이션으로의 배달을 자동화하십시오. 사람이 거주하는 행성에서 자원을 내보내는 것은 크레딧이 필요하며 더 명성높아질수로 "
+"그겁니다! 이 추출기는 이제 과일을 생산하고 로컬에 저장합니다. 이 행성에 주차하여 우주선에 로드하고 은하계 화면에서 자동 조종 장치 "
+"기능을 사용하여 스테이션으로의 배달을 자동화하십시오. 사람이 거주하는 행성에서 자원을 내보내는 것은 크레딧이 필요하며 명성이 높아질수록 "
 "더 저렴해집니다. 문명 화면에서 수출 가격 비율을 확인하십시오."
 
 msgid "tutorial_planet_planetarium"
@@ -7293,7 +7294,7 @@ msgstr "연구"
 msgid "tutorial_research_basics_1"
 msgstr ""
 "이것은 연구 화면입니다. 은하에는 많은 기술이 있지만 처음부터 모두 사용할 수 있는 것은 아닙니다. 당신은 그것들을 연구해야하고, 이 "
-"화면은 연구를 관리하게 합니다."
+"화면에서 연구를 관리합니다."
 
 msgid "tutorial_research_basics_2"
 msgstr "연구는 기술 그룹으로 나뉩니다. 버튼을 클릭하여 음식 및 음료 그룹을 봅니다."
@@ -7327,7 +7328,7 @@ msgstr "건설"
 
 msgid "tutorial_station_production_5"
 msgstr ""
-"공장 탭을 사용하면 선택한 주방에 새로운 생산 주문을 추가 할 수 있습니다. 기본적으로 생산 대기열에는 주문이 없고 주방은 사용할 수 "
+"공장 탭을 사용하면 선택한 주방에 새로운 생산 주문을 추가 할 수 있습니다. 기본값으로 생산 대기열에는 주문이 없고 주방은 사용할 수 "
 "없습니다. 새로운 주문을 만들어 봅시다. 주문 만들기 버튼을 클릭하십시오."
 
 msgid "tutorial_station_production_5_4"
@@ -7347,11 +7348,11 @@ msgstr "연구자"
 msgid "tutorial_planet_basics_7b"
 msgstr ""
 "모든 오피서는 무장하고 준비가 되어 있으며 완전 자동 모드입니다. 그들은 당신의 명령없이 범위 안의 적과 교전하거나 아군을 치료할 "
-"것입니다. 액션 바에 있는 수동 목표 액션을 사용하여 현재 선택된 오피서에게 다른 목표를 공격하거나 치표 할 것을 지시 할 수 있습니다."
+"것입니다. 액션 바에 있는 수동 목표 액션을 사용하여 현재 선택된 오피서에게 다른 목표를 공격하거나 치료 할 것을 지시 할 수 있습니다."
 
 msgid "tutorial_planet_basics_8b"
 msgstr ""
-"마지막으로 빠른 그룹 선택으로 1에서 6까지의 키 (기본 키 바인딩에서)를 설정할 수도 있습니다. 오피서 선택을 한 다음 Ctrl-1을 "
+"마지막으로 빠른 그룹 선택으로 1에서 6까지의 키 (기본 키 바인딩에서)를 설정할 수도 있습니다. 오피서를 선택한 다음 Ctrl-1을 "
 "눌러 첫 번째 빠른 그룹을 현재 선택 항목으로 설정합니다. 그 시점에서 1 을 누르면 같은 그룹이 선택됩니다. 이 게임은 행성을 탐험 할 "
 "때 그룹 1을 전체 상륙 승무원으로 자동 설정합니다."
 
@@ -7386,9 +7387,9 @@ msgstr ""
 
 msgid "tutorial_station_basics_1"
 msgstr ""
-"더 스페이셜스: 갈락톨로지 에 오신 것을 환영합니다!\n"
-"당신의 스테이션입니다. 지금은 별볼일 없죠.\n"
-"당신의 기본 임무는 건설하고 방어하는 것입니다. 그래서 스페이셜스의 집이되고 방문자들에게는 인기있는 곳으로 만드세요."
+"The Spatials: Galactology에 오신 것을 환영합니다!\n"
+"당신의 스테이션입니다. 지금은 별 볼 일 없죠.\n"
+"당신의 기본 임무는 스테이션을 건설하고 방어하는 것입니다. Spatials의 집이 되고 방문자들에게는 인기있는 곳으로 만드세요."
 
 msgid "tutorial_station_basics_2"
 msgstr "WASD 키를 사용하여 스테이션 주변을 스크롤하십시오. 마우스 휠을 사용하여 확대 및 축소하십시오."
@@ -7402,7 +7403,7 @@ msgid "tutorial_station_basics_4"
 msgstr ""
 "정보 도구는 선택한 물건에 대한 정보를 표시합니다. 또한 주방에서 레시피을 설정하는 것과 같이 해당 물건의 상태을 변경하기 위한 추가 "
 "제어 기능을 제공 할 수도 있습니다.\n"
-"클릭하려는 항목이 다른 항목 뒤에 있는 경우 동일한 지점을 한 번 이상 클릭하여 해당 지점의 모든 항목을 순환합니다."
+"클릭하려는 아이템이 다른 아이템 뒤에 있는 경우 동일한 지점을 한 번 이상 클릭하여 해당 지점의 모든 아이템을 순환합니다."
 
 msgid "tutorial_station_building_1"
 msgstr ""
@@ -7417,7 +7418,7 @@ msgstr ""
 
 msgid "tutorial_station_building_11"
 msgstr ""
-"물건 도구는 스테이션에 건설 할 수있는 모든 잠금 해제 된 물건을 나열합니다. 먼저 물건 카테고리를 선택합니다. 보안 카테고리를 "
+"물건 도구는 스테이션에 건설 할 수있는 잠금 해제 된 모든 물건을 나열합니다. 먼저 물건 카테고리를 선택합니다. 보안 카테고리를 "
 "클릭하십시오."
 
 msgid "tutorial_station_building_12"
@@ -7430,7 +7431,7 @@ msgstr ""
 
 msgid "tutorial_station_building_14"
 msgstr ""
-"바닥이나 벽 도구와 마찬가지로 물건 도구는 청사진을 배치하기 만하면 물건이 오피서에 의해 만들어 져야합니다. 그들이 일을 끝내기를 기다려 "
+"바닥이나 벽 도구와 마찬가지로 물건 도구는 청사진을 그릴뿐이며, 물건은 오피서에 의해 만들어 져야합니다. 그들이 일을 끝내기를 기다려 "
 "봅시다."
 
 msgid "tutorial_station_building_15"
@@ -7443,19 +7444,19 @@ msgstr "유효하지만 빈 방은 별로 유용하지 않습니다. 다음 튜�
 
 msgid "tutorial_station_building_2"
 msgstr ""
-"건설 바닥 도구는 마우스 왼쪽 버튼으로 드래그하면 스테이션에서 선택된 바닥 청사진을 그립니다.\n"
+"바닥 건설 도구는 마우스 왼쪽 버튼으로 드래그하여 스테이션에서 선택된 바닥 청사진을 그립니다.\n"
 "마우스 왼쪽 버튼으로 두 마커 사이를 드래그하십시오."
 
 msgid "tutorial_station_building_2_b"
 msgstr ""
-"팁: Shift 키를 눌러 건설 바닥 도구를 바닥 지우개로 전환 할 수 있습니다. 드래그하는 동안 Esc 키를 눌러 취소 할 수 있습니다."
+"팁: Shift 키를 눌러 바닥 건설 도구를 바닥 지우개로 전환 할 수 있습니다. 드래그하는 동안 Esc 키를 눌러 취소 할 수 있습니다."
 
 msgid "tutorial_station_building_3"
 msgstr ""
 "바닥 도구는 청사진만을 그립니다. 실제 바닥을 건설하기 위해 오피서를 위해 일자리가 만들어집니다. 그들이 끝날 때까지 기다려 봅시다."
 
 msgid "tutorial_station_building_4"
-msgstr "끝났습니다! 그러나 방은 단순히 바닥뿐만이 아니라 벽도 필요합니다. 벽 도구 선택하십시오"
+msgstr "끝났습니다! 그러나 방은 바닥뿐만이 아니라 벽도 필요합니다. 벽 도구 선택하십시오"
 
 msgid "tutorial_station_building_5"
 msgstr ""
@@ -7464,7 +7465,7 @@ msgstr ""
 
 msgid "tutorial_station_building_5_b"
 msgstr ""
-"팁: Shift 키를 눌러 건설 벽 도구를 벽 지우개로 전환 할 수 있습니다. 드래그하는 동안 Esc 키를 눌러 취소 할 수 있습니다."
+"팁: Shift 키를 눌러 벽 건설 도구를 벽 지우개로 전환 할 수 있습니다. 드래그하는 동안 Esc 키를 눌러 취소 할 수 있습니다."
 
 msgid "tutorial_station_building_6"
 msgstr "이제 또 다른 편. 마우스 왼쪽 버튼으로 두 마커 사이를 드래그하십시오."
@@ -7484,11 +7485,11 @@ msgstr "시설"
 msgid "tutorial_station_object_tool_1"
 msgstr ""
 "방만으로는 오피서들과 방문객들에게 서비스하기에 충분하지 않습니다. 이제 몇 가지 물건을 만들어 봅시다.\n"
-"건설 물건 도구를 선택하십시오."
+"물건 건설 도구를 선택하십시오."
 
 msgid "tutorial_station_object_tool_2"
 msgstr ""
-"물건 도구는 스테이션에 건설 할 수있는 모든 잠금 해제 된 물건을 나열합니다. 먼저 물건 카테고리를 선택합니다. 음식 및 음료 카테고리를 "
+"물건 도구는 스테이션에 건설 할 수있는 잠금 해제 된 모든 물건을 나열합니다. 먼저 물건 카테고리를 선택합니다. 음식 및 음료 카테고리를 "
 "클릭하십시오."
 
 msgid "tutorial_station_object_tool_3"
@@ -7575,8 +7576,8 @@ msgstr ""
 
 msgid "tutorial_station_stocks_12"
 msgstr ""
-"강조 표시된 물건은 저장소 영역입니다. 방 안에 지으며, 방의 바닥은 제품과 자원을 위한 유효한 저장 구역이됩니다. 또한 해당 구역에 "
-"저장될 자원의 종류를 결정할 수 있지만 재고 양을 관리할 수는 없습니다. 많은 야의 화물 및 제품을 저장하기 위해 저장 구역을 "
+"강조 표시된 물건은 저장 구역입니다. 방 안에 지으며, 방의 바닥은 제품과 자원을 위한 유효한 저장 구역이됩니다. 또한 해당 구역에 "
+"저장될 자원의 종류를 결정할 수 있지만 재고 양을 관리할 수는 없습니다. 많은 양의 화물 및 제품을 저장하기 위해 저장 구역을 "
 "사용하십시오."
 
 msgid "tutorial_station_stocks_12b"
@@ -7605,16 +7606,16 @@ msgstr "재고 패널을 선택하십시오."
 
 msgid "tutorial_station_stocks_8"
 msgstr ""
-"이 패널에서이 음식 벤더의 재고 관리 시스템에 대한 매개 변수를 조정할 수 있습니다. 그것은 이미 기본적으로 재고량으로 설정되어 있지만 "
-"원한다면 변경할 수 있습니다."
+"이 패널에서이 음식 벤더의 재고 관리 시스템에 대한 매개 변수를 조정할 수 있습니다. 이미 기본값으로 재고량이 설정되어 있지만 원한다면 "
+"변경할 수 있습니다."
 
 msgid "tutorial_station_stocks_9"
 msgstr ""
-"이 음식점은 이제 음식을 재고로 가지기 시작할 것입니다. 오피서는 지정된 최대 재고량까지 음식을 배달합니다. 재고 관리 물건은는 생산 "
-"센터에서 멀리 떨어져 있을 때 제품과 자원을 효율적으로 배포하는 데 도움이됩니다. 그들은 또한 스테이션에서 방문자들에게 제품을 판매 할 "
+"이 음식점은 이제 음식을 재고로 가지기 시작할 것입니다. 오피서는 지정된 최대 재고량까지 음식을 배달합니다. 재고 관리용 물건은 생산 "
+"센터에서 멀리 떨어져 있을 때 제품과 자원을 효율적으로 배포하는 데 도움이 됩니다. 그들은 또한 스테이션에서 방문자들에게 제품을 판매 할 "
 "수있게 합니다.\n"
 "두 가지를 더 보도록하겠습니다.\n"
-"건설 물건 도구를 선택하십시오."
+"물건 건설 도구를 선택하십시오."
 
 msgid "tutorial_station_title"
 msgstr "스테이션 튜토리얼"
@@ -7632,12 +7633,12 @@ msgid "tutorial_station_vitals_2"
 msgstr ""
 "선택되지 않은 경우에는 바이탈 패널을 선택하십시오.\n"
 "이 패널은 선택된 오피서의 모든 바이탈을 표시합니다. 음식, 음료, 여가 구역 및 기타 시스템을 사용하여 너무 낮아지면 오피서가 바를 "
-"채울 수 있습니다. 너무 낮게하지 마십시오. 그렇지 않으면 마음에 영향을 주거나 신체에 손상을 줄 수 있습니다."
+"채울 수 있습니다. 너무 낮게 하지 마십시오. 그렇지 않으면 마음에 영향을 주거나 신체에 손상을 줄 수 있습니다."
 
 msgid "tutorial_station_vitals_4"
 msgstr ""
-"오피서의 마음은 많은 종류의 것들에 영향을 받을 수 있습니다. 예를 들어, 배고프기 만하면 오피서를 해칠 뿐만 아니라 부정적인 느낌을 "
-"갖게 됩니다. 바에 열거 된 감정들을 볼 수 있습니다. 오피서의 마음 바가 너무 낮아지면, 의지를 잃어 버릴 수도 있고 폭력적이 될 수도 "
+"오피서의 마음은 많은 종류의 것들에 영향을 받을 수 있습니다. 예를 들어, 굶주림은 오피서를 해칠 뿐만 아니라 부정적인 느낌을 갖게 "
+"됩니다. 바에 열거된 감정들을 볼 수 있습니다. 오피서의 마음 바가 너무 낮아지면, 의지를 잃어 버릴 수도 있고 폭력적이 될 수도 "
 "있습니다.\n"
 "다음 튜토리얼을 계속 진행하여 오피서를 돌볼 주방을 짓기 시작하십시오."
 
@@ -7816,7 +7817,7 @@ msgid "value_too_high"
 msgstr "값이 너무 높습니다"
 
 msgid "value_too_high_res"
-msgstr "%s 의 최대 재고 크기는 %d 입니다"
+msgstr "%s의 최대 재고 크기는 %d 입니다"
 
 msgid "value_too_low"
 msgstr "값이 너무 낮습니다"
@@ -7930,7 +7931,7 @@ msgid "vital_factors"
 msgstr "바이탈 요소:"
 
 msgid "vital_satisfy_desc"
-msgstr "~A 충족중"
+msgstr "~A 충족 중"
 
 msgid "vitals"
 msgstr "바이탈"
@@ -7942,7 +7943,7 @@ msgid "volcanic_planet"
 msgstr "화산 행성"
 
 msgid "vomit_from"
-msgstr "~A 의 구토"
+msgstr "~A의 구토"
 
 msgid "vsync"
 msgstr "VSync"
@@ -7972,7 +7973,7 @@ msgid "walk_to"
 msgstr "여기로 걷기"
 
 msgid "walk_to_label"
-msgstr "클릭하여 ~A 를 선택한 위치로 걸어가게 합니다"
+msgstr "클릭하여 ~A를 선택한 위치로 걸어가게 합니다"
 
 msgid "walkable"
 msgstr "통과 가능"
