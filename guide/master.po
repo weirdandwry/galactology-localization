@@ -115,7 +115,7 @@ msgid "guide_tools_intro"
 msgstr "Every interaction you have with a game map is performed by the use of a tool. You will use tools to design your station, give orders, inspect objects and officers, etc. Tools are found in the toolbar to the left of the Station and Planet screens, and can display a panel in the right side of the screen and in the bottom side."
 
 msgid "guide_tools_info_title"
-msgstr "Info Tool"
+msgstr "Info tool"
 
 msgid "guide_tools_info"
 msgstr "The Info Tool is the basic inspection and interaction mechanism in the game. With the Info Tool selected you can use your click on objects and entities on the map to select them. Doing so will display an information panel in the right side of the screen. The contents of this panel will vary depending on the kind of entity you are selecting. For example officers will display a brief overview of the information displayed in the Staff screen. This panel is also divided in tabs, and many entities will have more than one. For example many objects will have a description tab with the same information displayed in the Build Tool. A fixed header area is present in most entities and displays the name and basic information like hit points or the civilization of origin of the entity.\n\n"

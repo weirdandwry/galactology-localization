@@ -1,0 +1,7 @@
+msgid "guide_first_station_intro_title"
+msgstr "Tu primera estación"
+
+msgid "guide_first_station_intro"
+msgstr "Bienvenido a The Spatials: Galactology!\n\n"
+"AAAAA.\n\n"
+"BBBB."
