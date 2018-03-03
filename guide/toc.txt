@@ -27,7 +27,7 @@
 0 guide_galaxy_intro
 1 guide_galaxy_map
 1 guide_galaxy_civs
-1 guide_ships_intro
+0 guide_ships_intro
 1 guide_ships_kinds
 1 guide_ships_fleet
 0 guide_combat
