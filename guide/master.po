@@ -49,7 +49,8 @@ msgstr "The station needs a steady supply of resources to keep production going.
 "Once a ship is parked over a planet it becomes possible to explore it. Click on a planet to open its info window, then click the Explore button.\n\n"
 "When exploring a planet your ship crew descends on to its surface and is able to move around, fight and build objects. This is important because in order to be able to extract resources, you need to build a resource extractor next to resource nodes. Resource nodes are areas on the surface of the planet with a distinguishing aspect. Click on them to discover which resource they store, then build a extractor next to them, making sure you cover the entire area. Building more extractors over a given area will not make extraction go any faster.\n\n"
 "![](core/guide/images/extract.png)\n\n"
-"It is also a good idea to build Storage objects on planets to increase the storage capacity. Your ships may take a long time to visit back, so it is easy to exceed the small storage capacity of an extractor object."
+"It is also a good idea to build Storage objects on planets to increase the storage capacity. Your ships may take a long time to visit back, so it is easy to exceed the small storage capacity of an extractor object.\n\n"
+"Finally, building a delivery station near a town will enable you to select a product for Civ sales. Make sure to select one after the delivery station is built by selecting it with the Info Tool and clicking the Select Product button."
 
 msgid "guide_first_station_autopilot_title"
 msgstr "Autopilot"
@@ -68,7 +69,7 @@ msgstr "Making money"
 
 msgid "guide_first_station_credits"
 msgstr "Your initial cash will run out sooner or later. While it is not an urgent need at the very start, making money should be one of your priorities in the early game. Many actions have a price to be paid in credits, the currency of the galaxy.\n\n"
-"![](ui_icon_40px_diplomacy02.png)The most straightforward way of making money is to sell products you make in your station to other planets. This is accomplished in the Sell tab of in the Civs screen. Different civs like different products. Select a product you are stocking in your station, then a planet that has a demand for it. If you have available stock and a free ship you can send a delivery right away and get paid once the ship arrives.\n\n"
+"![](ui_icon_40px_diplomacy02.png)The most straightforward way of making money is to sell products you make in your station to other planets. This is accomplished in the Sell tab of in the Civs screen. Different civs like different products. You first need to build a delivery station on a planet surface and pick a product you wish to export to that planet. After doing so the planet will appear in the Civs Sell tab. In this tab select a product you are stocking in your station, then a planet that has a demand for it. If you have available stock and a free ship you can send a delivery right away and get paid once the ship arrives.\n\n"
 "![](ui_icon_40px_goalstrophy.png)Goals always have a cash reward, and they hit on many different areas of the game. Completing goals will both net you some income and guide your station development.\n\n"
 "![](ui_icon_40px_challenge.png)A hands on approach to riches is plain old plundering. When you visit an hostile planet and defeat enemies they will sometimes drop items. These items can be resources, equipment or some cash.\n\n"
 "Once you are confident in your production and station facilities it could be a good idea to build some visitor docks so tourists can land in your station. They will come flush with cash. The more their civ likes you, the larger their wallets.\n\n"
@@ -354,6 +355,15 @@ msgstr "Most planets have one or more raw resource nodes on their surface. These
 "![](resourcenodes_playercargo1of3-idle-0-0.png)These extractors also have a small storage capacity. Any excess extraction will be lost. In order save more of the production of the planet until you are ready to pick it up you can build Storage objects. These objects have a much bigger capacity and you can build many of them to their capacities together.\n\n"
 "In order to deliver the production to your home colony you need to send ships to the planet, and then send them back to home. This is best done with the autopilot feature (see the Ships section for more information).\n\n"
 "Extracting resources is not free. When your ship leaves with cargo from a planet you will pay a price per unit of resource. These prices depend on the resource kind and how much the planet civilization likes you. You can see these prices in the Civ screen, and they are the same for all planets of the same civ."
+
+msgid "guide_exploration_delivery_station_title"
+msgstr "Delivery station"
+
+msgid "guide_exploration_delivery_station"
+msgstr "![](resourcenodes_extractor_red_L1.png)Selling your products to planets is an easy and quick way to make money. Before you are able to do so you must build a delivery station on their surface.\n\n"
+"![](core/guide/images/delivery_station.jpg)\n\n"
+"Delivery stations enable planets to be targets of delivery orders initiated from the Civs screen Sell tab. You must first build a delivery station, trying to cover as many buildings as possible to increase the demand rate of the planet. Only one delivery station is allowed per planet.\n\n"
+"After a delivery station is built you can then select it with the Info Tool and click the Select Product button to pick one of the products preferred by the planet civ. After this is done the planet will be available for sale orders."
 
 msgid "guide_exploration_open_systems_title"
 msgstr "Opening systems"

@@ -33,6 +33,7 @@
 0 guide_combat
 0 guide_exploration_intro
 1 guide_exploration_extraction
+1 guide_exploration_delivery_station
 1 guide_exploration_open_systems
 1 guide_exploration_invasions
 1 guide_exploration_other
