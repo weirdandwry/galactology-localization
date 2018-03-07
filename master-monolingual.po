@@ -232,6 +232,9 @@ msgstr "Autopilot is disabled"
 msgid "autopilot_enabled"
 msgstr "Autopilot is enabled"
 
+msgid "autopilot_ship_visits"
+msgstr "Autopilot ship visits"
+
 msgid "available"
 msgstr "Available"
 
@@ -1258,6 +1261,12 @@ msgstr "Haulers will deliver resources to this object from inside pallets"
 msgid "delivery_select_ship"
 msgstr "Select ship for delivery"
 
+msgid "delivery_station"
+msgstr "Delivery station"
+
+msgid "delivery_station_desc"
+msgstr "Allows to sell products on this planet. Only one per planet. Make sure to cover more buildings for higher demand."
+
 msgid "demand_current"
 msgstr "Current"
 
@@ -1762,6 +1771,9 @@ msgstr "Export price rate"
 msgid "export_rates_desc"
 msgstr "These are the unit prices you will pay for extracting resources from the civ planets."
 
+msgid "extracted_resource"
+msgstr "Extracted resource"
+
 msgid "extractor_info"
 msgstr "Can extract:"
 
@@ -1885,6 +1897,9 @@ msgstr "Ship assigned"
 msgid "filter_ship_named"
 msgstr "Ship: %s"
 
+msgid "filter_ship_named_menu"
+msgstr "Ships..."
+
 msgid "filter_ship_not_assigned"
 msgstr "Ship not assigned"
 
@@ -1917,6 +1932,9 @@ msgstr "Firefighter robot"
 
 msgid "flag_broken"
 msgstr "Flag as broken to force its repair"
+
+msgid "flag_dismantle"
+msgstr "Flag object to be dismantled"
 
 msgid "flee_desc"
 msgstr "Fleeing in panic"
@@ -2304,6 +2322,12 @@ msgstr "Build 3 resource extractors on the surface of one or more planets."
 
 msgid "goal_buildplanet3_title"
 msgstr "Build 3 extractors on planets"
+
+msgid "goal_buildplanet4_desc"
+msgstr "Build a delivery station on the surface of a planet."
+
+msgid "goal_buildplanet4_title"
+msgstr "Build one delivery station"
 
 msgid "goal_buildsecurity1_desc"
 msgstr "Build one camera area and one security door."
@@ -3511,6 +3535,9 @@ msgstr "Level %d"
 msgid "level_n_paren"
 msgstr " (level %d)"
 
+msgid "level_short"
+msgstr "Lvl"
+
 msgid "liberation_happens_alert_spatials"
 msgstr "You have liberated the planet %s. Reputation with %s has increased by %d, and reputation with %s has decreased by %d."
 
@@ -3612,9 +3639,6 @@ msgstr "Make hands item L~A-L~A"
 
 msgid "make_implant"
 msgstr "Make implant item L~A-L~A"
-
-msgid "make_owned_action"
-msgstr "Make owned by ~A"
 
 msgid "make_owner_action"
 msgstr "Make owner of ~A"
@@ -4648,6 +4672,9 @@ msgstr "Security"
 msgid "obj_group_sleeping"
 msgstr "Resting"
 
+msgid "obj_group_unique"
+msgstr "Unique"
+
 msgid "obj_hive-crystal"
 msgstr "Crystal"
 
@@ -5320,6 +5347,9 @@ msgstr "Defensive turret"
 msgid "planet_defensive_turret_desc"
 msgstr "Protects nearby player built objects from the attacks of enemies"
 
+msgid "planet_discover_object"
+msgstr "You have discovered a unique object and it is now available for construction in your home station."
+
 msgid "planet_embassy"
 msgstr "Embassy"
 
@@ -5361,6 +5391,33 @@ msgstr "Enable extraction of this kind of resource"
 
 msgid "planet_ships_with_order"
 msgstr "Autopilot stop for:"
+
+msgid "planet_shop_hostile"
+msgstr "Hostile planet"
+
+msgid "planet_shop_info_desc"
+msgstr "Refurb this delivery station by selecting your preferred product to be able to deliver and sell it in this planet."
+
+msgid "planet_shop_map_label"
+msgstr "Demand: %d%%"
+
+msgid "planet_shop_no_civ"
+msgstr "Uncolonized world"
+
+msgid "planet_shop_no_product"
+msgstr "Select a product"
+
+msgid "planet_shop_pick_resource"
+msgstr "Select the product you want to deliver to this planet:"
+
+msgid "planet_shop_refurb_price"
+msgstr "Refurb price: ~A @ui_icon_20px_credits04.png"
+
+msgid "planet_shop_too_close"
+msgstr "Too close to buildings"
+
+msgid "planet_shop_unique"
+msgstr "Only one delivery station per planet"
 
 msgid "planet_storage"
 msgstr "Storage"
@@ -5696,22 +5753,25 @@ msgid "rep_at_war"
 msgstr "At war"
 
 msgid "rep_at_war_desc"
-msgstr "At War civs won't buy your bulk production and will try to raid your station and invade your allies. They will be hostile if you land on their planets."
+msgstr "At War civs will try to raid your station and invade your allies. They will be hostile if you land on their planets. You will need to pay a tribute to them to improve your reputation."
 
 msgid "rep_friendly"
 msgstr "Friendly"
+
+msgid "rep_friendly_plus_desc"
+msgstr "Friendly and higher rep civs will engage in commerce with you, plus come visit your station in peace for tourism."
 
 msgid "rep_hostile"
 msgstr "Hostile"
 
 msgid "rep_hostile_desc"
-msgstr "Hostile civs don't like you, but they will buy your bulk products. This will increase your reputation with them. They will be hostile if you land on their planets."
+msgstr "Hostile will be hostile if you land on their planets. You will need to pay a tribute to them to improve your reputation."
 
 msgid "rep_neutral"
 msgstr "Neutral"
 
-msgid "rep_neutral_plus_desc"
-msgstr "This civs likes you enough to come visit your station in peace, and to allow your ships to land on their planets to build resource extractors."
+msgid "rep_neutral_desc"
+msgstr "Neutral civs will let you land on their planets and engage commerce with you, but they are not interested in tourism."
 
 msgid "rep_uncontested"
 msgstr "Uncontested"
@@ -6304,6 +6364,9 @@ msgstr "Distance to %s (L%d): %0.2f parsecs"
 msgid "ship_dock_assigned"
 msgstr "Dock assigned in home base"
 
+msgid "ship_dock_not_assigned"
+msgstr "No dock assigned"
+
 msgid "ship_final_destination"
 msgstr "Final destination: %s (L%d)"
 
@@ -6373,6 +6436,9 @@ msgstr "Volition"
 msgid "ship_must_parked_home2"
 msgstr "The ship must be parked in your home station to be available for dismantling. At least one ship must remain in your fleet."
 
+msgid "ship_not_available_busy"
+msgstr "Ship is busy with autopilot or a delivery"
+
 msgid "ship_not_available_empty"
 msgstr "Ship has no crew"
 
@@ -6406,6 +6472,12 @@ msgstr "Travel to %s (L%d)"
 msgid "ship_order_wait_time_dialog_label"
 msgstr "Type the wait time in minutes, or 0 for a minimal amount of 10 seconds:"
 
+msgid "ship_orders_add_order"
+msgstr "Add order"
+
+msgid "ship_orders_add_picker_label"
+msgstr "Select a planet to add a resource buy and load order"
+
 msgid "ship_orders_delete_order"
 msgstr "Delete selected order"
 
@@ -6420,6 +6492,9 @@ msgstr "Move selected order down"
 
 msgid "ship_orders_move_up"
 msgstr "Move selected order up"
+
+msgid "ship_orders_no_extractors"
+msgstr "Build resource extractors on planets to be able to target them with the autopilot"
 
 msgid "ship_orders_set_time"
 msgstr "Set selected order wait time"
@@ -6784,6 +6859,9 @@ msgstr "Station"
 msgid "station_attrition_warn"
 msgstr "Station objects are suffering damage from being exposed to the planet atmosphere by an incomplete wall or by an unbuilt floor tile. Make sure all station rooms are fully delimited by walls or doors, and that their floors are fully built with room tiles."
 
+msgid "station_obj_unique"
+msgstr "Object is unique"
+
 msgid "steam_workshop"
 msgstr "Steam Workshop"
 
@@ -6870,6 +6948,9 @@ msgstr "Sushi roll"
 
 msgid "synth_organs"
 msgstr "Synthorgans"
+
+msgid "system"
+msgstr "System"
 
 msgid "system_name"
 msgstr "System ~A"
@@ -7078,6 +7159,9 @@ msgstr "Manually visiting planets to transport cargo would be very boring. For t
 msgid "tutorial_galaxy_autopilot_2"
 msgstr "This is the space ship autopilot window. You can add orders to its listing, rearrange them, then start and stop the autopilot.\nLet's set up a route to the tutorial planet.\nDrag the highlighted icon to Tutoland. Remember you can move windows around by their title bar if they block your target."
 
+msgid "tutorial_galaxy_autopilot_21"
+msgstr "NOTE: The Autopilot tutorial will not work properly until you build at least one extractor on Tutoland."
+
 msgid "tutorial_galaxy_autopilot_4"
 msgstr "Now click on the start button to start the route. The ship will travel without your intervention, automatically loading cargo, and visiting all the planets in its order list. Once it's full, or its crew becomes too exhausted, it will automatically travel back home to unload and to wait for its crew to get their morale up."
 
@@ -7137,6 +7221,21 @@ msgstr "All your officers are armed and ready, and in full auto mode. They will 
 
 msgid "tutorial_planet_basics_8b"
 msgstr "Finally it's also possible to set the keys 1 to 6 (in the default keybind) as a quick group selection. Make an officer selection then press Ctrl-1 to set the first quick group to the current selection. From that point just pressing 1 will select that same group. The game automatically sets group 1 to be the entire landing crew when exploring a planet."
+
+msgid "tutorial_planet_delivery_station"
+msgstr "Delivery station"
+
+msgid "tutorial_planet_delivery_station_1"
+msgstr "You can sell directly to planets by building a delivery station object on their surface. This will unlock the planet in the Civs screen, and will allow deliveries of a choosen product. Select the build tool."
+
+msgid "tutorial_planet_delivery_station_2"
+msgstr "Now click on the highlighted object: the delivery station."
+
+msgid "tutorial_planet_delivery_station_3"
+msgstr "The delivery station can located anywhere in the planet, but it you build it near towns, the demand rate for products in the planet will be higher. Only one delivery station can be built per planet. Build the delivery station anywhere and remember you can select your squad [1] then teleport [T] them nearby."
+
+msgid "tutorial_planet_delivery_station_5"
+msgstr "Before you can start selling from the Civ screen, you must select a product in the info panel of the delivery station. After you click the Select product button and pick one, the planet will appear in the Civs Sell tab as a valid destination for the choosen product. Basic rations are a good starter product, so it is a good idea to select them now if you wish."
 
 msgid "tutorial_planet_extraction"
 msgstr "Extraction"
@@ -7480,6 +7579,12 @@ msgstr "Tags:"
 msgid "ugc_title"
 msgstr "Title:"
 
+msgid "ugc_translation_link"
+msgstr "Translation server"
+
+msgid "ugc_translation_server"
+msgstr "Starting from version 3.11 we offer an online service for crowdsourced translations, to make them part of the game. Visit the following link for more details and if your language is not in the list you can send an email to info@weirdandwry.com so we can add it. Thank you!"
+
 msgid "ugc_user_warning"
 msgstr "This is a tool for mod developers. To install and activate mods for your games use the Mods panel in the New Game window."
 
@@ -7530,6 +7635,102 @@ msgstr "Unavailable"
 
 msgid "uncompensated"
 msgstr "Uncompensated"
+
+msgid "unique_obj_ark"
+msgstr "Ark"
+
+msgid "unique_obj_ark_desc"
+msgstr "It belongs in a museum!"
+
+msgid "unique_obj_carbon_slab"
+msgstr "Carbon slab"
+
+msgid "unique_obj_carbon_slab_desc"
+msgstr "Nondescript object from another dimension. The inscription reads 'I shot first'."
+
+msgid "unique_obj_codexlemuriae"
+msgstr "Codex Lemuriae"
+
+msgid "unique_obj_codexlemuriae_desc"
+msgstr "Ye olde fakee languagee makinge lifee verye difficultie fore translatore"
+
+msgid "unique_obj_fan_favorite"
+msgstr "Fan Favorite #882"
+
+msgid "unique_obj_fan_favorite_desc"
+msgstr "A very big deal in a certain fictional universe, but our scientists can't figure out why."
+
+msgid "unique_obj_golden_planet"
+msgstr "The Golden Planet"
+
+msgid "unique_obj_golden_planet_desc"
+msgstr "Conmemorates the tragic accident at the gold mines in the blorgian colony of Greedous IX."
+
+msgid "unique_obj_kitty_scratcher"
+msgstr "Kitty scratcher"
+
+msgid "unique_obj_kitty_scratcher_desc"
+msgstr "That has to be one huge cat..."
+
+msgid "unique_obj_lastbagelhead"
+msgstr "Last bagelhead"
+
+msgid "unique_obj_lastbagelhead_desc"
+msgstr "A blast from the past!"
+
+msgid "unique_obj_memorial"
+msgstr "Memorial monument"
+
+msgid "unique_obj_memorial_desc"
+msgstr "Remembering all the victims of paper cuts"
+
+msgid "unique_obj_monolith"
+msgstr "Monolith"
+
+msgid "unique_obj_monolith_desc"
+msgstr "A strange artifact of no apparent utility"
+
+msgid "unique_obj_muskcar"
+msgstr "Midnight cherry sportscar"
+
+msgid "unique_obj_muskcar_desc"
+msgstr "Out of battery"
+
+msgid "unique_obj_nogettastone"
+msgstr "Nogetta stone"
+
+msgid "unique_obj_nogettastone_desc"
+msgstr "Ancient Nogi artifact"
+
+msgid "unique_obj_richmanonamber"
+msgstr "Amber preserved specimen"
+
+msgid "unique_obj_richmanonamber_desc"
+msgstr "Life finds a way"
+
+msgid "unique_obj_stone_carvings"
+msgstr "Stone carvings"
+
+msgid "unique_obj_stone_carvings_desc"
+msgstr "The rarest artifact from an extinct civilization, ready to sit next to smelly fast food joints"
+
+msgid "unique_obj_toxoplasmos"
+msgstr "Toxoplasmos"
+
+msgid "unique_obj_toxoplasmos_desc"
+msgstr "Famed cat herder and conceptual sculptor"
+
+msgid "unique_obj_venusofborgo"
+msgstr "Glbralorbobubi"
+
+msgid "unique_obj_venusofborgo_desc"
+msgstr "Greatest blorgian merchant-princess of all history"
+
+msgid "unique_obj_voyager"
+msgstr "Inscribed probe"
+
+msgid "unique_obj_voyager_desc"
+msgstr "Became sentient in the past, then decided it wasn't so much fun after all"
 
 msgid "universal_printer"
 msgstr "Universal printer"
