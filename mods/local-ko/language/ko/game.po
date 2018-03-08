@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-22 11:05+0000\n"
-"PO-Revision-Date: 2018-03-07 17:02+0000\n"
+"PO-Revision-Date: 2018-03-08 16:16+0000\n"
 "Last-Translator: kiironosora <kiironosora@naver.com>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
@@ -5772,8 +5772,8 @@ msgstr "전쟁 중"
 
 msgid "rep_at_war_desc"
 msgstr ""
-"전쟁 중인 문명은 당신의 제품을 구매하지 않고 당신의 스테이션을 습격하며 동맹국을 침공하려고 합니다. 당신이 그들의 행성에 상륙한다면 "
-"그들은 적대적이 될 것입니다."
+"전쟁 중인 문명은 당신의 스테이션을 습격하며 동맹국을 침공하려고 합니다. 그들의 행성에 착륙한다면 그들은 적대적일 것입니다. 명성을 "
+"높이기 위해 그들에게 공물을 지불하세요."
 
 msgid "rep_friendly"
 msgstr "우호적"
@@ -5782,9 +5782,7 @@ msgid "rep_hostile"
 msgstr "적대적"
 
 msgid "rep_hostile_desc"
-msgstr ""
-"적대적인 문명은 당신을 좋아하지 않지만, 그들은 당신의 제품을 살 것입니다. 이것은 그들과 당신의 명성을 높일 것입니다. 당신이 그들의 "
-"행성에 착륙한다면 그들은 적대적이 될 것입니다."
+msgstr "적대적인 문명은 그들의 행성에 착륙한다면 적대적일 것입니다. 명성을 높이기 위해 그들에게 공물을 지불하세요."
 
 msgid "rep_neutral"
 msgstr "중립"
@@ -8065,3 +8063,221 @@ msgstr "확대"
 
 msgid "zoom_out"
 msgstr "축소"
+
+msgid "autopilot_ship_visits"
+msgstr "자동 조종 우주선 방문"
+
+msgid "delivery_station"
+msgstr "배달 스테이션"
+
+msgid "delivery_station_desc"
+msgstr "이 행성에 제품 판매를 허용합니다. 행성당 하나만. 많은 수요를 위해 건물을 더 커버하세요."
+
+msgid "extracted_resource"
+msgstr "추출된 자원"
+
+msgid "filter_ship_named_menu"
+msgstr "우주선..."
+
+msgid "flag_dismantle"
+msgstr "해체를 위해 표시"
+
+msgid "goal_buildplanet4_desc"
+msgstr "배달 스테이션을 행성 표면에 건설하세요."
+
+msgid "goal_buildplanet4_title"
+msgstr "배달 스테이션 1 개 건설"
+
+msgid "level_short"
+msgstr "Lvl"
+
+msgid "obj_group_unique"
+msgstr "유니크"
+
+msgid "planet_discover_object"
+msgstr "유니크 물건을 발견했습니다. 이제 홈 스테이션에 건설할 수 있습니다."
+
+msgid "planet_shop_hostile"
+msgstr "적대적인 행성"
+
+msgid "planet_shop_info_desc"
+msgstr "이 행성에서 배달하고 판매할 수 있도록 선호하는 제품을 선택하여 이 배달 스테이션을 재구성하십시오."
+
+msgid "planet_shop_map_label"
+msgstr "수요: %d%%"
+
+msgid "planet_shop_no_civ"
+msgstr "비식민지 세상"
+
+msgid "planet_shop_no_product"
+msgstr "제품 선택"
+
+msgid "planet_shop_pick_resource"
+msgstr "이 행성에 배달할 제품을 선택하십시오:"
+
+msgid "planet_shop_refurb_price"
+msgstr "리퍼브 가격: ~A @ui_icon_20px_credits04.png"
+
+msgid "planet_shop_too_close"
+msgstr "건물과 너무 가깝습니다"
+
+msgid "planet_shop_unique"
+msgstr "한 행성 당 하나의 배달 스테이션만"
+
+msgid "rep_friendly_plus_desc"
+msgstr "우호적이나 더 높은 명성 문명은 상거래를 하며, 여행을 위해 당신의 스테이션을 방문할 것입니다."
+
+msgid "rep_neutral_desc"
+msgstr "중립 명성 문명은 상거래를 하지만, 여행을 위해 당신의 스테이션을 방문하지 않습니다."
+
+msgid "ship_dock_not_assigned"
+msgstr "독 배정 안됨"
+
+msgid "ship_not_available_busy"
+msgstr "우주선은 자동 조종 항해 중이거나 배달 중입니다"
+
+msgid "ship_orders_add_order"
+msgstr "명령 추가"
+
+msgid "ship_orders_add_picker_label"
+msgstr "자원 구매 및 로드 명령을 추가할 행성을 선택하십시오"
+
+msgid "ship_orders_no_extractors"
+msgstr "자동 조종 장치가 자원 추출기를 대상으로 할 수 있도록 행성에 자원 추출기를 건설하십시오"
+
+msgid "station_obj_unique"
+msgstr "물건은 유니크합니다"
+
+msgid "system"
+msgstr "시스템"
+
+msgid "tutorial_galaxy_autopilot_21"
+msgstr "참고: 자동 조종 장치 튜토리얼은 Tutoland에 적어도 하나의 추출기를 만들 때까지 제대로 작동하지 않습니다."
+
+msgid "tutorial_planet_delivery_station"
+msgstr "배달 스테이션"
+
+msgid "tutorial_planet_delivery_station_1"
+msgstr ""
+"행성 표면에 배달 스테이션을 만들어 행성에 직접 판매 할 수 있습니다. 이것은 문명 화면에서 행성의 잠금을 해제하고 선택한 제품의 배달을 "
+"허용합니다. 건설 도구를 선택하십시오."
+
+msgid "tutorial_planet_delivery_station_2"
+msgstr "이제 강조 표시된 물건을 클릭하십시오: 배달 스테이션."
+
+msgid "tutorial_planet_delivery_station_3"
+msgstr ""
+"배달 스테이션은 행성 어느 곳에나 위치할 수 있지만, 마을 근처에 배송 스테이션을 건설하면 행성의 제품에 대한 수요 비율이 높아집니다. "
+"행성 하나당 하나의 배달 스테이션만 만들 수 있습니다. 아무곳에 배달 스테이션을 만들고 분대를 선택하고 [1] 텔레포트 [T] 할 수 "
+"있다는 것을 기억하십시오."
+
+msgid "tutorial_planet_delivery_station_5"
+msgstr ""
+"문명 화면에서 판매를 시작하기 전에 배송 스테이션의 정보 패널에서 제품을 선택해야 합니다. 제품 선택 버튼을 클릭하여 선택하면, 문명 "
+"판매 탭에 선택된 제품의 유효한 목적지로 행성이 나타납니다. 기본 휴대용 식량은 훌륭한 시운전 제품이기 때문에 원하는 경우 지금 선택하는 "
+"것이 좋습니다."
+
+msgid "ugc_translation_link"
+msgstr "번역 서버"
+
+msgid "ugc_translation_server"
+msgstr ""
+"버전 3.11부터 크라우드 소스 번역 서비스를 온라인 서비스를 통해 제공합니다. 자세한 내용은 다음 링크를 방문하십시오. 언어가 목록에 "
+"없으면 info@weirdandwry.com으로 전자 메일을 보내서 추가할 수 있습니다. 고맙습니다!"
+
+msgid "unique_obj_ark"
+msgstr "아크"
+
+msgid "unique_obj_ark_desc"
+msgstr "이건 박물관에 있어야 해!"
+
+msgid "unique_obj_carbon_slab"
+msgstr "카본 슬래브"
+
+msgid "unique_obj_carbon_slab_desc"
+msgstr "다른 차원의 정체를 알 수 없는 물건입니다. 비문에는 '내가 먼저 쏨'이라고 적혀 있습니다."
+
+msgid "unique_obj_codexlemuriae"
+msgstr "레뮤리아 고문서"
+
+msgid "unique_obj_codexlemuriae_desc"
+msgstr ""
+"Ye olde fakee languagee makinge lifee verye difficultie fore translatore"
+
+msgid "unique_obj_fan_favorite"
+msgstr "팬 즐겨 찾기 #882"
+
+msgid "unique_obj_fan_favorite_desc"
+msgstr "특정 허구의 우주에서 매우 큰 거래지만, 우리 과학자들은 이유를 알아낼 수 없습니다."
+
+msgid "unique_obj_golden_planet"
+msgstr "황금 행성"
+
+msgid "unique_obj_golden_planet_desc"
+msgstr "Greedous IX의 블로그 식민지의 금 광산에서 비극적인 사고를 기념한다."
+
+msgid "unique_obj_kitty_scratcher"
+msgstr "키티 스크레쳐"
+
+msgid "unique_obj_kitty_scratcher_desc"
+msgstr "엄청나게 큰 고양이가 분명해..."
+
+msgid "unique_obj_lastbagelhead"
+msgstr "마지막 베이글헤드"
+
+msgid "unique_obj_lastbagelhead_desc"
+msgstr "과거로부터의 폭발!"
+
+msgid "unique_obj_memorial"
+msgstr "기념비"
+
+msgid "unique_obj_memorial_desc"
+msgstr "종이에 베인 모든 희생자들을 기억하며"
+
+msgid "unique_obj_monolith"
+msgstr "모노리스"
+
+msgid "unique_obj_monolith_desc"
+msgstr "명백한 유용성이 없는 이상한 유물"
+
+msgid "unique_obj_muskcar"
+msgstr "한밤의 체리 스포츠카"
+
+msgid "unique_obj_muskcar_desc"
+msgstr "배터리 부족"
+
+msgid "unique_obj_nogettastone"
+msgstr "노기 스톤"
+
+msgid "unique_obj_nogettastone_desc"
+msgstr "고대 노기 유물"
+
+msgid "unique_obj_richmanonamber"
+msgstr "표본 보존 앰버"
+
+msgid "unique_obj_richmanonamber_desc"
+msgstr "인생은 방법을 찾는다"
+
+msgid "unique_obj_stone_carvings"
+msgstr "돌 조각"
+
+msgid "unique_obj_stone_carvings_desc"
+msgstr "멸종된 문명의 희귀한 유물. 냄새나는 패스트 푸드 관절옆에 앉을 준비가 되었습니다"
+
+msgid "unique_obj_toxoplasmos"
+msgstr "톡소플라스마"
+
+msgid "unique_obj_toxoplasmos_desc"
+msgstr "유명한 고양이 지킴이와 개념적 조각가"
+
+msgid "unique_obj_venusofborgo"
+msgstr "Glbralorbobubi"
+
+msgid "unique_obj_venusofborgo_desc"
+msgstr "모든 역사 중 가장 훌륭한 블로그 상인 공주"
+
+msgid "unique_obj_voyager"
+msgstr "새겨진 프로브"
+
+msgid "unique_obj_voyager_desc"
+msgstr "과거에 감성적이었고, 결국 너무 즐겁지 않다고 결심했습니다"
