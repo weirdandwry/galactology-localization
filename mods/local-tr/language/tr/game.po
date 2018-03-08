@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-12 09:03+0000\n"
-"PO-Revision-Date: 2018-02-22 23:55+0000\n"
+"PO-Revision-Date: 2018-03-09 10:27+0000\n"
 "Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: Turkish "
 "<http://translate.weirdandwry.com/projects/galactology/game/tr/>\n"
@@ -3987,7 +3987,7 @@ msgid "npc_augustus"
 msgstr "Şef Ağustos "
 
 msgid "npc_bagelhead"
-msgstr "Bagelhead"
+msgstr "Simitkafalı"
 
 msgid "npc_bicho01"
 msgstr "Vacavaga"
@@ -5682,8 +5682,9 @@ msgstr "Savaşan"
 msgid "rep_at_war_desc"
 msgstr ""
 "Savaşan ırklar ürünlerinizin çoğunu satın almaz ve istasyonunuza baskın "
-"yapmaya ve müttefiklerinize saldırmaya çalışacaktır. Düşman olup saldıracak "
-"gezegenlerine uğrayacak olursanız."
+"yapmaya ve müttefiklerinize saldırmaya çalışacaktır. Gezegenlerine uğrayacak "
+"olursanız saldıracaklardır. Saygınlık kazanmanız için onlara bir haraç "
+"ödemenizi beklerler."
 
 msgid "rep_friendly"
 msgstr "Dost"
@@ -5693,9 +5694,10 @@ msgstr "Saldırgan"
 
 msgid "rep_hostile_desc"
 msgstr ""
-"Düşman ırklar sizi sevmez, ama ürünlerinizi çoğunu satın alacaklar. Bu "
+"Düşman ırklar sizi sevmez, ama ürünlerinizi toptan satın alacaklar. Bu "
 "onlarda saygınlığınızı arttıracaktır. Onlar size düşmanca yaklaşır eğer "
-"onları ziyaret ederseniz."
+"onları ziyaret ederseniz. Onlardan saygınlık kazanmak için haraç ödemeniz "
+"gerekecek."
 
 msgid "rep_neutral"
 msgstr "Tarafsız"
@@ -6304,7 +6306,7 @@ msgid "ship_kind_authority"
 msgstr "Kuğu"
 
 msgid "ship_kind_bagelhead"
-msgstr "Bagelhead gemisi"
+msgstr "Simitkafalı gemisi"
 
 msgid "ship_kind_benevolence"
 msgstr "Kurbağa"
@@ -8121,3 +8123,245 @@ msgid "export_rates_desc"
 msgstr ""
 "Bunlar birim fiyatları; ırklara ait gezegenlerden çıkarılan hammaddeler için "
 "ödeme yapacağınız."
+
+msgid "delivery_station"
+msgstr "Dağıtım noktası"
+
+msgid "delivery_station_desc"
+msgstr ""
+"Üretimlerinizi o gezegene satarsınız. Bir adet inşa edilir. Yüksek talep "
+"için binaları kapsayacak yere inşa ettiğinize emin olun."
+
+msgid "extracted_resource"
+msgstr "Toplanan kaynaklar"
+
+msgid "filter_ship_named_menu"
+msgstr "Gemiler..."
+
+msgid "flag_dismantle"
+msgstr "Sökülmüş olması için işaret bayrağı"
+
+msgid "goal_buildplanet4_desc"
+msgstr "Bir gezegene dağıtım istasyonu inşa edin."
+
+msgid "goal_buildplanet4_title"
+msgstr "Bir dağıtım istasyonu inşa et"
+
+msgid "level_short"
+msgstr "Sev"
+
+msgid "obj_group_unique"
+msgstr "Benzersiz"
+
+msgid "planet_discover_object"
+msgstr ""
+"Benzeri bulunmayan bir nesne keşfettiniz ve artık istasyonunuz da sergilemek "
+"için kullanabilirsiniz."
+
+msgid "planet_shop_hostile"
+msgstr "Düşman gezegen"
+
+msgid "planet_shop_info_desc"
+msgstr ""
+"Tercihiniz olan üretimi dağıtmak ve satmak için bu gezegende dağıtım "
+"istasyonunuzu yenileyin."
+
+msgid "planet_shop_map_label"
+msgstr "Talep: %d%%"
+
+msgid "planet_shop_no_civ"
+msgstr "Sömürülmemiş dünya"
+
+msgid "planet_shop_no_product"
+msgstr "Bir üretim seçin"
+
+msgid "planet_shop_pick_resource"
+msgstr "Bu gezegen dağıtım için bir üretim seçin:"
+
+msgid "planet_shop_refurb_price"
+msgstr "Yenileme ücreti: ~A @ui_icon_20px_credits04.png"
+
+msgid "planet_shop_too_close"
+msgstr "Binalara çok yakın"
+
+msgid "planet_shop_unique"
+msgstr "Her gezegene bir adet dağıtım binası"
+
+msgid "rep_friendly_plus_desc"
+msgstr ""
+"Dost ve yüksek saygınlık gösteren ırklar alışverişlere sağdık kalacak, hatta "
+"istasyonunuza barış içinde turistik gelecekler."
+
+msgid "rep_neutral_desc"
+msgstr ""
+"Tarafsız ırklar onları ziyaret etmenize izin verir ve alışverişe "
+"sağdıktırlar, fakat istasyona turistik olarak gelemezler."
+
+msgid "ship_dock_not_assigned"
+msgstr "Limana atama yok"
+
+msgid "ship_not_available_busy"
+msgstr "Gemi şu an meşgul veya dağıtımda"
+
+msgid "ship_orders_add_order"
+msgstr "Emir ver"
+
+msgid "ship_orders_add_picker_label"
+msgstr "Bir kaynağı satın alma ve kargo için bir gezegen seçin"
+
+msgid "ship_orders_no_extractors"
+msgstr ""
+"Gezegenlere kaynak toplama inşa etmek otopilota bu gezegeni için emir "
+"eklemenizi sağlayacaktır."
+
+msgid "station_obj_unique"
+msgstr "Nesne benzersizdir"
+
+msgid "system"
+msgstr "Sistem"
+
+msgid "tutorial_galaxy_autopilot_21"
+msgstr ""
+"NOT: Tutoland üzerine en az bir kaynak toplayıcı inşa etmeniz halinde "
+"otopilot dersi aktif hale gelir."
+
+msgid "tutorial_planet_delivery_station"
+msgstr "Dağıtım noktası"
+
+msgid "tutorial_planet_delivery_station_1"
+msgstr ""
+"Üretimlerinizi o gezegene dağıtım noktası ile direkt satarsınız. Bu Irklar "
+"ekranına o gezegeni ekler, ve seçtiğiniz üretimin dağıtımını oraya sağlar. "
+"İnşa et nesnesini seçin."
+
+msgid "tutorial_planet_delivery_station_2"
+msgstr "Şimdi yanıp sönen nesneyi seçin: Dağıtım binası."
+
+msgid "tutorial_planet_delivery_station_3"
+msgstr ""
+"Dağıtım istasyonu her noktaya inşa edilir, fakat kasabalara yakın dikmeniz, "
+"talep oranını ürünler için yüksek tutar. Her gezegene sadece bir adet "
+"dikilebilir. Dağıtım binanızı istediğiniz yere kurun ve kurulacak noktaya "
+"kolay ulaşmak için elemanları [1] tuşu ile seçip [T] tuşu ile ışınlanmayı "
+"hatırlayın."
+
+msgid "tutorial_planet_delivery_station_5"
+msgstr ""
+"Irk ekranından satış yapmaya başlayabilmeniz için, dağıtım binasının bilgi "
+"ekranında bir ürün seçilmeli. Ürün seç tıklayıp bir ürün seçin, gezegen "
+"seçilen ürün için satış sekmesinde geçerli hedef olarak gözükecektir. "
+"Dilerseniz, temel gıdalar başlangıç için iyi bir seçim olacaktır."
+
+msgid "ugc_translation_link"
+msgstr "Çeviri sunucusu"
+
+msgid "ugc_translation_server"
+msgstr ""
+"3.11 versiyonu ile bir çeviri online servisi olan \"crowdsourced "
+"translations\" sunduk, oyunun bir parçası yaptık. Daha fazla detay için "
+"sunulan bağlantı adresini ziyaret edin ve sizin konuşma dilinizin de listede "
+"olması için info@weirdandwry.com mesaj atın. Teşekkürler!"
+
+msgid "unique_obj_ark"
+msgstr "Sandık"
+
+msgid "unique_obj_ark_desc"
+msgstr "Bir müzeye aittir!"
+
+msgid "unique_obj_carbon_slab"
+msgstr "Karbon levha"
+
+msgid "unique_obj_carbon_slab_desc"
+msgstr "Başka bir boyuttan tanımsız nesne. Yazıtta yazan \"Önce ben avladım\"."
+
+msgid "unique_obj_codexlemuriae"
+msgstr "Lemurca el kitabı"
+
+msgid "unique_obj_codexlemuriae_desc"
+msgstr "bu kitap okuya men si ne didi anlayo men çoh zor anlamaha "
+
+msgid "unique_obj_fan_favorite"
+msgstr "Hayran seçimi #882"
+
+msgid "unique_obj_fan_favorite_desc"
+msgstr ""
+"Belirli kurgusal evrende içinde çok büyük bir anlaşma , fakat bizim "
+"bilimciler nedenini bilmiyor."
+
+msgid "unique_obj_golden_planet"
+msgstr "Altın gezegen"
+
+msgid "unique_obj_golden_planet_desc"
+msgstr ""
+" Blog sömürgelerinin Greedous IX da altın madenlerinde üzücü kazasının "
+"hatırası."
+
+msgid "unique_obj_kitty_scratcher"
+msgstr "Pisi tırmağı"
+
+msgid "unique_obj_kitty_scratcher_desc"
+msgstr "Bu büyük bir kedi olmalı..."
+
+msgid "unique_obj_lastbagelhead"
+msgstr "Son Simitkafalı"
+
+msgid "unique_obj_lastbagelhead_desc"
+msgstr "Geçmişten bir delik!"
+
+msgid "unique_obj_memorial"
+msgstr "Anma anıtı"
+
+msgid "unique_obj_memorial_desc"
+msgstr "Kağıt çiziği yarası kurbanlarının hepsini hatırlatır"
+
+msgid "unique_obj_monolith"
+msgstr "Dikilitaş"
+
+msgid "unique_obj_monolith_desc"
+msgstr "Yararsız garip biçimde bir eser"
+
+msgid "unique_obj_muskcar"
+msgstr "Tanrının arabaları"
+
+msgid "unique_obj_muskcar_desc"
+msgstr "Pili yok"
+
+msgid "unique_obj_nogettastone"
+msgstr "Boylu taşı"
+
+msgid "unique_obj_nogettastone_desc"
+msgstr "Boylu harabesi"
+
+msgid "unique_obj_richmanonamber"
+msgstr "Korunmuş kehribar numunesi"
+
+msgid "unique_obj_richmanonamber_desc"
+msgstr "Yaşam tarz bulur"
+
+msgid "unique_obj_stone_carvings"
+msgstr "Taş oymaları"
+
+msgid "unique_obj_stone_carvings_desc"
+msgstr ""
+"Soyu tükenmiş uygarlığın en nadide eseri, hazır yanına oturma için kokan "
+"hazır yiyeceklerin eklemlerine"
+
+msgid "unique_obj_toxoplasmos"
+msgstr "Toksiplasma"
+
+msgid "unique_obj_toxoplasmos_desc"
+msgstr "Ünlü kedi çobanı ve kavramsal heykeltıraş"
+
+msgid "unique_obj_venusofborgo"
+msgstr "Glbralorbobubi"
+
+msgid "unique_obj_venusofborgo_desc"
+msgstr "Tüm tarihin en büyük tüccarı o, \"blorg prensesi\""
+
+msgid "unique_obj_voyager"
+msgstr "Muayene çubuğu"
+
+msgid "unique_obj_voyager_desc"
+msgstr ""
+"Geçmişle duygusallaştı, sonra da karar verdi her şeyden sonra yaşadıklarının "
+"çokta eğlenceli olmadığına"
