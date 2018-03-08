@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-12 21:15+0000\n"
-"PO-Revision-Date: 2018-03-08 16:16+0000\n"
+"PO-Revision-Date: 2018-03-09 10:26+0000\n"
 "Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: French "
 "<http://translate.weirdandwry.com/projects/galactology/game/fr/>\n"
@@ -7934,3 +7934,127 @@ msgstr ""
 
 msgid "delivery_station"
 msgstr "Station de livraison"
+
+msgid "delivery_station_desc"
+msgstr ""
+"Permet de vendre des produits sur cette planète. Une seule par planète. "
+"Assurez-vous de couvrir plus de bâtiments pour une plus forte demande."
+
+msgid "extracted_resource"
+msgstr "Ressource extraite"
+
+msgid "filter_ship_named_menu"
+msgstr "Vaisseaux..."
+
+msgid "flag_dismantle"
+msgstr "Marquer l'objet pour qu'il soit démonté"
+
+msgid "goal_buildplanet4_desc"
+msgstr "Construisez une station de livraison à la surface d'une planète"
+
+msgid "goal_buildplanet4_title"
+msgstr "Construire une station de livraison"
+
+msgid "level_short"
+msgstr "Niv."
+
+msgid "obj_group_unique"
+msgstr "Unique"
+
+msgid "planet_discover_object"
+msgstr ""
+"Vous avez découvert un objet unique qui est maintenant disponible à la "
+"construction dans votre station."
+
+msgid "planet_shop_hostile"
+msgstr "Planète hostile"
+
+msgid "planet_shop_info_desc"
+msgstr ""
+"Réaménagez cette station de livraison en sélectionnant votre produit préféré "
+"pour pouvoir le livrer et le vendre sur cette planète."
+
+msgid "planet_shop_map_label"
+msgstr "Demande : %d%%"
+
+msgid "planet_shop_no_civ"
+msgstr "Monde non colonisé"
+
+msgid "planet_shop_no_product"
+msgstr "Sélectionnez un produit"
+
+msgid "planet_shop_pick_resource"
+msgstr "Sélectionnez le produit que vous voulez vendre sur cette planète :"
+
+msgid "planet_shop_refurb_price"
+msgstr "Prix du réaménagement : ~A @ui_icon_20px_credits04.png"
+
+msgid "planet_shop_too_close"
+msgstr "Trop près des bâtiments"
+
+msgid "planet_shop_unique"
+msgstr "Une seule station de livraison par planète"
+
+msgid "rep_friendly_plus_desc"
+msgstr ""
+"Les civilisation amicales et de plus haut niveaux de réputation commercerons "
+"avec vous, et de plus viendrons visiter en paix votre station pour le "
+"tourisme."
+
+msgid "rep_neutral_desc"
+msgstr ""
+"Les civilisations neutres vous laisserons atterrir sur leur planète et "
+"commercer avec elle, mais elles ne sont pas intéressées par le tourisme."
+
+msgid "ship_dock_not_assigned"
+msgstr "Pas de quai assigné"
+
+msgid "ship_not_available_busy"
+msgstr "Le vaisseau est occupé avec le pilote automatique ou une livraison"
+
+msgid "ship_orders_add_order"
+msgstr "Ajouter un ordre"
+
+msgid "ship_orders_add_picker_label"
+msgstr ""
+"Sélectionnez une planète où ajouter un order d'achat et chargement de "
+"ressource."
+
+msgid "ship_orders_no_extractors"
+msgstr ""
+"Construisez des extracteurs de ressource sur les planètes pour pouvoir les "
+"cibler avec le pilote automatique"
+
+msgid "station_obj_unique"
+msgstr "L'objet est unique"
+
+msgid "system"
+msgstr "Système"
+
+msgid "tutorial_galaxy_autopilot_21"
+msgstr ""
+"NOTE : Le didacticiel sur le pilote automatique ne fonctionnera pas "
+"correctement tant que vous n'aurez pas construit au moins un extracteur sur "
+"Tutoland."
+
+msgid "tutorial_planet_delivery_station"
+msgstr "Station de livraison"
+
+msgid "tutorial_planet_delivery_station_1"
+msgstr ""
+"Vous pouvez vendre directement aux planètes en construisant un objet station "
+"de livraison à leur surface. Cela débloquera la planète dans l'écran des "
+"civilisations, et permettra les livraisons d'un produit choisi. Sélectionnez "
+"l'outil construction."
+
+msgid "tutorial_planet_delivery_station_2"
+msgstr ""
+"Maintenant, cliquez sur l'objet en surbrillance : la station de livraison."
+
+msgid "tutorial_planet_delivery_station_3"
+msgstr ""
+"La station de livraison peut être placée n'importe où sur la planète, mais "
+"si vous la construisez près de villes, la demande de produits sur la planète "
+"sera plus élevée. Une seule station de livraison peut être construite par "
+"planète. Construisez la station de livraison n'importe où et rappelez-vous "
+"que vous pouvez sélectionner votre escouade [1] et les téléporter [T] à côté."
