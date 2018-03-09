@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-12 09:03+0000\n"
-"PO-Revision-Date: 2018-03-09 10:27+0000\n"
+"PO-Revision-Date: 2018-03-10 18:48+0000\n"
 "Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: Turkish "
 "<http://translate.weirdandwry.com/projects/galactology/game/tr/>\n"
@@ -266,7 +266,7 @@ msgid "base_spec"
 msgstr "Alt özellik"
 
 msgid "basic_kitchen"
-msgstr "Ocak"
+msgstr "Basit Ocak"
 
 msgid "basic_kitchen_desc"
 msgstr "Ucuz yemekler pişirir"
@@ -326,7 +326,7 @@ msgid "billiard_desc"
 msgstr "Topları bir sopayla çarptırarak deliklere sokmaya çalışırsın."
 
 msgid "bio_extractor"
-msgstr "Hücrelileri toplar"
+msgstr "Hücre toplayıcı"
 
 msgid "bio_extractor_desc"
 msgstr "Etrafındaki hücresel bio canlıları toplar"
@@ -1799,7 +1799,7 @@ msgid "facilities_tier_3"
 msgstr "Robotsu temel"
 
 msgid "facilities_tier_3b"
-msgstr "Ziyaretçi limanı"
+msgstr "Ziyaretçi rıhtımları"
 
 msgid "facilities_tier_4"
 msgstr "Ekipman aşaması 6-10"
@@ -2027,7 +2027,7 @@ msgid "fs_prompt_select"
 msgstr "Bir dosya seç"
 
 msgid "fuel_cell"
-msgstr "Benzin deposu"
+msgstr "Yakıt deposu"
 
 msgid "fullscreen"
 msgstr "Tam Ekran"
@@ -2377,7 +2377,7 @@ msgid "goal_dock1_desc"
 msgstr "10 kere istasyonunuza gemi uğrar"
 
 msgid "goal_dock1_title"
-msgstr "Gemi limanlarına iniş"
+msgstr "Yanaşan gemi mekikleri"
 
 msgid "goal_doctor1_desc"
 msgstr "Doktorlarınız hasta yatağındaki 10 hastaya bakar."
@@ -2386,7 +2386,9 @@ msgid "goal_doctor1_title"
 msgstr "10 hasta iyileştir."
 
 msgid "goal_extract1_desc"
-msgstr "100 bio maddesi, 100 mineral ve 100 sıvı olan kaynağa gezegenlerden toplayıcı dikerek toplat."
+msgstr ""
+"100 Hücre maddesi, 100 mineral ve 100 sıvı olan kaynağa gezegenlerden "
+"toplayıcı dikerek toplat."
 
 msgid "goal_extract1_title"
 msgstr "Farklı hammaddeler toplat"
@@ -3528,7 +3530,7 @@ msgid "luxury_clothes"
 msgstr "Lüks giyim"
 
 msgid "luxury_clothes_desc"
-msgstr "Lüks kumaşlar cinsi tükenmişlerden yapısı değiştirilerek üretilmiştir"
+msgstr "Lüks kumaşlar ağaç yapraklarının yapısı değiştirilerek üretilmiştir"
 
 msgid "luxury_dinner"
 msgstr "Lüks yemek"
@@ -3579,7 +3581,7 @@ msgid "make_feet"
 msgstr "Ayağa yap Seviye:~A-~A"
 
 msgid "make_fuel_cell"
-msgstr "Benzin üret"
+msgstr "Yakıt üret"
 
 msgid "make_hands"
 msgstr "Ele yap Seviye:~A-~A"
@@ -5120,7 +5122,7 @@ msgid "officer_died"
 msgstr "Elemanınız ~A öldü"
 
 msgid "officer_dock"
-msgstr "Tayfa Limanı"
+msgstr "Eleman rıhtımı"
 
 msgid "officer_dock_desc"
 msgstr "Bu üs için atanmış gemi sadece iniş yapabilir"
@@ -5906,7 +5908,7 @@ msgid "robot_charger"
 msgstr "Robot şarjı"
 
 msgid "robot_charger_desc"
-msgstr "Robotu şarj etmek için benzin doldurun"
+msgstr "Robotu şarj etmek için yakıt doldurun"
 
 msgid "robot_factory"
 msgstr "Robot fabrikası"
@@ -6297,7 +6299,7 @@ msgid "ship_distance_to_other"
 msgstr "Mesafe %s (Seviye %d): %0.2f parse"
 
 msgid "ship_dock_assigned"
-msgstr "Limanı işaretli istasyonda"
+msgstr "Rıhtım işaretli istasyonda"
 
 msgid "ship_final_destination"
 msgstr "Son durak: %s (Seviye %d)"
@@ -7699,7 +7701,7 @@ msgid "visitor_departing_feeling_desc"
 msgstr "Eve dönüş"
 
 msgid "visitor_dock"
-msgstr "Misafir Limanı"
+msgstr "Misafir rıhtımı"
 
 msgid "visitor_dock_desc"
 msgstr "Misafir uzay gemileri buraya iner"
@@ -7859,9 +7861,9 @@ msgstr ""
 
 msgid "warn_no_officer_dock"
 msgstr ""
-"Gemilerinizden biri istasyona geldi ve bir gemi limanına atanmadığı için "
+"Gemilerinizden biri istasyona geldi ve bir gemi rıhtımına atanmadığı için "
 "tayfasını ışınlayıp, yükünü de harita kenarına indirdi. Bu gemi için bir "
-"gemi limanı kurup, limana atamasını yapın."
+"gemi rıhtım kurup, rıhtımına atamasını yapın."
 
 msgid "warn_no_shop"
 msgstr "Dükkan içinden değil, Boşta bulduğunu aldı."
@@ -8198,7 +8200,7 @@ msgstr ""
 "sağdıktırlar, fakat istasyona turistik olarak gelemezler."
 
 msgid "ship_dock_not_assigned"
-msgstr "Limana atama yok"
+msgstr "Rıhtıma atama yok"
 
 msgid "ship_not_available_busy"
 msgstr "Gemi şu an meşgul veya dağıtımda"
