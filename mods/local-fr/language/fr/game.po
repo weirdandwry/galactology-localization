@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-12 21:15+0000\n"
-"PO-Revision-Date: 2018-03-09 10:27+0000\n"
+"PO-Revision-Date: 2018-03-09 11:13+0000\n"
 "Last-Translator: LeChatMG <lechatmg@orange.fr>\n"
 "Language-Team: French "
 "<http://translate.weirdandwry.com/projects/galactology/game/fr/>\n"
@@ -8068,3 +8068,125 @@ msgstr ""
 "valide du produit choisi. Les rations de base sont un bon produit de départ, "
 "ce serait donc une bonne idée de les sélectionner maintenant si vous le "
 "souhaitez."
+
+msgid "autopilot_ship_visits"
+msgstr "Visites du pilote automatique"
+
+msgid "ugc_translation_link"
+msgstr "Serveur de traduction"
+
+msgid "ugc_translation_server"
+msgstr ""
+"À partir de la version 3.11, nous proposons un service en ligne de "
+"traductions communautaires, pour qu'elles fassent partie du jeu. Visitez le "
+"lien suivant pour plus de détails et si votre langue n'est pas dans la "
+"liste, vous pourrez envoyer un mail à info@weirdandwry.com pour que nous la "
+"rajoutions. Merci !"
+
+msgid "unique_obj_ark"
+msgstr "Arche"
+
+msgid "unique_obj_ark_desc"
+msgstr "Ça devrait être dans un musée !"
+
+msgid "unique_obj_carbon_slab"
+msgstr "Bloc de carbone"
+
+msgid "unique_obj_carbon_slab_desc"
+msgstr ""
+"Un objet indéfinissable venu d'une autre dimension. Il y est inscrit « J'ai "
+"tiré le premier. »"
+
+msgid "unique_obj_codexlemuriae"
+msgstr "Codex Lemuriae"
+
+msgid "unique_obj_codexlemuriae_desc"
+msgstr ""
+"Lava bavonne vavieille lavangue favactavice quavi ravend daviffavicavile "
+"lava vavie daves travadavuctaveurs"
+
+msgid "unique_obj_fan_favorite"
+msgstr "Objet préféré des fans №882"
+
+msgid "unique_obj_fan_favorite_desc"
+msgstr ""
+"Un truc très important dans un certain univers fictif, mais nos "
+"scientifiques n'arrivent pas à comprendre pourquoi."
+
+msgid "unique_obj_golden_planet"
+msgstr "La planète d'or"
+
+msgid "unique_obj_golden_planet_desc"
+msgstr ""
+"Commémore le tragique accident des mines d'or de la colonie blorgienne de "
+"Cupiditus IX."
+
+msgid "unique_obj_kitty_scratcher"
+msgstr "Grattoir à chatton"
+
+msgid "unique_obj_kitty_scratcher_desc"
+msgstr "Ça doit être un sacré gros chat..."
+
+msgid "unique_obj_lastbagelhead"
+msgstr "Dernier bout de bagel"
+
+msgid "unique_obj_lastbagelhead_desc"
+msgstr "Une claque venue du passé !"
+
+msgid "unique_obj_memorial"
+msgstr "Mémorial"
+
+msgid "unique_obj_memorial_desc"
+msgstr "À la mémoire de toutes le victimes de coupure de papier"
+
+msgid "unique_obj_monolith"
+msgstr "Monolthe"
+
+msgid "unique_obj_monolith_desc"
+msgstr "Un étrange artéfact sans utilité apparente"
+
+msgid "unique_obj_muskcar"
+msgstr "Voiture de sport couleur cerise de minuit"
+
+msgid "unique_obj_muskcar_desc"
+msgstr "La batterie est à plat"
+
+msgid "unique_obj_nogettastone"
+msgstr "Pierre de Noguette"
+
+msgid "unique_obj_nogettastone_desc"
+msgstr "Ancien artéfact nogi"
+
+msgid "unique_obj_richmanonamber"
+msgstr "Spécimen préservé dans de l'ambre"
+
+msgid "unique_obj_richmanonamber_desc"
+msgstr "La vie trouve toujours un moyen"
+
+msgid "unique_obj_stone_carvings"
+msgstr "Gravures sur pierre"
+
+msgid "unique_obj_stone_carvings_desc"
+msgstr ""
+"L'artéfact le plus rare d'une civilisation éteinte, prêt à se retrouver à "
+"côté d'une chaîne de fast-food puante"
+
+msgid "unique_obj_toxoplasmos"
+msgstr "Toxoplasmos"
+
+msgid "unique_obj_toxoplasmos_desc"
+msgstr "Célèbre berger de chats et sculpteur conceptuel"
+
+msgid "unique_obj_venusofborgo"
+msgstr "Glbralorbobubi"
+
+msgid "unique_obj_venusofborgo_desc"
+msgstr "La plus grande princesse marchande blorgienne de l'histoire"
+
+msgid "unique_obj_voyager"
+msgstr "Sonde avec inscriptions"
+
+msgid "unique_obj_voyager_desc"
+msgstr ""
+"A pris conscience d'elle-même par le passé, puis a décidé que ce n'était "
+"finalement pas si drôle"
