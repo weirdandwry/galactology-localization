@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-08 16:16+0000\n"
-"PO-Revision-Date: 2018-03-09 11:13+0000\n"
+"PO-Revision-Date: 2018-03-10 18:48+0000\n"
 "Last-Translator: kiironosora <kiironosora@naver.com>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/guide/ko/>\n"
@@ -159,37 +159,156 @@ msgstr ""
 msgid "guide_first_station_credits_title"
 msgstr "돈 벌기"
 
-#, fuzzy
 msgid "guide_first_station_credits"
 msgstr ""
 "조만간 초기 현금이 소진될 것입니다. 극 초반에 절박한 필요가 있는 것은 아니지만 초기 게임에서는 돈을 우선순위로 설정해야 합니다. 많은 "
 "행동은 은하계의 통화인 크레딧으로 지불해야 합니다.\n"
 "\n"
-"![](ui_icon_40px_diplomacy02.png)You first need to build a delivery station "
-"on a planet surface and pick a product you wish to export to that planet. "
-"After doing so the planet will appear in the Civs Sell tab. In this tab "
-"select a product you are stocking in your station, then a planet that has a "
-"demand for it. If you have available stock and a free ship you can send a "
-"delivery right away and get paid once the ship arrives.\n"
-"돈을 벌기 위한 가장 직접적인 방법은 당신이 만든 스테이션에서 만든 제품을 다른 행성에 판매하는 것입니다. 이것은 문명 화면의 판매 "
-"탭에서 할 수있습니다. 문명마다 좋아하는 제품이 다릅니다. 먼저 행성 표면에 배달 스테이션을 만들고 그 행성에 수출하려는 제품을 "
-"선택해야합니다. 그렇게하면 문명 판매 탭에 행성이 나타납니다. 이 탭에서 스테이션에서 구입 한 제품을 선택한 다음 수요가있는 행성을 "
-"선택하십시오. 재고 및 무료 배가있는 경우 배가 도착하면 즉시 배송을하고 지불 할 수 있습니다.\n"
+"![](ui_icon_40px_diplomacy02.png)돈을 벌기 위한 가장 직접적인 방법은 스테이션에서 만든 제품을 다른 행성에 "
+"판매하는 것입니다. 문명 화면의 판매 탭에서 할 수 있습니다. 문명마다 좋아하는 제품이 다릅니다. 먼저 행성 표면에 배달 스테이션을 "
+"만들고 그 행성에 수출하려는 제품을 선택해야 합니다. 그렇게 하면 문명 판매 탭에 행성이 나타납니다. 이 탭에서 스테이션에서 저장된 "
+"제품을 선택한 다음 수요가 있는 행성을 선택하십시오. 재고 및 이용 가능한 우주선이 있는 경우 배달을 하고 우주선이 도착하는 즉시 지불 "
+"받을 수 있습니다.\n"
 "\n"
-"![](ui_icon_40px_goalstrophy.png)Goals always have a cash reward, and they "
-"hit on many different areas of the game. Completing goals will both net you "
-"some income and guide your station development.\n"
+"![](ui_icon_40px_goalstrophy.png)목표는 항상 현금 보상을 제공하며 게임의 여러 영역에서 발견할 수 있습니다. "
+"목표를 달성하여 소득을 얻고 스테이션을 개발하세요.\n"
 "\n"
-"![](ui_icon_40px_challenge.png)A hands on approach to riches is plain old "
-"plundering. When you visit an hostile planet and defeat enemies they will "
-"sometimes drop items. These items can be resources, equipment or some cash.\n"
+"![](ui_icon_40px_challenge.png)부자에 대한 접근은 평범하고도 오래된 약탈입니다. 적대적인 행성을 방문하고 적을 "
+"물리칠 때 아이템을 떨어뜨릴 수 있습니다. 이러한 항목은 자원, 장비 또는 현금이 될 수 있습니다.\n"
 "\n"
-"Once you are confident in your production and station facilities it could be "
-"a good idea to build some visitor docks so tourists can land in your "
-"station. They will come flush with cash. The more their civ likes you, the "
-"larger their wallets.\n"
+"생산 시설과 스테이션 시설에 자신감이 생기면 관광객들이 스테이션에 착륙할 수 있도록 방문자 독을 건설하는 것이 좋습니다. 그들은 "
+"현금다발을 가지고 있습니다. 그들의 문명이 당신을 좋아할수록 지갑도 커집니다.\n"
 "\n"
 "![](core/guide/images/visitordock.png)"
 
 msgid "guide_officers_intro_title"
 msgstr "오피서"
+
+msgid "guide_officers_intro"
+msgstr ""
+"![](core/guide/images/card_small_01.png)\n"
+"\n"
+"![](ui_icon_40px_staff_crew.png)오피서는 가장 소중한 자산입니다. 그들은 당신의 명령에 따라 건설하고 싸우고 "
+"일할 것입니다. 그러나 그들의 필요와 요구가 충족되는지 확인하여 여러 가지를 제공해야 합니다. 그렇지 않으면 반란을 기대하십시오!\n"
+"\n"
+"직원 화면에서 왼쪽 열의 모집을 선택하여 새 임원을 모집할 수 있습니다. 당신이 고용하는 모든 외피서는 계약 가격을 가지고 있으며, "
+"직원을 더 고용할수록 올라갑니다. 당신이 가질 수 있는 오피서의 수에는 제한이 없지만, 스테이션의 수용력과 오피서를 만족시킬 수 있도록 "
+"주의하십시오.\n"
+"\n"
+"![](core/guide/images/recruit.png)"
+
+msgid "guide_officers_vitals_title"
+msgstr "바이탈과 마음"
+
+msgid "guide_officers_vitals"
+msgstr ""
+"오피서(방문자 포함)는 바이탈을 충족시켜야 합니다. 바이탈은 0에서 100 사이의 값을 갖는 막대로 표시됩니다. 바이탈의 기본은 굶주림, "
+"갈증 또는 위생과 같은 것입니다. 스테이션의 시설과 생산은 오피서들이 바이탈을 높게 유지하는 것을 가능하게 해야 합니다. 예를 들어 "
+"오피서의 굶주림이 너무 낮아지지 않도록 음식을 제공하고 식사를 즐기기 위해 앉을 테이블을 제공하십시오.\n"
+"\n"
+"![](core/guide/images/vitals.png)\n"
+"\n"
+"오피서는 개개인이 마음을 가집니다. 마음 바이탈은 감정이 오피서에게 주는 영향으로 계산됩니다. 폭넓은 조건으로 오피서들에게 감정을 더할 "
+"수 있습니다. 예를 들어, 식사를 즐기고 굶주림의 가치를 높이면 긍정적인 느낌을 갖게 됩니다. 급여를 받지 않으면 부정적인 느낌이 생겨 "
+"시간이 갈수록 악화됩니다.\n"
+"\n"
+"![](core/guide/images/mind.png)\n"
+"\n"
+"마음은 가장 중요한 바이탈이며, 감정의 합계로 계산됩니다. 즉시 적용되는 대신 시간이 지남에 따라 천천히 평균에 계산되므로 위기상황은 "
+"즉각적인 영향을 미치지 않습니다."
+
+msgid "guide_officers_specs_title"
+msgstr "스펙과 요구"
+
+msgid "guide_officers_jobs_title"
+msgstr "직업"
+
+msgid "guide_officers_items_title"
+msgstr "장비"
+
+msgid "guide_tools_intro_title"
+msgstr "도구"
+
+msgid "guide_tools_info_title"
+msgstr "정보 도구"
+
+msgid "guide_tools_build_title"
+msgstr "건설 도구"
+
+msgid "guide_tools_job_matrix_title"
+msgstr "직업 매트릭스"
+
+msgid "guide_tools_equip_matrix_title"
+msgstr "장비 매트릭스"
+
+msgid "guide_tools_inventory_title"
+msgstr "인벤토리"
+
+msgid "guide_systems_intro_title"
+msgstr "게임 시스템"
+
+msgid "guide_systems_docks_title"
+msgstr "독"
+
+msgid "guide_systems_production_title"
+msgstr "생산과 레시피"
+
+msgid "guide_systems_storage_title"
+msgstr "저장 구역과 팔레트"
+
+msgid "guide_systems_security_title"
+msgstr "보안과 문"
+
+msgid "guide_systems_shops_title"
+msgstr "상점과 바이탈 물건"
+
+msgid "guide_systems_robots_title"
+msgstr "로봇"
+
+msgid "guide_systems_repair_title"
+msgstr "수리와 소모"
+
+msgid "guide_systems_noiseaes_title"
+msgstr "소음과 미학"
+
+msgid "guide_galaxy_intro_title"
+msgstr "은하계와 문명"
+
+msgid "guide_galaxy_map_title"
+msgstr "은하계 지도"
+
+msgid "guide_galaxy_civs_title"
+msgstr "문명과 명성"
+
+msgid "guide_ships_intro_title"
+msgstr "우주선"
+
+msgid "guide_ships_kinds_title"
+msgstr "우주선 디자인"
+
+msgid "guide_ships_fleet_title"
+msgstr "함대 화면"
+
+msgid "guide_combat_title"
+msgstr "전투"
+
+msgid "guide_exploration_intro_title"
+msgstr "행성 탐험"
+
+msgid "guide_exploration_extraction_title"
+msgstr "자원 추출"
+
+msgid "guide_exploration_delivery_station_title"
+msgstr "배달 스테이션"
+
+msgid "guide_exploration_open_systems_title"
+msgstr "태양계 열기"
+
+msgid "guide_exploration_invasions_title"
+msgstr "침공"
+
+msgid "guide_exploration_other_title"
+msgstr "기타 건물"
+
+msgid "guide_research_title"
+msgstr "연구"
