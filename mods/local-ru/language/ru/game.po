@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-12 09:02+0000\n"
-"PO-Revision-Date: 2018-03-07 17:01+0000\n"
-"Last-Translator: Carlos <info@weirdandwry.com>\n"
+"PO-Revision-Date: 2018-03-19 12:00+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian "
 "<http://translate.weirdandwry.com/projects/galactology/game/ru/>\n"
 "Language: ru\n"
@@ -334,13 +334,13 @@ msgid "bistro_drinks"
 msgstr "Бистро напитки"
 
 msgid "bistro_drinks_desc"
-msgstr "Презентация для модных премиальных напитков"
+msgstr "Презентация для модных премиальных напитков."
 
 msgid "bistro_food"
 msgstr "Бистро еда"
 
 msgid "bistro_food_desc"
-msgstr "Изысканный способ подачи пищи"
+msgstr "Изысканный способ подачи пищи."
 
 msgid "bistro_table"
 msgstr "Бистро стол"
@@ -883,7 +883,7 @@ msgid "contemplated"
 msgstr "Рассматривание"
 
 msgid "contemplated_desc"
-msgstr "Какие красивые объекты!"
+msgstr "Очень красивые объекты"
 
 msgid "contemplation"
 msgstr "Созерцание"
@@ -1363,7 +1363,9 @@ msgid "door_allowed"
 msgstr "Уполномоченные"
 
 msgid "door_allowed_desc"
-msgstr "Это эквивалентно записке, прикрепленной к двери; насильственные захватчики проигнорируют это"
+msgstr ""
+"Это как указатель, прикрепленной к двери; враждебные захватчики "
+"проигнорируют его."
 
 msgid "door_desc"
 msgstr ""
@@ -1398,7 +1400,7 @@ msgid "drink_shop"
 msgstr "Обеденные напитки"
 
 msgid "drink_shop_desc"
-msgstr "Напитки подаются здесь"
+msgstr "Напитки подаются здесь."
 
 msgid "drunk"
 msgstr "Пьяный"
@@ -1455,7 +1457,7 @@ msgid "enabled"
 msgstr "Включено"
 
 msgid "enabled_user_mods"
-msgstr "Включено пользовательских модов"
+msgstr "Активные пользовательские моды:"
 
 msgid "enemy"
 msgstr "Враг"
@@ -1596,7 +1598,10 @@ msgid "event_invaderbomb_out_of_time"
 msgstr "У вас вышло время! Бомба взорвалась!"
 
 msgid "event_invaderbomb_warn"
-msgstr "Скрытый вражеский сапер был найден! Посмотрите рядом на тикающий таймер бомбы и уничтожьте ее, прежде чем она взорвется!"
+msgstr ""
+"Обнаружен скрытый вражеский сапер! Найдите тикающую бомбу и уничтожьте ее, "
+"прежде чем она взорвется! Бомба нейтральный объект и должна быть указана "
+"вручную."
 
 msgid "event_invaders_alert"
 msgstr "Группа диверсантов прибыла! ~A они атакуют твою станцию!"
@@ -2213,7 +2218,7 @@ msgid "goal_builddecorations1_desc"
 msgstr "Построить 10 украшений."
 
 msgid "goal_builddecorations1_title"
-msgstr "Построить 10 украшений."
+msgstr "Построить 10 украшений"
 
 msgid "goal_buildfactory1_desc"
 msgstr "Постройте мылозавод, металлический пресс и медицинскую мастерскую."
@@ -2234,7 +2239,7 @@ msgid "goal_buildliving1_title"
 msgstr "Построить базовое жизненное пространство"
 
 msgid "goal_buildlogistics1_desc"
-msgstr "Построить одну область хранения, один поддон и один утилизатор"
+msgstr "Построить одну область хранения, один поддон и один утилизатор."
 
 msgid "goal_buildlogistics1_title"
 msgstr "Построить основные объекты логистики"
@@ -2597,7 +2602,7 @@ msgid "gold_token"
 msgstr "Золотой токен"
 
 msgid "graduate_spec"
-msgstr "Улуч. спец."
+msgstr "Специальность"
 
 msgid "green_token"
 msgstr "Зеленый токен"
@@ -2954,7 +2959,7 @@ msgid "hygienizer_plus_desc"
 msgstr "Он делает всех чистыми и свежими"
 
 msgid "implant_01"
-msgstr "Nerve OC"
+msgstr "Нейро ОС"
 
 msgid "implant_02"
 msgstr "ЦелеТрон++"
@@ -2963,7 +2968,7 @@ msgid "implant_03"
 msgstr "РефлексПлюс"
 
 msgid "implant_04"
-msgstr "ReflexPlus Lite"
+msgstr "РефлексПлюс Лайт"
 
 msgid "implant_05"
 msgstr "ADRNL Bypass"
@@ -2981,13 +2986,13 @@ msgid "implant_09"
 msgstr "FocusIN"
 
 msgid "implant_10"
-msgstr "Backup Power"
+msgstr "Резервное Питание"
 
 msgid "implant_11"
-msgstr "Stress Reliever"
+msgstr "Уменьшитель Стресса"
 
 msgid "implant_12"
-msgstr "MindExpander"
+msgstr "Расширитель Разума"
 
 msgid "implant_13"
 msgstr "Hand Steadier"
@@ -3056,7 +3061,7 @@ msgid "imports_hostile_limit"
 msgstr "Мы будем терпеть вас, но мы пересмотрим нашу позицию, если Вы снова будете враждебно относится к нам."
 
 msgid "imports_no_planets"
-msgstr "Откройте больше систем, для поиска планет, со спросом на этот продукт."
+msgstr "Откройте больше систем, чтобы найти планеты со спросом на этот продукт"
 
 msgid "in_progress"
 msgstr "В процессе"
@@ -3407,7 +3412,7 @@ msgid "level_n"
 msgstr "Уровень %d"
 
 msgid "level_n_paren"
-msgstr "(уровень %d)"
+msgstr " (уровень %d)"
 
 msgid "liberation_happens_alert_spatials"
 msgstr "Вы освободили планету %s. Репутация с %s увеличилась на %d, а репутация с %s уменьшилась на %d."
@@ -3437,7 +3442,7 @@ msgid "load_game"
 msgstr "Загрузка игры"
 
 msgid "local"
-msgstr "Локал."
+msgstr "Локализация"
 
 msgid "locked"
 msgstr "Заперто"
@@ -3446,7 +3451,7 @@ msgid "lunch_shop"
 msgstr "Обеденная пища"
 
 msgid "lunch_shop_desc"
-msgstr "Здесь подается еда"
+msgstr "Здесь подается еда."
 
 msgid "luxury_clothes"
 msgstr "Роскошные одежды"
@@ -3473,7 +3478,9 @@ msgid "macarons"
 msgstr "Миндальное печенье"
 
 msgid "macosx_experimental"
-msgstr "Эта опция экспериментальная! Не работает с мультимониторами и некоторыми нестандартными разрешениями"
+msgstr ""
+"Это экспериментальная опция! Не работает с мультимониторами и некоторыми "
+"нестандартными разрешениями."
 
 msgid "macosx_retina"
 msgstr "Mac OS X\nRetina Поддержка"
@@ -3557,7 +3564,7 @@ msgid "medic"
 msgstr "Медик"
 
 msgid "medic_desc"
-msgstr "Исцеляет ушибы, болезни и переломы"
+msgstr "Исцеляет ушибы, болезни и переломы."
 
 msgid "medical_analyzer"
 msgstr "Медицинский анализатор"
@@ -5132,7 +5139,9 @@ msgid "pallet_desc"
 msgstr "Запасает один вид элемента, позволяет контролировать максимальное и минимальное значение"
 
 msgid "pallet_info_help"
-msgstr "Любой завод, в области 3х3 вокруг поддона, может получить ресурсы напрямую"
+msgstr ""
+"Любой завод, в области 3x3 вокруг поддона, может получить ресурсы напрямую. "
+"Также он может выгружать произведенные продукты в области 3x3 перед собой."
 
 msgid "passing_out"
 msgstr "Проход наружу"
@@ -5228,13 +5237,15 @@ msgid "planet_info_hostile"
 msgstr "Захватчики обнаружены! Разверните все юниты для боя!"
 
 msgid "planet_info_neutral"
-msgstr "Всем привет! Будьте наготове, и зарядите эти Ваши пушки"
+msgstr "Всем привет! Будьте наготове, и зарядите эти Ваши пушки, окей?"
 
 msgid "planet_info_no_civ"
 msgstr "На этой планете не был обнаружен продвинутый интеллект. В том числе и у деревьев."
 
 msgid "planet_no_stocks"
-msgstr "Нет доступных запасов ресурсов на этой планете. Построите больше экстракторов или ждите пока производство отработает."
+msgstr ""
+"Нет доступных запасов ресурсов на этой планете, постройте больше "
+"экстракторов или дождитесь когда они начнут работу"
 
 msgid "planet_propaganda"
 msgstr "Станция пропаганды"
@@ -5591,7 +5602,10 @@ msgid "rep_at_war"
 msgstr "Воинственный"
 
 msgid "rep_at_war_desc"
-msgstr "Агрессивные расы не будут покупать Ваши товары и попытаются напасть на станцию Вашу и ваших союзников. Они будут агрессивны, если Вы приземлитесь на их планеты."
+msgstr ""
+"Агрессивные расы не будут покупать ваши товары и будут атаковать вашу "
+"станцию и ваших союзников. Они будут враждебны, если вы приземлитесь на их "
+"планеты. Вы можете платить им дань для улучшения отношений."
 
 msgid "rep_friendly"
 msgstr "Дружественный"
@@ -5600,7 +5614,10 @@ msgid "rep_hostile"
 msgstr "Враждебный"
 
 msgid "rep_hostile_desc"
-msgstr "Враждебным расам Вы не нравитесь, но они будут покупать Ваши товары. Это поднимет репутацию с ними. Они будут агрессивны, если Вы приземлитесь на их планеты."
+msgstr ""
+"Враждебным расам Вы не нравитесь, но они будут покупать Ваши товары. Это "
+"вызовет рост репутации с ними. Они будут агрессивны, если Вы приземлитесь на "
+"их планеты. Вы можете платить им дань для улучшения отношений."
 
 msgid "rep_neutral"
 msgstr "Нейтральный"
@@ -7872,3 +7889,104 @@ msgstr ""
 "стартовой станции, нахождение двух и более кухонь в одной комнате будет "
 "раздражать офицеров, пытающихся тихо пообедать. Подумайте о строительстве "
 "отдельной кухонной комнаты, когда вы увеличиваете свою станцию."
+
+msgid "delivery_station"
+msgstr "Станция доставки"
+
+msgid "delivery_station_desc"
+msgstr ""
+"Позволяет продавать ресурсы на этой планете. Не более одного на планету. Чем "
+"больше зданий охватывает, тем выше спрос."
+
+msgid "extracted_resource"
+msgstr "Добываемый ресурс"
+
+msgid "filter_ship_named_menu"
+msgstr "Корабли..."
+
+msgid "flag_dismantle"
+msgstr "Пометьте объект для удаления"
+
+msgid "goal_buildplanet4_desc"
+msgstr "Постройте станцию поставки на поверхности планеты."
+
+msgid "goal_buildplanet4_title"
+msgstr "Постройте одну станцию поставки"
+
+msgid "level_short"
+msgstr "Ур."
+
+msgid "obj_group_unique"
+msgstr "Уникальные"
+
+msgid "planet_discover_object"
+msgstr ""
+"Вы нашли уникальный объект, он теперь доступен для постройки на главной "
+"станции."
+
+msgid "planet_shop_hostile"
+msgstr "Враждебная планета"
+
+msgid "planet_shop_info_desc"
+msgstr ""
+"Запустите станцию поставки, назначив ресурс для доставки и продажи на этой "
+"планете."
+
+msgid "planet_shop_map_label"
+msgstr "Спрос: %d%%"
+
+msgid "planet_shop_no_civ"
+msgstr "Неколонизированный мир"
+
+msgid "planet_shop_no_product"
+msgstr "Выберите продукт"
+
+msgid "planet_shop_pick_resource"
+msgstr "Выберите продукт для поставки на эту планету:"
+
+msgid "planet_shop_too_close"
+msgstr "Слишком близко к другим постройкам"
+
+msgid "planet_shop_unique"
+msgstr "Не более одной станции поставки на планету"
+
+msgid "rep_friendly_plus_desc"
+msgstr ""
+"Расы с дружественной репутацией или выше будут активно торговать, а также "
+"посещать вашу станцию для туризма."
+
+msgid "rep_neutral_desc"
+msgstr ""
+"Нейтральные расы позволят вам сесть на свои планеты и будут вести с вами "
+"торговлю, однако они не будут присылать к вам туристов."
+
+msgid "ship_dock_not_assigned"
+msgstr "Не назначен док"
+
+msgid "ship_not_available_busy"
+msgstr "Корабль занят на автопилоте или доставке"
+
+msgid "ship_orders_add_order"
+msgstr "Добавить заказ"
+
+msgid "ship_orders_add_picker_label"
+msgstr "Выберите планету для покупки и загрузки ресурсов"
+
+msgid "ship_orders_no_extractors"
+msgstr ""
+"Чтобы добавлять планеты в очередь автопилота вам нужно строить на них "
+"экстракторы ресурсов"
+
+msgid "station_obj_unique"
+msgstr "Уникальный объект"
+
+msgid "system"
+msgstr "Система"
+
+msgid "tutorial_galaxy_autopilot_21"
+msgstr ""
+"Примечание: Автопилот не будет работать, пока вы не построите хотя-бы один "
+"экстрактор на Tutoland."
+
+msgid "tutorial_planet_delivery_station"
+msgstr "Станция поставки"
