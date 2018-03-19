@@ -139,9 +139,9 @@ msgstr "Info tool"
 
 msgid "guide_tools_info"
 msgstr "![](ui_icon_40px_lupa.png)The Info Tool is the basic inspection and interaction mechanism in the game. With the Info Tool selected you can use your click on objects and entities on the map to select them. Doing so will display an information panel in the right side of the screen. The contents of this panel will vary depending on the kind of entity you are selecting. For example officers will display a brief overview of the information displayed in the Staff screen. This panel is also divided in tabs, and many entities will have more than one. For example many objects will have a description tab with the same information displayed in the Build Tool. A fixed header area is present in most entities and displays the name and basic information like hit points or the civilization of origin of the entity.\n\n"
-"![](core/guide/images/infopanel.png)\n\n
+"![](core/guide/images/infopanel.png)\n\n"
 "It is possible to select more than one officer. Click an officer, then shift click on another officer to add it to the selection. It is also possible to drag the mouse while pressing the left mouse button to select more than one officer. Group selections do not display the info panels. Instead a compact listing of all the selected officers is displayed, along with their HP and weapon cooldown, grouped by combat role. This feature is meant to be used in combat situations.\n\n"
-"![](core/guide/images/group.png)\n\n
+"![](core/guide/images/group.png)\n\n"
 "Some entities display an action bar in the bottom part of the screen when selected with the Info Tool. The action bar is used to give commands to these entities. For example the walk order is usually available in player entities, and it is also bound to the right mouse button. Check the Combat section for more information on combat related actions.\n\n"
 "![](core/guide/images/actionbar.png)"
 
