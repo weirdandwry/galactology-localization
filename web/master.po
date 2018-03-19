@@ -86,6 +86,9 @@ msgstr "Prêt-à-porter"
 msgid "com.weirdandwry.galactology.achievement.plundering_name"
 msgstr "Plundering"
 
+msgid "com.weirdandwry.galactology.achievement.museum_name"
+msgstr "It belongs in a museum!"
+
 msgid "com.weirdandwry.galactology.achievement.chef_desc"
 msgstr "Work those kitchens, hard!"
 
@@ -136,3 +139,6 @@ msgstr "Best dressed crew in the galaxy"
 
 msgid "com.weirdandwry.galactology.achievement.plundering_desc"
 msgstr "The spoils of war are yours"
+
+msgid "com.weirdandwry.galactology.achievement.museum_desc"
+msgstr "X never, ever marks the spot"
