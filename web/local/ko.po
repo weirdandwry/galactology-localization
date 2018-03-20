@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-26 08:33+0000\n"
-"PO-Revision-Date: 2018-03-03 18:43+0000\n"
+"PO-Revision-Date: 2018-03-20 00:10+0000\n"
 "Last-Translator: kiironosora <kiironosora@naver.com>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/web/ko/>\n"
@@ -173,3 +173,9 @@ msgstr "은하계 최고로 잘 입은 승무원"
 
 msgid "com.weirdandwry.galactology.achievement.plundering_desc"
 msgstr "전쟁의 전리품은 너의 것이다"
+
+msgid "com.weirdandwry.galactology.achievement.museum_name"
+msgstr "이건 박물관에 있어야 해!"
+
+msgid "com.weirdandwry.galactology.achievement.museum_desc"
+msgstr "X는 절대로 그 자리를 표시하지 않습니다"
