@@ -2671,6 +2671,12 @@ msgstr "Pick 6 sufficiently experienced officers and upgrade them to any master 
 msgid "goal_specs4_title"
 msgstr "Upgrade 6 officers to any master spec"
 
+msgid "goal_uniques1_desc"
+msgstr "While exploring planets look around for unique objects and click them. Discover 10 different ones."
+
+msgid "goal_uniques1_title"
+msgstr "Discover 10 unique objects"
+
 msgid "goal_visitors1_desc"
 msgstr "Have 10 visitors land on your station"
 
@@ -7093,6 +7099,12 @@ msgstr "Try to deliver %s"
 msgid "try_delivery_action_error"
 msgstr "Busy, locked or no room to store"
 
+msgid "try_recycle_action"
+msgstr "Try to recycle %s"
+
+msgid "try_recycle_action_error"
+msgstr "Busy or no idle recyclers available"
+
 msgid "turret_1"
 msgstr "Basic turret"
 
@@ -7232,7 +7244,7 @@ msgid "tutorial_planet_delivery_station_2"
 msgstr "Now click on the highlighted object: the delivery station."
 
 msgid "tutorial_planet_delivery_station_3"
-msgstr "The delivery station can located anywhere in the planet, but it you build it near towns, the demand rate for products in the planet will be higher. Only one delivery station can be built per planet. Build the delivery station anywhere and remember you can select your squad [1] then teleport [T] them nearby."
+msgstr "The delivery station can be located anywhere in the planet, but if you build it near towns, the demand rate for products in the planet will be higher. Only one delivery station can be built per planet. Build the delivery station anywhere and remember you can select your squad [1] then teleport [T] them nearby."
 
 msgid "tutorial_planet_delivery_station_5"
 msgstr "Before you can start selling from the Civ screen, you must select a product in the info panel of the delivery station. After you click the Select product button and pick one, the planet will appear in the Civs Sell tab as a valid destination for the choosen product. Basic rations are a good starter product, so it is a good idea to select them now if you wish."
