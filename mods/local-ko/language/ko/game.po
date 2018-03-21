@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-22 11:05+0000\n"
-"PO-Revision-Date: 2018-03-20 11:34+0000\n"
+"PO-Revision-Date: 2018-03-21 04:36+0000\n"
 "Last-Translator: kiironosora <kiironosora@naver.com>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
@@ -8280,3 +8280,15 @@ msgstr "새겨진 프로브"
 
 msgid "unique_obj_voyager_desc"
 msgstr "과거에 감성적이었고, 결국 너무 즐겁지 않다고 결심했습니다"
+
+msgid "goal_uniques1_desc"
+msgstr "행성을 탐험하는 동안 유니크 물건을 찾아 클릭합니다. 10 가지 발견하십시오."
+
+msgid "goal_uniques1_title"
+msgstr "유니크 물건 10개 찾기"
+
+msgid "try_recycle_action"
+msgstr "%s 재활용 하기"
+
+msgid "try_recycle_action_error"
+msgstr "모든 재활용 기계가 바쁨니다"
