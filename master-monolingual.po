@@ -5759,7 +5759,7 @@ msgid "rep_at_war"
 msgstr "At war"
 
 msgid "rep_at_war_desc"
-msgstr "At War civs will try to raid your station and invade your allies. They will be hostile if you land on their planets. You will need to pay a tribute to them to improve your reputation."
+msgstr "At War civs will try to raid your station and invade your allies. They will attack your crew if you land on their planets. You will need to pay a tribute to them to improve your reputation."
 
 msgid "rep_friendly"
 msgstr "Friendly"
@@ -5771,13 +5771,13 @@ msgid "rep_hostile"
 msgstr "Hostile"
 
 msgid "rep_hostile_desc"
-msgstr "Hostile will be hostile if you land on their planets. You will need to pay a tribute to them to improve your reputation."
+msgstr "Hostile civs will attack your crew if you land on their planets. You will need to pay a tribute to them to improve your reputation."
 
 msgid "rep_neutral"
 msgstr "Neutral"
 
 msgid "rep_neutral_desc"
-msgstr "Neutral civs will let you land on their planets and engage commerce with you, but they are not interested in tourism."
+msgstr "Neutral civs will let you land on their planets and engage in commerce with you, but they are not interested in tourism."
 
 msgid "rep_uncontested"
 msgstr "Uncontested"
