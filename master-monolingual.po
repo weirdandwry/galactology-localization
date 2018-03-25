@@ -5,7 +5,7 @@ msgid "PR_desc"
 msgstr "Charming and fun to be around, they are very successful at convincing potential clients on how great everything is."
 
 msgid "absorbtion"
-msgstr "Absorbtion"
+msgstr "Absorption"
 
 msgid "absorbtion_short"
 msgstr "Abs"
@@ -649,9 +649,6 @@ msgstr "Ceiling shielder"
 msgid "ceilingshield_desc"
 msgstr "Creates a small damage shield when detecting an enemy, with a cooldown."
 
-msgid "ceilingturret"
-msgstr "Ceiling turret"
-
 msgid "ceilingturret_1"
 msgstr "Basic ceiling turret"
 
@@ -662,7 +659,7 @@ msgid "ceilingturret_3"
 msgstr "Advanced ceiling turret"
 
 msgid "ceilingturret_desc"
-msgstr "Small, low powered turret"
+msgstr "Small, lower powered turret"
 
 msgid "center_view"
 msgstr "Center view"
@@ -1032,12 +1029,6 @@ msgstr "Current game"
 
 msgid "current_ownership"
 msgstr "Owned objects:"
-
-msgid "current_research"
-msgstr "Current research: ~A ~A"
-
-msgid "current_research_none"
-msgstr "No research is being performed. Select a group and click on Start Research."
 
 msgid "dance_floor"
 msgstr "Dance floor"
@@ -1627,15 +1618,6 @@ msgstr "You ran out of time! The bomb has exploded!"
 msgid "event_invaderbomb_warn"
 msgstr "A hidden enemy sapper has been found! Look nearby for a ticking bomb and destroy it before it explodes! The bomb is a neutral unit and requires manual target orders."
 
-msgid "event_invaders_alert"
-msgstr "A raiding party has arrived! ~A are attacking our station!"
-
-msgid "event_invaders_retaliate_warn"
-msgstr "%s are retaliating against us! A raiding party from %s is approaching our station. Be prepared!"
-
-msgid "event_invaders_warn4c"
-msgstr "We have received reports of a %s raiding party from %s approaching our station. Be prepared!"
-
 msgid "event_kowka_warn"
 msgstr "Кошка is a curious cat and she's here to check on the progress of her friend. Are you still a friend? Her robot army will help around in the station while they are here."
 
@@ -1783,44 +1765,14 @@ msgstr "Alt + click to copy existing"
 msgid "facilities_tier_1"
 msgstr "Basic station"
 
-msgid "facilities_tier_10"
-msgstr "Equipment tier 21-25"
-
-msgid "facilities_tier_11"
-msgstr "Equipment tier 26-30"
-
-msgid "facilities_tier_12"
-msgstr "Equipment tier 31-35"
-
-msgid "facilities_tier_13"
-msgstr "Equipment tier 36-40"
-
-msgid "facilities_tier_2"
-msgstr "Equipment tier 1-5"
-
 msgid "facilities_tier_3"
 msgstr "Basic robotics"
 
 msgid "facilities_tier_3b"
 msgstr "Visitor docks"
 
-msgid "facilities_tier_4"
-msgstr "Equipment tier 6-10"
-
-msgid "facilities_tier_5"
-msgstr "Basic security"
-
 msgid "facilities_tier_6"
 msgstr "Logistics"
-
-msgid "facilities_tier_7"
-msgstr "Equipment tier 11-15"
-
-msgid "facilities_tier_8"
-msgstr "Equipment tier 16-20"
-
-msgid "facilities_tier_9"
-msgstr "Advanced security"
 
 msgid "facilities_tier_9b"
 msgstr "Robotic security"
@@ -2225,7 +2177,7 @@ msgid "gigantism_desc"
 msgstr "Can I still pass through doors?"
 
 msgid "global_max_export_amount_desc"
-msgstr "Ships exporting resources from plannets will skip this resource when the station stock reaches this amount"
+msgstr "Ships exporting resources from planets will skip this resource when the station stock reaches this amount"
 
 msgid "global_max_import_amount"
 msgstr "Max stock"
@@ -2240,7 +2192,7 @@ msgid "global_recipes_inv_hint"
 msgstr "Set the global min stock values in the inventory window"
 
 msgid "goal_bartender1_desc"
-msgstr "Your bartenders must serve 42 drinks in the bar. But really, drinks and drugs are not the answer to the universe."
+msgstr "Your bartenders must serve 42 drinks in the bar. But really, drinks are not the answer to the universe."
 
 msgid "goal_bartender1_title"
 msgstr "Serve 42 drinks in the bar"
@@ -2291,7 +2243,7 @@ msgid "goal_buildhospital1_desc"
 msgstr "Build a hospital bed, a meds dispenser and make 10 pills."
 
 msgid "goal_buildhospital1_title"
-msgstr "Build a stater hospital"
+msgstr "Build a starter hospital"
 
 msgid "goal_buildliving1_desc"
 msgstr "Build 3 plain beds and one Hygienizer 3000."
@@ -2405,7 +2357,7 @@ msgid "goal_crew1_title"
 msgstr "Shuffle ship crew"
 
 msgid "goal_dance1_desc"
-msgstr "This station has seen 200 dances."
+msgstr "This station has seen 1000 dances."
 
 msgid "goal_dance1_title"
 msgstr "Dance fever"
@@ -2447,16 +2399,16 @@ msgid "goal_imports1_title"
 msgstr "Sell 50 cargo units to a planet"
 
 msgid "goal_imports2_desc"
-msgstr "Have one or more of your ships sell 500 units of any product to a civ planet."
+msgstr "Have one or more of your ships sell 1000 units of any product to a civ planet."
 
 msgid "goal_imports2_title"
-msgstr "Sell 500 cargo units to a planet"
+msgstr "Sell 1000 cargo units to a planet"
 
 msgid "goal_imports3_desc"
-msgstr "Have one or more of your ships sell 5000 units of any product to a civ planet."
+msgstr "Have one or more of your ships sell 10000 units of any product to a civ planet."
 
 msgid "goal_imports3_title"
-msgstr "Sell 5000 cargo units to a planet"
+msgstr "Sell 10000 cargo units to a planet"
 
 msgid "goal_itemequip1_desc"
 msgstr "Equip new items 10 times to any number of officers."
@@ -2507,19 +2459,19 @@ msgid "goal_jobs1_title"
 msgstr "Shuffle job matrix"
 
 msgid "goal_kill1_desc"
-msgstr "Kill 20 members of a civ which is at war or hostile with you."
+msgstr "Kill 20 enemies of any kind."
 
 msgid "goal_kill1_title"
 msgstr "Kill 20 enemies"
 
 msgid "goal_kill2_desc"
-msgstr "Kill 140 members of a civ which is at war or hostile with you."
+msgstr "Kill 140 enemies of any kind."
 
 msgid "goal_kill2_title"
 msgstr "Kill 140 enemies"
 
 msgid "goal_kill3_desc"
-msgstr "Kill 900 members of a civ which is at war or hostile with you."
+msgstr "Kill 900 enemies of any kind."
 
 msgid "goal_kill3_title"
 msgstr "Kill 900 enemies"
@@ -2736,9 +2688,6 @@ msgstr "Decoration and gardening"
 
 msgid "group_eating"
 msgstr "Food & drink"
-
-msgid "group_facilities"
-msgstr "Facilities and security"
 
 msgid "group_facilities2"
 msgstr "Facilities"
@@ -3179,7 +3128,7 @@ msgid "imports_hostile_limit"
 msgstr "We will tolerate you, but we will reconsider our position if you are hostile to us again."
 
 msgid "imports_no_planets"
-msgstr "Open more star systems to discover planets with a demand for this product"
+msgstr "Build delivery stations on the surface of planets to enable deliveries"
 
 msgid "in_progress"
 msgstr "In Progress"
@@ -3222,12 +3171,6 @@ msgstr "Ingredient of:"
 
 msgid "input"
 msgstr "Input"
-
-msgid "interiorturret"
-msgstr "Big turrret"
-
-msgid "interiorturret_desc"
-msgstr "Large, high caliber turret"
 
 msgid "intermediate_ship_engines_parts"
 msgstr "Intermediate ship engine parts"
@@ -4043,7 +3986,7 @@ msgid "npc_bagelhead"
 msgstr "Bagelhead"
 
 msgid "npc_bicho01"
-msgstr "Lazzy moo"
+msgstr "Lazy moo"
 
 msgid "npc_bicho02"
 msgstr "Lemurian rat"
@@ -5818,9 +5761,6 @@ msgstr "Research"
 msgid "research_completed_alert"
 msgstr "Research for <<~A ~A>> has been completed."
 
-msgid "research_points"
-msgstr "Research points: ~A of ~A"
-
 msgid "research_remember"
 msgstr "Remember to build research desks and asign officers the Research job in order to gain research points."
 
@@ -7136,7 +7076,7 @@ msgid "tutorial_civs_basics_3"
 msgstr "Reputation is the measure of how much a civ likes you. Less than 15000 points and they will refuse to engage in commerce with you. Their visits to your station won't be peaceful. More than 15000 and you'll be able to engage in commerce and they may come visit as tourists. You can raise your reputation with embassies and taking good care of tourists. Hositle civs accept tributes instead. A high reputation results in lower export prices and higher import prices."
 
 msgid "tutorial_civs_basics_4"
-msgstr "Select the Buy from tab."
+msgstr "Select the Resources tab."
 
 msgid "tutorial_civs_basics_5"
 msgstr "Your station can manufacture dozens of products, but all the raw resources are extracted from planets. And most planets are inhabited by a civ. Loading extracted resources from planets will cost you some credits, and the more a civ likes you, the lower the price. Raw resource prices are global for a given civ."
@@ -7145,10 +7085,10 @@ msgid "tutorial_civs_basics_6"
 msgstr "Select the Sell to tab."
 
 msgid "tutorial_civs_basics_7a"
-msgstr "Manufacturing is not just for your internal needs! You can also sell your production excess to tourists in the station, or directly to their planets from the Imports tab. Here you can select a product, a planet with a demand for that product, an idle home-paked ship, and a product amount. Then you can issue a delivery order and the ship will travel to the planet, sell the product and return."
+msgstr "Manufacturing is not just for your internal needs! You can also sell your production excess to tourists in the station, or directly to their planets from the Imports tab. Here you can select a product, a planet with a demand for that product, an idle home-parked ship, and a product amount. Then you can issue a delivery order and the ship will travel to the planet, sell the product and return."
 
 msgid "tutorial_civs_basics_7b"
-msgstr "This will be your main moneymaker until you unlock visitor docks and tourism, some come back here often to sell your excess production. Shop and dispenser product stacks are not considered for importing to make sure you keep some stock for your internal needs."
+msgstr "This will be your main moneymaker until you unlock visitor docks and tourism, so come back here often to sell your excess production. Shop and dispenser product stacks are not considered for importing to make sure you keep some stock for your internal needs."
 
 msgid "tutorial_civs_title"
 msgstr "Civs Tutorial"
@@ -7169,7 +7109,7 @@ msgid "tutorial_galaxy_autopilot_1"
 msgstr "Manually visiting planets to transport cargo would be very boring. For this reason space ships are equipped with an autopilot. Click on the highlighted ship to open its autopilot window."
 
 msgid "tutorial_galaxy_autopilot_2"
-msgstr "This is the space ship autopilot window. You can add orders to its listing, rearrange them, then start and stop the autopilot.\nLet's set up a route to the tutorial planet.\nDrag the highlighted icon to Tutoland. Remember you can move windows around by their title bar if they block your target."
+msgstr "This is the space ship autopilot window. You can add orders to its listing, rearrange them, then start and stop the autopilot.\nLet's set up a route to the tutorial planet.\nClick the Add order button and select Tutoland."
 
 msgid "tutorial_galaxy_autopilot_21"
 msgstr "NOTE: The Autopilot tutorial will not work properly until you build at least one extractor on Tutoland."
@@ -7202,7 +7142,7 @@ msgid "tutorial_galaxy_basics_6"
 msgstr "To explore the planet click on the Explore button. You will switch to the planet screen and you can start the basic planet tutorials there."
 
 msgid "tutorial_galaxy_basics_7"
-msgstr "That's it for the basics. Make sure you follow the Extraction tutorial on the planet, then try the Autopilot tutorial here. Click Menu now."
+msgstr "That's it for the basics. Make sure you follow the Extraction tutorial on the planet, then try the Autopilot tutorial here. The Autopilot tutorial will not work properly until you build at least one extractor on Tutoland. Click Menu now."
 
 msgid "tutorial_galaxy_title"
 msgstr "Galaxy Tutorial"
@@ -7259,7 +7199,7 @@ msgid "tutorial_planet_extraction_2"
 msgstr "Now click on the highlighted object: the extractor."
 
 msgid "tutorial_planet_extraction_3"
-msgstr "This building is used to extract resources from the planet. The highligthed tile is near some vegetable and fruit nodes, click it to build the extractor. At least one node must fall inside the circle of its area of influence. Remember you can select your squad [1] then teleport [T) them nearby."
+msgstr "This building is used to extract resources from the planet. The highligthed tile is near some vegetable and fruit nodes, click it to build the extractor. At least one node must fall inside the circle of its area of influence. Remember you can select your squad [1] then teleport [T] them nearby."
 
 msgid "tutorial_planet_extraction_4"
 msgstr "The object must now be built by your officers. Let's wait for them to finish the job. Remember you can use the teleport tool if they landed far from the object under construction."
@@ -7292,10 +7232,10 @@ msgid "tutorial_research_basics_1"
 msgstr "This is the Research screen. There's many technologies in the galaxy, but not all of them are available to you at the start. You must research them, and this screen allows you to manage that research."
 
 msgid "tutorial_research_basics_2"
-msgstr "Research is divided into technology groups. Let's see the Food & drink group by clicking on its button."
+msgstr "Research is divided into technology groups. Let's see the Security group by clicking on its button."
 
 msgid "tutorial_research_basics_3"
-msgstr "We can see the tiers for food & drink technology. Reaching each tier can unlock new recipes and/or objects to build in the station. Let's click on Start Research to declare that tier as the current research tier."
+msgstr "We can see the tiers for security technologies. Reaching each tier can unlock new recipes and/or objects to build in the station. Let's click on Start Research to declare that tier as the current research tier."
 
 msgid "tutorial_research_basics_4"
 msgstr "The tier is now the focus of the research in your station. But this is just the management screen for your research projects. You also need to build up research infrastructure in your station and assign officers to research."
