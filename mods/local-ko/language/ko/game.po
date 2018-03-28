@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-22 11:05+0000\n"
-"PO-Revision-Date: 2018-03-25 00:40+0000\n"
+"PO-Revision-Date: 2018-03-28 03:56+0000\n"
 "Last-Translator: kiironosora <kiironosora@naver.com>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
@@ -2262,7 +2262,7 @@ msgid "global_recipes_inv_hint"
 msgstr "인벤토리 창에서 글로벌 최소 재고 값 설정"
 
 msgid "goal_bartender1_desc"
-msgstr "바텐더는 바에서 42 잔을 제공하여야 합니다. 그러나 실제로, 음료와 마약은 우주에 대한 해답이 아닙니다."
+msgstr "바텐더는 바에서 42 잔을 제공하여야 합니다. 그러나 실제로, 음주는 우주에 대한 해답이 아닙니다."
 
 msgid "goal_bartender1_title"
 msgstr "바에서 42 잔의 술을 제공"
@@ -2427,7 +2427,7 @@ msgid "goal_crew1_title"
 msgstr "우주선 승무원 정리"
 
 msgid "goal_dance1_desc"
-msgstr "이 스테이션에서 200 번의 춤을 보았습니다."
+msgstr "이 스테이션에서 1000 번의 춤을 보았습니다."
 
 msgid "goal_dance1_title"
 msgstr "댄스 열풍"
@@ -2470,16 +2470,16 @@ msgid "goal_imports1_title"
 msgstr "행성에 제품 50 개 판매"
 
 msgid "goal_imports2_desc"
-msgstr "한 대 이상의 우주선이 문명 행성에 제품 500 개를 판매하도록 하십시오."
+msgstr "한 대 이상의 우주선이 문명 행성에 제품 1000 개를 판매하도록 하십시오."
 
 msgid "goal_imports2_title"
-msgstr "행성에 제품 500 개 판매"
+msgstr "행성에 제품 1000 개 판매"
 
 msgid "goal_imports3_desc"
-msgstr "한 대 이상의 우주선이 문명 행성에 제품 5000 개를 판매하도록 하십시오."
+msgstr "한 대 이상의 우주선이 문명 행성에 제품 10000 개를 판매하도록 하십시오."
 
 msgid "goal_imports3_title"
-msgstr "행성에 제품 5000 개 판매"
+msgstr "행성에 제품 10000 개 판매"
 
 msgid "goal_itemequip1_desc"
 msgstr "오피서에게 새로운 아이템 10 번 장착."
@@ -2530,19 +2530,19 @@ msgid "goal_jobs1_title"
 msgstr "작업 매트릭스 바꾸기"
 
 msgid "goal_kill1_desc"
-msgstr "당신과 전쟁 중이거나 적대적인 문명 20 명을 죽이십시오."
+msgstr "적 20 명을 죽이십시오."
 
 msgid "goal_kill1_title"
 msgstr "적 20 명 처리"
 
 msgid "goal_kill2_desc"
-msgstr "당신과 전쟁 중이거나 적대적인 문명 140 명을 죽이십시오."
+msgstr "적 140 명을 죽이십시오."
 
 msgid "goal_kill2_title"
 msgstr "적 140 명 처리"
 
 msgid "goal_kill3_desc"
-msgstr "당신과 전쟁 중이거나 적대적인 문명 900 명을 죽이십시오."
+msgstr "적 900 명을 죽이십시오."
 
 msgid "goal_kill3_title"
 msgstr "적 900 명 처리"
@@ -3197,7 +3197,7 @@ msgid "imports_hostile_limit"
 msgstr "우리는 당신을 용납할 것이지만, 또다시 적대적인 행동을 하면 우리의 입장을 재고할 것입니다."
 
 msgid "imports_no_planets"
-msgstr "더 많은 태양계를 열어 이 제품에 대한 수요가 있는 행성을 발견하십시오"
+msgstr "행성 표면에 제품 배달을 위한 배달 스테이션을 건설하십시오"
 
 msgid "in_progress"
 msgstr "진행 중"
@@ -4080,7 +4080,7 @@ msgid "npc_bagelhead"
 msgstr "베이글헤드"
 
 msgid "npc_bicho01"
-msgstr "레이지 무우"
+msgstr "게으른 소"
 
 msgid "npc_bicho02"
 msgstr "레뮤리안 쥐"
@@ -7138,7 +7138,7 @@ msgstr ""
 "명성을 높일 수 있습니다. 적대적인 문명은 대신 공물을 받습니다. 높은 평판은 수출 가격을 낮추고 수입 가격을 높입니다."
 
 msgid "tutorial_civs_basics_4"
-msgstr "구매 탭을 선택하십시오."
+msgstr "자원 탭을 선택하십시오."
 
 msgid "tutorial_civs_basics_5"
 msgstr ""
@@ -7157,8 +7157,8 @@ msgstr ""
 
 msgid "tutorial_civs_basics_7b"
 msgstr ""
-"방문자 독 및 관광 상품을 연구할 때까지 주된 돈벌이가 될 것이며, 일부는 초과 생산물을 판매하기 위해 이곳으로 자주 돌아옵니다. 매장 "
-"및 디스펜서 제품 스택은 고려하지 않으므로 내부 필요에 맞게 재고를 유지해야 합니다."
+"방문자 독 및 관광 상품을 연구할 때까지 주된 돈벌이가 될 것이며, 초과 생산물을 판매하기 위해 이곳으로 자주 돌아오십시오. 매장 및 "
+"디스펜서 제품 스택은 고려하지 않으므로 내부 필요에 맞게 재고를 유지해야 합니다."
 
 msgid "tutorial_civs_title"
 msgstr "문명 튜토리얼"
@@ -7184,7 +7184,7 @@ msgid "tutorial_galaxy_autopilot_2"
 msgstr ""
 "이것이 우주선 자동 조종 장치 창입니다. 목록에 명령을 추가하고 재정렬한 다음 자동 조종 장치를 시작하고 중지할 수 있습니다.\n"
 "튜토리얼 행성으로 경로를 설정해 보겠습니다.\n"
-"강조 표시된 아이콘을 Tutoland로 드래그하십시오. 목표가 가려 안 보이면 제목 표시줄로 창을 이동할 수 있습니다."
+"명령 추가 버튼을 클릭하고 Tutoland를 선택합니다."
 
 msgid "tutorial_galaxy_autopilot_4"
 msgstr ""
@@ -7227,7 +7227,8 @@ msgstr "행성을 탐험하기 위해 탐험 버튼을 클릭하십시오. 행�
 
 msgid "tutorial_galaxy_basics_7"
 msgstr ""
-"그것이 기본입니다. 행성에서 추출 튜토리얼을 따르고 여기에 다시 와서 자동 조종 장치 튜토리얼을 해보십시오. 지금 메뉴를 클릭하십시오."
+"그것이 기본입니다. 행성에서 추출 튜토리얼을 따르고 여기에 다시 와서 자동 조종 장치 튜토리얼을 해보십시오. 자동 조종 장치 튜토리얼은 "
+"Tutoland에 하나 이상의 추출기를 건설해야 진행할 수 있습니다. 지금 메뉴를 클릭하십시오."
 
 msgid "tutorial_galaxy_title"
 msgstr "은하계 튜토리얼"
@@ -7294,12 +7295,12 @@ msgstr ""
 "화면에서 연구를 관리합니다."
 
 msgid "tutorial_research_basics_2"
-msgstr "연구는 기술 그룹으로 나뉩니다. 버튼을 클릭하여 음식 및 음료 그룹을 봅니다."
+msgstr "연구는 기술 그룹으로 나뉩니다. 버튼을 클릭하여 보안 그룹을 봅니다."
 
 msgid "tutorial_research_basics_3"
 msgstr ""
-"우리는 음식과 음료 기술에 대한 등급을 볼 수 있습니다. 각 등급을 연구하면 새로운 레시피 및 / 또는 스테이션에 건설할 수 있는 물건의 "
-"잠금을 해제할 수 있습니다. 해당 등급을 현재 연구 등급으로 선언하려면 연구 시작을 클릭하십시오."
+"여기서 보안 기술에 대한 등급을 볼 수 있습니다. 각 등급을 연구하면 새로운 레시피 및 / 또는 스테이션에 건설할 수 있는 물건의 잠금을 "
+"해제할 수 있습니다. 해당 등급을 현재 연구 등급으로 선언하려면 연구 시작을 클릭하십시오."
 
 msgid "tutorial_research_basics_4"
 msgstr ""
