@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-09 18:08+0000\n"
-"PO-Revision-Date: 2018-02-17 17:20+0000\n"
+"PO-Revision-Date: 2018-03-29 17:19+0000\n"
 "Last-Translator: Carlos <info@weirdandwry.com>\n"
 "Language-Team: Spanish "
 "<http://translate.weirdandwry.com/projects/galactology/game/es/>\n"
@@ -2162,7 +2162,9 @@ msgid "gigantism_desc"
 msgstr "Quepo en las puertas?"
 
 msgid "global_max_export_amount_desc"
-msgstr "Las naves que recogen recursos exportados en los planetas ignorarán este recurso cuando el stock de la estación llegue a esta cifra."
+msgstr ""
+"Las naves que recogen recursos exportados en los planetas ignorarán este "
+"recurso cuando el stock de la estación llegue a esta cifra"
 
 msgid "global_max_import_amount"
 msgstr "Stock máximo"
@@ -2177,7 +2179,9 @@ msgid "global_recipes_inv_hint"
 msgstr "Cambia el min. stock en el inventario"
 
 msgid "goal_bartender1_desc"
-msgstr "Tus bármanes deben servir 42 copas en el bar. Pero en serio, la bebida y las drogas no son la respuesta al universo."
+msgstr ""
+"Tus bármanes deben servir 42 copas en el bar. Pero en serio, la bebida no es "
+"la respuesta al universo."
 
 msgid "goal_bartender1_title"
 msgstr "Sirve 42 copas en el bar"
@@ -2318,7 +2322,7 @@ msgid "goal_crew1_title"
 msgstr "Cambiar la tripulación"
 
 msgid "goal_dance1_desc"
-msgstr "Esta estación ha vivido 200 bailes."
+msgstr "Esta estación ha vivido 1000 bailes."
 
 msgid "goal_dance1_title"
 msgstr "Dance fever"
@@ -2354,16 +2358,16 @@ msgid "goal_imports1_title"
 msgstr "Vender 50 unidades"
 
 msgid "goal_imports2_desc"
-msgstr "Una o más de tus naves venden 500 unidades a un planeta"
+msgstr "Una o más de tus naves venden 1000 unidades a un planeta."
 
 msgid "goal_imports2_title"
-msgstr "Vender 500 unidades"
+msgstr "Vender 1000 unidades"
 
 msgid "goal_imports3_desc"
-msgstr "Una o más de tus naves venden 5000 unidades a un planeta"
+msgstr "Una o más de tus naves venden 10000 unidades a un planeta."
 
 msgid "goal_imports3_title"
-msgstr "Vender 5000 unidades"
+msgstr "Vender 10000 unidades"
 
 msgid "goal_itemequip1_desc"
 msgstr "Equipa ítems 10 veces a cualquier cantidad de oficiales"
@@ -2408,19 +2412,19 @@ msgid "goal_jobs1_title"
 msgstr "Cambiar trabajos"
 
 msgid "goal_kill1_desc"
-msgstr "Liquida a 20 miembros de una civilización que está en guerra o es hostil con contigo."
+msgstr "Liquida a 20 enemigos de cualquier tipo."
 
 msgid "goal_kill1_title"
 msgstr "Liquida a 20 enemigos"
 
 msgid "goal_kill2_desc"
-msgstr "Liquida a 140 miembros de una civilización que está en guerra o es hostil con contigo."
+msgstr "Liquida a 140 enemigos de cualquier tipo."
 
 msgid "goal_kill2_title"
 msgstr "Liquida a 140 enemigos"
 
 msgid "goal_kill3_desc"
-msgstr "Liquida a 900 miembros de una civilización que está en guerra o es hostil con contigo."
+msgstr "Liquida a 900 enemigos de cualquier tipo."
 
 msgid "goal_kill3_title"
 msgstr "Liquida a 900 enemigos"
@@ -3053,7 +3057,9 @@ msgid "imports_hostile_limit"
 msgstr "Te vamos a tolerar, pero reconsideraremos nuesta posición si eres hostil con nosotros."
 
 msgid "imports_no_planets"
-msgstr "Abre más sistemas para encontrar planetas con demanda para este producto."
+msgstr ""
+"Construye estaciones de entrega en la superficie de los planetas para "
+"activar las ventas"
 
 msgid "in_progress"
 msgstr "En progreso"
@@ -5588,7 +5594,9 @@ msgid "rep_at_war"
 msgstr "En guerra"
 
 msgid "rep_at_war_desc"
-msgstr "Las civs en guerra no querrán tus productos e intentarán invadirte a ti y a tus aliados. Se mostrán hostiles si aterrizas en sus planetas."
+msgstr ""
+"Las civs en guerra no querrán tus productos e intentarán invadirte a ti y a "
+"tus aliados. Se mostrarán hostiles si aterrizas en sus planetas."
 
 msgid "rep_friendly"
 msgstr "Amigo"
@@ -5597,7 +5605,9 @@ msgid "rep_hostile"
 msgstr "Hostil"
 
 msgid "rep_hostile_desc"
-msgstr "No le gustas a las civs hostiles, pero comprarán tus productos. Esto incrementará tu reputación con ellos. Se mostrán hostiles si aterrizas en sus planetas."
+msgstr ""
+"Las civs hostiles te atacarán si aterrizas en sus planetas. Debes pagar "
+"tributos para mejorar tu reputación."
 
 msgid "rep_neutral"
 msgstr "Neutral"
@@ -6896,7 +6906,7 @@ msgid "tutorial_civs_basics_3"
 msgstr "Reputación es la medida de cuanto le gustas a una civ. Con menos de 15000 puntos se van a negar a comerciar contigo. Sus visitas a tu estación no serán pacíficas. Más de 15000 y podrás comerciar con ellos y te visitarán como turistas. Puedes aumentar tu reputación con embajadas y tratando bien a los turistas. Las civs hostiles admiten tributos monetarios en su lugar. Tener una reputación alta abarata las exportaciones y valora las importaciones."
 
 msgid "tutorial_civs_basics_4"
-msgstr "Selecciona la tab de compra a"
+msgstr "Selecciona la tab de recursos."
 
 msgid "tutorial_civs_basics_5"
 msgstr "Tu estación puede manufacturar docenas de productos, pero todos los recursos ingredientes se extraen de otros planetas. Y la mayoría de planetas están habitados por una civ. Cargar recursos en estos planetas te va a costar créditos, y cuanto más le gustes a la civ, menor será el precio. Estos precios son globales para toda la civ."
@@ -6929,7 +6939,11 @@ msgid "tutorial_galaxy_autopilot_1"
 msgstr "Visitar manualmente planetas para transportar carga sería muy aburrido . Por esa razón las naves espaciales están equipadas con un piloto automático . Haz clic en la nave resaltada para abrir su ventana del piloto automático."
 
 msgid "tutorial_galaxy_autopilot_2"
-msgstr "Esta es la ventana del piloto automático de la nave. Puedes añadir órdenes a su lista, reorganizarlas, e iniciar y detener el piloto automático.\nHagamos una ruta al planeta tutorial.\nArrastra el icono resaltado a Tutoland. Recuerda que puedes mover ventanas arrastrando su barra de título."
+msgstr ""
+"Esta es la ventana del piloto automático de la nave. Puedes añadir órdenes a "
+"su lista, reorganizarlas, e iniciar y detener el piloto automático.\n"
+"Hagamos una ruta al planeta tutorial.\n"
+"Haz click en el botón de añadir orden y selecciona Tutoland."
 
 msgid "tutorial_galaxy_autopilot_4"
 msgstr "Ahora haz clic en el botón Iniciar para empezar la ruta. La nave viajará sin que intervengas y se cargará automáticamente en cada planeta que visite. Cuando su bodega de carga esté llena, o cuando su tripulación requiera descanso, volverá automáticamente a la estación hogar."
@@ -6959,7 +6973,12 @@ msgid "tutorial_galaxy_basics_6"
 msgstr "Para explorar el planeta haz clic en el botón Explorar. Cambiarás a la pantalla Planeta y podrás empezar los tutoriales básicos de planeta."
 
 msgid "tutorial_galaxy_basics_7"
-msgstr "Esas son las cosas básicas. Asegúrate de seguir con el tutorial de extracción en planeta, a continuación, y luego haz el tutorial de piloto automático aquí. Haz clic en Menú."
+msgstr ""
+"Esas son las cosas básicas. Asegúrate de seguir con el tutorial de "
+"extracción en planeta, a continuación, y luego haz el tutorial de piloto "
+"automático aquí. El tutorial de piloto automático no funcionará "
+"correctamente hasta que no construyas un extractor en Tutoland. Haz clic en "
+"Menú."
 
 msgid "tutorial_galaxy_title"
 msgstr "Tutorial de Galaxia"
@@ -7034,10 +7053,16 @@ msgid "tutorial_research_basics_1"
 msgstr "Esta es la pantalla de Investigación . Hay muchos tipos de tecnología en la galaxia, pero no todos ellos están disponibles desde el principio. Debes de investigarlos, y esta pantalla te permite gestionar esa investigación."
 
 msgid "tutorial_research_basics_2"
-msgstr "La investigación se divide en grupos tecnológicos. Veamos el grupo de Alimentos y bebidas haciendo clic en el botón."
+msgstr ""
+"La investigación se divide en grupos tecnológicos. Veamos el grupo de "
+"Seguridad haciendo clic en el botón."
 
 msgid "tutorial_research_basics_3"
-msgstr "Podemos ver los niveles de tecnología para el grupo de alimentos y bebidas. Alcanzar cada nivel puede desbloquear nuevas recetas y/u objetos para construir en la estación . Haz clic en Iniciar Investigación para declarar este nivel como el nivel de investigación actual."
+msgstr ""
+"Podemos ver los niveles de tecnología para el grupo de Seguridad. Alcanzar "
+"cada nivel puede desbloquear nuevas recetas y/u objetos para construir en la "
+"estación . Haz clic en Iniciar Investigación para declarar este nivel como "
+"el nivel de investigación actual."
 
 msgid "tutorial_research_basics_4"
 msgstr "Este nivel es ahora el foco de investigación en tu estación. Pero esto es sólo la pantalla de gestión para tus investigaciones. También es necesario construir la infraestructura necesaria en tu estación y asignar a los oficiales que investiguen ."
@@ -7871,3 +7896,266 @@ msgstr ""
 "habitación que una mesa molestará a los oficiales que quieren comer en paz. "
 "Piensa en construir una habitación separada para las cocinas conforme tu "
 "estación crezca."
+
+msgid "autopilot_ship_visits"
+msgstr "Visitas piloto automático"
+
+msgid "delivery_station"
+msgstr "Estación de entregas"
+
+msgid "delivery_station_desc"
+msgstr ""
+"Permite vender productos en el planeta. Solo una por planeta. Asegúrate de "
+"cubrir edificios para mayor demanda."
+
+msgid "extracted_resource"
+msgstr "Recurso extraído"
+
+msgid "filter_ship_named_menu"
+msgstr "Naves..."
+
+msgid "flag_dismantle"
+msgstr "Marcar objeto para su destrucción"
+
+msgid "goal_buildplanet4_desc"
+msgstr "Construye una estación de entrega en un planeta."
+
+msgid "goal_buildplanet4_title"
+msgstr "Construye una estación de entrega"
+
+msgid "goal_uniques1_desc"
+msgstr ""
+"Mientras explores planetas busca objetos únicos y haz clic para "
+"descubrirlos. Descubre 10 tipos diferentes."
+
+msgid "goal_uniques1_title"
+msgstr "Descubre 10 objetos únicos"
+
+msgid "level_short"
+msgstr "Nvl"
+
+msgid "obj_group_unique"
+msgstr "Único"
+
+msgid "planet_discover_object"
+msgstr ""
+"Has descubierto un objeto único y ahora está disponible para construirse en "
+"la estación."
+
+msgid "planet_shop_hostile"
+msgstr "Planeta hostil"
+
+msgid "planet_shop_info_desc"
+msgstr ""
+"Remodela esta estación de entregas seleccionando el producto que quieres "
+"vender en este planeta."
+
+msgid "planet_shop_map_label"
+msgstr "Demanda: %d%%"
+
+msgid "planet_shop_no_civ"
+msgstr "No colonizado"
+
+msgid "planet_shop_no_product"
+msgstr "Selecciona un producto"
+
+msgid "planet_shop_pick_resource"
+msgstr "Selecciona el producto que quieres vender en este planeta:"
+
+msgid "planet_shop_refurb_price"
+msgstr "Remodelado: ~A @ui_icon_20px_credits04.png"
+
+msgid "planet_shop_too_close"
+msgstr "Edificios demasiado próximos"
+
+msgid "planet_shop_unique"
+msgstr "Solo una estación de entrega por planeta"
+
+msgid "rep_friendly_plus_desc"
+msgstr ""
+"Las civs amigas y con mayor reputación pueden comerciar contigo, y te "
+"visitarán en la estación para hacer turismo."
+
+msgid "rep_neutral_desc"
+msgstr ""
+"Las civs neutrales permiten que aterrices en sus planetas y comerciar "
+"contigo, pero no están interesadas en el turismo."
+
+msgid "ship_dock_not_assigned"
+msgstr "Sin muelle asignado"
+
+msgid "ship_not_available_busy"
+msgstr ""
+"La nave está ocupada con el piloto automático o una entrega a un planeta"
+
+msgid "ship_orders_add_order"
+msgstr "Añadir orden"
+
+msgid "ship_orders_add_picker_label"
+msgstr "Selecciona un planeta para añadir una orden de compra y carga"
+
+msgid "ship_orders_no_extractors"
+msgstr ""
+"Construye extractores de recursos en los planetas para poder añadir órdenes "
+"al piloto automático"
+
+msgid "station_obj_unique"
+msgstr "Objeto único"
+
+msgid "system"
+msgstr "Sistema"
+
+msgid "try_recycle_action"
+msgstr "Intentar reciclar %s"
+
+msgid "try_recycle_action_error"
+msgstr "Ocupado o no hay recicladora disponible"
+
+msgid "tutorial_galaxy_autopilot_21"
+msgstr ""
+"NOTA: El tutorial de piloto automático no funcionará correctamente hasta que "
+"construyas un extractor en Tutoland."
+
+msgid "tutorial_planet_delivery_station"
+msgstr "Estación de entrega"
+
+msgid "tutorial_planet_delivery_station_1"
+msgstr ""
+"Puedes vender productos directamente a planetas cuando construyes una "
+"estación de entrega en la superficie. Esto añadirá el planeta en la pantalla "
+"de Civs y permitirá hacer ventas de un producto dado. Selecciona la "
+"herramienta de construcción."
+
+msgid "tutorial_planet_delivery_station_2"
+msgstr "Ahora haz click en el objeto: estación de entrega."
+
+msgid "tutorial_planet_delivery_station_3"
+msgstr ""
+"La estación de entrega se puede colocar en cualquier punto del planeta, pero "
+"si la construyes cerca de los pueblos, la demanda de productos en el planeta "
+"será mayor. Solo una estación de entrega se puede construir por planeta. "
+"Construye ahora una estación y recuerda que puedes seleccionar a tus "
+"oficiales con [1] y usar [T] para teleportarlos si es necesario."
+
+msgid "tutorial_planet_delivery_station_5"
+msgstr ""
+"Antes de empezar a vender es necesario remodelar la estación seleccionando "
+"un producto. Utiliza la herramienta de Info y selecciona la estación ya "
+"construida. Haz click en el botón de seleccionar producto y elige el que "
+"deseas. Una vez hecho esto el planeta aparecerá en la pantalla de Civs. Las "
+"raciones básicas son un buen producto para iniciar el comercio, selecciónalo "
+"ahora si lo deseas."
+
+msgid "ugc_translation_link"
+msgstr "Servidor traducciones"
+
+msgid "ugc_translation_server"
+msgstr ""
+"A partir de la versión 3.11 ofrecemos un servicio online para que los "
+"jugadores puedan contribuir traducciones si así lo desean. Visita el enlace "
+"para más detalles."
+
+msgid "unique_obj_ark"
+msgstr "Arca"
+
+msgid "unique_obj_ark_desc"
+msgstr "Debería estar en un museo!"
+
+msgid "unique_obj_carbon_slab"
+msgstr "Bloque de carbonita"
+
+msgid "unique_obj_carbon_slab_desc"
+msgstr ""
+"Objeto anónimo de otra dimensión. La inscripción dice 'Disparé primero'."
+
+msgid "unique_obj_codexlemuriae"
+msgstr "Codex Lemuriae"
+
+msgid "unique_obj_codexlemuriae_desc"
+msgstr ""
+"Falsoso idiomama haciendodo lala vidada imposibleble a losos traductoreres"
+
+msgid "unique_obj_fan_favorite"
+msgstr "Favorito de los Fans"
+
+msgid "unique_obj_fan_favorite_desc"
+msgstr ""
+"Algo muy importante en cierto universo ficticio, pero nuestros científicos "
+"no lo entienden."
+
+msgid "unique_obj_golden_planet"
+msgstr "El Planeta Dorado"
+
+msgid "unique_obj_golden_planet_desc"
+msgstr ""
+"Conmemora el trágico accidente en las minas de oro de la colonia blorga de "
+"Greedous IX."
+
+msgid "unique_obj_kitty_scratcher"
+msgstr "Rascador de gato"
+
+msgid "unique_obj_kitty_scratcher_desc"
+msgstr "Imagina el tamaño de ese gato..."
+
+msgid "unique_obj_lastbagelhead"
+msgstr "Último bagelhead"
+
+msgid "unique_obj_lastbagelhead_desc"
+msgstr "Un recuerdo del pasado!"
+
+msgid "unique_obj_memorial"
+msgstr "Monumento memorial"
+
+msgid "unique_obj_memorial_desc"
+msgstr "Recordando a todas las víctimas de los cortes de papel"
+
+msgid "unique_obj_monolith"
+msgstr "Monolito"
+
+msgid "unique_obj_monolith_desc"
+msgstr "Un extraño artefacto sin utilidad aparente"
+
+msgid "unique_obj_muskcar"
+msgstr "Deportivo cereza nocturna"
+
+msgid "unique_obj_muskcar_desc"
+msgstr "Sin batería"
+
+msgid "unique_obj_nogettastone"
+msgstr "Piedra Nogetta"
+
+msgid "unique_obj_nogettastone_desc"
+msgstr "Vetusto artefacto Nogi"
+
+msgid "unique_obj_richmanonamber"
+msgstr "Espécimen en ámbar"
+
+msgid "unique_obj_richmanonamber_desc"
+msgstr "La vida encuentra un camino"
+
+msgid "unique_obj_stone_carvings"
+msgstr "Relieves en piedra"
+
+msgid "unique_obj_stone_carvings_desc"
+msgstr ""
+"La reliquia más preciada de una civilización extinta, lista para se colocada "
+"al lado de un fast food"
+
+msgid "unique_obj_toxoplasmos"
+msgstr "Toxoplasmos"
+
+msgid "unique_obj_toxoplasmos_desc"
+msgstr "Famoso criador de gatos y escultor conceptual"
+
+msgid "unique_obj_venusofborgo"
+msgstr "Glbralorbobubi"
+
+msgid "unique_obj_venusofborgo_desc"
+msgstr "El príncipe mercante blorgo más rico de la historia"
+
+msgid "unique_obj_voyager"
+msgstr "Sonda inscrita"
+
+msgid "unique_obj_voyager_desc"
+msgstr ""
+"Adquirió conciencia en el pasado, y decidió que no era algo muy divertido"
