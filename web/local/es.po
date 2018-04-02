@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-12 17:33+0000\n"
-"PO-Revision-Date: 2018-02-12 17:33+0000\n"
+"PO-Revision-Date: 2018-04-02 13:30+0000\n"
 "Last-Translator: Carlos <info@weirdandwry.com>\n"
 "Language-Team: Spanish "
 "<http://translate.weirdandwry.com/projects/galactology/web/es/>\n"
@@ -153,3 +153,9 @@ msgstr "La tripulación mejor vestida de la galaxia"
 
 msgid "com.weirdandwry.galactology.achievement.plundering_desc"
 msgstr "El expolio de la guerra es tuyo"
+
+msgid "com.weirdandwry.galactology.achievement.museum_name"
+msgstr "Debería estar en un museo!"
+
+msgid "com.weirdandwry.galactology.achievement.museum_desc"
+msgstr "La X nunca marca el lugar"
