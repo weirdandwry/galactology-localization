@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-12 09:02+0000\n"
-"PO-Revision-Date: 2018-03-19 12:00+0000\n"
+"PO-Revision-Date: 2018-04-03 12:18+0000\n"
 "Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian "
 "<http://translate.weirdandwry.com/projects/galactology/game/ru/>\n"
@@ -7990,3 +7990,30 @@ msgstr ""
 
 msgid "tutorial_planet_delivery_station"
 msgstr "Станция поставки"
+
+msgid "autopilot_ship_visits"
+msgstr "Автопилот посещений"
+
+msgid "goal_uniques1_desc"
+msgstr ""
+"При исследовании планет ищите уникальные объекты и кликните по ним. Изучите "
+"10 разных"
+
+msgid "goal_uniques1_title"
+msgstr "Исследуйте 10 уникальных объектов"
+
+msgid "try_recycle_action"
+msgstr "Попробуйте переработать"
+
+msgid "try_recycle_action_error"
+msgstr "Нет свободных переработчиков"
+
+msgid "tutorial_planet_delivery_station_1"
+msgstr ""
+"Для того что бы торговать с планетой,вам необходимо построить станцию "
+"доставк на её поверхности. Строение разблокирует планету на экране "
+"Цивилизации и разрешит доставлять выбранный товар. Выберите инструмент "
+"постройки"
+
+msgid "tutorial_planet_delivery_station_2"
+msgstr "Теперь кликните на подсвеченный объект: Станция доставки"
