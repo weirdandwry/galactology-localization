@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-12 09:03+0000\n"
-"PO-Revision-Date: 2018-02-12 21:15+0000\n"
+"PO-Revision-Date: 2018-04-11 18:52+0000\n"
 "Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: Turkish "
 "<http://translate.weirdandwry.com/projects/galactology/web/tr/>\n"
@@ -192,3 +192,9 @@ msgstr "Evrende en iyi giyinmiş tayfa"
 
 msgid "com.weirdandwry.galactology.achievement.plundering_desc"
 msgstr "Savaş ganimetleri senindir"
+
+msgid "com.weirdandwry.galactology.achievement.museum_name"
+msgstr "Bir müzeye aittir!"
+
+msgid "com.weirdandwry.galactology.achievement.museum_desc"
+msgstr "X asla, bir noktayı işaret etmez"
