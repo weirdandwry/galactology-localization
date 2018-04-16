@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-12 09:02+0000\n"
-"PO-Revision-Date: 2018-04-03 20:34+0000\n"
-"Last-Translator: anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2018-04-16 19:44+0000\n"
+"Last-Translator: Carlos <info@weirdandwry.com>\n"
 "Language-Team: German "
 "<http://translate.weirdandwry.com/projects/galactology/game/de/>\n"
 "Language: de\n"
@@ -558,7 +558,7 @@ msgid "by_gear_level"
 msgstr "Am schlechtesten ausgerüstet"
 
 msgid "by_mind"
-msgstr ""
+msgstr "Durch Gedanken"
 
 msgid "by_spec"
 msgstr "Nach Spezialisierung"
@@ -2450,19 +2450,19 @@ msgid "goal_jobs1_title"
 msgstr "Die Job-Matrix durchmischen"
 
 msgid "goal_kill1_desc"
-msgstr "Töte 20 Mitglieder einer Ziv, die mit dir im Krieg liegt oder dir feindlich gesinnt ist."
+msgstr "20 Feinde jedweder Art töten."
 
 msgid "goal_kill1_title"
 msgstr "Töte 20 Feinde"
 
 msgid "goal_kill2_desc"
-msgstr "Töte 140 Mitglieder einer Ziv, die mit dir im Krieg liegt oder dir feindlich gesinnt ist."
+msgstr "140 Feinde jedweder Art töten."
 
 msgid "goal_kill2_title"
 msgstr "Töte 140 Feinde"
 
 msgid "goal_kill3_desc"
-msgstr "Töte 900 Mitglieder einer Ziv, die mit dir im Krieg liegt oder dir feindlich gesinnt ist."
+msgstr "900 Feinde jedweder Art töten."
 
 msgid "goal_kill3_title"
 msgstr "Töte 900 Feinde"
@@ -3103,8 +3103,8 @@ msgstr ""
 
 msgid "imports_no_planets"
 msgstr ""
-"Eröffne neue Sternensysteme, um Planeten mit Bedarf an diesem Produkt zu "
-"entdecken"
+"Baue Abgabestationen auf der Oberfläche der Planeten, um Lieferungen zu "
+"ermöglichen."
 
 msgid "in_progress"
 msgstr "Im Gange"
@@ -3743,7 +3743,7 @@ msgid "miniservo_display_desc"
 msgstr "Ein winziger Personalbot zum definitiv nicht winzigen Preis"
 
 msgid "missing_demands"
-msgstr ""
+msgstr "Fehlende Anfragen"
 
 msgid "missing_demands_desc"
 msgstr "Einige meiner Bedürfnisse werden nicht erfüllt"
@@ -5222,7 +5222,7 @@ msgid "pending"
 msgstr "Ausstehend"
 
 msgid "pending_upgrade"
-msgstr ""
+msgstr "Ausstehendes Upgrade"
 
 msgid "pharmacist"
 msgstr "Pharmazeut"
@@ -5669,9 +5669,10 @@ msgstr "Im Krieg"
 
 msgid "rep_at_war_desc"
 msgstr ""
-"Im Krieg kaufen Zivs dir deine Massenproduktion nicht ab und werden "
-"versuchen, deine Station zu plündern und deine Verbündeten zu überfallen. "
-"Sie sind dir feindlich gesinnt, wenn du auf ihren Planeten landest."
+"Bei Krieg werden Zivilisationen versuchen, deine Station zu plündern und "
+"deine Alliierten zu invadieren. Sie werden deine Crew angreifen, wenn du auf "
+"ihren Planeten landest. Du wirst ihnen ein Tribut bezahlen müssen, um deine "
+"Reputation zu verbessern."
 
 msgid "rep_friendly"
 msgstr "Freundlich"
@@ -5681,9 +5682,9 @@ msgstr "Feindlich"
 
 msgid "rep_hostile_desc"
 msgstr ""
-"Feindliche Zivs mögen dich nicht, kaufen dir aber deine Massenproduktion ab. "
-"Dies erhöht deinen Ruf mit ihnen. Sie werden dir feindlich gesinnt sein, "
-"wenn du auf ihren Planeten landest."
+"Feindliche Zivilisationen werden deine Crew angreifen, wenn du auf ihren "
+"Planeten landest. Du wirst ihnen Tribut bezahlen müssen, um deine Reputation "
+"zu verbessern."
 
 msgid "rep_neutral"
 msgstr "Neutral"
@@ -7048,7 +7049,12 @@ msgid "tutorial_galaxy_autopilot_1"
 msgstr "Es wäre doch echt langweilig, Planeten manuell besuchen zu müssen, nur um Fracht zu transportieren. Aus diesem Grund sind Raumschiffe mit einem Autopilot ausgerüstet. Klicke auf das markierte Schiff, um dessen Autopilot-Fenster zu öffnen."
 
 msgid "tutorial_galaxy_autopilot_2"
-msgstr "Dies ist das Raumschiff-Autopilot-Fenster. Du kannst Befehle zu seiner Liste hinzufügen, reorganisieren und dann den Autopilot starten und stoppen.\nLass uns eine Route zum Tutorial-Planet festlegen.\nZiehe das markierte Symbol nach Tutoland. Denke daran, dass du Fenster an ihrer Titelleiste verschieben kannst, wenn sie dein Ziel versperren."
+msgstr ""
+"Das ist das Autopilot-Fenster des Raumschiffs. Du kannst Aufträge zu seiner "
+"Liste hinzufügen, diese neu anordnen und dann den Autopilot beginnen und "
+"stoppen.\n"
+"Jetzt wollen wir eine Route zum Tutorial-Planeten einrichten.\n"
+"Klicke auf die Schaltfläche Auftrag hinzufügen und wähle dann Tutoland."
 
 msgid "tutorial_galaxy_autopilot_4"
 msgstr "Klicke nun auf die Schaltfläche Start, um die Route zu starten. Das Schiff wird ohne dein Eingreifen reisen, automatisch Fracht einladen und alle Planeten in ihrer Befehlsliste besuchen. Sobald es voll ist oder die Besatzung zu erschöpft wird, reist es automatisch zur Heimat zurück, um zu entladen und darauf zu warten, dass die Besatzung ihre Moral erhöht hat."
@@ -7174,7 +7180,11 @@ msgstr ""
 "Sicherheits-Gruppe, indem du auf deren Schaltfläche klickst."
 
 msgid "tutorial_research_basics_3"
-msgstr "Jetzt sehen wir die Stufen der Gerichte & Getränke-Technologie. Wenn du eine Stufe erforschst, können neue Rezepte und/oder Objekte zum Bau in der Station freigeschaltet werden. Klicke nun auf Forschung beginnen, um diese Stufe als momentane Forschungsstufe festzulegen."
+msgstr ""
+"Wir können die Stufen für Sicherheitstechnologien einsehen. Bei erreichen "
+"einer jeden Stufe können neue Rezepte und/oder Objekte entsperrt werden, um "
+"in der Station zu bauen. Klicke bitte auf Forschung starten, um diese Stufe "
+"als die gegenwärtige Erforschungsstufe festzulegen."
 
 msgid "tutorial_research_basics_4"
 msgstr "Die Stufe ist nun der Forschungsfokus in deiner Station. Das hier ist allerdings nur der Verwaltungs-Bildschirm deiner Forschungsprojekte. Du benötigst zusätzlich Forschungs-Infrastruktur in deiner Station und musst Offizieren der Forschung zuweisen."
@@ -8079,3 +8089,229 @@ msgstr ""
 
 msgid "system"
 msgstr "System"
+
+msgid "autopilot_ship_visits"
+msgstr "Schiffsbesuche selbst steuern"
+
+msgid "delivery_station"
+msgstr "Abgabestation"
+
+msgid "extracted_resource"
+msgstr "Extrahierte Ressource"
+
+msgid "goal_buildplanet4_desc"
+msgstr "Baue eine Abgabestation auf der Oberfläche eines Planeten."
+
+msgid "goal_buildplanet4_title"
+msgstr "Baue eine Abgabestation"
+
+msgid "planet_discover_object"
+msgstr ""
+"Du hast ein einzigartiges Objekt entdeckt und es steht jetzt zur "
+"Konstruktion in deiner Heimatstation bereit."
+
+msgid "planet_shop_info_desc"
+msgstr ""
+"Saniere diese Abgabestation durch Auswahl deines bevorzugten Produkts, um es "
+"auf diesem Planeten liefern und verkaufen zu können."
+
+msgid "planet_shop_pick_resource"
+msgstr "Wähle das Produkt aus, das du zu diesem Planeten liefern möchtest:"
+
+msgid "planet_shop_refurb_price"
+msgstr "Sanierungspreis: ~A @ui_icon_20px_credits04.png"
+
+msgid "planet_shop_unique"
+msgstr "Nur eine Abgabestation pro Planeten"
+
+msgid "rep_friendly_plus_desc"
+msgstr ""
+"Freundliche Zivilisationen mit einer besseren Reputation als du werden mit "
+"dir Handelsbeziehungen pflegen und deine Station mit friedlichen Absichten "
+"als Touristen besuchen."
+
+msgid "rep_neutral_desc"
+msgstr ""
+"Neutrale Zivilisationen werden dich auf ihren Planeten landen und mit ihnen "
+"Handelsbeziehungen aufbauen lassen, sind aber am Tourismus nicht "
+"interessiert."
+
+msgid "ship_dock_not_assigned"
+msgstr "Kein Dock zugewiesen"
+
+msgid "ship_not_available_busy"
+msgstr "Schiff ist mit Autopilot oder einer Lieferung beschäftigt"
+
+msgid "ship_orders_add_order"
+msgstr "Auftrag hinzufügen"
+
+msgid "ship_orders_add_picker_label"
+msgstr ""
+"Wähle einen Planeten aus, um einen neuen Auftrag hinzuzufügen, kaufe und "
+"lade Auftrag"
+
+msgid "ship_orders_no_extractors"
+msgstr ""
+"Baue Ressourcenextraktoren auf Planeten, um diese mit dem Autopiloten zu "
+"erreichen"
+
+msgid "station_obj_unique"
+msgstr "Objekt ist einzigartig"
+
+msgid "try_recycle_action"
+msgstr "Versuche, %s zu recyclen"
+
+msgid "try_recycle_action_error"
+msgstr "Beschäftigt oder keine inaktiven Recycler verfügbar"
+
+msgid "tutorial_galaxy_autopilot_21"
+msgstr ""
+"ANMERKUNG: Das Autopilot-Tutorial wird nicht ordnungsgemäß arbeiten, bis du "
+"zumindest einen Extraktor auf Tutoland gebaut hast."
+
+msgid "tutorial_planet_delivery_station"
+msgstr "Abgabestation"
+
+msgid "tutorial_planet_delivery_station_1"
+msgstr ""
+"Du kannst an Planeten durch den Bau eines Abgabestation-Objekts auf ihrer "
+"Oberfläche verkaufen. Dadurch wird der Planet auf dem Zivilisationen-"
+"Bildschirm entsperrt und ermöglicht die Lieferung eines gewählten Produkts. "
+"Wähle das Bau-Tool."
+
+msgid "tutorial_planet_delivery_station_2"
+msgstr "Klicke jetzt auf das hervorgehobene Objekt: die Abgabestation."
+
+msgid "tutorial_planet_delivery_station_3"
+msgstr ""
+"Die Abgabestation kann sich irgendwo auf dem Planeten befinden, wenn sie sie "
+"jedoch in der Nähe von Städten erbauen, wird der Leitungspreis für Produkte "
+"auf dem Planeten höher sein. Es kann nur eine Abgabestation pro Planeten "
+"erbaut werden. Baue die Abgabestation irgendwo und denke daran, dein Squad "
+"[1] auszusuchen und sie dann in die Nähe teleportieren."
+
+msgid "tutorial_planet_delivery_station_5"
+msgstr ""
+"Ehe du mit dem Verkauf vom ZV-Bildschirm aus beginnen kannst, musst du ein "
+"Produkt auf dem Infofeld der Abgabestation aussuchen. Nach dem Anklicken der "
+"Schaltfläche Produkt auswählen, erscheint der Planet unter der der "
+"Registerkarte Zivilisationen verkaufen als eine gültige Destination für das "
+"gewählte Produkt. Grundrationen sind ein gutes Einsteigerprodukt, so dass es "
+"eine gute Idee ist, diese jetzt auszuwählen, wenn du wünscht."
+
+msgid "ugc_translation_link"
+msgstr "Übersetzungsserver"
+
+msgid "ugc_translation_server"
+msgstr ""
+"Ab Version 3.11 bieten wir einen Online-Service für Crowdsourcing-"
+"Übersetzungen, um sie zum Teil des Spiels zu machen. Über den folgenden Link "
+"erhältst du weitere Details. Sollte sich deine Sprache nicht auf der Liste "
+"befinden, kannst du eine E-Mail an  info@weirdandwry.com senden, so dass wir "
+"sie hinzufügen können. Vielen Dank!"
+
+msgid "unique_obj_ark"
+msgstr "Ark"
+
+msgid "unique_obj_ark_desc"
+msgstr "Es gehört in ein Museum!"
+
+msgid "unique_obj_carbon_slab"
+msgstr "Kohlenstoffplatte"
+
+msgid "unique_obj_carbon_slab_desc"
+msgstr ""
+"Unscheinbares Objekt aus einer anderen Dimension Auf der Inschrift steht „"
+"Ich habe zuerst geschossen“."
+
+msgid "unique_obj_codexlemuriae"
+msgstr "Codex Lemuriae"
+
+msgid "unique_obj_codexlemuriae_desc"
+msgstr "Diese alte erfundene Sprache macht Übersetzern das Leben sehr schwer."
+
+msgid "unique_obj_fan_favorite"
+msgstr "Fan Favorite #882"
+
+msgid "unique_obj_fan_favorite_desc"
+msgstr ""
+"Ein großes Problem in einer fiktiven Welt, aber unsere Wissenschaftler "
+"können den Grund dafür nicht herausfinden."
+
+msgid "unique_obj_golden_planet"
+msgstr "Der goldene Planet"
+
+msgid "unique_obj_golden_planet_desc"
+msgstr ""
+"Erinnert an den tragischen Vorfall in einer der Goldminen in der "
+"blorgianischen Kolonie des Greedous IX"
+
+msgid "unique_obj_kitty_scratcher"
+msgstr "Kitty-Scratcher"
+
+msgid "unique_obj_kitty_scratcher_desc"
+msgstr "Das muss eine riesige Katze sein..."
+
+msgid "unique_obj_lastbagelhead"
+msgstr "Letzter Bagelhead"
+
+msgid "unique_obj_lastbagelhead_desc"
+msgstr "Ein Gruß aus der Vergangenheit!"
+
+msgid "unique_obj_memorial"
+msgstr "Denkmalmonument"
+
+msgid "unique_obj_memorial_desc"
+msgstr "Zur Erinnerung an alle Opfer der Scherenschnitte"
+
+msgid "unique_obj_monolith"
+msgstr "Monolith"
+
+msgid "unique_obj_monolith_desc"
+msgstr "Ein seltsamer Artefakt mit nicht offensichtlichem Nutzen"
+
+msgid "unique_obj_muskcar"
+msgstr "Mitternächtlicher kirschfarbener Sportswagen"
+
+msgid "unique_obj_muskcar_desc"
+msgstr "Mit leerer Batterie"
+
+msgid "unique_obj_nogettastone"
+msgstr "Nogetta-Stein"
+
+msgid "unique_obj_nogettastone_desc"
+msgstr "Alter Nogi-Artefakt"
+
+msgid "unique_obj_richmanonamber"
+msgstr "Erhaltenes  bernsteinfarbenes Exemplar"
+
+msgid "unique_obj_richmanonamber_desc"
+msgstr "Leben findet einen Weg"
+
+msgid "unique_obj_stone_carvings"
+msgstr "Steinmetzarbeiten"
+
+msgid "unique_obj_stone_carvings_desc"
+msgstr ""
+"Das seltenste Artefakt einer untergegangenen Zivilisation, bereit neben "
+"stinkenden Imbissbuden zu sitzen."
+
+msgid "unique_obj_toxoplasmos"
+msgstr "Toxoplasmos"
+
+msgid "unique_obj_toxoplasmos_desc"
+msgstr "Berühmter Katzenhirte und konzeptioneller Bildhauer."
+
+msgid "unique_obj_venusofborgo"
+msgstr "Glbralorbobubi"
+
+msgid "unique_obj_venusofborgo_desc"
+msgstr "Größte blorgianische Händler-Prinzessin der gesamten Geschichte"
+
+msgid "unique_obj_voyager"
+msgstr "Beschriftete Sonde"
+
+msgid "unique_obj_voyager_desc"
+msgstr ""
+"In der Vergangenheit fühlend geworden, dann wurde beschlossen, dass es doch "
+"nicht so viel Spaß machte"
