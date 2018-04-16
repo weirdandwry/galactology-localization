@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-12 09:02+0000\n"
-"PO-Revision-Date: 2018-04-10 21:06+0000\n"
+"PO-Revision-Date: 2018-04-16 20:12+0000\n"
 "Last-Translator: Carlos <info@weirdandwry.com>\n"
 "Language-Team: Chinese (Simplified) "
 "<http://translate.weirdandwry.com/projects/galactology/game/zh_CN/>\n"
@@ -2406,19 +2406,19 @@ msgid "goal_jobs1_title"
 msgstr "变更工作"
 
 msgid "goal_kill1_desc"
-msgstr "消灭20个属于敌方或正处于战争状态文明的成员"
+msgstr "消灭20个任意类型的敌人"
 
 msgid "goal_kill1_title"
 msgstr "消灭20个敌人"
 
 msgid "goal_kill2_desc"
-msgstr "消灭140个属于敌方或正处于战争状态文明的成员"
+msgstr "消灭140个任意类型的敌人"
 
 msgid "goal_kill2_title"
 msgstr "消灭140个敌人"
 
 msgid "goal_kill3_desc"
-msgstr "消灭900个属于敌方或正处于战争状态文明的成员"
+msgstr "消灭900个任意类型的敌人"
 
 msgid "goal_kill3_title"
 msgstr "消灭900个敌人"
