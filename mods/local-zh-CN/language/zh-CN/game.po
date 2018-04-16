@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-12 09:02+0000\n"
-"PO-Revision-Date: 2018-04-16 20:13+0000\n"
+"PO-Revision-Date: 2018-04-16 20:14+0000\n"
 "Last-Translator: Carlos <info@weirdandwry.com>\n"
 "Language-Team: Chinese (Simplified) "
 "<http://translate.weirdandwry.com/projects/galactology/game/zh_CN/>\n"
@@ -5505,7 +5505,7 @@ msgid "recreational_tier_6"
 msgstr "迪斯科厅 II / 游戏厅 II"
 
 msgid "recreational_tier_7"
-msgstr ""
+msgstr "赌场 I"
 
 msgid "recreational_tier_8"
 msgstr "全息桥 I"
@@ -7749,3 +7749,314 @@ msgstr "你的调酒师必须在酒吧调制420份饮品。但是，真的，酗
 
 msgid "goal_bartender2_title"
 msgstr "在酒吧调制420份饮品"
+
+msgid "goal_buildplanet4_desc"
+msgstr "在星球表面建造一个分配站"
+
+msgid "goal_buildplanet4_title"
+msgstr "建造一个分配站"
+
+msgid "goal_consumerism2_desc"
+msgstr "通过商店，向游客出售500件物品。仅仅计算消耗品，用于回复活力值的物品例如食物等不做计算。"
+
+msgid "goal_consumerism2_title"
+msgstr "向游客出售500件物品"
+
+msgid "goal_consumerism3_desc"
+msgstr "通过商店，向游客出售3000件物品。仅仅计算消耗品，用于回复活力值的物品例如食物等不做计算。"
+
+msgid "goal_consumerism3_title"
+msgstr "向游客出售3000件物品"
+
+msgid "goal_doctor2_desc"
+msgstr "你的医生必须在医院照顾200个病床上的患者。"
+
+msgid "goal_doctor2_title"
+msgstr "医治200个患者"
+
+msgid "goal_itemprod3_desc"
+msgstr "制作200个任意类型任意等级的物品"
+
+msgid "goal_itemprod3_title"
+msgstr "制作200个物品"
+
+msgid "goal_planet5_desc"
+msgstr "至少3次在30级以上的星球上登陆。"
+
+msgid "goal_planet5_title"
+msgstr "在30级的星球上登陆3次"
+
+msgid "goal_recycle3_desc"
+msgstr "回收150个尸体。确保你至少拥有一个回收站，并且有专门负责进行清洁工作的职员。 是的，RIP！"
+
+msgid "goal_recycle3_title"
+msgstr "回收150个尸体"
+
+msgid "goal_shipbuild3_desc"
+msgstr "使用飞行器制造计划以及一个制作操作台来建造8艘飞行器。"
+
+msgid "goal_shipbuild3_title"
+msgstr "建造8艘飞行器"
+
+msgid "goal_uniques1_desc"
+msgstr "在探索星球时，寻找独特的物品并点击它们。发现10个不同的物品。"
+
+msgid "goal_uniques1_title"
+msgstr "发现10个独特的物品"
+
+msgid "group_facilities2"
+msgstr "设备"
+
+msgid "in_progress_p"
+msgstr "正在进行中： %d/%d"
+
+msgid "lactian_leaflets"
+msgstr "拜牛奶教的传单"
+
+msgid "lactian_leaflets_desc"
+msgstr "让我们都一起来膜拜，那神圣的牛奶。它甚至可以被回收。"
+
+msgid "level_short"
+msgstr "Lvl"
+
+msgid "obj_group_unique"
+msgstr "独特"
+
+msgid "object_power_level"
+msgstr "能量等级"
+
+msgid "planet_discover_object"
+msgstr "你已经发现了一个独特的物品，现在你可以在空间站制造它。"
+
+msgid "planet_shop_hostile"
+msgstr "敌方星球"
+
+msgid "planet_shop_info_desc"
+msgstr "通过选择你最心仪的产品来更新分配站的产品，并将他们销售至目标星球。"
+
+msgid "planet_shop_map_label"
+msgstr "需求： %d%%"
+
+msgid "planet_shop_no_civ"
+msgstr "非殖民化的世界"
+
+msgid "planet_shop_no_product"
+msgstr "选择一个产品"
+
+msgid "planet_shop_pick_resource"
+msgstr "选择一个你希望分派至该星球的产品。"
+
+msgid "planet_shop_refurb_price"
+msgstr "更新价格: ~A @ui_icon_20px_credits04.png"
+
+msgid "planet_shop_too_close"
+msgstr "离建筑物太近"
+
+msgid "planet_shop_unique"
+msgstr "每个星球仅仅一个分配站"
+
+msgid "rep_friendly_plus_desc"
+msgstr "友好和威望值较高的文明将会与你一起进行商业活动，并且还会派遣游客和平地前往你的空间站进行访问。"
+
+msgid "rep_neutral_desc"
+msgstr "中立文明会允许你在他们的星球上登陆并和你进行商业活动，但他们并不热衷于派遣游客访问你的空间站。"
+
+msgid "securitydoor2"
+msgstr "战场门"
+
+msgid "securitydoor2_desc"
+msgstr "几乎坚不可摧的大门。它会阻止游客进入储存以及生产区域。"
+
+msgid "shielder_1"
+msgstr "基础护盾"
+
+msgid "shielder_2"
+msgstr "中级护盾"
+
+msgid "shielder_3"
+msgstr "高级护盾"
+
+msgid "shielder_desc"
+msgstr "在侦测到敌方单位时建造一个大型的防御护盾，该选项有冷却时间。"
+
+msgid "ship_dock_not_assigned"
+msgstr "没有分配停泊码头"
+
+msgid "ship_not_available_busy"
+msgstr "飞行器正处于自动驾驶模式下或正在执行配送指令"
+
+msgid "ship_orders_add_order"
+msgstr "添加指令"
+
+msgid "ship_orders_add_picker_label"
+msgstr "选择一个星球来添加购买或者加载资源的指令"
+
+msgid "ship_orders_no_extractors"
+msgstr "建造一个资源采集器以便于可以将它设置为自动驾驶模式的目标"
+
+msgid "ship_skills_label"
+msgstr "技能:"
+
+msgid "speed_label"
+msgstr "速度："
+
+msgid "speed_value"
+msgstr "~0,2F m秒差距/s"
+
+msgid "station_obj_unique"
+msgstr "物品是独特的"
+
+msgid "system"
+msgstr "星系"
+
+msgid "try_recycle_action"
+msgstr "尝试去回收 %s"
+
+msgid "try_recycle_action_error"
+msgstr "繁忙或者无可用回收站"
+
+msgid "turret_1"
+msgstr "基础炮塔"
+
+msgid "turret_2"
+msgstr "中级炮塔"
+
+msgid "turret_3"
+msgstr "高级炮塔"
+
+msgid "turret_4"
+msgstr "终极炮塔"
+
+msgid "turret_desc"
+msgstr "大口径炮塔"
+
+msgid "tutorial_galaxy_autopilot_21"
+msgstr "注意：直到你在图吐大陆上至少建造一个采集器后，自动驾驶教程才会继续进行。"
+
+msgid "tutorial_planet_delivery_station"
+msgstr "分配站"
+
+msgid "tutorial_planet_delivery_station_1"
+msgstr "你可以通过在星球表面建造一个分配站来向该星球直接出售产品。这将在文明屏幕上解锁该星球，并允许你向星球分配一系列由你选中的产品。选择建造工具。"
+
+msgid "tutorial_planet_delivery_station_2"
+msgstr "现在点击高光的对象：分配站。"
+
+msgid "tutorial_planet_delivery_station_3"
+msgstr ""
+"分配站可以被建造在星球上的任何位置，但是如果你把它建造在村落的附近，那你可能会收获更多数量的订单。每个星球上仅仅只能建造一个分配站。在星球上的任何位置建造"
+"一个分配站，并且谨记你可以通过点击数字键1来选择一号小组，并使用T键将他们传送到分配站附近。"
+
+msgid "tutorial_planet_delivery_station_5"
+msgstr ""
+"在你可以在文明屏幕进行产品销售之前，你必须在分配站的信息面板选择一个产品。在你点击了选择产品的按钮并选中物品后，该星球将作为可进行产品出售的目的地出现在文"
+"明出售标签。基础的口粮是你一开始可以尝试出售的产品，所以如果你愿意，现在可以点击选择它。"
+
+msgid "tutorial_station_object_tool_7b"
+msgstr ""
+"关于噪音：虽然炊具和桌子的这种简单的组合在游戏初是一个不错的选择，但将两个或更多的炊具放在同一个房间里会因为大量的噪音激怒正在安静地享用午餐的职员。所以在"
+"你的空间站发展到一定的程度，你可以尝试着建造一个独立的厨房。 "
+
+msgid "ugc_translation_link"
+msgstr "翻译服务"
+
+msgid "ugc_translation_server"
+msgstr ""
+"从版本3.11开始，我们为众包翻译提供在线服务，使其成为游戏的一部分。请访问以下链接了解更多详情，如果您的语言不在列表中，您可以发送电子邮件至info@w"
+"eirdandwry.com，以便我们添加它。 谢谢！"
+
+msgid "unique_obj_ark"
+msgstr "方舟"
+
+msgid "unique_obj_ark_desc"
+msgstr "它属于博物馆！"
+
+msgid "unique_obj_carbon_slab"
+msgstr "碳纤维板"
+
+msgid "unique_obj_carbon_slab_desc"
+msgstr "来自其他维度的无描述物品。上面被题词写到 '我是第一个开枪的 '。"
+
+msgid "unique_obj_codexlemuriae"
+msgstr "狐猴人的手抄本"
+
+msgid "unique_obj_codexlemuriae_desc"
+msgstr "老式的假语翻译对于译员来说可不是一个轻松的活儿"
+
+msgid "unique_obj_fan_favorite"
+msgstr "粉丝收藏 #882"
+
+msgid "unique_obj_fan_favorite_desc"
+msgstr "在某个虚构的宇宙的一笔重要的交易，但我们的科学家却无法理解它的原因。"
+
+msgid "unique_obj_golden_planet"
+msgstr "黄金星球"
+
+msgid "unique_obj_golden_planet_desc"
+msgstr "纪念在格里德斯九世时期波罗的海殖民地发生的悲惨的金矿事故。"
+
+msgid "unique_obj_kitty_scratcher"
+msgstr "猫咪抓手"
+
+msgid "unique_obj_kitty_scratcher_desc"
+msgstr "那必须是一只巨大的猫…"
+
+msgid "unique_obj_lastbagelhead"
+msgstr "最后的百吉饼"
+
+msgid "unique_obj_lastbagelhead_desc"
+msgstr "曾经叱咤风云！"
+
+msgid "unique_obj_memorial"
+msgstr "纪念碑"
+
+msgid "unique_obj_memorial_desc"
+msgstr "谨记所有剪纸的受害者"
+
+msgid "unique_obj_monolith"
+msgstr "坝段"
+
+msgid "unique_obj_monolith_desc"
+msgstr "一种毫无用处的奇怪的人造物"
+
+msgid "unique_obj_muskcar"
+msgstr "午夜樱桃跑车"
+
+msgid "unique_obj_muskcar_desc"
+msgstr "电池没电了"
+
+msgid "unique_obj_nogettastone"
+msgstr "诺吉岩石"
+
+msgid "unique_obj_nogettastone_desc"
+msgstr "古老的诺吉神器"
+
+msgid "unique_obj_richmanonamber"
+msgstr "保存的琥珀标本"
+
+msgid "unique_obj_richmanonamber_desc"
+msgstr "人生总能找到一条道路"
+
+msgid "unique_obj_stone_carvings"
+msgstr "岩石雕刻"
+
+msgid "unique_obj_stone_carvings_desc"
+msgstr "来自已灭绝的文明的最稀有的神器，准备被放在气味熏天的快餐店边上"
+
+msgid "unique_obj_toxoplasmos"
+msgstr "毒雾"
+
+msgid "unique_obj_toxoplasmos_desc"
+msgstr "著名的猫奴和概念派的雕塑家"
+
+msgid "unique_obj_venusofborgo"
+msgstr "Glbralorbobubi"
+
+msgid "unique_obj_venusofborgo_desc"
+msgstr "所有历史上最伟大的布尔戈商人公主"
+
+msgid "unique_obj_voyager"
+msgstr "拥有探针"
+
+msgid "unique_obj_voyager_desc"
+msgstr "在过去已经成为一个有感知的人，但他却认为这并不那么有趣"
