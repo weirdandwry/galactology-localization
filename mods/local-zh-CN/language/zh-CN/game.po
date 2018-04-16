@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-12 09:02+0000\n"
-"PO-Revision-Date: 2018-04-16 20:14+0000\n"
+"PO-Revision-Date: 2018-04-16 20:17+0000\n"
 "Last-Translator: Carlos <info@weirdandwry.com>\n"
 "Language-Team: Chinese (Simplified) "
 "<http://translate.weirdandwry.com/projects/galactology/game/zh_CN/>\n"
@@ -8060,3 +8060,15 @@ msgstr "拥有探针"
 
 msgid "unique_obj_voyager_desc"
 msgstr "在过去已经成为一个有感知的人，但他却认为这并不那么有趣"
+
+msgid "cargo_value"
+msgstr "%d 单位"
+
+msgid "civ_ui_resources"
+msgstr "@ui_icon_30px_buy.png 资源"
+
+msgid "crew_value"
+msgstr "%d 插槽"
+
+msgid "event_raid_retaliate_warn"
+msgstr "%s 正在对我们进行报复！来自 %s 的袭击正不断地迫近你的空间站。请做好准备！"
