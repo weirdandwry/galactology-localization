@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-12 09:02+0000\n"
-"PO-Revision-Date: 2018-04-16 20:12+0000\n"
+"PO-Revision-Date: 2018-04-16 20:13+0000\n"
 "Last-Translator: Carlos <info@weirdandwry.com>\n"
 "Language-Team: Chinese (Simplified) "
 "<http://translate.weirdandwry.com/projects/galactology/game/zh_CN/>\n"
@@ -3051,7 +3051,7 @@ msgid "imports_hostile_limit"
 msgstr "我们会容忍你，但如果你对我们有敌意，我们会重新考虑我们的立场。"
 
 msgid "imports_no_planets"
-msgstr "开启更多的星系来找到对这个产品感兴趣的行星。"
+msgstr "在星球的表面建造一个分配站来进行物品分配"
 
 msgid "in_progress"
 msgstr "进行中"
@@ -5595,7 +5595,7 @@ msgid "rep_hostile"
 msgstr "对立"
 
 msgid "rep_hostile_desc"
-msgstr "他们不喜欢属于对立集团的文明， 但是会购置他们的产品。这将会增加你在他们那儿的声望。如果你的飞行器在他们的行星上登陆，他们将会充满敌意来对待。"
+msgstr "属于敌对阵营的文明会攻击你登陆在他们星球上的船员。你需要通过向他们支付税收的方式来增加和他们之间的威望。"
 
 msgid "rep_neutral"
 msgstr "中立"
@@ -6894,7 +6894,7 @@ msgid "tutorial_civs_basics_3"
 msgstr "声望是展现你受到一个文明的欢迎和喜爱的程度。只有针对一个文明拥有至少15000点声望他们才会同意和你进行贸易往来。同时该情况下他们的来访并不是十分友善的。只有获得超过15000点的声望时那你才能不仅仅和他们贸易而且他们也会以游客的身份来友善的对你的空间站进行访问。为游客提供完善的服务或者建造大使馆有助于你提高声望。你可以通过向敌对文明支付税费来完成上述同样的操作。越高的声望将意味着你和该文明之间货物进出口时获得更有利的价格。"
 
 msgid "tutorial_civs_basics_4"
-msgstr "选择购买于"
+msgstr "选择资源面板"
 
 msgid "tutorial_civs_basics_5"
 msgstr "你的空间站可以同时制作一打的产品，但是所有需要的资源都将从其他的星球上来获取。大部分的星球上都居住着某个文明。在这类星球上进行资源的开采将需支付积分，当你越受到一个文明的喜爱那么他们要求你支付的积分会越少。这个积分的价格一般而言针对所有的文明都是一样的。"
@@ -6927,7 +6927,10 @@ msgid "tutorial_galaxy_autopilot_1"
 msgstr "手动的控制飞行器前往星球传送货物是很无聊的一件事。因此所有的太空飞行器都有配备自动驾驶的系统。选中飞行器并进入它的功能选项中开启自动驾驶功能。"
 
 msgid "tutorial_galaxy_autopilot_2"
-msgstr "这是飞行器自动驾驶的窗口。你可以在它的列表上添加指令，对指令进行排序，以及启动或者关闭自动驾驶功能。\n 我们在教程的行星上尝试一下吧。\n 拖拽图标并在图吐大陆上释放。记住你可以通过拖拽标题栏来挪动窗口。"
+msgstr ""
+"这个是飞行器的自动驾驶模式的窗口。你可以在这里向处于自动驾驶模式下的飞行器添加指令，变更指令顺序，以及停止或或者重新开启自动驾驶模式。\n"
+"让我们建造一条通往教程星球的航线。\n"
+"点击添加指令的按钮并选择图吐大陆。"
 
 msgid "tutorial_galaxy_autopilot_4"
 msgstr "现在鼠标点击开始按钮来开始旅途吧。飞行器将会自动的前往各个星球进行资源加载。当飞行器的货物仓储室都被装满或者飞行器上的机组人员需要进行休整时，飞行器会自动的返回你的太空站基地而这全程都无需你的手动控制。"
@@ -6957,7 +6960,9 @@ msgid "tutorial_galaxy_basics_6"
 msgstr "你可以点击勘探按钮来对一颗星球进行探索。在行星的窗口中你可以选择观看有关行星的基础教程。"
 
 msgid "tutorial_galaxy_basics_7"
-msgstr "这些都是些最基本的事。确保你会继续观看有关资源采集的教程，在此之后，你可以去查阅有关飞行器自动驾驶的教程。点击菜单选项。"
+msgstr ""
+"这是游戏中最基础的部分。确保你已经浏览了有关资源采集的教程，然后在这里你可以查阅有关自动驾驶的教程。自动驾驶的教程将在你成功在图吐大陆上建造一个资源采集器"
+"后继续。现在请点击菜单。 "
 
 msgid "tutorial_galaxy_title"
 msgstr "银河系教程"
@@ -7032,10 +7037,11 @@ msgid "tutorial_research_basics_1"
 msgstr "这里是研究界面。在银河系内充斥着各类科技，但是不适所有的在一开始你就可以使用。你需要进行不断地研究来开启它们，而这个界面将会允许你对你的研究进行管理。"
 
 msgid "tutorial_research_basics_2"
-msgstr "研究的内容会被分为不同的组别。点击食物及饮料组来查看其中包含的信息。"
+msgstr "研究面板中有很多主题可供选择。让我们尝试着点击安全主题来查看其中的内容。"
 
 msgid "tutorial_research_basics_3"
-msgstr "我们可以查看食物及饮料组所拥有的科技等级。每次升级都会使你解锁更多新的配方/或者物品来完善你的空间站。点击开始研究的按键来明确这个等级就是你目前拥有的研究等级。"
+msgstr ""
+"在这里我们可以看到安全主题下的科技等级。通过提升等级来解锁新的生产配方以及在空间站可建造的物品。让我们点击开始研究的按钮来提升该主题的科技等级吧。"
 
 msgid "tutorial_research_basics_4"
 msgstr "这个等级是你空间站研究的聚焦对象。 但是这仅仅允许你进行研究管理的面板。同时你还需要在空间站建造必须的基础设施并指派相关的职员进行研究来发展科技。"
@@ -7669,3 +7675,77 @@ msgstr "可用的"
 
 msgid "cant_build_needs_outside"
 msgstr "需要在戶外"
+
+msgid "autopilot_ship_visits"
+msgstr "自动驾驶视图"
+
+msgid "cargo_label"
+msgstr "加载："
+
+msgid "ceilingshield_1"
+msgstr "防御护盾"
+
+msgid "ceilingshield_desc"
+msgstr "在侦测到敌方单位时建造一个小型的防御护盾，该选项有冷却时间。"
+
+msgid "ceilingturret_1"
+msgstr "基础炮塔"
+
+msgid "ceilingturret_2"
+msgstr "中级炮塔"
+
+msgid "ceilingturret_3"
+msgstr "高级炮塔"
+
+msgid "crew_label"
+msgstr "船员："
+
+msgid "delivery_station"
+msgstr "分配站"
+
+msgid "delivery_station_desc"
+msgstr "让你可以向该星球出售物品。每个星球只能有一个。确保它尽可能多的覆盖星球表面的建筑来满足更多的需求。"
+
+msgid "dock_needs_space"
+msgstr "物品太近了"
+
+msgid "enable_critical_speed"
+msgstr "在受到重要警报时将游戏速度设置为1x"
+
+msgid "event_lactian_spam_warn"
+msgstr ""
+"拜牛奶教会，教会成员对于牛奶有着几乎疯狂的崇拜，他们正尝试着在你的空间站传教。似乎这次的传教士只随身携带了一些简易的传单（真的么？）。你可以按照自己的喜好"
+"去处理他们，或者，等着他们自己消失吧。"
+
+msgid "event_raid_alert"
+msgstr "一大波敌方单位正不断向你迫近！ ~A 已经开始对空间站发动攻击！"
+
+msgid "event_raid_warn4c"
+msgstr "我们收到了有关来自%s 方即将袭击空间站的报告 %s 。 请做好准备！             "
+
+msgid "export_rates_desc"
+msgstr "这是你需要为从这个文明占领的星球上采集的每一单位资源需要支付的价格。"
+
+msgid "extracted_resource"
+msgstr "采集的资源"
+
+msgid "facilities_tier_9b"
+msgstr "安全机器人"
+
+msgid "filter_ship_named"
+msgstr "飞行器： %s"
+
+msgid "filter_ship_named_menu"
+msgstr "飞行器..."
+
+msgid "fire_officer"
+msgstr "消防职员"
+
+msgid "flag_dismantle"
+msgstr "标记对象被拆除"
+
+msgid "goal_bartender2_desc"
+msgstr "你的调酒师必须在酒吧调制420份饮品。但是，真的，酗酒可不能解决你的所有的难题啊。"
+
+msgid "goal_bartender2_title"
+msgstr "在酒吧调制420份饮品"
