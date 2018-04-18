@@ -6205,20 +6205,18 @@ msgstr ""
 msgid "set_target_heal"
 msgstr "Soigner la/les cibles(s)"
 
-#, fuzzy
 msgid "set_target_heal_label"
 msgstr ""
 "Faites un clic gauche ou faites glisser pour définir la/les cible(s) "
-"privilégiée(s) pour le soin"
+"privilégiée(s) de ~A pour le soin"
 
 msgid "set_target_shield"
 msgstr "Protéger la/les cibles(s)"
 
-#, fuzzy
 msgid "set_target_shield_label"
 msgstr ""
 "Faites un clic gauche ou faites glisser pour définir la/les cible(s) "
-"privilégiée(s) pour la protection"
+"privilégiée(s) de ~A pour la protection"
 
 msgid "shell_autosaving"
 msgstr "Sauvegarde automatique en cours..."
