@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-12 09:02+0000\n"
-"PO-Revision-Date: 2018-04-17 17:59+0000\n"
-"Last-Translator: Swiloga <iluhas_iluhas@inbox.ru>\n"
+"PO-Revision-Date: 2018-05-07 21:16+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian "
 "<http://translate.weirdandwry.com/projects/galactology/game/ru/>\n"
 "Language: ru\n"
@@ -16,7 +16,7 @@ msgstr ""
 "X-Generator: Weblate 2.18\n"
 
 msgid "Luxury_kitchen_desc"
-msgstr "Самая лучшая кухня во Вселенной"
+msgstr "самую лучшую кухню во вселенной готовят здесь"
 
 msgid "PR_desc"
 msgstr "Очаровательны и веселы. Они очень успешны в убеждении потенциальных клиентов о том, как все здорово."
@@ -34,7 +34,7 @@ msgid "action_cooldown"
 msgstr "[~A] в откате"
 
 msgid "active_absorb"
-msgstr "~A поглощение"
+msgstr "~A поглотить"
 
 msgid "active_absorb_item"
 msgstr "Активно: поглощение"
@@ -103,7 +103,7 @@ msgid "aesthetics_feeling_very_high_desc"
 msgstr "Я окружен красотой"
 
 msgid "aesthetics_feeling_very_low"
-msgstr "Чувствующий отвращение"
+msgstr "Чувствует отвращение"
 
 msgid "aesthetics_feeling_very_low_desc"
 msgstr "Мое окружение ужасно"
@@ -151,7 +151,9 @@ msgid "amount"
 msgstr "Количество"
 
 msgid "antagonist_desc"
-msgstr "Эта раса является антагонистом и поэтому не заинтересова в какой-либо торговле или дипломатии с Вами, никогда от слова совсем."
+msgstr ""
+"Эта раса является антагонистом и поэтому не заинтересована в какой-либо "
+"торговле или дипломатии с Вами от слова \"совсем\"."
 
 msgid "antimatter_cleaner"
 msgstr "Очиститель антивещества"
@@ -172,7 +174,7 @@ msgid "argyria"
 msgstr "Аргироз"
 
 msgid "argyria_desc"
-msgstr "Я ем слишком много серебра"
+msgstr "Я пристрастился к чистке серебра"
 
 msgid "arid_planet"
 msgstr "Засушливая планета"
@@ -196,7 +198,7 @@ msgid "attack"
 msgstr "Атаковать"
 
 msgid "attack_label"
-msgstr "Щелкнуть чтобы использовать ~A"
+msgstr "Щелкнуть, чтобы использовать ~A"
 
 msgid "attacked"
 msgstr "Напали"
@@ -220,7 +222,9 @@ msgid "augustus"
 msgstr "Огастес"
 
 msgid "augustus_desc"
-msgstr "Знаменитый в галактике повар. У него есть спецификация шеф-повара на мастер-уровень и производит вдвое больше пищи."
+msgstr ""
+"Знаменитый в галактике повар. У него есть спецификация шеф-повара на "
+"мастерском уровне и производит вдвое больше пищи."
 
 msgid "auto"
 msgstr "Авто"
@@ -274,13 +278,13 @@ msgid "basic_rations"
 msgstr "Основные рационы"
 
 msgid "basic_ship_engines_parts"
-msgstr "Двигатель стандартного корабля"
+msgstr "Части двигателя стандартного корабля"
 
 msgid "basic_ship_hull_parts"
-msgstr "Каркас стандартного корабля"
+msgstr "Части каркаса стандартного корабля"
 
 msgid "basic_ship_lifesupport_parts"
-msgstr "Жизнеобеспечение стандартного корабля"
+msgstr "Части жизнеобеспечения стандартного корабля"
 
 msgid "basic_ship_structure_parts"
 msgstr "Детали стандартного корабля"
@@ -289,19 +293,24 @@ msgid "basic_soap"
 msgstr "Мыло"
 
 msgid "beam_desc"
-msgstr "Лучевое по одиночной цели"
+msgstr "Лучевое оружие по одиночной цели"
 
 msgid "bed_plain2"
 msgstr "Базовая кровать"
 
 msgid "bed_plain_desc"
-msgstr "Восстанавливает сон. Может использоваться любым сотрудником. Не может быть использован для посетителей."
+msgstr ""
+"Восстанавливает сон. Может использоваться любым сотрудником. Не может быть "
+"использован посетителями."
 
 msgid "bedofficer"
 msgstr "Офиц. кровать"
 
 msgid "bedofficer_desc"
-msgstr "Удобная кровать для твоих офицеров. Отмечает комнату в качестве области собственности, для назначенного владельца. Не может быть использован для посетителей."
+msgstr ""
+"Удобная кровать для твоих офицеров. Отмечает комнату в качестве области "
+"собственности, для назначенного владельца. Не может быть использована "
+"посетителями."
 
 msgid "bernice"
 msgstr "Бернис"
@@ -334,7 +343,7 @@ msgid "bistro_drinks"
 msgstr "Бистро напитки"
 
 msgid "bistro_drinks_desc"
-msgstr "Презентация для модных премиальных напитков."
+msgstr "Модная презентация для премиальных напитков."
 
 msgid "bistro_food"
 msgstr "Бистро еда"
@@ -346,7 +355,7 @@ msgid "bistro_table"
 msgstr "Бистро стол"
 
 msgid "bistro_table_desc"
-msgstr "Роскошные сидения, чтобы наслаждаться обильным обедом"
+msgstr "Роскошные сидения, чтобы наслаждаться роскошным обедом"
 
 msgid "black_hole"
 msgstr "Черная дыра"
@@ -355,7 +364,7 @@ msgid "blackjack"
 msgstr "Стол блекджека"
 
 msgid "blackjack_desc"
-msgstr "Размешать, не взбалтывать. Использует красные токены."
+msgstr "Взболтать, но не смешивать. Использует красные токены."
 
 msgid "blood_from"
 msgstr "Кровь из ~A"
@@ -373,13 +382,13 @@ msgid "blorg_name"
 msgstr "Блорги"
 
 msgid "blorg_plutocracy"
-msgstr "Блорг плутократия"
+msgstr "Плутократия Блоргов"
 
 msgid "body_level_in"
 msgstr "%s (L%d) в %s"
 
 msgid "bonbons"
-msgstr "Шоколад"
+msgstr "Конфеты"
 
 msgid "bonus_amt_health"
 msgstr "Бонус: ~A жизни"
