@@ -463,6 +463,9 @@ msgstr "Room floor styles:"
 msgid "build_groups"
 msgstr "Object categories:"
 
+msgid "build_info_manufactures"
+msgstr "Manufactures"
+
 msgid "build_info_stocks"
 msgstr "Stocks"
 
@@ -1780,6 +1783,9 @@ msgstr "Robotic security"
 msgid "factory"
 msgstr "Factory"
 
+msgid "factory_c"
+msgstr "Factory:"
+
 msgid "factory_info_no_recipes"
 msgstr "No recipes are available for this factory. Unlock recipes by doing more research."
 
@@ -1842,6 +1848,18 @@ msgstr "In the heat of battle only field medics stand between life and death."
 
 msgid "file_manager"
 msgstr "File manager"
+
+msgid "filter_active_control"
+msgstr "Control item"
+
+msgid "filter_active_damage"
+msgstr "Damage item"
+
+msgid "filter_active_healing"
+msgstr "Healing item"
+
+msgid "filter_active_shield"
+msgstr "Shield item"
 
 msgid "filter_ship_assigned"
 msgstr "Ship assigned"
@@ -3589,6 +3607,9 @@ msgstr "Make hands item L~A-L~A"
 msgid "make_implant"
 msgstr "Make implant item L~A-L~A"
 
+msgid "make_item_brief"
+msgstr "Make [%s] items L%d-L%d"
+
 msgid "make_owner_action"
 msgstr "Make owner of ~A"
 
@@ -4523,10 +4544,10 @@ msgid "obj_cucu-airvent"
 msgstr "Air vent"
 
 msgid "obj_cucu-debris-1"
-msgstr "Debris"
+msgstr "Crates"
 
 msgid "obj_cucu-debris-2"
-msgstr "Debris"
+msgstr "Crates"
 
 msgid "obj_cucu-elevator"
 msgstr "Elevator"
@@ -4715,7 +4736,7 @@ msgid "obj_lemurianwallturret"
 msgstr "Turret"
 
 msgid "obj_medusbomb"
-msgstr "Bomb"
+msgstr "Purifier"
 
 msgid "obj_medusbox01"
 msgstr "Boxes"
@@ -4757,6 +4778,9 @@ msgid "obj_meduswallturret"
 msgstr "Turret"
 
 msgid "obj_nogibox01"
+msgstr "Boxes"
+
+msgid "obj_nogibox02"
 msgstr "Boxes"
 
 msgid "obj_nogibox03"
@@ -5188,8 +5212,17 @@ msgstr "Output"
 msgid "owned_desc"
 msgstr "This object is owned and can only be used by its owner. Maintenance tasks can still be performed by other officers or robots."
 
+msgid "owned_objects"
+msgstr "Ownership"
+
 msgid "owner_officer_select"
 msgstr "Change owner"
+
+msgid "owner_officer_select_click"
+msgstr "Click to change owner"
+
+msgid "owner_officer_select_rclick"
+msgstr "Right click to remove current owner"
 
 msgid "owner_propagates_desc"
 msgstr "When this object is owned it will automatically mark every other object located in the same room as owned."
@@ -5250,6 +5283,9 @@ msgstr "Take a photo and get a printed frame, like in prehistory."
 
 msgid "pick_resource_pallet"
 msgstr "Select the resource this object must keep in stock"
+
+msgid "pick_resource_pallet_rb"
+msgstr "Right click to not stock any resource in this object"
 
 msgid "pills"
 msgstr "Pills"
@@ -5348,7 +5384,7 @@ msgid "planet_shop_info_desc"
 msgstr "Refurb this delivery station by selecting your preferred product to be able to deliver and sell it in this planet."
 
 msgid "planet_shop_map_label"
-msgstr "Demand: %d%%"
+msgstr "Demand increase speed: %d%%"
 
 msgid "planet_shop_no_civ"
 msgstr "Uncolonized world"
@@ -5391,6 +5427,9 @@ msgstr "But your good standing with ~A allows you to instead pay a tribute to ge
 
 msgid "planetarium_desc_hostile"
 msgstr "Destroying this building will unlock the following star systems: ~A"
+
+msgid "planetarium_desc_no_unlocks"
+msgstr "All the system connections from this planet's system have been unlocked. If you want to unlock new connections find systems with faded connections in the galaxy map and visit their planetariums."
 
 msgid "planetarium_pay"
 msgstr "Pay tribute"
@@ -5556,6 +5595,9 @@ msgstr "Luxury rations"
 
 msgid "rations_quality"
 msgstr "Quality rations"
+
+msgid "rclick_remove_officer"
+msgstr "Right click to remove officer"
 
 msgid "reactive_area_desc"
 msgstr "Area"
@@ -6424,6 +6466,9 @@ msgstr "Add order"
 msgid "ship_orders_add_picker_label"
 msgstr "Select a planet to add a resource buy and load order"
 
+msgid "ship_orders_copy"
+msgstr "Replace all orders from those of another ship"
+
 msgid "ship_orders_delete_order"
 msgstr "Delete selected order"
 
@@ -6909,6 +6954,9 @@ msgstr "The following systems can now be explored: ~A"
 
 msgid "table"
 msgstr "Table"
+
+msgid "take_off_no_shop_settings"
+msgstr "No product set for the delivery station in this planet, do you want to take off?"
 
 msgid "take_off_tool"
 msgstr "Take off"
