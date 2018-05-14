@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-12 09:02+0000\n"
-"PO-Revision-Date: 2018-04-18 12:35+0000\n"
+"PO-Revision-Date: 2018-05-14 22:45+0000\n"
 "Last-Translator: Silas Coldfire <silascoldfire@gmx.de>\n"
 "Language-Team: German "
 "<http://translate.weirdandwry.com/projects/galactology/game/de/>\n"
@@ -4520,10 +4520,10 @@ msgid "obj_cucu-airvent"
 msgstr "Luftschacht"
 
 msgid "obj_cucu-debris-1"
-msgstr "Trümmer"
+msgstr "Kisten"
 
 msgid "obj_cucu-debris-2"
-msgstr "Trümmer"
+msgstr "Kisten"
 
 msgid "obj_cucu-elevator"
 msgstr "Aufzug"
@@ -4709,7 +4709,7 @@ msgid "obj_lemurianwallturret"
 msgstr "Geschütz"
 
 msgid "obj_medusbomb"
-msgstr "Bombe"
+msgstr "Reiniger"
 
 msgid "obj_medusbox01"
 msgstr "Kisten"
@@ -8071,7 +8071,7 @@ msgid "planet_shop_hostile"
 msgstr "feindlicher Planet"
 
 msgid "planet_shop_map_label"
-msgstr "Nachfrage: %d%%"
+msgstr "Wachsende Nachfragegeschwindigkeit: %d%%"
 
 msgid "planet_shop_no_civ"
 msgstr "Unbevölkerte Welt"
@@ -8315,3 +8315,57 @@ msgid "unique_obj_voyager_desc"
 msgstr ""
 "In der Vergangenheit fühlend geworden, dann wurde beschlossen, dass es doch "
 "nicht so viel Spaß machte"
+
+msgid "build_info_manufactures"
+msgstr "Produziert"
+
+msgid "factory_c"
+msgstr "Fabrik:"
+
+msgid "filter_active_control"
+msgstr "Kontrollgegenstand"
+
+msgid "filter_active_damage"
+msgstr "Schadensgegenstand"
+
+msgid "filter_active_healing"
+msgstr "Heilungsgegenstand"
+
+msgid "filter_active_shield"
+msgstr "Abschirmungsgegenstand"
+
+msgid "make_item_brief"
+msgstr "Stelle [%s] Gegenstände her L%d-L%d"
+
+msgid "obj_nogibox02"
+msgstr "Kisten"
+
+msgid "owned_objects"
+msgstr "Besitz"
+
+msgid "owner_officer_select_click"
+msgstr "Klicken, um Besitzer zu ändern"
+
+msgid "owner_officer_select_rclick"
+msgstr "Rechtsklicken, um momentanen Besitzer zu löschen"
+
+msgid "pick_resource_pallet_rb"
+msgstr "Rechtsklicken, um keine Ressource in diesem Objekt zu lagern"
+
+msgid "planetarium_desc_no_unlocks"
+msgstr ""
+"Alle Systemverbindungen ausgehend von diesem Planetensystem wurden "
+"freigeschalten. Wenn du weitere Verbindungen freischalten willst, suche nach "
+"Systemen mit verblassten Verbindungen auf der Galaxiekarte und besuche ihre "
+"Planetarien."
+
+msgid "rclick_remove_officer"
+msgstr "Rechtsklicken, um Offizier zu entfernen"
+
+msgid "ship_orders_copy"
+msgstr "Ersetze alle Befehle mit denen eines anderen Schiffs"
+
+msgid "take_off_no_shop_settings"
+msgstr ""
+"Es wurde kein Produkt für die Abgabestation dieses Planeten ausgewählt, "
+"möchtest du starten?"
