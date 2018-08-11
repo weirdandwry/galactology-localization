@@ -118,6 +118,9 @@ msgstr "All officers"
 msgid "all_resources"
 msgstr "All resources"
 
+msgid "all_time_balance"
+msgstr "All time"
+
 msgid "alphabetically"
 msgstr "Alphabetically"
 
@@ -246,6 +249,39 @@ msgstr "Bad sleep"
 
 msgid "bad_sleep_desc"
 msgstr "I recently slept without a bed"
+
+msgid "balance_build"
+msgstr "Construction"
+
+msgid "balance_export"
+msgstr "Exports"
+
+msgid "balance_import"
+msgstr "Imports"
+
+msgid "balance_invasion"
+msgstr "Invasions"
+
+msgid "balance_loot"
+msgstr "Loot"
+
+msgid "balance_reward"
+msgstr "Rewards"
+
+msgid "balance_salary"
+msgstr "Salaries"
+
+msgid "balance_sale"
+msgstr "Sales"
+
+msgid "balance_sheet"
+msgstr "Balance sheet"
+
+msgid "balance_total"
+msgstr "Total"
+
+msgid "balance_tribute"
+msgstr "Tributes"
 
 msgid "base_price_a"
 msgstr "Base price: @ui_icon_20px_credits04.png ~A"
@@ -568,6 +604,9 @@ msgstr "Cancel patrol point"
 msgid "cancel_research"
 msgstr "Cancel Research"
 
+msgid "cannot_pay_invasion"
+msgstr "You do not have enough credits to pay for the invasion of %s and the planet has liberated itself."
+
 msgid "cant_build_blocked"
 msgstr "The tile is blocked on its four sides"
 
@@ -787,11 +826,17 @@ msgstr "Chuchu"
 msgid "church_of_lactus"
 msgstr "Church of Lactus"
 
+msgid "civ_ancestral_enemy"
+msgstr "Ancestral enemy of"
+
 msgid "civ_colony"
 msgstr "Colony"
 
 msgid "civ_encountered"
 msgstr "First %s star system discovered! You can now see this civ in the civs screen."
+
+msgid "civ_listing_player"
+msgstr "Player"
 
 msgid "civ_ui_resources"
 msgstr "@ui_icon_30px_buy.png Resources"
@@ -843,6 +888,96 @@ msgstr "Combat mode disabled"
 
 msgid "combat_mode_enabled"
 msgstr "Combat mode enabled"
+
+msgid "combat_rank_00"
+msgstr "Recruit"
+
+msgid "combat_rank_01"
+msgstr "Rookie"
+
+msgid "combat_rank_02"
+msgstr "Apprentice"
+
+msgid "combat_rank_03"
+msgstr "Cadet"
+
+msgid "combat_rank_04"
+msgstr "Private"
+
+msgid "combat_rank_05"
+msgstr "Junior Corporal"
+
+msgid "combat_rank_06"
+msgstr "Corporal"
+
+msgid "combat_rank_07"
+msgstr "Junior Sergeant"
+
+msgid "combat_rank_08"
+msgstr "Sergeant"
+
+msgid "combat_rank_09"
+msgstr "Master Sergeant"
+
+msgid "combat_rank_10"
+msgstr "Junior Ensign"
+
+msgid "combat_rank_11"
+msgstr "Ensign"
+
+msgid "combat_rank_12"
+msgstr "Brigadier"
+
+msgid "combat_rank_13"
+msgstr "Senior Brigadier"
+
+msgid "combat_rank_14"
+msgstr "Junior Lieutenant"
+
+msgid "combat_rank_15"
+msgstr "Lieutenant"
+
+msgid "combat_rank_16"
+msgstr "Second Lieutenant"
+
+msgid "combat_rank_17"
+msgstr "Commander"
+
+msgid "combat_rank_18"
+msgstr "Vice Commander"
+
+msgid "combat_rank_19"
+msgstr "Master Commander"
+
+msgid "combat_rank_20"
+msgstr "Colonel"
+
+msgid "combat_rank_21"
+msgstr "Chief Colonel"
+
+msgid "combat_rank_22"
+msgstr "General"
+
+msgid "combat_rank_23"
+msgstr "Field General"
+
+msgid "combat_rank_24"
+msgstr "Marshal"
+
+msgid "combat_rank_25"
+msgstr "Grand Marshal"
+
+msgid "combat_rank_26"
+msgstr "Admiral"
+
+msgid "combat_rank_27"
+msgstr "Vice Admiral"
+
+msgid "combat_rank_28"
+msgstr "Grand Admiral"
+
+msgid "combat_rank_29"
+msgstr "Boss"
 
 msgid "combat_robot"
 msgstr "Combat robot"
@@ -1023,6 +1158,9 @@ msgstr "Cucurbian"
 
 msgid "cucurbian_name"
 msgstr "Cucurbians"
+
+msgid "current_balance"
+msgstr "Current hour"
 
 msgid "current_demands"
 msgstr "Demands:"
@@ -2893,9 +3031,6 @@ msgstr "Helium node"
 msgid "historic_program"
 msgstr "Historic program"
 
-msgid "holo"
-msgstr "holo"
-
 msgid "holobooks"
 msgstr "Holobooks"
 
@@ -3226,6 +3361,9 @@ msgstr "Ticking bomb"
 msgid "invaderbomb_desc"
 msgstr "Destroy this bomb before the event timer reaches 0 to avoid a big explosion"
 
+msgid "invasion_cost_pm"
+msgstr "Cost per minute:\n%s"
+
 msgid "invasion_happens_alert"
 msgstr "%s have invaded the planet %s, owned by %s. Trade, extraction and tourism from this planet is now blockaded."
 
@@ -3245,7 +3383,7 @@ msgid "invasion_mission_none"
 msgstr "This planet is friendly to us. Let's keep it that way, unless you have very good reasons not to..."
 
 msgid "invasion_mission_player_invaded"
-msgstr "This planet is now invaded. Our extractors won't suffer attrition damage."
+msgstr "This planet is now invaded. Our extractors won't suffer attrition damage. We have to pay an upkeep of %s credits per minute. You can cancel this invasion in the planet window in the galaxy map."
 
 msgid "inventory"
 msgstr "Inventory"
@@ -3451,6 +3589,33 @@ msgstr "Кошка Guard"
 msgid "kowka_guard_desc"
 msgstr "The personal robot army of Кошка is helping around in your station."
 
+msgid "lactian_addressing_00"
+msgstr "Fellow"
+
+msgid "lactian_addressing_01"
+msgstr "Mate"
+
+msgid "lactian_addressing_02"
+msgstr "Partner"
+
+msgid "lactian_addressing_03"
+msgstr "Friend"
+
+msgid "lactian_addressing_04"
+msgstr "Companion"
+
+msgid "lactian_addressing_05"
+msgstr "Comrade"
+
+msgid "lactian_addressing_06"
+msgstr "Associate"
+
+msgid "lactian_addressing_07"
+msgstr "Devout"
+
+msgid "lactian_addressing_08"
+msgstr "Loyal"
+
 msgid "lactian_adjective"
 msgstr "Lactian %s"
 
@@ -3561,6 +3726,15 @@ msgstr "Precious jewels and relics"
 
 msgid "luxury_kitchen"
 msgstr "Luxury kitchen"
+
+msgid "m1h_balance"
+msgstr "One hour"
+
+msgid "m2h_balance"
+msgstr "Two hours"
+
+msgid "m3h_balance"
+msgstr "Three hours"
 
 msgid "m_millions"
 msgstr "M"
@@ -3852,6 +4026,9 @@ msgstr "Name is too short"
 
 msgid "name_used"
 msgstr "Name is already used"
+
+msgid "named_enemy_escapes"
+msgstr "I will return!"
 
 msgid "narcolepsy"
 msgstr "Narcolepsy"
@@ -5485,17 +5662,32 @@ msgstr "Health base: ~A"
 msgid "power_factor_absorb"
 msgstr "Absorb factor: x~A"
 
+msgid "power_factor_absorb_s"
+msgstr "Absorb x%g"
+
 msgid "power_factor_control"
 msgstr "Crowd control factor: x~A"
+
+msgid "power_factor_control_s"
+msgstr "Crowd control x%g"
 
 msgid "power_factor_damage"
 msgstr "Damage factor: x~A"
 
+msgid "power_factor_damage_s"
+msgstr "Damage x%g"
+
 msgid "power_factor_healing"
 msgstr "Healing factor: x~A"
 
+msgid "power_factor_healing_s"
+msgstr "Healing x%g"
+
 msgid "power_factor_health"
 msgstr "Health factor: x~A"
+
+msgid "power_factor_health_s"
+msgstr "Health x%g"
 
 msgid "power_short"
 msgstr "Power"
@@ -5580,6 +5772,15 @@ msgstr "Quick jump:"
 
 msgid "quit_game"
 msgstr "Quit game"
+
+msgid "raid_dock"
+msgstr "Dock"
+
+msgid "raid_mortar"
+msgstr "Mortar"
+
+msgid "raid_turret"
+msgstr "Turret"
 
 msgid "random"
 msgstr "Random"
@@ -5739,6 +5940,9 @@ msgstr "Removed wall"
 
 msgid "rep_allied"
 msgstr "Allied"
+
+msgid "rep_ancestral_enemy_warning"
+msgstr "Gaining reputation with this civ will make you lose reputation with %s, and losing reputation with this civ will make you gain reputation with %s."
 
 msgid "rep_at_war"
 msgstr "At war"
@@ -6751,6 +6955,9 @@ msgstr "Spatials landing shuttle"
 msgid "spec"
 msgstr "Spec"
 
+msgid "spec_combat_bonus"
+msgstr "Combat bonus: "
+
 msgid "spec_disallows"
 msgstr "Disallows working on: "
 
@@ -6766,11 +6973,20 @@ msgstr "To promote to %s at least one job must reach its required XP"
 msgid "spec_promote_to"
 msgstr "Promote to %s"
 
+msgid "spec_vitals"
+msgstr "Vitals: "
+
 msgid "specops_desc"
 msgstr "Security officers specialized in handling weapons with ruthless efficiency."
 
 msgid "specops_spec"
 msgstr "SpecOps"
+
+msgid "speed_jumpdrive"
+msgstr "Speed: Jumpdrive"
+
+msgid "speed_jumpdrive_r"
+msgstr "Jumpdrive"
 
 msgid "speed_label"
 msgstr "Speed:"
@@ -6873,6 +7089,12 @@ msgstr "Stock:"
 
 msgid "stocks_control"
 msgstr "Stocks control"
+
+msgid "stop_player_invasion"
+msgstr "Stop invasion"
+
+msgid "stop_player_invasion_no_exploring"
+msgstr "Stop exploring the planet before you stop your invasion."
 
 msgid "storage_area"
 msgstr "Storage area"
@@ -7059,6 +7281,21 @@ msgstr "Toggle combat mode"
 
 msgid "toggle_walls"
 msgstr "Toggle walls"
+
+msgid "tomb_cheap"
+msgstr "Basic tomb"
+
+msgid "tomb_desc"
+msgstr "Stores the remains of deceased officers. Automatically teleports their corpses."
+
+msgid "tomb_info_name"
+msgstr "Tomb"
+
+msgid "tomb_luxury"
+msgstr "Fancy tomb"
+
+msgid "tomb_regular"
+msgstr "Nice tomb"
 
 msgid "tonicx"
 msgstr "Tonic X"
@@ -7738,6 +7975,9 @@ msgstr "Universal printer"
 msgid "universal_printer_desc"
 msgstr "Prints everything required by recreational facilities"
 
+msgid "unlock_lactian_milk_warn"
+msgstr "You cannot unlock the secret of making our sacred milk! You will regret this!"
+
 msgid "unlocked"
 msgstr "Unlocked"
 
@@ -7887,6 +8127,9 @@ msgstr "To the nearest tavern or bar, never look back..."
 
 msgid "vital_factors"
 msgstr "Vital factors:"
+
+msgid "vital_pref_only_by"
+msgstr "Consumes only %s"
 
 msgid "vital_satisfy_desc"
 msgstr "Satisfying ~A"
