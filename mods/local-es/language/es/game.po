@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-09 18:08+0000\n"
-"PO-Revision-Date: 2018-04-10 21:06+0000\n"
+"PO-Revision-Date: 2018-05-08 13:24+0000\n"
 "Last-Translator: Carlos <info@weirdandwry.com>\n"
 "Language-Team: Spanish "
 "<http://translate.weirdandwry.com/projects/galactology/game/es/>\n"
@@ -4453,10 +4453,10 @@ msgid "obj_cucu-airvent"
 msgstr "Ventilación"
 
 msgid "obj_cucu-debris-1"
-msgstr "Restos"
+msgstr "Cajas"
 
 msgid "obj_cucu-debris-2"
-msgstr "Restos"
+msgstr "Cajas"
 
 msgid "obj_cucu-elevator"
 msgstr "Ascensor"
@@ -4642,7 +4642,7 @@ msgid "obj_lemurianwallturret"
 msgstr "Torreta"
 
 msgid "obj_medusbomb"
-msgstr "Bomba"
+msgstr "Purificador"
 
 msgid "obj_medusbox01"
 msgstr "Cajas"
@@ -7953,7 +7953,7 @@ msgstr ""
 "vender en este planeta."
 
 msgid "planet_shop_map_label"
-msgstr "Demanda: %d%%"
+msgstr "Velocidad de demanda: %d%%"
 
 msgid "planet_shop_no_civ"
 msgstr "No colonizado"
@@ -8161,3 +8161,57 @@ msgstr "Sonda inscrita"
 msgid "unique_obj_voyager_desc"
 msgstr ""
 "Adquirió conciencia en el pasado, y decidió que no era algo muy divertido"
+
+msgid "build_info_manufactures"
+msgstr "Fabrica"
+
+msgid "factory_c"
+msgstr "Factoría:"
+
+msgid "filter_active_control"
+msgstr "Ítem de control"
+
+msgid "filter_active_damage"
+msgstr "Ítem de daño"
+
+msgid "filter_active_healing"
+msgstr "Ítem de cura"
+
+msgid "filter_active_shield"
+msgstr "Ítem de escudo"
+
+msgid "make_item_brief"
+msgstr "Fabricar [%s] ítems L%d-L%d"
+
+msgid "obj_nogibox02"
+msgstr "Cajas"
+
+msgid "owned_objects"
+msgstr "Propiedades"
+
+msgid "owner_officer_select_click"
+msgstr "Click para cambiar el propietario"
+
+msgid "owner_officer_select_rclick"
+msgstr "Click derecho para quitar el dueño actual"
+
+msgid "pick_resource_pallet_rb"
+msgstr "Click derecho para no almacenar ningún recurso en este objeto"
+
+msgid "planetarium_desc_no_unlocks"
+msgstr ""
+"Todas las conexiones a otros sistemas desde el sistema de este planeta han "
+"sido desbloqueadas. Si quieres desbloquear nuevas conexiones busca otros "
+"sistemas donde las conexiones aparezcan difuminadas en el mapa galáctico y "
+"visita sus planetarios."
+
+msgid "rclick_remove_officer"
+msgstr "Click derecho para quitar al oficial"
+
+msgid "ship_orders_copy"
+msgstr "Reemplazar todas las órdenes con las de otra nave"
+
+msgid "take_off_no_shop_settings"
+msgstr ""
+"No se ha seleccionado el producto para la estación de entregas de este "
+"planeta, seguro que quieres despegar?"

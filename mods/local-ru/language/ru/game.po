@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-12 09:02+0000\n"
-"PO-Revision-Date: 2018-05-07 21:16+0000\n"
-"Last-Translator: anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2018-05-10 10:37+0000\n"
+"Last-Translator: Swiloga <iluhas_iluhas@inbox.ru>\n"
 "Language-Team: Russian "
 "<http://translate.weirdandwry.com/projects/galactology/game/ru/>\n"
 "Language: ru\n"
@@ -4471,10 +4471,10 @@ msgid "obj_cucu-airvent"
 msgstr "Вентиляция"
 
 msgid "obj_cucu-debris-1"
-msgstr "Развалины"
+msgstr "Ящик"
 
 msgid "obj_cucu-debris-2"
-msgstr "Развалины"
+msgstr "Ящик"
 
 msgid "obj_cucu-elevator"
 msgstr "Лифт"
@@ -4660,7 +4660,7 @@ msgid "obj_lemurianwallturret"
 msgstr "Турель"
 
 msgid "obj_medusbomb"
-msgstr "Бомба"
+msgstr "Очиститель"
 
 msgid "obj_medusbox01"
 msgstr "Ящик"
@@ -7970,7 +7970,7 @@ msgstr ""
 "планете."
 
 msgid "planet_shop_map_label"
-msgstr "Спрос: %d%%"
+msgstr "Скорость увеличения спроса: %d%%"
 
 msgid "planet_shop_no_civ"
 msgstr "Неколонизированный мир"
@@ -8189,3 +8189,56 @@ msgstr "Зарегистрированный зонд"
 
 msgid "unique_obj_voyager_desc"
 msgstr "Стал разумным в прошлом, а потом решил, что это не так весело"
+
+msgid "build_info_manufactures"
+msgstr "Производство"
+
+msgid "factory_c"
+msgstr "Завод:"
+
+msgid "filter_active_control"
+msgstr "Элемент управления"
+
+msgid "filter_active_damage"
+msgstr "Урон"
+
+msgid "filter_active_healing"
+msgstr "Исцеляющий предмет"
+
+msgid "filter_active_shield"
+msgstr "Элемент щита"
+
+msgid "make_item_brief"
+msgstr "Создать [%s] предметов L%d-L%d"
+
+msgid "obj_nogibox02"
+msgstr "Ящики"
+
+msgid "owned_objects"
+msgstr "Собственность"
+
+msgid "owner_officer_select_click"
+msgstr "Нажмите для смены владельца"
+
+msgid "owner_officer_select_rclick"
+msgstr "Щелкните правой кнопкой мыши, чтобы удалить текущего владельца"
+
+msgid "pick_resource_pallet_rb"
+msgstr ""
+"Щелкните правой кнопкой мыши, чтобы не запасать какой-либо ресурс в этом "
+"объекте"
+
+msgid "planetarium_desc_no_unlocks"
+msgstr ""
+"Все соединения для этих планет были разблокированы. Если Вы хотите "
+"разблокировать новые соединения, найдите системы с выцветшими соединениями "
+"на карте галактики и посетите их планеты."
+
+msgid "rclick_remove_officer"
+msgstr "Щелкните правой кнопкой мыши, чтобы удалить офицера"
+
+msgid "ship_orders_copy"
+msgstr "Заменить все приказы для других кораблей"
+
+msgid "take_off_no_shop_settings"
+msgstr "На этой планете нет набора продуктов для доставки, вы хотите уйти?"

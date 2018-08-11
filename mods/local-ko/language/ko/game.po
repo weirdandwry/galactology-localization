@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-22 11:05+0000\n"
-"PO-Revision-Date: 2018-05-07 21:16+0000\n"
-"Last-Translator: anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2018-05-09 12:15+0000\n"
+"Last-Translator: kiironosora <kiironosora@naver.com>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
 "Language: ko\n"
@@ -4617,10 +4617,10 @@ msgid "obj_cucu-airvent"
 msgstr "에어 벤트"
 
 msgid "obj_cucu-debris-1"
-msgstr "부스러기"
+msgstr "상자"
 
 msgid "obj_cucu-debris-2"
-msgstr "부스러기"
+msgstr "상자"
 
 msgid "obj_cucu-elevator"
 msgstr "엘리베이터"
@@ -4806,7 +4806,7 @@ msgid "obj_lemurianwallturret"
 msgstr "포탑"
 
 msgid "obj_medusbomb"
-msgstr "폭탄"
+msgstr "정화장치"
 
 msgid "obj_medusbox01"
 msgstr "상자"
@@ -8105,7 +8105,7 @@ msgid "planet_shop_info_desc"
 msgstr "이 행성에서 배달하고 판매할 수 있도록 선호하는 제품을 선택하여 이 배달 스테이션을 재구성하십시오."
 
 msgid "planet_shop_map_label"
-msgstr "수요: %d%%"
+msgstr "수요 증가 속도: %d%%"
 
 msgid "planet_shop_no_civ"
 msgstr "비식민지 세상"
@@ -8293,3 +8293,52 @@ msgstr "%s 재활용 하기"
 
 msgid "try_recycle_action_error"
 msgstr "모든 재활용 기계가 바쁨니다"
+
+msgid "build_info_manufactures"
+msgstr "제조"
+
+msgid "factory_c"
+msgstr "공장:"
+
+msgid "filter_active_control"
+msgstr "제어 아이템"
+
+msgid "filter_active_damage"
+msgstr "대미지 아이템"
+
+msgid "filter_active_healing"
+msgstr "힐링 아이템"
+
+msgid "filter_active_shield"
+msgstr "실드 아이템"
+
+msgid "make_item_brief"
+msgstr "[%s] 아이템 L%d-L%d 제조"
+
+msgid "obj_nogibox02"
+msgstr "상자"
+
+msgid "owned_objects"
+msgstr "소유권"
+
+msgid "owner_officer_select_click"
+msgstr "클릭하여 소유자 변경하기"
+
+msgid "owner_officer_select_rclick"
+msgstr "우클릭하여 현재 소유자 제거하기"
+
+msgid "pick_resource_pallet_rb"
+msgstr "우클릭하여 이 물건에 자원 할당하지 않기"
+
+msgid "planetarium_desc_no_unlocks"
+msgstr ""
+"이 행성의 태양계와 연결된 다른 태양계들이 열렸습니다. 새로운 연결을 열려면 은하지도에서 희미한 연결을 찾아 천체 투영관을 방문하십시오."
+
+msgid "rclick_remove_officer"
+msgstr "우클릭하여 오피서 제거하기"
+
+msgid "ship_orders_copy"
+msgstr "다른 우주선의 모든 주문 교체하기"
+
+msgid "take_off_no_shop_settings"
+msgstr "이 행성의 배달 스테이션에 제품이 설정되어 있지 않습니다. 이륙하시겠습니까?"
