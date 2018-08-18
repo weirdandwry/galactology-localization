@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-22 11:05+0000\n"
-"PO-Revision-Date: 2018-05-09 12:15+0000\n"
+"PO-Revision-Date: 2018-08-18 10:11+0000\n"
 "Last-Translator: kiironosora <kiironosora@naver.com>\n"
 "Language-Team: Korean "
 "<http://translate.weirdandwry.com/projects/galactology/game/ko/>\n"
@@ -3312,7 +3312,9 @@ msgid "invasion_mission_none"
 msgstr "이 행성은 우리와 친구입니다. 아주 좋은 이유가 없는 한 이대로 둡시다..."
 
 msgid "invasion_mission_player_invaded"
-msgstr "이 행성은 이제 침입되었습니다. 추출기는 대미지를 입지 않습니다."
+msgstr ""
+"이 행성은 이제 침입되었습니다. 추출기는 대미지를 입지 않습니다. 분당 %s의 크레딧을 지불해야 합니다. 은하계지도 창에서 이 침입을 "
+"취소할 수 있습니다."
 
 msgid "inventory"
 msgstr "인벤토리"
@@ -8342,3 +8344,251 @@ msgstr "다른 우주선의 모든 주문 교체하기"
 
 msgid "take_off_no_shop_settings"
 msgstr "이 행성의 배달 스테이션에 제품이 설정되어 있지 않습니다. 이륙하시겠습니까?"
+
+msgid "all_time_balance"
+msgstr "항상"
+
+msgid "balance_build"
+msgstr "건설"
+
+msgid "balance_export"
+msgstr "수출"
+
+msgid "balance_import"
+msgstr "수입"
+
+msgid "balance_invasion"
+msgstr "침공"
+
+msgid "balance_loot"
+msgstr "전리품"
+
+msgid "balance_reward"
+msgstr "보상"
+
+msgid "balance_salary"
+msgstr "급여"
+
+msgid "balance_sale"
+msgstr "판매"
+
+msgid "balance_sheet"
+msgstr "대차 대조표"
+
+msgid "balance_total"
+msgstr "합계"
+
+msgid "balance_tribute"
+msgstr "공물"
+
+msgid "cannot_pay_invasion"
+msgstr "%s의 침공에 대해 지불할 충분한 크레딧이 없어 행성 스스로 해방했습니다."
+
+msgid "civ_ancestral_enemy"
+msgstr "의 조상의 적"
+
+msgid "civ_listing_player"
+msgstr "플레이어"
+
+msgid "combat_rank_00"
+msgstr "모집"
+
+msgid "combat_rank_01"
+msgstr "신병"
+
+msgid "combat_rank_02"
+msgstr "도제"
+
+msgid "combat_rank_03"
+msgstr "생도"
+
+msgid "combat_rank_04"
+msgstr "병사"
+
+msgid "combat_rank_05"
+msgstr "주니어 상병"
+
+msgid "combat_rank_06"
+msgstr "상등병"
+
+msgid "combat_rank_07"
+msgstr "주니어 상사"
+
+msgid "combat_rank_08"
+msgstr "중사"
+
+msgid "combat_rank_09"
+msgstr "상사"
+
+msgid "combat_rank_10"
+msgstr "주니어 소위"
+
+msgid "combat_rank_11"
+msgstr "소위"
+
+msgid "combat_rank_12"
+msgstr "준장"
+
+msgid "combat_rank_13"
+msgstr "상급 사령관"
+
+msgid "combat_rank_14"
+msgstr "주니어 중위"
+
+msgid "combat_rank_15"
+msgstr "상관 대리"
+
+msgid "combat_rank_16"
+msgstr "두 번째 중위"
+
+msgid "combat_rank_17"
+msgstr "사령관"
+
+msgid "combat_rank_18"
+msgstr "부사령관"
+
+msgid "combat_rank_19"
+msgstr "마스터 사령관"
+
+msgid "combat_rank_20"
+msgstr "대령"
+
+msgid "combat_rank_21"
+msgstr "수석 대령"
+
+msgid "combat_rank_22"
+msgstr "장관"
+
+msgid "combat_rank_23"
+msgstr "필드 장관"
+
+msgid "combat_rank_24"
+msgstr "육군 원수"
+
+msgid "combat_rank_25"
+msgstr "그랜드 육군 원수"
+
+msgid "combat_rank_26"
+msgstr "해군 대장"
+
+msgid "combat_rank_27"
+msgstr "해군 중장"
+
+msgid "combat_rank_28"
+msgstr "대 제독"
+
+msgid "combat_rank_29"
+msgstr "보스"
+
+msgid "current_balance"
+msgstr "현재 시간"
+
+msgid "invasion_cost_pm"
+msgstr ""
+"분당 비용:\n"
+"%s"
+
+msgid "lactian_addressing_00"
+msgstr "평의원"
+
+msgid "lactian_addressing_01"
+msgstr "조수"
+
+msgid "lactian_addressing_02"
+msgstr "파트너"
+
+msgid "lactian_addressing_03"
+msgstr "친구"
+
+msgid "lactian_addressing_04"
+msgstr "동반자"
+
+msgid "lactian_addressing_05"
+msgstr "동무"
+
+msgid "lactian_addressing_06"
+msgstr "동무"
+
+msgid "lactian_addressing_07"
+msgstr "독실한 신자"
+
+msgid "lactian_addressing_08"
+msgstr "충실한"
+
+msgid "m1h_balance"
+msgstr "1 시간"
+
+msgid "m2h_balance"
+msgstr "2 시간"
+
+msgid "m3h_balance"
+msgstr "3 시간"
+
+msgid "named_enemy_escapes"
+msgstr "다시 오겠다!"
+
+msgid "power_factor_absorb_s"
+msgstr "흡수 x%g"
+
+msgid "power_factor_control_s"
+msgstr "군중 제어 x%g"
+
+msgid "power_factor_damage_s"
+msgstr "대미지 x%g"
+
+msgid "power_factor_healing_s"
+msgstr "힐링 x%g"
+
+msgid "power_factor_health_s"
+msgstr "건강 x%g"
+
+msgid "raid_dock"
+msgstr "독"
+
+msgid "raid_mortar"
+msgstr "모르타르"
+
+msgid "raid_turret"
+msgstr "포탑"
+
+msgid "rep_ancestral_enemy_warning"
+msgstr "이 문명에서 명성을 얻으면 %s 와의 명성을 잃을 것이고, 이 문명에서 명성을 잃으면 %s 명성을 얻게 될 것입니다."
+
+msgid "spec_combat_bonus"
+msgstr "전투 보너스: "
+
+msgid "spec_vitals"
+msgstr "바이탈: "
+
+msgid "speed_jumpdrive"
+msgstr "속도: 점프드라이드"
+
+msgid "speed_jumpdrive_r"
+msgstr "점프드라이브"
+
+msgid "stop_player_invasion"
+msgstr "침공 정지"
+
+msgid "stop_player_invasion_no_exploring"
+msgstr "침공을 멈추기 전에 행성 탐험을 멈추세요."
+
+msgid "tomb_cheap"
+msgstr "기본 무덤"
+
+msgid "tomb_desc"
+msgstr "사망한 오피서들의 유해를 저장합니다. 시체를 자동으로 텔레포트합니다."
+
+msgid "tomb_info_name"
+msgstr "무덤"
+
+msgid "tomb_luxury"
+msgstr "화려한 무덤"
+
+msgid "tomb_regular"
+msgstr "멋진 무덤"
+
+msgid "unlock_lactian_milk_warn"
+msgstr "우리 신성한 우유를 만드는 비밀을 풀 수는 없습니다! 후회할 것이다!"
+
+msgid "vital_pref_only_by"
+msgstr "%s 만 소비"
